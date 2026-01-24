@@ -1,214 +1,319 @@
-こんにちは、アポロです。
+<!-- wp:paragraph -->
+<p><strong>結論：Marriott Bonvoy Boundlessは、年1回以上マリオット系列ホテルに宿泊する方には、年会費95ドルで確実に元が取れるカードです。</strong>毎年自動付与される35,000ポイント相当の無料宿泊券（約210～350ドル相当）だけで年会費を十分に上回る価値があり、マリオット宿泊で6倍ポイント、スーパー・ガス・レストランで3倍ポイントが貯まるため、マリオットを定期的に利用する方にとって最もコスパの良いカードと言えるでしょう。</p>
+<!-- /wp:paragraph -->
 
-なんと本記事で５００記事になりました！
+<!-- wp:paragraph -->
+<p><strong>Marriott Bonvoy Boundlessが向いている人は以下の通りです：</strong></p>
+<!-- /wp:paragraph -->
 
-パチパチパチパチパチ（自分で拍手）
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>年に1回以上マリオット系列ホテルに宿泊する予定がある</li>
+<!-- /wp:list-item -->
 
-ここまで書き続けてこれたのも読者の皆さんのおかげです。
+<!-- wp:list-item -->
+<li>年会費95ドルで毎年無料宿泊券が欲しい</li>
+<!-- /wp:list-item -->
 
-読者の皆さんとHi Five!!!!!
+<!-- wp:list-item -->
+<li>宿泊実績15泊からスタートしてゴールドやプラチナステータスを目指したい</li>
+<!-- /wp:list-item -->
 
-・・・
+<!-- wp:list-item -->
+<li>マリオットポイントを効率的に貯めたい</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
 
-空気とハイタッチしたところで。
+<!-- wp:paragraph -->
+<p>一方で、<strong>このカードが向かない人は以下の通りです：</strong>年に1回もマリオットに泊まらない方、年会費無料で始めたい方は<a href="https://ibis-dallas.com/marriott-bonvoy-bold">Marriott Bonvoy Bold</a>を検討してください。また、プラチナエリートステータスを確実に獲得したい方や、85,000ポイント相当の無料宿泊券（高級ホテル対応）が欲しい方は、年会費650ドルの<a href="https://ibis-dallas.com/marriott-bonvoy-brilliant">Marriott Bonvoy Brilliant</a>の方が適しています。</p>
+<!-- /wp:paragraph -->
 
-今日はChase銀行が発行するマリオットBonvoy Boundlessクレジットカードを紹介します。
+<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252t/G8IS5CVAR5" target="_blank" rel="noopener">Marriott Bonvoy Boundlessを公式条件で確認する</a></p>
 
-これからマリオット系クレジットカードの作成を考えている方の参考になれば嬉しいです。
-
-<a class="shiny-btn3" href="https://www.referyourchasecard.com/252s/7L327A9YNP" target="_blank" rel="noopener">マリオットBonvoy Boundlessに申し込む</a>
-
-[nlink url="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison"]
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
-
 <ul>
- 	<li>1.<a href="#anker1">マリオットBonvoy Boundlessクレジットカードについて</a></li>
- 	<li>2.<a href="#anker2">マリオットBonvoy Boundlessのメリット</a></li>
- 	<li>　2-1.<a href="#anker21">入会ボーナスが１５万マリオットポイント相当（無料宿泊券３泊分）</a></li>
- 	<li>　2-2.<a href="#anker22">マリオット宿泊で６倍ポイント（最大１７倍）</a></li>
- 	<li>　2-3.<a href="#anker23">スーパー、ガス、レストランで３倍ポイント</a></li>
- 	<li>　2-4.<a href="#anker24">宿泊実績として１５泊付与（自動的にシルバーステータス）</a></li>
- 	<li>　2-5.<a href="#anker25">毎年無料宿泊券が付与</a></li>
- 	<li>　2-6.<a href="#anker26">海外為替手数料無料</a></li>
- 	<li>　2-7.<a href="#anker27">旅行時の手荷物補償</a></li>
- 	<li>3.<a href="#anker3">マリオットBonvoy Boundlessのデメリット</a></li>
- 	<li>　3-1.<a href="#anker31">Chase銀行が発行するため審査が厳しい</a></li>
- 	<li>　3-2.<a href="#anker32">年会費が９５ドル発生する</a></li>
- 	<li>4.<a href="#anker4">マリオットBonvoy Boundlessクレジットカードまとめ</a></li>
+  <li>1.<a href="#anker1">Marriott Bonvoy Boundlessの要点まとめ</a></li>
+  <li>2.<a href="#anker2">年会費95ドルは無料宿泊1泊で回収できるか</a></li>
+  <li>3.<a href="#anker3">無料宿泊特典の注意点と落とし穴</a></li>
+  <li>4.<a href="#anker4">Boundlessで得られるステータスと限界</a></li>
+  <li>5.<a href="#anker5">他のマリオットカードとの位置づけ</a></li>
+  <li>6.<a href="#anker6">よくある質問（FAQ）</a></li>
+  <li>7.<a href="#anker7">まとめ：Marriott Bonvoy Boundlessはこんな人におすすめ</a></li>
 </ul>
-<h2 id="anker1">マリオットBonvoy Boundlessクレジットカードについて</h2>
-<img class="wp-image-21836  aligncenter" src="https://ibis-dallas.com/wp-content/uploads/2023/08/Boundless_VisaSigNew-300x190.png" alt="marriott bonvoy boundlessクレジットカード" width="420" height="266" />
 
-マリオットBonvoy BoundlessクレジットカードはChase銀行が発行するマリオット系クレカです。
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="anker1">Marriott Bonvoy Boundlessの要点まとめ</h2>
+<!-- /wp:heading -->
 
-入会ボーナスは１０万ポイントが目安となっていますが、ポイントではなく無料宿泊券がもらえたり、ポイント付与率がアップすることもあります。
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>年会費：</strong>95ドル（年会費更新時に自動請求）</li>
+<!-- /wp:list-item -->
 
-<strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">マリオットホテル宿泊時に６倍ポイント</strong>、クレカ利用で２倍ポイント付与されます。
+<!-- wp:list-item -->
+<li><strong>無料宿泊特典：</strong>毎年35,000ポイント相当の無料宿泊券が自動付与（年会費更新時）</li>
+<!-- /wp:list-item -->
 
-<span style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">年</span><span style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">会費が９５ドル</span>発生するのが唯一のデメリットかなと思います。
+<!-- wp:list-item -->
+<li><strong>宿泊実績：</strong>15泊が自動付与され、シルバーステータスを即座に獲得</li>
+<!-- /wp:list-item -->
 
-それでも<strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">毎年クレカ更新時にマリオット系ホテルの無料宿泊券が付与</strong>されるので旅行好きならすぐに回収できちゃうんですけどね。
+<!-- wp:list-item -->
+<li><strong>最大の強み：</strong>年会費95ドルで毎年210～350ドル相当の無料宿泊券がもらえるため、年1回以上マリオットに泊まる方なら確実に年会費回収が可能</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
 
-<strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">１５泊の宿泊実績</strong>も付与されるため自動的にシルバーステータスになり、２５泊のゴールド、５０泊のプラチナも目指すことができます。
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="anker2">年会費95ドルは無料宿泊1泊で回収できるか</h2>
+<!-- /wp:heading -->
 
-マリオットBonvoy Boundlessのメリット、デメリットを詳しく解説していきます。
+<!-- wp:paragraph -->
+<p>Marriott Bonvoy Boundlessの最大の魅力は、<strong>年会費更新時に自動付与される35,000ポイント相当の無料宿泊券</strong>です。この無料宿泊券は、年会費95ドルを確実に上回る価値があります。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>35,000ポイント相当の無料宿泊券の現実的な価値は<strong>約210～350ドル</strong>です。日本国内のマリオット系列ホテルで実際に使えるホテル例を挙げると、以下のような選択肢があります：</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>コートヤード新大阪ステーション（大阪）</li>
+<!-- /wp:list-item -->
 
-[caption id="attachment_16238" align="aligncenter" width="420"]<img class="wp-image-16238 size-full" src="https://ibis-dallas.com/wp-content/uploads/2022/04/Boundless_VisaSig.png" alt="marriott bonvoy boundlessクレジットカード" width="420" height="265" /> （参考）旧カードデザイン[/caption]
+<!-- wp:list-item -->
+<li>フォーポイント フレックス by シェラトン大阪梅田（大阪）</li>
+<!-- /wp:list-item -->
 
-[nlink url="https://ibis-dallas.com/marriott-bonvoy-premium-card"]
-<h2 id="anker2">マリオットBonvoy Boundlessのメリット</h2>
-<img class="aligncenter size-large wp-image-14900" src="https://ibis-dallas.com/wp-content/uploads/2021/11/marriott_bonvoy_boundless_offer-1024x507.jpg" alt="marriott_bonvoy_boundless_offer" width="728" height="360" />
-<h3 id="anker21">入会ボーナスが１５万マリオットポイント相当（無料宿泊券３泊分）</h3>
-クレカ発行するだけで<strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">１５万マリオットポイント相当</strong>がもらえます。
+<!-- wp:list-item -->
+<li>ダブルツリーbyヒルトン京都駅（京都）※補足：ヒルトンですが参考情報として</li>
+<!-- /wp:list-item -->
 
-正確には１泊あたり<strong style="background: linear-gradient(to bottom, rgba(128,255,255,0) 60%, #80ffff 60%);">５万ポイント上限の無料宿泊が３泊</strong>もらえます。
+<!-- wp:list-item -->
+<li>フェアフィールド奈良天理山の辺の道（奈良）</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
 
-３か月以内に３０００ドル利用してもらえる入会ボーナスです。
+<!-- wp:paragraph -->
+<p>さらに、<strong>15,000ポイントを追加することで最大50,000ポイントまで使用可能</strong>になり、より高級なホテルでの宿泊も可能になります。例えば<a href="https://ibis-dallas.com/jw-marriott-nara">JWマリオットホテル奈良</a>や<a href="https://ibis-dallas.com/courtyard-marriott-shin-osaka-station">コートヤード新大阪ステーション</a>など、実際の宿泊記があるホテルでも利用できます。無料宿泊特典の詳しい使い方は<a href="https://ibis-dallas.com/marriott-free-night-award">マリオット無料宿泊特典の使い方</a>で解説しています。</p>
+<!-- /wp:paragraph -->
 
-<del>２０２１年１１月現在で以下のオファーが出ています。</del>
+<!-- wp:paragraph -->
+<p>つまり、<strong>年会費95ドルを支払って、210～350ドル相当の無料宿泊券が毎年もらえる</strong>ため、年1回以上マリオットに泊まる方であれば、年会費を確実に回収できるカードです。</p>
+<!-- /wp:paragraph -->
 
-<del>無料宿泊３泊分（５万ポイント上限＝カテゴリー６）＋１０倍ポイント（ガス、スーパー、レストラン利用時、２５００ドル上限）</del>
+<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252t/G8IS5CVAR5" target="_blank" rel="noopener">年会費95ドルの価値を確認する</a></p>
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="anker3">無料宿泊特典の注意点と落とし穴</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Marriott Bonvoy Boundlessの無料宿泊特典は魅力的ですが、いくつかの注意点があります。事前に理解しておくことで、特典を最大限に活用できます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">ポイント上限と追加ポイント利用</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>無料宿泊特典は<strong>35,000ポイントまで</strong>のホテルが対象です。カテゴリー5までのホテルに限定されるため、リッツカールトンやセントレジスなどの高級ホテルは通常利用できません。ただし、<strong>15,000ポイントを追加することで最大50,000ポイントまで使用可能</strong>になり、カテゴリー6のホテル（例：JWマリオットホテル奈良）でも宿泊できます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">有効期限は1年間</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>無料宿泊特典の<strong>有効期限は付与日から1年間</strong>です。更新時に自動付与されますが、前年分を使い切らずに期限切れにならないよう注意が必要です。計画的に旅行を予定して、特典を有効活用しましょう。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">繁忙期は空室がない可能性</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>無料宿泊特典は除外日がなく、土日やゴールデンウィーク、年末年始でも空室があれば利用可能です。ただし、人気ホテルや繁忙期は満室になる傾向があるため、早めに予約することが重要です。ポイント追加機能を活用して、より選択肢の多いホテルを選ぶのも戦略の一つです。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">会員本人以外は使用不可（譲渡不可）</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>無料宿泊特典は<strong>マリオット会員本人以外は使用できません</strong>。規約で譲渡不可と明記されているため、他人にプレゼントすることはできません。本人以外が宿泊する場合は、ポイント宿泊（電話予約で譲渡可能）を検討してください。</p>
+<!-- /wp:paragraph -->
+
+<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252t/G8IS5CVAR5" target="_blank" rel="noopener">無料宿泊特典の条件をチェックする</a></p>
 
-<del>２０２２年６月現在で以下のオファーが出ています。</del>
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="anker4">Boundlessで得られるステータスと限界</h2>
+<!-- /wp:heading -->
 
-<del>５万ポイント上限の無料宿泊が５泊！なんと２５万ポイント相当！</del>
+<!-- wp:paragraph -->
+<p>Marriott Bonvoy Boundlessで得られるステータスと、その限界について説明します。</p>
+<!-- /wp:paragraph -->
 
-現在のオファーは<a href="https://www.referyourchasecard.com/252s/7L327A9YNP" target="_blank" rel="noopener">公式サイト</a>にて最新情報をチェックしてみてください。
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">自動付与されるステータス</h3>
+<!-- /wp:heading -->
 
-１０万ポイントが基準で、プロモとかやると１２万とか１５万とか出る印象があります。
+<!-- wp:paragraph -->
+<p>Boundlessクレカを持つだけで、<strong>15泊の宿泊実績が自動付与され、シルバーステータスを即座に獲得</strong>できます。シルバーステータスの主な特典は以下の通りです：</p>
+<!-- /wp:paragraph -->
 
-マリオットポイントの価値ですが１ポイント０．００８ドル（０．８セント）と計算しています。
-
-５万マリオットポイントは４００ドル分の価値ですね。
-
-なんと３泊したら１２００ドル分になります！
-
-次にクレカ利用時に貯まるポイントを紹介していきます。
-<h3 id="anker22">マリオット宿泊で６倍ポイント（最大１７倍）</h3>
-<strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">マリオット宿泊で６倍ポイント付与</strong>されます。
-
-Chaseの公式サイトを見ると最大１７倍とあるのですが、これは公式サイトからマリオット系列ホテルを予約、宿泊した場合です。
-
-１７倍の内訳は以下。
-<ul>
- 	<li>６倍（マリオットBonvoy Boundlessクレジットカード利用で）</li>
- 	<li>１０倍（マリオット公式サイトからの予約で）</li>
- 	<li>１倍（シルバーステータスのため）</li>
-</ul>
-合計で１７倍という計算なのでご注意を。
-
-マリオット公式サイトから予約すれば誰でも１ドルにつき１０ポイント付与されますし、クレカ持っていなくてもシルバーステータスなら+１倍付与されます。
-
-<a class="shiny-btn3" href="https://www.referyourchasecard.com/252s/7L327A9YNP" target="_blank" rel="noopener">マリオットBonvoy Boundlessに申し込む</a>
-<h3 id="anker23">スーパー、ガス、レストランで３倍ポイント</h3>
-２０２２年２月に一部ポイントプログラムが改善されました。
-
-グロセリー（つまりスーパーマーケット）、ガス、レストランの利用でポイント３倍になりました（今までは２倍）
-
-最初の６，０００ドルまでが対象です。
-
-その他の利用で２倍ポイント付与されます。
-
-単純で分かりやすいですね。
-
-<del>スーパーもガソリンスタンドもレストランもトラベル関連もBoundless利用で全て２倍のマリオットポイントが貯まります。</del>
-
-ヒルトン好きなら⇒
-
-[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]
-<h3 id="anker24">宿泊実績として１５泊付与（自動的にシルバーステータス）</h3>
-Bonvoy Boundlessクレカを持つだけで１５泊の宿泊実績が付与されます。
-
-マリオットは１０泊以上でシルバーステータスになれるので自動昇格できます。
-
-といってもシルバーになったからといって大きなメリットはなく、ポイントが１０％つくとか、もしかしたらレイトチェックアウトできるとか、その程度です。
-
-朝食が無料になるとか部屋のアップグレードはありません。
-
-ただし１５泊の宿泊実績からスタートできるので２５泊以上のゴールドステータス、５０泊以上のプラチナステータスも視野に入ってきます。
-
-ちなみにBoundlessクレカで年間３５０００ドル利用するとゴールドステータスが付与されます。
-
-<a href="https://www.marriott.co.jp/loyalty/member-benefits.mi" target="_blank" rel="noopener">マリオットの会員特典について（公式サイト）</a>
-<h3 id="anker25">毎年無料宿泊券が付与</h3>
-Boundlessの嬉しい特典。
-
-なんと<strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">毎年のクレカ更新時にマリオット系ホテルの無料宿泊券</strong>がもらえます。
-
-<span style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">１泊あたり３５０００ポイント上限</span>のホテルに限定されますが（つまりカテゴリー５まで）、２００～３００ドルくらいするので９５ドルの年会費は余裕で回収できちゃいます。
-
-[nlink url="https://ibis-dallas.com/hilton-honors-creditcard"]
-
-[nlink url="https://ibis-dallas.com/marriott-free-night-award"]
-<h3 id="anker26">海外為替手数料無料</h3>
-海外為替手数料も無料です。
-
-アメリカから日本への一時帰国、本帰国の際にマリオット系ホテルで使っても手数料かかりません。
-
-もちろん日本以外の海外も同様です。
-
-日本のクレジットカードで海外為替手数料が無料のクレカは存在しないので１枚持っておくと一時帰国や海外旅行の時に重宝します。
-
-[nlink url="https://ibis-dallas.com/mobile-suica-travel-category"]
-<h3 id="anker27">旅行時の手荷物補償</h3>
-Chase銀行のクレジットカードは保険特約も手厚いです。
-
-マリオットBonvoy Boundlessでも以下が自動付与されます。
-<ul>
- 	<li>Baggage Delay Insurance</li>
- 	<li>Lost Luggage Reimbursement</li>
- 	<li>Trip Delay Reimbursement</li>
- 	<li>Purchase Protection</li>
-</ul>
-日本語だとTrip Delay Reimbursementは航空便遅延保険のことで、１２時間以上フライトが遅延したときの食事やホテルが補償されます。
-
-携行品損害補償特約とか航空機寄託手荷物遅延等費用補償特約とか、海外旅行保険の手荷物補償のことですけどこれ以上、漢字だらけになると舌かみそうになるので詳しい条件は公式サイトのT＆Cを読んでみてください。
-
-[caption id="attachment_14881" align="aligncenter" width="639"]<img class="wp-image-14881 size-full" src="https://ibis-dallas.com/wp-content/uploads/2021/11/travelpurchase-insurance.jpg" alt="travel&amp;purchase insurance" width="639" height="498" /> 旅行時の手荷物補償もあります[/caption]
-
-[nlink url="https://ibis-dallas.com/lost-baggage-rio"]
-<h2 id="anker3">マリオットBonvoy Boundlessのデメリット</h2>
-<h3 id="anker31">Chase銀行が発行するため審査が厳しい</h3>
-Chase銀行発行クレカは<span style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">アメックスより審査が厳しい</span>ことで有名です。
-
-Chaseに限らず銀行系、金融系のクレカはどれも同じく厳しいです。
-
-同じクレジットスコアを持っていて同日申請でもアメックスは即アプルーブ、Chaseは即Declineされることもよくあることです。
-
-対策としてはChase銀行の口座（CheckingでもSavingでも）を持っておくと少し信頼が上がります。
-
-４大銀行の中でも口座作成ボーナスもあり、使い勝手が一番いいと思っているChase銀行ですので口座作成してもいいことしかありません。
-
-[nlink url="https://ibis-dallas.com/chase-bank-checking-account"]
-
-[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-creditcard"]
-<h3 id="anker32">年会費が９５ドル発生する</h3>
-Boundlessはマリオットの無料宿泊券が毎年もらえるのでデメリットもないのですが、強いて挙げれば年会費が９５ドル発生してしまいます。
-
-年会費を回避しようとするとメリットも最大限に享受できないので、最低限のコストと思って払ってもいいと思いますが、あとはそれぞれの家庭の事情によるでしょう。
-
-<a href="https://www.referyourchasecard.com/252s/7L327A9YNP" target="_blank" rel="noopener">Marriott Bonvoy Boldと比較してみる</a>
-
-年会費無料のマリオットBonvoy Boldクレカレビュー記事は⇒
-
-[nlink url="https://ibis-dallas.com/marriott-bonvoy-bold"]
-<h2 id="anker4">マリオットBonvoy Boundlessクレジットカードまとめ</h2>
-今日はマリオットBonvoy Boundlessクレジットカードを紹介しました。
-
-マリオット系のクレジットカードはChase銀行が３枚、アメックスが３枚、合計６枚存在しています。
-
-マリオットBonvoy Boundlessクレジットカードは年会費が９５ドルかかりますが、入会ボーナスも常に１０万ポイント前後とお得ですし、<span style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">毎年無料宿泊券がもらえる</span>ので余裕で年会費は回収できちゃいます。
-
-<strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">マリオット宿泊で１７倍のマリオットポイント、その他の利用で２倍のマリオットポイントが付与</strong>されます。
-
-海外為替手数料も無料なので日本に持ち帰ってマリオット系ホテルに使うこともできます。
-
-周りのアメリカ在住ホテル好き友人知人はだいたい保有しているBoundless、この機会に作成してあなたもマリオット好きになりませんか？
-
-以上、少しでも参考になれば幸いです。
-
-<a class="shiny-btn3" href="https://www.referyourchasecard.com/252s/7L327A9YNP" target="_blank" rel="noopener">マリオットBonvoy Boundlessに申し込む</a>
-
-[nlink url="https://ibis-dallas.com/ihg-traveler-premier-comparison"]
-
-[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-new-benefits"]
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>ポイントが10％ボーナス付与</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>レイトチェックアウトの可能性（空室次第）</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>シルバー自体の特典は限定的ですが、<strong>15泊からスタートできる</strong>という点が大きなメリットです。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">ゴールドステータスへの道のり</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Boundlessでは、<strong>年間35,000ドル利用することでゴールドステータスが自動付与</strong>されます。ゴールドステータスは朝食無料（一部ホテル）、客室アップグレード、レイトチェックアウトなど、より充実した特典が得られます。また、<strong>5,000ドル利用ごとに宿泊実績1泊が追加付与</strong>されるため、クレカ利用だけでステータスアップも可能です。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">プラチナが取れない理由</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Boundlessでは<strong>プラチナエリートステータスは自動付与されません</strong>。プラチナを獲得するには、50泊の宿泊実績が必要です。Boundlessの15泊からスタートしても、残り35泊は実際の宿泊または年間クレカ利用が必要です。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>プラチナステータスを確実に獲得したい方は、年会費650ドルの<a href="https://ibis-dallas.com/marriott-bonvoy-brilliant">Marriott Bonvoy Brilliant</a>が最適です。</strong>Brilliantは自動でプラチナエリートが付与され、宿泊実績25泊も付与されるため、プラチナを目指す方には効率的です。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="anker5">他のマリオットカードとの位置づけ</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Marriott Bonvoy Boundlessを、他のマリオットカードと比較して位置づけを明確にします。詳細な比較は<a href="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison">マリオットクレジットカード6枚比較</a>で解説していますが、ここではBoundlessの判断に必要な情報のみを簡潔にまとめます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Boldとの違い</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://ibis-dallas.com/marriott-bonvoy-bold">Marriott Bonvoy Bold</a>は年会費無料ですが、無料宿泊特典は付与されません。Boundlessは年会費95ドルが必要ですが、毎年35,000ポイント相当の無料宿泊券が自動付与されます。年1回以上マリオットに泊まる予定があるならBoundless、年会費ゼロで始めたいならBoldが適しています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Businessとの違い</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://ibis-dallas.com/marriott-bonvoy-business">Marriott Bonvoy Business</a>は年会費125ドルで、Boundlessと同様に35,000ポイント相当の無料宿泊券が自動付与されます。Businessはゴールドステータスが自動付与され、マリオット宿泊7％割引などの特典がありますが、Boundlessの方が年会費が安く（30ドル差）、5/24ルールの影響を受けます。個人事業主でない場合はBoundless、ビジネスを持っていて5/24ルールを回避したい場合はBusinessを検討してください。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Brilliantとの違い</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://ibis-dallas.com/marriott-bonvoy-brilliant">Marriott Bonvoy Brilliant</a>は年会費650ドルと高額ですが、プラチナエリートステータスが自動付与され、85,000ポイント相当の無料宿泊券が自動付与されます。Boundlessは35,000ポイント相当までで中級ホテルに限定されますが、Brilliantは高級ホテルやリゾートホテルでも宿泊可能です。プラチナステータスや高級ホテルでの無料宿泊を重視するならBrilliant、コスパ重視で中級ホテルで十分ならBoundlessが適しています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="anker6">よくある質問（FAQ）</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Q1. 日本在住でもMarriott Bonvoy Boundlessは作れるか？</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>A.</strong> Marriott Bonvoy BoundlessはChase銀行が発行するカードのため、<strong>アメリカ在住者限定</strong>です。日本在住の方は、<a href="https://ibis-dallas.com/marriott-bonvoy-premium-card">マリオットプレミアムカード</a>をご検討ください。日本在住でBoundlessを作ることはできません。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Q2. 無料宿泊特典はいつ付与されるか？</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>A.</strong> 無料宿泊特典は<strong>年会費更新時に自動付与</strong>されます。年会費95ドルが請求されるタイミングで、35,000ポイント相当の無料宿泊券がマリオットアカウントに自動的に追加されます。有効期限は付与日から1年間ですので、計画的に使用してください。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Q3. BoundlessはChaseの5/24ルールの対象か？</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>A.</strong> はい、<strong>BoundlessはChaseの5/24ルールの対象</strong>です。過去24か月以内に5枚以上のクレジットカードを開設している場合、Boundlessの審査が通りにくくなります。5/24ルールを回避したい場合は、<a href="https://ibis-dallas.com/marriott-bonvoy-business">Marriott Bonvoy Business</a>（ビジネスカードは5/24ルール対象外）やAmex発行のカードを検討してください。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Q4. 無料宿泊特典に15,000ポイントを追加できるのは本当か？</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>A.</strong> はい、<strong>2022年の改善により、無料宿泊特典に最大15,000ポイントを追加できるようになりました</strong>。Boundlessの35,000ポイント相当の無料宿泊特典に15,000ポイントを追加することで、最大50,000ポイントまで使用可能になり、カテゴリー6のホテル（例：JWマリオットホテル奈良）でも宿泊できます。追加は15,000ポイント一括ではなく、必要な分だけ追加することも可能です（例：3,000ポイント、7,000ポイントなど）。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="anker7">まとめ：Marriott Bonvoy Boundlessはこんな人におすすめ</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Marriott Bonvoy Boundlessは、<strong>年1回以上マリオット系列ホテルに宿泊する予定がある方に最もおすすめのカード</strong>です。年会費95ドルで毎年210～350ドル相当の無料宿泊券が自動付与されるため、年会費を確実に回収でき、マリオットポイントも効率的に貯まります。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Boundlessが向いている人：</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>年に1回以上マリオット系列ホテルに宿泊する予定がある</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>年会費95ドルで毎年無料宿泊券が欲しい</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>宿泊実績15泊からスタートしてゴールドステータスを目指したい</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>マリオットポイントを効率的に貯めたい（宿泊6倍、スーパー・ガス・レストラン3倍）</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252t/G8IS5CVAR5" target="_blank" rel="noopener">Marriott Bonvoy Boundlessを公式条件で確認する</a></p>
+
+<!-- wp:paragraph -->
+<p><strong>次に読むべき記事：</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><a href="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison">マリオットクレジットカード6枚徹底比較</a>：他のマリオットカードとの詳細な比較</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://ibis-dallas.com/marriott-bonvoy-brilliant">Marriott Bonvoy Brilliant徹底解説</a>：プラチナステータスや高級ホテルの無料宿泊を目指す方向け</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://ibis-dallas.com/marriott-free-night-award">マリオット無料宿泊特典の使い方完全ガイド</a>：無料宿泊特典の活用法や注意点を詳しく解説</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison"]</p>
+<p>[nlink url="https://ibis-dallas.com/marriott-free-night-award"]</p>
+<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-brilliant"]</p>
+<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-bevy"]</p>

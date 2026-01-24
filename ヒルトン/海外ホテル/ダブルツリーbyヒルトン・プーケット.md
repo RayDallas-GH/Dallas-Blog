@@ -28,6 +28,11 @@
 <li>海外のWaldorf AstoriaやConradにも宿泊済み</li>
 </ul>
 <p>[/box]</p>
+
+<!-- wp:html -->
+<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180857%2F180857.html&vcptn=kaereba" rel="nofollow" target="_blank">楽天トラベルでダブルツリーbyヒルトン・プーケットを予約する</a>
+<!-- /wp:html -->
+
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
 <li>1.<a href="#anker1">ダブルツリーbyヒルトン・プーケット・バンタイ・リゾート</a></li>
@@ -51,7 +56,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>ダブルツリーbyヒルトン・プーケット・バンタイ・リゾートは、プーケットの中心地パトンビーチエリアに位置するリゾートホテルです。</p>
+<p><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180857%2F180857.html&vcptn=kaereba" rel="nofollow" target="_blank">ダブルツリーbyヒルトン・プーケット・バンタイ・リゾート</a>は、プーケットの中心地パトンビーチエリアに位置するリゾートホテルです。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -296,6 +301,10 @@
 <figure class="wp-block-image size-large"><img src="https://ibis-dallas.com/wp-content/uploads/2025/09/IMG_3945.jpg" alt="ダブルツリーbyヒルトン・プーケット・バンタイ・リゾート" class="wp-image-29631"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
+
+<!-- wp:html -->
+<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180857%2F180857.html&vcptn=kaereba" rel="nofollow" target="_blank">楽天トラベルでダブルツリーbyヒルトン・プーケットを予約する</a>
+<!-- /wp:html -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker5">ダブルツリーbyヒルトン・プーケット・バンタイ・リゾートの3つのプール</h2>
@@ -777,7 +786,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>今日はダブルツリーbyヒルトン・プーケット・バンタイ・リゾートの宿泊記となりました。</p>
+<p>今日は<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180857%2F180857.html&vcptn=kaereba" rel="nofollow" target="_blank">ダブルツリーbyヒルトン・プーケット・バンタイ・リゾート</a>の宿泊記となりました。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -807,6 +816,10 @@
 <!-- wp:paragraph -->
 <p>以上、少しでも参考になれば幸いです。</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180857%2F180857.html&vcptn=kaereba" rel="nofollow" target="_blank">楽天トラベルでダブルツリーbyヒルトン・プーケットを予約する</a>
+<!-- /wp:html -->
 
 <p>[box class="yellow_box" title="ヒルトン紹介プログラム"][contact-form-7 id="d99b16b" title="ヒルトンアメックス紹介リンク"][/box]</p>
 <p>[nlink url="https://ibis-dallas.com/westin-siray-bay-phuket"]</p>

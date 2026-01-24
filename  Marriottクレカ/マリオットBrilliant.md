@@ -1,296 +1,360 @@
-こんにちは、マリオットプラチナのアポロです。
+<!-- wp:heading -->
+<h1 class="wp-block-heading">Marriott Bonvoy Brilliant 徹底解説<br>年会費650ドルでプラチナエリートは本当に得か</h1>
+<!-- /wp:heading -->
 
-今日はアメリカン・エキスプレスが発行するマリオットBonvoy Brilliantクレジットカードを紹介します。
+<!-- wp:paragraph -->
+<p><strong>結論：Marriott Bonvoy Brilliantは、プラチナエリートステータスを確実に、手間なく取得したい人にとって最強の1枚です。</strong>年会費650ドルと高額ですが、自動でプラチナエリートが付与されるだけでなく、年間300ドルの食事クレジット、85,000ポイント相当の無料宿泊券（約510～850ドル相当）、Priority Pass Select（429ドル相当）など、実質的な年会費は大幅に相殺されます。マリオットを年に複数回利用し、朝食無料・ラウンジアクセス・客室アップグレードなどの上級会員特典を重視する方にとって、年会費以上の価値を提供するカードです。</p>
+<!-- /wp:paragraph -->
 
-これからマリオット系クレジットカードの作成を考えている方の参考になれば嬉しいです。
+<p><a class="shiny-btn3" href="https://www.americanexpress.com/en-us/referral/personal/marriott-bonvoy-brilliant-card?CORID=S~H~U~H~E~T~O~s~0~n-1763822112219-845569&amp;GENCODE=349992989701079&amp;XL=MIMNS&amp;extlink=US-MGM-MOBI_MEMBERSHIP-native-474-205937-K94O%3A9990&amp;ref=SHUHETOs0n&amp;v=2" target="_blank" rel="noopener">Marriott Bonvoy Brilliantを公式条件で確認する</a></p>
 
-<a class="shiny-btn3" href="https://www.americanexpress.com/en-us/referral/personal/marriott-bonvoy-brilliant-card?CORID=S~H~U~H~E~T~O~s~0~n-1763822112219-845569&amp;GENCODE=349992989701079&amp;XL=MIMNS&amp;extlink=US-MGM-MOBI_MEMBERSHIP-native-474-205937-K94O%3A9990&amp;ref=SHUHETOs0n&amp;v=2" target="_blank" rel="noopener">マリオットBonvoy Brilliantに申し込む</a>
+<!-- wp:paragraph -->
+<p><strong>Marriott Bonvoy Brilliantが向いている人は以下の通りです：</strong></p>
+<!-- /wp:paragraph -->
 
-[nlink url="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison"]
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>マリオットを年に複数回（3～4回以上）利用する予定がある</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>朝食無料、ラウンジアクセス、客室アップグレードなどの上級会員特典を重視する</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>修行なしでプラチナエリートステータスを確実に取得したい</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>高級ホテルでの無料宿泊（85,000ポイント相当）を活用できる</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>年会費650ドルを十分に回収できる利用パターンがある</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>一方で、<strong>このカードが向かない人は以下の通りです：</strong>年1回しかマリオットに泊まらない方、年会費を極力かけたくない方は、年会費95ドルで無料宿泊券がもらえる<a href="https://ibis-dallas.com/marriott-bonvoy-boundless">Marriott Bonvoy Boundless</a>を検討してください。また、ビジネスカードをお持ちの場合は、年会費125ドルでゴールドステータスと無料宿泊券がもらえる<a href="https://ibis-dallas.com/marriott-bonvoy-business">Marriott Bonvoy Business</a>も選択肢の一つです。</p>
+<!-- /wp:paragraph -->
+
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
-
 <ul>
- 	<li>1.<a href="#anker1">マリオットBonvoy Brilliantクレジットカードについて</a></li>
- 	<li>2.<a href="#anker2">マリオットBonvoy Brilliantのメリット</a></li>
- 	<li>　2-1.<a href="#anker21">入会ボーナスが100,000マリオットポイント</a></li>
- 	<li>　2-2.<a href="#anker22">マリオット宿泊で6倍ポイント(最大21倍)</a></li>
- 	<li>　2-3.<a href="#anker23">レストランで3倍ポイント</a></li>
- 	<li>　2-4.<a href="#anker24">航空券で3倍ポイント</a></li>
- 	<li>　2-5.<a href="#anker25">宿泊実績として25泊付与(自動的にプラチナステータス)</a></li>
- 	<li>　2-6.<a href="#anker26">自動でプラチナエリートステータスを獲得</a></li>
- 	<li>　2-7.<a href="#anker27">年会費更新で無料宿泊券が自動付与(85,000ポイント相当)</a></li>
- 	<li>　2-8.<a href="#anker28">月額25ドルのレストランクレジット(年間300ドル)</a></li>
- 	<li>　2-9.<a href="#anker29">Ritz-Carlton/St.Regisで100ドルのプロパティクレジット</a></li>
- 	<li>　2-10.<a href="#anker210">年間60,000ドル利用でEarned Choice Award</a></li>
- 	<li>　2-11.<a href="#anker211">Priority Pass Selectで空港ラウンジアクセス</a></li>
- 	<li>　2-12.<a href="#anker212">客室内プレミアムインターネット無料</a></li>
- 	<li>　2-13.<a href="#anker213">海外為替手数料無料</a></li>
- 	<li>　2-14.<a href="#anker214">アメックス特典の旅行保険</a></li>
- 	<li>3.<a href="#anker3">マリオットBonvoy Brilliantのデメリット</a></li>
- 	<li>4.<a href="#anker4">マリオットBonvoy Brilliantクレジットカードまとめ</a></li>
+  <li>1.<a href="#anker1">Marriott Bonvoy Brilliantの要点まとめ</a></li>
+  <li>2.<a href="#anker2">プラチナエリート自動付与の価値はどれほど大きいか</a></li>
+  <li>3.<a href="#anker3">実体験で感じたプラチナ特典の現実</a></li>
+  <li>4.<a href="#anker4">年会費650ドルは回収できるのか</a></li>
+  <li>5.<a href="#anker5">他のマリオットカードとの役割の違い</a></li>
+  <li>6.<a href="#anker6">よくある質問（FAQ）</a></li>
+  <li>7.<a href="#anker7">まとめ：Marriott Bonvoy Brilliantはこんな人におすすめ</a></li>
 </ul>
-<h2 id="anker1">マリオットBonvoy Brilliantクレジットカードについて</h2>
-<img class="aligncenter wp-image-30459 size-full" src="https://ibis-dallas.com/wp-content/uploads/2025/11/marriott-bonvoy-brilliant-card.png" alt="marriott-bonvoy-brilliant-card" width="952" height="600" />
-
-マリオットBonvoy Brilliantは、アメリカン・エキスプレスが発行するマリオット系クレジットカードの最上位カードです。
 
-年会費は650ドルと高額ですが、その分特典も充実しています。
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="anker1">Marriott Bonvoy Brilliantの要点まとめ</h2>
+<!-- /wp:heading -->
 
-自動でプラチナエリートステータスが付与され、年会費更新で85,000ポイント相当の無料宿泊券がもらえます。
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>年会費：</strong>650ドル（年会費更新時に自動請求）</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>プラチナエリート自動付与：</strong>カード保有だけでマリオット最高級ステータスの一つであるプラチナエリートを即座に獲得</li>
+<!-- /wp:list-item -->
 
-マリオット系ホテルを年に数回以上利用する方には非常におすすめのクレジットカードです。
-<table style="border-collapse: collapse; width: 100%;">
-<tbody>
-<tr style="background-color: #f2f2f2;">
-<th style="border: 1px solid #ddd; padding: 8px; text-align: left;">項目</th>
-<th style="border: 1px solid #ddd; padding: 8px; text-align: left;">内容</th>
-</tr>
-<tr>
-<td style="border: 1px solid #ddd; padding: 8px;">年会費</td>
-<td style="border: 1px solid #ddd; padding: 8px;">650ドル</td>
-</tr>
-<tr>
-<td style="border: 1px solid #ddd; padding: 8px;">入会ボーナス</td>
-<td style="border: 1px solid #ddd; padding: 8px;">100,000マリオットポイント(6ヶ月以内に6,000ドル利用)</td>
-</tr>
-<tr>
-<td style="border: 1px solid #ddd; padding: 8px;">ステータス</td>
-<td style="border: 1px solid #ddd; padding: 8px;">プラチナエリート自動付与</td>
-</tr>
-<tr>
-<td style="border: 1px solid #ddd; padding: 8px;">宿泊実績</td>
-<td style="border: 1px solid #ddd; padding: 8px;">25泊</td>
-</tr>
-<tr>
-<td style="border: 1px solid #ddd; padding: 8px;">無料宿泊券</td>
-<td style="border: 1px solid #ddd; padding: 8px;">85,000ポイント相当(年会費更新時に自動付与)</td>
-</tr>
-<tr>
-<td style="border: 1px solid #ddd; padding: 8px;">海外為替手数料</td>
-<td style="border: 1px solid #ddd; padding: 8px;">無料</td>
-</tr>
-</tbody>
-</table>
-<a class="shiny-btn3" href="https://www.americanexpress.com/en-us/referral/personal/marriott-bonvoy-brilliant-card?CORID=S~H~U~H~E~T~O~s~0~n-1763822112219-845569&amp;GENCODE=349992989701079&amp;XL=MIMNS&amp;extlink=US-MGM-MOBI_MEMBERSHIP-native-474-205937-K94O%3A9990&amp;ref=SHUHETOs0n&amp;v=2" target="_blank" rel="noopener">マリオットBonvoy Brilliantに申し込む</a>
-<h2 id="anker2">マリオットBonvoy Brilliantのメリット</h2>
-<img class="aligncenter wp-image-30213 size-large" src="https://ibis-dallas.com/wp-content/uploads/2025/11/u1698565177_premium_hotel_lounge_access_concept_elegant_execu_341cce15-4cdf-4318-afc1-ae705a38e03a_2-1024x574.jpg" alt="プレミアムクラブ" width="728" height="408" />
+<!-- wp:list-item -->
+<li><strong>宿泊実績：</strong>25泊が自動付与され、チタンステータス（75泊必要）への道も開ける</li>
+<!-- /wp:list-item -->
 
-マリオットBonvoy Brilliantクレジットカードのメリットを順番に見ていきましょう。
-<h3 id="anker21">入会ボーナスが100,000マリオットポイント</h3>
-入会後6ヶ月以内に6,000ドル利用することで、100,000マリオットポイントが付与されます。
+<!-- wp:list-item -->
+<li><strong>毎年85,000ポイントまでの無料宿泊：</strong>年会費更新時に自動付与され、高級ホテルやリゾートホテルでの宿泊が可能（約510～850ドル相当）</li>
+<!-- /wp:list-item -->
 
-これはマリオット系アメックスカードの中で最も高い入会ボーナスです。
+<!-- wp:list-item -->
+<li><strong>最大の強み：</strong>プラチナエリートステータスを修行なしで確実に取得できること。朝食無料・ラウンジアクセス・客室アップグレードなどの上級会員特典により、毎回の宿泊で実際の価値を享受できる</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
 
-100,000ポイントあれば、ラグジュアリーホテルにも宿泊できますね。
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="anker2">プラチナエリート自動付与の価値はどれほど大きいか</h2>
+<!-- /wp:heading -->
 
-入会ボーナスだけで年会費分の価値を十分に回収できる計算です。
-<h3 id="anker22">マリオット宿泊で6倍ポイント(最大21倍)</h3>
-<img class="aligncenter wp-image-30324 size-large" src="https://ibis-dallas.com/wp-content/uploads/2025/11/luxury_hotel_elite_status_comparison_Marriott_1-1024x574.jpg" alt="高級ホテルイメージ" width="728" height="408" />
+<!-- wp:paragraph -->
+<p>Marriott Bonvoy Brilliantの最大の魅力は、<strong>自動でプラチナエリートステータスが付与される</strong>ことです。通常、プラチナエリートを獲得するには年間50泊の宿泊実績が必要ですが、Brilliantカードを持つだけで即座に獲得できます。このステータスの価値は、実際の宿泊体験で大きく違いが生まれます。</p>
+<!-- /wp:paragraph -->
 
-マリオット系列ホテルに宿泊した際、<strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">マリオット宿泊で6倍ポイント付与</strong>されます。
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">朝食無料の価値</h3>
+<!-- /wp:heading -->
 
-公式サイトでは最大21倍とありますが、これは公式サイトからマリオット系列ホテルを予約、宿泊した場合です。
+<!-- wp:paragraph -->
+<p>プラチナエリートの最大の特典の一つが<strong>朝食無料</strong>です。高級ホテルでは朝食代が1人5,000円以上することも珍しくなく、2人で利用すれば1泊で10,000円以上の価値があります。一般会員が朝食代を支払う必要があるのに対し、プラチナ会員はウェルカムギフトとして「朝食無料」を選択できるため、宿泊のたびに実質的な節約が可能です。</p>
+<!-- /wp:paragraph -->
 
-21倍の内訳は以下。
-<ul>
- 	<li>6倍(マリオットBonvoy Brilliantクレジットカード利用で)</li>
- 	<li>10倍(マリオット公式サイトからの予約で)</li>
- 	<li>5倍(プラチナステータスのため)</li>
-</ul>
-合計で21倍という計算なのでご注意ください。
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">ラウンジアクセス</h3>
+<!-- /wp:heading -->
 
-マリオット公式サイトから予約すれば誰でも1ドルにつき10ポイント付与されますし、クレカ持っていなくてもプラチナステータスなら+5倍付与されます。
+<!-- wp:paragraph -->
+<p>対象ホテルでは<strong>クラブラウンジへの無料アクセス</strong>が可能です。ラウンジでは軽食、ドリンク、カクテルタイムなどが利用でき、通常は有料のサービスを無料で楽しめます。特に<a href="https://ibis-dallas.com/nagoya-marriott-associa">名古屋マリオットアソシアホテル</a>のように36階に位置するクラブラウンジでは、絶景を楽しみながら朝食やアフタヌーンティーを味わえます。</p>
+<!-- /wp:paragraph -->
 
-それでも実質6倍のポイント還元は非常に魅力的です。
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">客室アップグレード（スイート含む）</h3>
+<!-- /wp:heading -->
 
-<a class="shiny-btn3" href="https://www.americanexpress.com/en-us/referral/personal/marriott-bonvoy-brilliant-card?CORID=S~H~U~H~E~T~O~s~0~n-1763822112219-845569&amp;GENCODE=349992989701079&amp;XL=MIMNS&amp;extlink=US-MGM-MOBI_MEMBERSHIP-native-474-205937-K94O%3A9990&amp;ref=SHUHETOs0n&amp;v=2" target="_blank" rel="noopener">マリオットBonvoy Brilliantに申し込む</a>
-<h3 id="anker23">レストランで3倍ポイント</h3>
-レストランの利用でポイント3倍還元です。
+<!-- wp:paragraph -->
+<p>空室があれば、<strong>予約した客室からより上位の客室へアップグレード</strong>されます。スイートルームへのアップグレードも可能性があり、実際の宿泊体験では大きな差が生まれます。例えば、<a href="https://ibis-dallas.com/izu-marriott-shuzenji">伊豆マリオットホテル修善寺</a>では露天温泉風呂付きデラックスツインにアップグレードされた実績があります。</p>
+<!-- /wp:paragraph -->
 
-Bevyカードのレストラン4倍(年間15,000ドル上限)と比べると還元率は低いですが、上限がない点が特徴です。
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">レイトチェックアウト（最大16時まで）</h3>
+<!-- /wp:heading -->
 
-ただし、後述する月額25ドルのレストランクレジットがあるため、実質的なメリットはさらに大きくなります。
+<!-- wp:paragraph -->
+<p>通常のチェックアウト時間は11時ですが、プラチナエリートは<strong>空室状況に応じて最大16時までレイトチェックアウト</strong>が可能です。5時間の延長は、1時間あたり1,100円程度の料金がかかることもあるため、約5,500円相当の価値があります。ゆっくりとホテルでの時間を楽しめるのは大きなメリットです。</p>
+<!-- /wp:paragraph -->
 
-[nlink url="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison"]
-<h3 id="anker24">航空券で3倍ポイント</h3>
-航空券の購入でも還元率3倍のポイントが付与されます。
+<!-- wp:paragraph -->
+<p>これらの特典は、一般会員やシルバー・ゴールド会員では享受できない、プラチナエリートならではの価値です。特に年間複数回マリオットに宿泊する方にとって、プラチナステータスの価値は年会費を大幅に上回る可能性があります。</p>
+<!-- /wp:paragraph -->
 
-旅行の大きな支出である航空券代でも高還元率が適用されるため、年間のポイント獲得量が大幅に増えます。
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="anker3">実体験で感じたプラチナ特典の現実</h2>
+<!-- /wp:heading -->
 
-レストランと同様に上限がないため、高額な航空券を購入する際にも安心して利用できます。
+<!-- wp:paragraph -->
+<p>実際にプラチナエリートステータスでマリオット系列ホテルに宿泊した経験から、机上の理論ではなく現場で感じたプラチナ特典の価値をお伝えします。</p>
+<!-- /wp:paragraph -->
 
-その他の利用で2倍ポイント付与されます。
-<h3 id="anker25">宿泊実績として25泊付与(自動的にプラチナステータス)</h3>
-<img class="aligncenter wp-image-16990 size-large" src="https://ibis-dallas.com/wp-content/uploads/2022/07/platinum-51-1024x756.jpg" alt="プラチナエリート51泊" width="728" height="537" />
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">伊豆マリオットホテル修善寺での実体験</h3>
+<!-- /wp:heading -->
 
-Bonvoy Brilliantクレカを持つだけで25泊の宿泊実績が付与されます。
+<!-- wp:paragraph -->
+<p><a href="https://ibis-dallas.com/izu-marriott-shuzenji">伊豆マリオットホテル修善寺</a>では、プラチナ特典として<strong>露天温泉風呂付きデラックスツインへのアップグレード</strong>を受けました。予約時点では通常の客室でしたが、チェックイン時にアップグレードされ、露天風呂付きの部屋で宿泊できました。また、朝食無料・ラウンジ無料（12:00～21:00）・レイトチェックアウト（最大16時まで）など、プラチナ特典をフル活用できたことで、宿泊の満足度が大幅に向上しました。</p>
+<!-- /wp:paragraph -->
 
-また自動的にプラチナエリートステータスになれます。
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">名古屋マリオットアソシアホテルでの実体験</h3>
+<!-- /wp:heading -->
 
-プラチナの次は75泊のチタンですが残り50泊。
+<!-- wp:paragraph -->
+<p><a href="https://ibis-dallas.com/nagoya-marriott-associa">名古屋マリオットアソシアホテル</a>では、36階に位置する<strong>クラブラウンジでの朝食無料</strong>を利用しました。通常は有料のラウンジアクセスが無料で利用でき、アフタヌーンティーやカクテルタイムも楽しめました。また、客室アップグレード（スイート含む）の可能性もあり、プラチナステータスの価値を実感できる宿泊となりました。</p>
+<!-- /wp:paragraph -->
 
-マリオットビジネスクレジットカードを持てば追加で15泊もらえるので合計40泊スタートになります。
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">ルネッサンスリゾートオキナワでの実体験</h3>
+<!-- /wp:heading -->
 
-チタンステータスも視野に入ってきますよね。
+<!-- wp:paragraph -->
+<p><a href="https://ibis-dallas.com/renaissance-okinawa">ルネッサンスリゾートオキナワ</a>では、クラブラウンジでのカクテルタイム、朝食無料、客室アップグレードなど、プラチナ特典をフル活用できました。リゾートホテルでは、特にラウンジでの優雅な時間や朝食の価値が高く、プラチナステータスがない場合と比較して、宿泊体験の質が大きく異なることを実感しました。</p>
+<!-- /wp:paragraph -->
 
-プラチナステータスは50泊必要なステータスですが、カードを持つだけで獲得できるのは大きなメリットです。
+<!-- wp:paragraph -->
+<p>その他にも、<a href="https://ibis-dallas.com/ritz-carlton-okinawa">リッツカールトン沖縄</a>や<a href="https://ibis-dallas.com/jw-marriott-nara">JWマリオットホテル奈良</a>、<a href="https://ibis-dallas.com/ritz-carlton-nikko">リッツカールトン日光</a>、<a href="https://ibis-dallas.com/biwako-marriott">琵琶湖マリオットホテル</a>、<a href="https://ibis-dallas.com/fuji-marriott-yamanakako">富士マリオットホテル山中湖</a>など、多くの高級ホテルでプラチナ特典を活用した宿泊体験を記録しています。</p>
+<!-- /wp:paragraph -->
 
-<a href="https://www.marriott.co.jp/loyalty/member-benefits.mi" target="_blank" rel="noopener">マリオットの会員特典について(公式サイト)</a>
-<h3 id="anker26">自動でプラチナエリートステータスを獲得</h3>
-<img class="aligncenter wp-image-17422 size-full" src="https://ibis-dallas.com/wp-content/uploads/2022/08/marriott-platinum2.jpg" alt="マリオットプラチナエリート" width="636" height="474" />
+<!-- wp:paragraph -->
+<p>これらの実体験から言えることは、<strong>プラチナエリートステータスは毎回の宿泊で実際の価値を提供する</strong>ということです。年会費650ドルという金額を、ステータスを買うコストとして捉え、年間複数回の宿泊で回収する考え方が重要です。</p>
+<!-- /wp:paragraph -->
 
-このクレジットカードを保有しているだけで<strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">プラチナエリートステータス</strong>が自動付与されます。
+<p><a class="shiny-btn3" href="https://www.americanexpress.com/en-us/referral/personal/marriott-bonvoy-brilliant-card?CORID=S~H~U~H~E~T~O~s~0~n-1763822112219-845569&amp;GENCODE=349992989701079&amp;XL=MIMNS&amp;extlink=US-MGM-MOBI_MEMBERSHIP-native-474-205937-K94O%3A9990&amp;ref=SHUHETOs0n&amp;v=2" target="_blank" rel="noopener">プラチナ自動付与の条件をチェックする</a></p>
 
-通常は年間50泊必要なステータスですが、カードを持つだけで獲得できます。
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="anker4">年会費650ドルは回収できるのか</h2>
+<!-- /wp:heading -->
 
-プラチナエリートの特典は以下。
-<ul>
- 	<li>宿泊時のボーナスポイント50%アップ</li>
- 	<li>午後4時までのレイトチェックアウト</li>
- 	<li>客室内プレミアムインターネット無料</li>
- 	<li>ウェルカムギフトの選択肢拡大(朝食、ポイント、アメニティから選択)</li>
- 	<li>スイートを含む客室アップグレード</li>
- 	<li>ラウンジアクセス(対象ホテルのみ)</li>
-</ul>
-プラチナエリートの最大のメリットは朝食無料とラウンジアクセスです。
+<!-- wp:paragraph -->
+<p>Marriott Bonvoy Brilliantの年会費650ドルは、一見すると高額に感じますが、実質的な年会費は大幅に相殺されます。以下、具体的な内訳を説明します。</p>
+<!-- /wp:paragraph -->
 
-特に高級ホテルでは朝食代が一人5,000円以上することも珍しくありません。
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">年間300ドルの食事クレジット</h3>
+<!-- /wp:heading -->
 
-2人で利用すれば1泊で10,000円以上の価値があります。
-<h3 id="anker27">年会費更新で無料宿泊券が自動付与(85,000ポイント相当)</h3>
-Brilliantカードの最大の魅力の一つが、年会費更新時に自動付与される無料宿泊券です。
+<!-- wp:paragraph -->
+<p>Brilliantカードには、<strong>月額25ドル（年間300ドル）の食事クレジット</strong>が付与されます。世界中のレストランでの利用が対象で、毎月忘れずに利用すれば、年会費の約半分が相殺されます。注意点として、未使用分は翌月に繰り越されないため、リマインダーを設定して計画的に利用することが重要です。実質的な年会費は、650ドル - 300ドル = <strong>350ドル</strong>となります。</p>
+<!-- /wp:paragraph -->
 
-無料宿泊券は85,000ポイント相当です。
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">85,000ポイント無料宿泊の現実的価値</h3>
+<!-- /wp:heading -->
 
-Bevyカードは年間15,000ドル利用で50,000ポイント相当の無料宿泊券ですが、Brilliantは利用条件なしで自動付与されます。
+<!-- wp:paragraph -->
+<p>年会費更新時に自動付与される<strong>85,000ポイント相当の無料宿泊券</strong>は、現実的な価値として<strong>約510～850ドル相当</strong>です。この無料宿泊券は、高級ホテルやリゾートホテルでの宿泊に使用可能で、例えば<a href="https://ibis-dallas.com/ritz-carlton-okinawa">リッツカールトン沖縄</a>や<a href="https://ibis-dallas.com/jw-marriott-nara">JWマリオットホテル奈良</a>、<a href="https://ibis-dallas.com/renaissance-okinawa">ルネッサンスリゾートオキナワ</a>、<a href="https://ibis-dallas.com/ritz-carlton-nikko">リッツカールトン日光</a>などでの1泊に相当します。通常1泊10万円以上するホテルに無料で泊まれるため、この特典だけで年会費分の価値を大きく超えます。</p>
+<!-- /wp:paragraph -->
 
-通常1泊10万円以上するホテルに無料で泊まれるので、この特典だけで年会費650ドルの価値を大きく超えます。
-<h3 id="anker28">月額25ドルのレストランクレジット(年間300ドル)</h3>
-<img class="aligncenter wp-image-30429 size-large" src="https://ibis-dallas.com/wp-content/uploads/2025/11/u1698565177_elegant_restaurant_dining_scene_beautifully_serve_8eda5126-de02-4b11-b82b-c78920f480ae_3-1024x574.jpg" alt="レストラン" width="728" height="408" />
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Priority Pass Select（429ドル相当）</h3>
+<!-- /wp:heading -->
 
-Brilliantカードの特徴的な特典が、月額25ドルのレストランクレジットです。
+<!-- wp:paragraph -->
+<p>Brilliantカードには、<strong>Priority Pass Select会員資格</strong>が付帯しています。世界130カ国以上、1,200以上の空港ラウンジに回数制限なしでアクセスでき、Priority Pass単体で年会費429ドルかかるサービスです。空港ラウンジを年間複数回利用する方にとって、これだけでも大きな価値があります。</p>
+<!-- /wp:paragraph -->
 
-世界中のレストランでの利用が対象で、年間最大300ドルのクレジットが受けられます。
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">年会費が高い理由と納得ポイント</h3>
+<!-- /wp:heading -->
 
-注意点は、毎月使い切りで翌月に繰り越しできないことです。
+<!-- wp:paragraph -->
+<p>Brilliantカードの年会費650ドルは、マリオットクレジットカードの中で最も高額です。しかし、<strong>このカードは「ステータスを買うカード」</strong>という位置づけを明確に理解することが重要です。プラチナエリートステータスを獲得するには通常年間50泊が必要ですが、Brilliantカードを持つだけで即座に獲得できます。修行なしで最高級ステータスの一つを取得できること、そして毎回の宿泊で朝食無料・ラウンジ・アップグレードなどの特典を享受できることの価値は、年会費650ドルに見合うものと言えるでしょう。</p>
+<!-- /wp:paragraph -->
 
-スマートフォンのリマインダーを設定して、毎月忘れずに利用しましょう。
+<!-- wp:paragraph -->
+<p>食事クレジット300ドル、無料宿泊券510～850ドル相当、Priority Pass 429ドル相当を合計すると、年会費650ドルを大幅に上回る価値があります。さらに、プラチナステータスによる毎回の宿泊での特典（朝食無料、ラウンジ、アップグレードなど）の価値を加味すれば、年間複数回マリオットに宿泊する方にとって、年会費以上の価値を享受できるカードです。</p>
+<!-- /wp:paragraph -->
 
-レストランクレジット特典により、実質的な年会費は650ドル - 300ドル = 350ドルになります。
+<p><a class="shiny-btn3" href="https://www.americanexpress.com/en-us/referral/personal/marriott-bonvoy-brilliant-card?CORID=S~H~U~H~E~T~O~s~0~n-1763822112219-845569&amp;GENCODE=349992989701079&amp;XL=MIMNS&amp;extlink=US-MGM-MOBI_MEMBERSHIP-native-474-205937-K94O%3A9990&amp;ref=SHUHETOs0n&amp;v=2" target="_blank" rel="noopener">年会費650ドルの価値を確認する</a></p>
 
-月25ドル程度の外食であれば、多くの方が普段から利用している無理のない出費だと思います。
-<h3 id="anker29">Ritz-Carlton/St.Regisで100ドルのプロパティクレジット</h3>
-The Ritz-CarltonまたはSt. Regisに有償で2泊以上する際、100ドルのプロパティクレジットが付与されます。
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="anker5">他のマリオットカードとの役割の違い</h2>
+<!-- /wp:heading -->
 
-このクレジットは対象ホテルでの飲食やスパなどの施設利用に使えます。
+<!-- wp:paragraph -->
+<p>Marriott Bonvoy Brilliantを、他のマリオットカードと比較して役割の違いを明確にします。詳細な比較は<a href="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison">マリオットクレジットカード6枚比較</a>で解説していますが、ここではBrilliantの判断に必要な情報のみを簡潔にまとめます。</p>
+<!-- /wp:paragraph -->
 
-条件は公式サイトから直接予約し、Brilliantカードで決済することです。
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Boundlessとの違い</h3>
+<!-- /wp:heading -->
 
-年に1回でもRitz-CarltonやSt. Regisに宿泊する方には嬉しい特典です。
-<h3 id="anker210">年間60,000ドル利用でEarned Choice Award</h3>
-年間60,000ドルの利用で、Earned Choice Awardが獲得できます。
+<!-- wp:paragraph -->
+<p><a href="https://ibis-dallas.com/marriott-bonvoy-boundless">Marriott Bonvoy Boundless</a>は年会費95ドルで、35,000ポイント相当の無料宿泊券が自動付与されます。Boundlessは<strong>年会費対価型</strong>のカードで、無料宿泊券の価値（約210～350ドル）で年会費を回収する考え方です。一方、Brilliantは<strong>ステータス特化型</strong>のカードで、プラチナエリートステータスの価値を重視します。年1回程度の利用ならBoundless、複数回利用してステータス特典を最大限活用したいならBrilliantが適しています。</p>
+<!-- /wp:paragraph -->
 
-Earned Choice Awardは以下から選択できます。
-<ul>
- 	<li>40,000マリオットポイント</li>
- 	<li>5泊分の宿泊実績クレジット</li>
- 	<li>追加の無料宿泊券(50,000ポイント相当)</li>
-</ul>
-年間60,000ドルは月5,000ドルの利用が必要なので、ハードルは高めです。
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Businessとの違い</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://ibis-dallas.com/marriott-bonvoy-business">Marriott Bonvoy Business</a>は年会費125ドルで、ゴールドステータスが自動付与され、35,000ポイント相当の無料宿泊券が自動付与されます。Businessはビジネスカードのため、Chaseの5/24ルールの影響を受けない点がメリットです。しかし、プラチナエリートではなくゴールドステータス（朝食無料の保証がない、ラウンジアクセスは限定的）のため、ステータス重視派にはBrilliantの方が適しています。</p>
+<!-- /wp:paragraph -->
 
-ただし、ビジネス利用や家族全体の支出をこのカードに集約できる方には魅力的な特典です。
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Bevyとの違い</h3>
+<!-- /wp:heading -->
 
-チタンを目指して5泊分の宿泊実績を選択するのもいいでしょう。
-<h3 id="anker211">Priority Pass Selectで空港ラウンジアクセス</h3>
-<img class="aligncenter wp-image-30391 size-large" src="https://ibis-dallas.com/wp-content/uploads/2025/11/u1698565177_abstract_concept_of_American_airlines_and_air_tra_aa84acad-d540-4c06-a817-227d2b8e546e_3-1024x574.jpg" alt="飛行機" width="728" height="408" />
+<!-- wp:paragraph -->
+<p><a href="https://ibis-dallas.com/marriott-bonvoy-bevy">Marriott Bonvoy Bevy</a>は年会費250ドルで、ゴールドステータスが自動付与されます。無料宿泊券は50,000ポイント相当ですが、年間15,000ドル利用が必要な利用付帯特典です。Bevyもプラチナではなくゴールドステータスのため、ステータス特典を最大限活用したい方はBrilliantの方が適しています。また、Brilliantの無料宿泊券は85,000ポイント相当で自動付与されるため、より高級ホテルでの宿泊が可能です。</p>
+<!-- /wp:paragraph -->
 
-Brilliantカードには、Priority Pass Select会員資格が付帯しています。
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="anker6">よくある質問（FAQ）</h2>
+<!-- /wp:heading -->
 
-世界130カ国以上、1,200以上の空港ラウンジに回数制限なしでアクセスできます。
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Q1. 日本在住でもMarriott Bonvoy Brilliantは発行できるか？</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>A.</strong> Marriott Bonvoy BrilliantはAmerican Expressが発行するカードのため、<strong>アメリカ在住者限定</strong>です。日本在住の方は、<a href="https://ibis-dallas.com/marriott-bonvoy-premium-card">マリオットプレミアムカード</a>をご検討ください。日本在住でBrilliantを作ることはできません。</p>
+<!-- /wp:paragraph -->
 
-搭乗クラスや航空会社に関係なく利用できるため、LCC利用時でもラウンジが使えます。
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Q2. 無料宿泊特典はいつ付与されるか？</h3>
+<!-- /wp:heading -->
 
-本人だけでなく同伴者も2名まで無料で利用できるラウンジもあります。
+<!-- wp:paragraph -->
+<p><strong>A.</strong> 無料宿泊特典は<strong>年会費更新時に自動付与</strong>されます。年会費650ドルが請求されるタイミングで、85,000ポイント相当の無料宿泊券がマリオットアカウントに自動的に追加されます。有効期限は付与日から1年間ですので、計画的に使用してください。無料宿泊特典の詳しい使い方は<a href="https://ibis-dallas.com/marriott-free-night-award">マリオット無料宿泊特典の使い方</a>で解説しています。</p>
+<!-- /wp:paragraph -->
 
-Priority Pass単体で年会費429ドルかかるサービスなので、非常に価値の高い特典です。
-<h3 id="anker212">客室内プレミアムインターネット無料</h3>
-プラチナエリートステータスの特典として、客室内のプレミアムインターネットが無料で利用できます。
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Q3. プラチナ特典は必ず受けられるか？</h3>
+<!-- /wp:heading -->
 
-高速インターネットは1日15-30ドル程度の料金がかかることもあります。
+<!-- wp:paragraph -->
+<p><strong>A.</strong> プラチナエリートステータス自体は<strong>カード保有だけで自動付与</strong>されますが、特典の受けられ方はホテルや状況によって異なります。朝食無料は多くのホテルで確実に提供されますが、ラウンジアクセスはホテルによっては設置されていない場合があります。客室アップグレードは空室状況によるため、保証はされませんが、空室があれば可能です。レイトチェックアウトも空室状況に応じて提供されます。ただし、プラチナステータスがない場合と比較して、確実に特典を享受できる可能性が高まります。</p>
+<!-- /wp:paragraph -->
 
-リモートワークや動画視聴をする方には地味に嬉しい特典です。
-<h3 id="anker213">海外為替手数料無料</h3>
-海外での利用時、海外為替手数料が無料です。
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Q4. プラチナエリートを獲得するのに、なぜBrilliantが必要なのか？</h3>
+<!-- /wp:heading -->
 
-多くのクレジットカードは海外利用時に2-3%の手数料がかかりますが、Brilliantカードは無料。
+<!-- wp:paragraph -->
+<p><strong>A.</strong> プラチナエリートを獲得する方法は大きく2つあります。1つは<strong>年間50泊の宿泊実績を積む</strong>方法で、もう1つが<strong>Brilliantカードを保有する</strong>方法です。年間50泊を実際に宿泊するのは時間的・経済的な負担が大きいため、Brilliantカードで即座にプラチナを獲得し、その後も宿泊実績25泊からスタートできるメリットがあります。修行なしで最高級ステータスの一つを取得できることの価値は、年会費650ドルに見合うものと言えるでしょう。</p>
+<!-- /wp:paragraph -->
 
-海外旅行や海外出張が多い方には大きなメリットです。
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="anker7">まとめ：Marriott Bonvoy Brilliantはこんな人におすすめ</h2>
+<!-- /wp:heading -->
 
-日本への一時帰国時で利用しても手数料がかからないのは魅力的です。
-<h3 id="anker214">アメックス特典の旅行保険</h3>
-アメリカン・エキスプレスカードの標準特典として、旅行保険が付帯しています。
+<!-- wp:paragraph -->
+<p>Marriott Bonvoy Brilliantは、<strong>プラチナエリートステータスを確実に、手間なく取得したい方にとって最強の1枚</strong>です。年会費650ドルと高額ですが、食事クレジット300ドル、無料宿泊券510～850ドル相当、Priority Pass 429ドル相当などで実質的な年会費は大幅に相殺され、さらにプラチナステータスによる毎回の宿泊での特典価値を加味すれば、年間複数回マリオットに宿泊する方にとって年会費以上の価値を享受できるカードです。</p>
+<!-- /wp:paragraph -->
 
-海外旅行傷害保険、航空機遅延費用、手荷物遅延費用などがカバーされます。
+<!-- wp:paragraph -->
+<p><strong>Brilliantが向いている人：</strong></p>
+<!-- /wp:paragraph -->
 
-ただし、旅行代金をカードで決済する必要がある利用付帯です。
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>マリオットを年に複数回（3～4回以上）利用する予定がある</li>
+<!-- /wp:list-item -->
 
-詳細はアメリカン・エキスプレスの公式サイトでご確認ください。
+<!-- wp:list-item -->
+<li>朝食無料、ラウンジアクセス、客室アップグレードなどの上級会員特典を重視する</li>
+<!-- /wp:list-item -->
 
-<a class="shiny-btn3" href="https://www.americanexpress.com/en-us/referral/personal/marriott-bonvoy-brilliant-card?CORID=S~H~U~H~E~T~O~s~0~n-1763822112219-845569&amp;GENCODE=349992989701079&amp;XL=MIMNS&amp;extlink=US-MGM-MOBI_MEMBERSHIP-native-474-205937-K94O%3A9990&amp;ref=SHUHETOs0n&amp;v=2" target="_blank" rel="noopener">マリオットBonvoy Brilliantに申し込む</a>
-<h2 id="anker3">マリオットBonvoy Brilliantのデメリット</h2>
-<img class="aligncenter wp-image-30419 size-large" src="https://ibis-dallas.com/wp-content/uploads/2025/11/u1698565177_diverse_American_people_represented_through_abstr_436293aa-2911-4a3e-99ca-731ea6444cb5_1-1024x574.jpg" alt="多様的なアメリカ人" width="728" height="408" />
+<!-- wp:list-item -->
+<li>修行なしでプラチナエリートステータスを確実に取得したい</li>
+<!-- /wp:list-item -->
 
-マリオットBonvoy Brilliantクレジットカードのデメリットも確認しておきましょう。
-<h3>年会費が650ドルと高額</h3>
-最大のデメリットは年会費が650ドルと高額なことです。
+<!-- wp:list-item -->
+<li>高級ホテルでの無料宿泊（85,000ポイント相当）を活用できる</li>
+<!-- /wp:list-item -->
 
-ただし、以下の特典を考慮すると十分にペイできます。
-<ul>
- 	<li>年間300ドルのレストランクレジット</li>
- 	<li>85,000ポイント相当の無料宿泊券(約500ドル以上の価値)</li>
- 	<li>プラチナステータス(朝食無料、ラウンジアクセス)</li>
- 	<li>Priority Pass Select(429ドル相当)</li>
-</ul>
-これらを合計すると、年会費以上の価値があることがわかります。
+<!-- wp:list-item -->
+<li>年会費650ドルを十分に回収できる利用パターンがある</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
 
-年に3-4回以上マリオット系ホテルに宿泊する方には非常におすすめです。
-<h3>レストランクレジットは毎月使い切り</h3>
-月額25ドルのレストランクレジットは翌月に繰り越しできません。
+<!-- wp:paragraph -->
+<p><strong>Brilliantが向いていない人：</strong></p>
+<!-- /wp:paragraph -->
 
-毎月忘れずに利用する必要があります。
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>年1回しかマリオットに泊まらない</li>
+<!-- /wp:list-item -->
 
-リマインダーを設定するなど、計画的に利用しましょう。
-<h3>入会ボーナスの利用条件がある</h3>
-100,000ポイントの入会ボーナスには、6ヶ月以内に6,000ドル利用という条件があります。
+<!-- wp:list-item -->
+<li>年会費を極力かけたくない（年会費95ドルの<a href="https://ibis-dallas.com/marriott-bonvoy-boundless">Boundless</a>を検討）</li>
+<!-- /wp:list-item -->
 
-月1,000ドル程度の利用が必要なので、計画的に利用しましょう。
+<!-- wp:list-item -->
+<li>プラチナステータスの特典を活用する予定がない</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
 
-大きな買い物を予定している時期に作成するのがおすすめです。
-<h2 id="anker4">マリオットBonvoy Brilliantクレジットカードまとめ</h2>
-<img class="aligncenter wp-image-30459 size-full" src="https://ibis-dallas.com/wp-content/uploads/2025/11/marriott-bonvoy-brilliant-card.png" alt="marriott-bonvoy-brilliant-card" width="952" height="600" />
+<p><a class="shiny-btn3" href="https://www.americanexpress.com/en-us/referral/personal/marriott-bonvoy-brilliant-card?CORID=S~H~U~H~E~T~O~s~0~n-1763822112219-845569&amp;GENCODE=349992989701079&amp;XL=MIMNS&amp;extlink=US-MGM-MOBI_MEMBERSHIP-native-474-205937-K94O%3A9990&amp;ref=SHUHETOs0n&amp;v=2" target="_blank" rel="noopener">Marriott Bonvoy Brilliantを公式条件で確認する</a></p>
 
-今日はマリオットBonvoy Brilliantクレジットカードを紹介しました。
+<!-- wp:paragraph -->
+<p><strong>次に読むべき記事：</strong></p>
+<!-- /wp:paragraph -->
 
-マリオット系のクレジットカードはChase銀行が3枚、アメリカン・エキスプレスが3枚、合計6枚存在しています。
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><a href="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison">マリオットクレジットカード6枚徹底比較</a>：他のマリオットカードとの詳細な比較</li>
+<!-- /wp:list-item -->
 
-マリオットBonvoy Brilliantクレジットカードは年会費が650ドルとマリオット系カードの中で最も高額ですが、入会ボーナスも100,000ポイントあり、自動でプラチナエリートステータスになれます。
+<!-- wp:list-item -->
+<li><a href="https://ibis-dallas.com/marriott-bonvoy-boundless">Marriott Bonvoy Boundless徹底解説</a>：年会費95ドルで無料宿泊券がもらえるコスパ重視型のカード</li>
+<!-- /wp:list-item -->
 
-<strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">マリオット宿泊で最大21倍のマリオットポイント、レストランや航空券で3倍ポイント、その他の利用で2倍のマリオットポイントが付与</strong>されます。
+<!-- wp:list-item -->
+<li><a href="https://ibis-dallas.com/marriott-free-night-award">マリオット無料宿泊特典の使い方完全ガイド</a>：85,000ポイント無料宿泊特典の活用法や注意点を詳しく解説</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
 
-年会費更新時に85,000ポイント相当の無料宿泊券が自動付与されるのは大きな魅力です。
+<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison"]</p>
 
-月額25ドルのレストランクレジット(年間300ドル)、Priority Pass Select、Ritz-Carlton/St.Regisでの100ドルクレジットなど、充実した特典が揃っています。
+<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-boundless"]</p>
 
-海外為替手数料も無料なので日本に持ち帰ってマリオット系ホテルに使うこともできます。
+<p>[nlink url="https://ibis-dallas.com/marriott-free-night-award"]</p>
 
-プラチナエリートステータスにより朝食無料やラウンジアクセスが利用できるため、年に3-4回以上マリオット系ホテルに宿泊する方には特におすすめです。
+<p>[nlink url="https://ibis-dallas.com/jw-marriott-nara"]</p>
 
-年会費は高額ですが、特典を最大限活用すれば十分に元が取れる、マリオット系クレジットカードの最高峰です。
+<p>[nlink url="https://ibis-dallas.com/ritz-carlton-okinawa"]</p>
 
-以上、少しでも参考になれば幸いです。
-
-<a class="shiny-btn3" href="https://www.americanexpress.com/en-us/referral/personal/marriott-bonvoy-brilliant-card?CORID=S~H~U~H~E~T~O~s~0~n-1763822112219-845569&amp;GENCODE=349992989701079&amp;XL=MIMNS&amp;extlink=US-MGM-MOBI_MEMBERSHIP-native-474-205937-K94O%3A9990&amp;ref=SHUHETOs0n&amp;v=2" target="_blank" rel="noopener">マリオットBonvoy Brilliantに申し込む</a>
-
-[nlink url="https://ibis-dallas.com/marriott-bonvoy-bevy"]
-
-[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-new-benefits"]
+<p>[nlink url="https://ibis-dallas.com/izu-marriott-shuzenji"]</p>

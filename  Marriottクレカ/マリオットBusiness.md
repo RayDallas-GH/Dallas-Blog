@@ -1,543 +1,529 @@
 <!-- wp:paragraph -->
-<p>こんにちは、アポロです。</p>
+<p><strong>結論：Marriott Bonvoy Businessは、個人事業主・副業・フリーランスでChaseの5/24ルールを回避しながら、年会費125ドルで毎年35,000ポイント相当の無料宿泊券を自動獲得できる「隠れた神カード」です。</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>アメリカ駐在中にオススメなクレジットカードを紹介します。</p>
+<p>Boundless（年会費95ドル）と比較すると年会費は30ドル高いものの、<strong>5/24ルールにカウントされない</strong>点が最大の強み。Brilliant（年会費650ドル）と比較すると、プラチナステータスは付与されませんが、<strong>年会費125ドルで毎年35,000ポイント相当の無料宿泊券が自動付与</strong>されるため、年1泊以上マリオットに泊まる方なら確実に年会費を回収できます。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>今日紹介するのはマリオットのビジネスクレジットカードです。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>正式名称は<strong>Marriott Bonvoy Business American Express Card</strong>ですが、なんとビジネスカードにもかかわらず一般人も入会できてしまいます。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>入会方法のキーワードは個人事業主です。</p>
-<!-- /wp:paragraph -->
-
-<p><a class="shiny-btn3" href="https://bit.ly/4hCwoW1" target="_blank" rel="noopener">マリオットBonvoyビジネスクレジットカードに申し込む</a></p>
-<p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
-<p>1.<a href="#anker1">マリオットボンヴォイビジネスアメリカン・エクスプレスカード（ Marriott Bonvoy Business American Express Card ）</a><br />2.<a href="#anker2">メリット</a><br />　2-1.<a href="#anker21">入会するだけで無料宿泊券３泊ゲット</a><br />　2-2.<a href="#anker22">ポイントがたまりやすい（還元率２～６倍）</a><br />　2-3.<a href="#anker23">外国為替手数料が無料</a><br />　2-4.<a href="#anker24">ゴールド会員に無料アップグレード</a><br />　2-5.<a href="#anker25">無料宿泊権利を毎年獲得（３５，０００ポイント相当）</a><br />　2-6.<a style="font-size: inherit;" href="#anker26">Chase銀行発行のクレジットカード枚数制限にカウントされない（5/24ルール）</a><br />3.<a href="#anker3">デメリット</a><br />　3-1.<a href="#anker31">AMEX（American Express）のため利用できない店舗がある</a><br />　3-2.<a href="#anker32">クレジットスコアが十分ないと入会できない</a><br />4.<a href="#anker4">ビジネスカードの入会方法</a><br />5.<a href="#anker5">まとめ</a></p>
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading" id="anker1">マリオットボンヴォイビジネスアメリカン・エクスプレスカード（Marriott Bonvoy Business&nbsp;American Express&nbsp;Card）</h2>
-<!-- /wp:heading -->
-
-<!-- wp:image {"align":"center","id":17606,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://ibis-dallas.com/wp-content/uploads/2022/09/new-marriott-business.jpg" alt="マリオットビジネスカード" class="wp-image-17606"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p>マリオットホテルのクレジットカードは６種類あり、Chase銀行が発行しているVISAカードか、American Expressが発行しているAMEXが選べます。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>Chase銀行発行のクレジットカードは枚数制限（5/24ルール）</strong>がありますので、陸マイラーにはAMEXという選択肢があるのは非常にありがたいです。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>またChaseはAMEXより審査が難しいと聞きます（AMEXが緩いだけなのですが）。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>通常はChase銀行が発行しているVISAカード（年会費＄９５）を選択しますが、AMEXのビジネスカードという選択肢も紹介します。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":2978} -->
-<figure class="wp-block-image"><img src="https://ibis-dallas.com/wp-content/uploads/2019/06/Business-Card.png" alt="" class="wp-image-2978"/><figcaption class="wp-element-caption">（ビジネスカードの旧券面デザイン）</figcaption></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p>年会費無料のマリオットクレジットカード（Bold）：VISA（Chase発行）<br>マリオットクレジットカード（Boundless）：VISA（Chase発行）<br>マリオットクレジットカード（Bountiful）：VISA（Chase発行）<br>マリオットクレジットカード（Bevy）：AMEX<br>最上位のマリオットクレジットカード（Brilliant）：AMEX<br>マリオットビジネスクレジットカード（Business）：AMEX</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>選択肢がどれもBから始まるというややこしさ。笑</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>マリオットのこだわりなんでしょうが単純にややこしいですよね。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>ややこし過ぎたので６枚の比較記事を作成しました⇒</p>
-<!-- /wp:paragraph -->
-
-<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison"]</p>
-
-<!-- wp:paragraph -->
-<p>個人的にはヒルトン系のクレカも好きなんですが、出張でマリオット系によく泊まる方や旅行が好きな方にはマリオット系のクレジットカードもオススメできます。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>年会費の＄１２５は余裕で元が取れます。</p>
-<!-- /wp:paragraph -->
-
-<p>[nlink url="https://ibis-dallas.com/hilton-honors-creditcard"]</p>
-
-<!-- wp:paragraph -->
-<p>駐在一年生のときはおとなしくJAL USAカードを使っていましたが、二年目に入会ポイントに目が眩んでマリオットクレジットカードに入会しました。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>だって<strong>入会ポイントだけで＄１０００以上の価値</strong>ですもん。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>通常のクレジットカードと悩みましたが、一般人でもビジネスカードに入会できること、ポイントのたまりやすさからビジネスカードを選択しました。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>出張時はマリオット系に泊まることが多い</strong>ので尚更です。</p>
-<!-- /wp:paragraph -->
-
-<p>[nlink url="https://ibis-dallas.com/jal-usa-card-milage"]</p>
-
-<!-- wp:paragraph -->
-<p>ここからはマリオットビジネスクレジットカードのメリット、デメリットをそれぞれ紹介します。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading" id="anker2">メリット</h2>
-<!-- /wp:heading -->
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="anker21">入会するだけで無料宿泊券３泊ゲット</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>なんといっても<strong>最大のメリットは入会ポイント</strong>です。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>正式には<strong>入会して６ヶ月以内に＄６０００以上</strong>使えばもらえる<strong>ボーナスポイント</strong>です。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>入会特典は時期によって異なり、３か月以内に３０００ドル利用で７５０００ポイントゲット、なんてときもありました。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>クレジットカード社会であるアメリカでは毎月１０００ドル使うことは難しくありません。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>無料宿泊券３泊（上限５万ポイント/泊、計１５万ポイント相当）は宿泊ホテルによって異なりますが、<strong>金額換算で＄１０００</strong>程度です。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>ホテルによっては１５００ドル以上の価値になります。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>入会するだけで高級ホテルに宿泊</strong>できちゃいます。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>年会費が初年度から＄１２５かかりますが、無料宿泊券が３泊分付与されるのですぐに回収できます。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>本記事が参考になったと感じた方はリンク経由で作成いただけると嬉しいです。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://bit.ly/4hCwoW1" target="_blank" rel="noopener" title="">Marriott Bonvoy Business American Express Card紹介リンク</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="anker22">ポイントがたまりやすい（還元率２～６倍）</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>駐在生活最初の一枚目となるJAL USAカード（もしくはANA USAカード）よりもポイントがたまりやすいです。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>JAL USAカードでは＄１で１マイル（プランによっては＄２で１マイル）獲得できますが、マリオットビジネスクレジットカードなら<strong>＄１で２～６ポイント</strong>付与されます。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>マリオットのポイント価値は１ポイント＝０．７セント相当</strong>と言われていますので１マイル１円相当といわれるJALよりお得ですね。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>マリオットビジネスなら<strong>＄１で１．４～４．２円</strong>たまります。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>マリオットビジネスクレジットカード利用時のポイント付与の詳細は以下となります。</p>
+<p><strong>Marriott Bonvoy Businessが最適な人は以下の通りです：</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li><strong>マリオット系列のホテル利用で６倍</strong></li>
+<li>個人事業主・副業・フリーランス・不動産・ブログ・YouTubeなど、何らかの事業実態がある</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>アメリカの<strong>レストラン、ガソリン、電話利用で４倍</strong></li>
+<li>Chaseの5/24ルールを気にしている（過去24か月以内に5枚以上のクレカを開設している）</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>そのほかの利用で２倍です。</li>
+<li>マリオットを年1回以上利用する可能性がある</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>無料宿泊券を積み上げたい（Boundlessと併用で2枚獲得可能）</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>宿泊実績15泊からスタートしてプラチナを目指したい</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<p>[nlink url="https://ibis-dallas.com/use-marriott-point"]</p>
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="anker23"><strong>外国為替手数料</strong>が無料</h3>
-<!-- /wp:heading -->
-
 <!-- wp:paragraph -->
-<p>日本への一時帰国のときも日本で利用でき、アメリカの口座から支払っても手数料無料です。</p>
+<p>一方で、<strong>このカードが向かない人は以下の通りです：</strong>プラチナステータスを最初から欲しい方は、年会費650ドルでプラチナ自動付与の<a href="https://ibis-dallas.com/marriott-bonvoy-brilliant">Marriott Bonvoy Brilliant</a>を検討してください。また、5/24ルールを気にしない方は、年会費95ドルで同様の無料宿泊券がもらえる<a href="https://ibis-dallas.com/marriott-bonvoy-boundless">Marriott Bonvoy Boundless</a>の方が年会費が安くお得です。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>もちろん<strong>日本以外の海外旅行でも手数料無料</strong>で利用できますよ。</p>
-<!-- /wp:paragraph -->
+<p><a class="shiny-btn3" href="https://bit.ly/4hCwoW1" target="_blank" rel="noopener">Marriott Bonvoy Businessを公式条件で確認する</a></p>
 
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">宿泊実績１５泊付与</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>ビジネスカードを持つだけでマリオット宿泊実績が１５泊付与されます。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>パーソナルカードと日本で発行されるアメックスプレミアムカードを持てば合計４５泊実績となり、</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>プラチナ会員になれる５０泊実績が目前になります。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>詳しい解説は別記事にまとめました⇒</p>
-<!-- /wp:paragraph -->
-
-<p>[nlink url="https://ibis-dallas.com/platinum-elite-with-creditcards"]</p>
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="anker24"><strong>ゴールド会員</strong>に無料アップグレード</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>今までビジネスカードを持つだけでシルバー会員になれていましたが、</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>ゴールド会員に自動でアップグレードされるよう改善されました。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>以下は過去内容を参考に残してあります。</p>
-<!-- /wp:paragraph -->
-
-<p><del>マリオットビジネスを持つと宿泊実績が１５泊付与されます。</del></p>
-<p><del>通常１０泊以上マリオット系列のホテルに宿泊が必要なシルバー会員ですが、マリオットビジネスを保有しているだけで自動アップグレードします。</del></p>
-<p><del>シルバー会員になると<strong>１０％ボーナスポイントが獲得</strong>できたり、優先的にレイトチェックアウトが適用されます。</del></p>
-<p><del>シルバー会員のメリット詳細はマリオット公式サイトをご確認ください。</del></p>
-<p><del><a href="https://www.marriott.co.jp/loyalty/member-benefits/silver.mi" target="_blank" rel="noreferrer noopener" aria-label="シルバー会員の特典（マリオット公式サイト（日本語）） (新しいタブで開く)" data-nodal="">シルバー会員の特典（マリオット公式サイト（日本語））</a></del></p>
-<p><del>さらに自動的に１５泊分宿泊したことになり、<strong>ゴールド会員に必要な２５泊宿泊まで残り１０泊</strong>となります。</del></p>
-<p><del>ゴールド会員チャレンジも簡単にできそうです。</del></p>
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="anker25">無料宿泊権利を毎年獲得（３５，０００ポイント相当）</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>カード保有１年を経過するごとに１泊分の無料宿泊権利がもらえます。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>年会費が＄１２５かかりますが<strong>マリオットのホテルは＄１００以上するホテル</strong>が多いのでこれだけで元が取れる仕組みとなっています。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>対象は３５，０００ポイント以下のホテル限定となります。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>さらにカレンダー年（１月から１２月）で<strong>＄６０，０００使用した場合、追加でもう１泊無料宿泊</strong>の権利を獲得できます。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>毎月＄５，０００クレジットカード払いするかは置いといてクレカを持つだけで無料宿泊券がもらえるのは嬉しいです。</p>
-<!-- /wp:paragraph -->
-
-<p>[nlink url="https://ibis-dallas.com/marriott-free-night-award"]</p>
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="anker26">Chase銀行発行のクレジットカード枚数制限にカウントされない（5/24ルール）</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>陸マイラー限定のメリットでクレジットカードを何枚も申請しない方には意味がないのですが、Chase銀行はクレジットカードの発行枚数に制限を設けています。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>通常5/24ルールといって、直近２４ヶ月以内に最大５枚までの申請という意味です。（Chase銀行発行かどうかに関わらないためAMEXのクレジットカードもカウントされます）</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>おそらくクレジットカードの入会ポイント稼ぎの人たちの大量入会を防ぐためだと推測されますが、<strong>幸いなことにビジネスクレジットカードはChase銀行の5/24ルール適用外です</strong>。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>発行枚数を気にせずどんどん発行してしまいましょう。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">（新規追加）マリオット系ホテル宿泊時に７％割引</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>リニューアルしたマリオットビジネスカード。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>新しく追加された特典としてマリオット系ホテルの割引があります。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>なんと７％も！</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>ビジネスカードでの支払いで自動割引が適用されます。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>マリオット好きならビジネスクレカ払いの一択になりそうです。</p>
-<!-- /wp:paragraph -->
+<p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
+<ul>
+  <li>1.<a href="#anker1">Marriott Bonvoy Businessの要点まとめ</a></li>
+  <li>2.<a href="#anker2">なぜBusinessは「隠れた神カード」なのか</a></li>
+  <li>3.<a href="#anker3">年会費125ドルは回収できるか</a></li>
+  <li>4.<a href="#anker4">5/24ルール回避の価値</a></li>
+  <li>5.<a href="#anker5">向いている人・向いていない人</a></li>
+  <li>6.<a href="#anker6">他カードとの役割整理</a></li>
+  <li>7.<a href="#anker7">よくある質問（FAQ）</a></li>
+  <li>8.<a href="#anker8">まとめ：Businessはコスパと戦略のカード</a></li>
+</ul>
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading" id="anker3">デメリット</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>基本的にデメリットありませんが、しいて言えばマリオット系を使わない人にはメリットないでしょう。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="anker31">AMEX（American Express）のため利用できない店舗がある</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>僕がダラス周辺でよく行くお店ではダイソーやゴンチャなどのアジア系のお店に弱い印象を受けます。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>日本でも<strong>アメックスが使えないお店</strong>、たまにありますもんね。</p>
-<!-- /wp:paragraph -->
-
-<p>[nlink url="https://ibis-dallas.com/gongcha"]</p>
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="anker32">クレジットスコアが十分ないと入会できない</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>クレジットスコアは<strong>延滞なく支払いを続けていれば</strong>すぐに高得点に上がりますが、スコア自体に加えて<strong>クレジットカードの保有期間なども審査対象</strong>になるため、赴任してすぐに申請するとリジェクト（拒否）される可能性があります。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>通常<strong>１年程度保有</strong>していれば問題ありませんが、半年程度でも申請通った方もいろんなブログを読んでいると拝見されます。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>チャレンジ精神のある方は１年未満でも申請してみるといいでしょう。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>落ちてもクレジットスコアはそこまで下がらないと思います。（多少下がるみたいです。元々の点数次第ですが５～１０点程度）</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading" id="anker4">ビジネスカードの入会方法</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>ビジネスカードといえば社長しか入会できないと思っていませんか。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>一般人でも入会できる方法があるのです。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>誰でも<strong>個人事業主として申請</strong>できるので、僕の入力した方法を参考にしながら記載してみてください。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>そもそも<strong>AMEXは比較的カンタンに審査が通りやすいクレジットカード</strong>として知られています。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>個人事業主として挙げられるものは、アメリカで買ったものを日本の友人に転売するなども含まれます。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>株式会社である必要は一切ありません。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>もちろんブログで収益発生していれば十分に事業と言えます。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>AMEXは個人事業主を応援しているクレジットカードでもあるのです。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>ビジネスの証拠などは一切問われませんので少しでも個人事業主らしいことをやったことがあるのであれば申請しちゃいましょう。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>申請方法、入力内容は以下となります。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Business Informationの記載方法</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>この申請ページではビジネス情報の入力を求められますが、個人事業主として申請すれば個人情報と記載項目は変わりません。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Email Address：普段使っているEメールアドレス</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Legal Business Name：個人名でOK（例：Taro Yamada）</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Business Address：個人住所でOK</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Business Phone Number：個人携帯電話でOK</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Industry Type：Otherを選択</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Company Structure：Sole Proprietorship（個人事業の意）</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Years in Business：Less than one year（若しくは該当するものを選択）</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Number of Employees：１（個人事業のため）</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Annual Business Revenue：個人事業で稼ぐ見込みの年間金額（あまりに低い金額を入力すると審査に落ちる可能性がありますので注意してください）。不明であれば年収を入力しておけば審査は通ります。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Role in Company：General Manager</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Estimated Monthly Spend：＄３，０００（若しくはご自身の毎月予想使用金額を入力）</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Annual Business RevenueとEstimated Monthly Spendのアンマッチには気をつけましょう。（たとえば年間＄５００のお小遣い程度しか稼げないのに毎月それ以上の金額を使う予定のように申請するなど）</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Personal Informationの記載方法</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>個人名及び住所を記載</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Social Security Number：自身のSSNを入力</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Total Annual Income：年収を記載（駐在員は駐在手当込みでOK）</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Marriott Bonvoy Number：既にメンバー会員であれば記載（なければ自動的に新規番号が割り当てられる）</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading" id="anker5">まとめ</h2>
+<h2 class="wp-block-heading" id="anker1">Marriott Bonvoy Businessの要点まとめ</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"center","id":17606,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://ibis-dallas.com/wp-content/uploads/2022/09/new-marriott-business.jpg" alt="マリオットビジネスカード" class="wp-image-17606"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://ibis-dallas.com/wp-content/uploads/2022/09/new-marriott-business.jpg" alt="Marriott Bonvoy Business" class="wp-image-17606"/></figure>
 <!-- /wp:image -->
 
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>年会費：</strong>125ドル（年会費更新時に自動請求）</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>無料宿泊特典：</strong>毎年35,000ポイント相当の無料宿泊券が自動付与（年会費更新時）。約210～350ドル相当の価値があり、年会費125ドルを確実に上回る</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>ゴールドエリート自動付与：</strong>カード保有だけでマリオットゴールドエリートステータスを即座に獲得。朝食無料（一部ホテル）、客室アップグレード、レイトチェックアウトなどの特典が利用可能</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>宿泊実績15泊：</strong>カード保有だけで15泊の宿泊実績が自動付与され、プラチナエリート（50泊必要）への道が開ける</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>5/24ルール非カウント：</strong>ビジネスカードのため、Chaseの5/24ルールにカウントされない。Chaseカードを多く持っている方でも申請可能</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>個人事業主でOK：</strong>副業・ブログ・YouTube・不動産など、何らかの事業実態があれば個人事業主として申請可能。法人登記は不要</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
 <!-- wp:paragraph -->
-<p>今回はマリオットホテルが展開しているクレジットカードのうち、マリオットビジネスクレジットカード（Marriott Bonvoy Business American Express Card）を紹介しました。</p>
+<p>Businessカードの最大の強みは、<strong>「無料宿泊を安く増やすカード」</strong>という位置付けです。Boundlessと併用することで、毎年2枚の無料宿泊券（合計70,000ポイント相当）を獲得でき、宿泊実績も30泊からスタートできます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="anker2">なぜBusinessは「隠れた神カード」なのか</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Marriott Bonvoy Businessが「隠れた神カード」と言われる理由は、<strong>5/24ルールを回避しながら無料宿泊券を獲得できる</strong>点にあります。BoundlessやBrilliantとの違いを明確にすることで、Businessカードの独自価値を理解できます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Boundlessとの違い（5/24ルール）</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://ibis-dallas.com/marriott-bonvoy-boundless">Marriott Bonvoy Boundless</a>は年会費95ドルで、Businessと同様に35,000ポイント相当の無料宿泊券が自動付与されます。年会費は30ドル安いものの、<strong>BoundlessはChase銀行発行のため5/24ルールの対象</strong>です。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>年会費は＄１２５かかりますが、入会特典で無料宿泊券３泊（１５万マリオットポイント相当）、毎年のクレカ更新でマリオット系列のホテルに無料宿泊できるので十分に元が取れます。</p>
+<p>過去24か月以内に5枚以上のクレジットカードを開設している場合、Boundlessの審査が通りにくくなります。一方、BusinessはAmex発行のビジネスカードのため、<strong>5/24ルールにカウントされません</strong>。Chaseカードを多く持っている方にとって、Businessは唯一の選択肢となります。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>マリオット系列のホテルは高級ホテルから手頃な価格帯まで揃えており、ホテルの規模は世界一！</p>
+<p>また、BoundlessとBusinessを併用することで、<strong>毎年2枚の無料宿泊券（合計70,000ポイント相当）</strong>を獲得でき、宿泊実績も30泊からスタートできます。無料宿泊を最大化したい方にとって、この組み合わせは「黄金セット」と言えるでしょう。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Brilliantとの違い（ステータス vs コスパ）</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://ibis-dallas.com/marriott-bonvoy-brilliant">Marriott Bonvoy Brilliant</a>は年会費650ドルで、プラチナエリートステータスが自動付与され、85,000ポイント相当の無料宿泊券が自動付与されます。Brilliantは<strong>「ステータスを買うカード」</strong>という位置付けで、プラチナ特典（朝食無料、ラウンジアクセス、客室アップグレードなど）を重視する方に最適です。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>出張や観光に役立つこと間違いありません。</p>
+<p>一方、Businessは<strong>「コスパ重視のカード」</strong>という位置付けです。年会費125ドルで35,000ポイント相当の無料宿泊券がもらえるため、年1泊以上マリオットに泊まる方なら確実に年会費を回収できます。プラチナステータスは付与されませんが、ゴールドステータスでも一部ホテルで朝食無料や客室アップグレードなどの特典が利用可能です。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>２０２２年９月２２日にクレカ券面デザインがリニューアルされました。</p>
+<p>判断軸としては、<strong>プラチナ特典を最初から欲しい方はBrilliant、年会費を抑えながら無料宿泊券を獲得したい方はBusiness</strong>が適しています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">「無料宿泊を安く増やすカード」という位置付け</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Businessカードの最大の強みは、<strong>「無料宿泊を安く増やすカード」</strong>という位置付けです。Boundlessと併用することで、年会費合計220ドル（Boundless：95ドル、Business：125ドル）で、毎年2枚の無料宿泊券（合計70,000ポイント相当）を獲得できます。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>ビジネスをしていなくても<strong>個人事業主として申請が可能</strong>です。</p>
+<p>また、宿泊実績も30泊からスタートできるため、プラチナエリート（50泊必要）まで残り20泊となります。実際の宿泊やクレカ利用で残り20泊を達成すれば、プラチナステータスを獲得できます。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Chase銀行の発行枚数制限にカウントされないのも陸マイラーには嬉しいところ。</p>
+<p>この「無料宿泊2枚戦略」は、マリオットを年に複数回利用する方にとって非常に有効です。年会費220ドルで毎年2泊分の無料宿泊券がもらえるため、実質的な年会費は大幅に相殺されます。</p>
+<!-- /wp:paragraph -->
+
+<p><a class="shiny-btn3" href="https://bit.ly/4hCwoW1" target="_blank" rel="noopener">5/24ルール回避の条件をチェックする</a></p>
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="anker3">年会費125ドルは回収できるか</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Marriott Bonvoy Businessの年会費125ドルは、<strong>無料宿泊特典だけで確実に回収できます</strong>。以下、具体的な数値で説明します。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">無料宿泊35,000ポイント（約210～350ドル）</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>年会費更新時に自動付与される<strong>35,000ポイント相当の無料宿泊券</strong>は、現実的な価値として<strong>約210～350ドル相当</strong>です。この無料宿泊券は、カテゴリー5までのホテル（35,000ポイント以下）で利用可能で、日本国内のマリオット系列ホテルでも多くの選択肢があります。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>他にも<strong>海外為替手数料が無料</strong>だったり、ゴールド会員に自動アップグレードしたりと小さなメリット盛りだくさん。</p>
+<p>例えば、<a href="https://ibis-dallas.com/courtyard-marriott-shin-osaka-station">コートヤード新大阪ステーション</a>や<a href="https://ibis-dallas.com/four-points-flex-osaka-umeda">フォーポイント フレックス by シェラトン大阪梅田</a>などの中級ホテルで活用できます。また、<strong>15,000ポイントを追加することで最大50,000ポイントまで使用可能</strong>になり、より高級なホテルでの宿泊も可能です。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>宿泊実績１５泊付与されるのでプラチナ会員も目指せます。</p>
+<p>無料宿泊特典の詳しい使い方は<a href="https://ibis-dallas.com/marriott-free-night-award">マリオット無料宿泊特典の使い方</a>で解説しています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">年会費との差分</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>年会費125ドルに対して、無料宿泊券の価値は約210～350ドル相当です。つまり、<strong>年会費を支払って、85～225ドル分の価値を獲得できる</strong>計算になります。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>ぜひマリオットビジネスクレジットカードに入会して、アメリカ駐在生活、クレジットカード生活を満喫しましょう。</p>
+<p>さらに、ゴールドステータスによる特典（朝食無料、客室アップグレード、レイトチェックアウトなど）の価値を加味すれば、年会費以上の価値を享受できるカードです。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">実質プラスになるケース</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Businessカードは、<strong>年1泊以上マリオットに泊まる方なら確実に黒字になる</strong>カードです。無料宿泊券の価値（約210～350ドル）が年会費125ドルを上回るため、年会費を支払うだけで実質プラスになります。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>以上、参考になれば幸いです。</p>
-<!-- /wp:paragraph -->
-
-<p><a class="shiny-btn3" href="https://bit.ly/3H7Mo4w" target="_blank" rel="noopener">マリオットBonvoyビジネスクレジットカードに申し込む</a></p>
-<p>[nlink url="https://ibis-dallas.com/marriott-hotel-japan"]</p>
-<p>[nlink url="https://ibis-dallas.com/fairfield-hotel-japan"]</p>
-
-<!-- wp:paragraph -->
-<p>[nlink url="https://ibis-dallas.com/status-match-marriott-hilton"]</p>
+<p>また、マリオット宿泊で6倍ポイント、レストラン・ガスで4倍ポイントが貯まるため、ポイント還元率も高く、マリオットを定期的に利用する方にとって非常に有効です。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]</p>
+<p>さらに、マリオット宿泊時に7％割引が適用されるため、実際の宿泊費用も節約できます。これらの特典を総合的に評価すれば、年会費125ドルは十分に回収できるカードと言えるでしょう。</p>
 <!-- /wp:paragraph -->
+
+<p><a class="shiny-btn3" href="https://bit.ly/4hCwoW1" target="_blank" rel="noopener">年会費125ドルの価値を確認する</a></p>
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="anker4">5/24ルール回避の価値</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Marriott Bonvoy Businessの最大の強みは、<strong>Chaseの5/24ルールにカウントされない</strong>点です。この特典の価値は、Chaseカードを多く持っている方にとって非常に大きいものです。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Chaseカードとの併用戦略</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Chase銀行は、過去24か月以内に5枚以上のクレジットカードを開設している場合、新規カードの審査が通りにくくなる「5/24ルール」があります。このルールは、Chase銀行発行のカードだけでなく、<strong>すべてのクレジットカード（Amex、Citi、Discoverなど）をカウント</strong>します。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>しかし、<strong>ビジネスカードは5/24ルールの対象外</strong>です。BusinessカードはAmex発行のビジネスカードのため、5/24ルールにカウントされません。Chaseカードを多く持っている方でも、Businessカードを申請できます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Boundless＋Businessの黄金セット</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>BoundlessとBusinessを併用することで、以下のメリットが得られます：</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>無料宿泊券を毎年2枚獲得：</strong>Boundless：35,000ポイント相当、Business：35,000ポイント相当で、合計70,000ポイント相当の無料宿泊券を獲得可能</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>宿泊実績30泊からスタート：</strong>Boundless：15泊、Business：15泊で、合計30泊の宿泊実績を獲得。プラチナエリート（50泊必要）まで残り20泊</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>入会特典を2回獲得可能：</strong>各カードで入会特典を獲得できる（ただし、24か月ルールに注意。規約要確認）</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>この組み合わせは、マリオットを年に複数回利用する方に特に有効です。年会費合計220ドル（Boundless：95ドル、Business：125ドル）で、毎年2枚の無料宿泊券と30泊の宿泊実績を獲得できます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">無料宿泊2枚戦略</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>BoundlessとBusinessを併用することで、<strong>毎年2枚の無料宿泊券（合計70,000ポイント相当）</strong>を獲得できます。この戦略は、マリオットを年に複数回利用する方にとって非常に有効です。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>例えば、1泊目はBoundlessの無料宿泊券（35,000ポイント相当）を使用し、2泊目はBusinessの無料宿泊券（35,000ポイント相当）を使用することで、年会費220ドルで2泊分の無料宿泊を実現できます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">宿泊実績30泊スタート戦略</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>BoundlessとBusinessを併用することで、<strong>宿泊実績30泊からスタート</strong>できます。プラチナエリート（50泊必要）まで残り20泊となるため、実際の宿泊やクレカ利用で残り20泊を達成すれば、プラチナステータスを獲得できます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Boundlessでは、5,000ドル利用ごとに宿泊実績1泊が追加付与されるため、クレカ利用だけでステータスアップも可能です。この戦略は、プラチナステータスを目指す方にとって非常に有効です。</p>
+<!-- /wp:paragraph -->
+
+<p><a class="shiny-btn3" href="https://bit.ly/4hCwoW1" target="_blank" rel="noopener">5/24ルール回避の条件をチェックする</a></p>
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="anker5">向いている人・向いていない人</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Marriott Bonvoy Businessは、特定の利用パターンに最適化されたカードです。以下、向いている人と向いていない人を明確にします。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">向いている人</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>副業・個人事業主：</strong>ブログ、YouTube、不動産、フリーランスなど、何らかの事業実態がある方。個人事業主として申請可能で、法人登記は不要</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Chase枠を温存したい：</strong>過去24か月以内に5枚以上のクレカを開設している方。5/24ルールを回避しながら無料宿泊券を獲得できる</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>年1～3泊：</strong>マリオットを年に1～3回程度利用する方。無料宿泊券の価値（約210～350ドル）で年会費125ドルを確実に回収できる</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>無料宿泊を積み上げたい：</strong>Boundlessと併用することで、毎年2枚の無料宿泊券（合計70,000ポイント相当）を獲得できる</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>宿泊実績15泊からスタートしたい：</strong>プラチナエリート（50泊必要）を目指す方。Boundlessと併用で30泊からスタート可能</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">向いていない人</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>プラチナ特典を最初から欲しい：</strong>プラチナエリートステータスを確実に獲得したい方は、年会費650ドルでプラチナ自動付与の<a href="https://ibis-dallas.com/marriott-bonvoy-brilliant">Marriott Bonvoy Brilliant</a>を検討してください</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>年1泊もしない：</strong>マリオットを年に1回も利用しない方。無料宿泊券の価値を活用できないため、年会費125ドルが無駄になります</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>事業実態が全くない：</strong>個人事業主として申請する必要があるため、事業実態が全くない方は申請できません。ただし、ブログやYouTubeなど、何らかの事業実態があれば申請可能</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>5/24ルールを気にしない：</strong>過去24か月以内に5枚未満のクレカしか開設していない方。年会費95ドルで同様の無料宿泊券がもらえる<a href="https://ibis-dallas.com/marriott-bonvoy-boundless">Marriott Bonvoy Boundless</a>の方が年会費が安くお得です</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<p><a class="shiny-btn3" href="https://bit.ly/4hCwoW1" target="_blank" rel="noopener">自分に最適か確認する</a></p>
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="anker6">他カードとの役割整理（簡潔）</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Marriott Bonvoy Businessを、他のマリオットカードと比較して役割を明確にします。詳細な比較は<a href="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison">マリオットクレジットカード6枚比較</a>で解説していますが、ここではBusinessの判断に必要な情報のみを簡潔にまとめます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Boundless</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://ibis-dallas.com/marriott-bonvoy-boundless">Marriott Bonvoy Boundless</a>は年会費95ドルで、35,000ポイント相当の無料宿泊券が自動付与されます。Boundlessは<strong>年会費対価型</strong>のカードで、無料宿泊券の価値（約210～350ドル）で年会費を回収する考え方です。5/24ルールの対象ですが、年会費が30ドル安いため、5/24ルールを気にしない方にはBoundlessが適しています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Brilliant</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://ibis-dallas.com/marriott-bonvoy-brilliant">Marriott Bonvoy Brilliant</a>は年会費650ドルで、プラチナエリートステータスが自動付与され、85,000ポイント相当の無料宿泊券が自動付与されます。Brilliantは<strong>ステータス特化型</strong>のカードで、プラチナエリートステータスの価値を重視します。プラチナ特典を最初から欲しい方はBrilliant、年会費を抑えながら無料宿泊券を獲得したい方はBusinessが適しています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Bevy</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://ibis-dallas.com/marriott-bonvoy-bevy">Marriott Bonvoy Bevy</a>は年会費250ドルで、ゴールドステータスが自動付与されます。無料宿泊券は50,000ポイント相当ですが、年間15,000ドル利用が必要な利用付帯特典です。Bevyもプラチナではなくゴールドステータスのため、ステータス特典を最大限活用したい方はBrilliantの方が適しています。また、Businessの方が年会費が安く、無料宿泊券も自動付与されるため、コスパ重視の方にはBusinessが適しています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="anker7">よくある質問（FAQ）</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Q1. 日本在住でもMarriott Bonvoy Businessは作れるか？</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>A.</strong> Marriott Bonvoy BusinessはAmerican Expressが発行するカードのため、<strong>アメリカ在住者限定</strong>です。日本在住の方は、<a href="https://ibis-dallas.com/marriott-bonvoy-premium-card">マリオットプレミアムカード</a>をご検討ください。日本在住でBusinessを作ることはできません。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Q2. 個人事業主じゃないとダメ？</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>A.</strong> はい、<strong>個人事業主として申請する必要があります</strong>。ただし、法人登記は不要で、ブログ、YouTube、不動産、フリーランスなど、何らかの事業実態があれば申請可能です。事業実態が全くない方は申請できませんが、副業やブログなど、少しでも事業らしいことをやったことがあれば申請できます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>申請時の入力内容は以下の通りです：</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>Legal Business Name：個人名でOK（例：Taro Yamada）</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Business Address：個人住所でOK</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Industry Type：Otherを選択</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Company Structure：Sole Proprietorship（個人事業の意）</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Years in Business：Less than one year（若しくは該当するものを選択）</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Number of Employees：１（個人事業のため）</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Annual Business Revenue：個人事業で稼ぐ見込みの年間金額（年収を入力しておけば審査は通ります）</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Q3. 5/24に本当にカウントされない？</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>A.</strong> はい、<strong>Businessカードは5/24ルールにカウントされません</strong>。ビジネスカードは5/24ルールの対象外のため、過去24か月以内に5枚以上のクレジットカードを開設している方でも、Businessカードを申請できます。ただし、Chase銀行が発行するビジネスカード（例：Chase Ink Business）も5/24ルールの対象外ですが、Amex発行のBusinessカードも同様に対象外です。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Q4. 無料宿泊はいつ付与？</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>A.</strong> 無料宿泊特典は<strong>年会費更新時に自動付与</strong>されます。年会費125ドルが請求されるタイミングで、35,000ポイント相当の無料宿泊券がマリオットアカウントに自動的に追加されます。有効期限は付与日から1年間ですので、計画的に使用してください。無料宿泊特典の詳しい使い方は<a href="https://ibis-dallas.com/marriott-free-night-award">マリオット無料宿泊特典の使い方</a>で解説しています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Q5. Brilliantと併用できる？</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>A.</strong> はい、<strong>BrilliantとBusinessを併用できます</strong>。ただし、両方のカードを保有することで、以下のメリットが得られます：</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>無料宿泊券を毎年2枚獲得：Brilliant：85,000ポイント相当、Business：35,000ポイント相当で、合計120,000ポイント相当の無料宿泊券を獲得可能</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>宿泊実績40泊からスタート：Brilliant：25泊、Business：15泊で、合計40泊の宿泊実績を獲得。チタンエリート（75泊必要）まで残り35泊</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>ただし、年会費合計775ドル（Brilliant：650ドル、Business：125ドル）となるため、マリオットを年に複数回利用し、プラチナ特典を最大限活用できる方に適しています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="anker8">まとめ：Businessはコスパと戦略のカード</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Marriott Bonvoy Businessは、<strong>「コスパと戦略のカード」</strong>です。年会費125ドルで毎年35,000ポイント相当の無料宿泊券が自動付与されるため、年1泊以上マリオットに泊まる方なら確実に年会費を回収できます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>さらに、<strong>5/24ルールにカウントされない</strong>点が最大の強みです。Chaseカードを多く持っている方でも、Businessカードを申請できるため、Chase枠を温存しながら無料宿泊券を獲得できます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Boundlessと併用することで、<strong>毎年2枚の無料宿泊券（合計70,000ポイント相当）</strong>を獲得でき、宿泊実績も30泊からスタートできます。この「無料宿泊2枚戦略」は、マリオットを年に複数回利用する方にとって非常に有効です。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Businessが向いている人：</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>個人事業主・副業・フリーランスで、何らかの事業実態がある</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Chaseの5/24ルールを気にしている</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>マリオットを年1回以上利用する可能性がある</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>無料宿泊券を積み上げたい</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>宿泊実績15泊からスタートしてプラチナを目指したい</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<p><a class="shiny-btn3" href="https://bit.ly/4hCwoW1" target="_blank" rel="noopener">Marriott Bonvoy Businessを公式条件で確認する</a></p>
+
+<!-- wp:paragraph -->
+<p><strong>次に読むべき記事：</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><a href="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison">マリオットクレジットカード6枚徹底比較</a>：他のマリオットカードとの詳細な比較</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://ibis-dallas.com/marriott-bonvoy-boundless">Marriott Bonvoy Boundless徹底解説</a>：年会費95ドルで無料宿泊券がもらえるコスパ重視型のカード</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://ibis-dallas.com/marriott-bonvoy-brilliant">Marriott Bonvoy Brilliant徹底解説</a>：プラチナステータスや高級ホテルの無料宿泊を目指す方向け</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://ibis-dallas.com/marriott-free-night-award">マリオット無料宿泊特典の使い方完全ガイド</a>：35,000ポイント無料宿泊特典の活用法や注意点を詳しく解説</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison"]</p>
+
+<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-boundless"]</p>
+
+<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-brilliant"]</p>
+
+<p>[nlink url="https://ibis-dallas.com/marriott-free-night-award"]</p>

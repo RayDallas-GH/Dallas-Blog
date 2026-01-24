@@ -14,6 +14,11 @@
 <p>[box class="yellow_box" title="ヒルトン紹介プログラム"]</p>
 <p>[contact-form-7 id="d99b16b" title="ヒルトンアメックス紹介リンク"]</p>
 <p>[/box]</p>
+
+<!-- wp:html -->
+<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2Fgroup%2Ftiku%2F03kaigaiIndonesiaBali.html%3Fl-id%3Dkaigai_Area_indonesia_bali&vcptn=kaereba" rel="nofollow" target="_blank">楽天トラベルでバリ島のホテルを探してみる</a>
+<!-- /wp:html -->
+
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
 <li>1.<a href="#anker1">Viceroyバリの基本情報</a></li>
@@ -365,6 +370,10 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
+<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2Fgroup%2Ftiku%2F03kaigaiIndonesiaBali.html%3Fl-id%3Dkaigai_Area_indonesia_bali&vcptn=kaereba" rel="nofollow" target="_blank">楽天トラベルでバリ島のホテルを探してみる</a>
+<!-- /wp:html -->
+
+<!-- wp:html -->
 <!-- START MoshimoAffiliateEasyLink -->
 <script type="text/javascript">
 (function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
@@ -626,6 +635,11 @@ msmaflink({"n":"バウワースアンドウィルキンス Bowers \u0026 Wilkins
 <p>ダイヤモンド会員の特典として、無料朝食やルームアップグレードを受けることができ、より充実した滞在に。</p>
 <p>バリ島旅行での記念日に利用したいホテルと思いました。</p>
 <p>以上、少しでも参考になれば幸いです。</p>
+
+<!-- wp:html -->
+<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2Fgroup%2Ftiku%2F03kaigaiIndonesiaBali.html%3Fl-id%3Dkaigai_Area_indonesia_bali&vcptn=kaereba" rel="nofollow" target="_blank">楽天トラベルでバリ島のホテルを探してみる</a>
+<!-- /wp:html -->
+
 <p>[box class="yellow_box" title="ヒルトン紹介プログラム"]</p>
 <p>[contact-form-7 id="d99b16b" title="ヒルトンアメックス紹介リンク"]</p>
 <p>[/box]</p>

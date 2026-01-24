@@ -3,7 +3,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>今日は2025年現在のIHGクレジットカードについて徹底比較してみたいと思います。</p>
+<p>今日は2026年現在のIHGクレジットカードについて徹底比較してみたいと思います。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -321,7 +321,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>今日は2025年現在のIHG Rewards PremierとIHG Rewards Premier Businessについて徹底比較してみました。</p>
+<p>今日は2026年現在のIHG Rewards PremierとIHG Rewards Premier Businessについて徹底比較してみました。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

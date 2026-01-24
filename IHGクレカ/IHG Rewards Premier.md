@@ -493,7 +493,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>年会費無料のIHG Rewards Travelerと比較してどちらのクレカが魅力的でしょうか。</p>
+<p>年会費無料の<a href="https://ibis-dallas.com/ihg-rewards-traveler">IHG Rewards Traveler</a>と比較してどちらのクレカが魅力的でしょうか。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
