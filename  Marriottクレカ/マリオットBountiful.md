@@ -1,7 +1,7 @@
 <p>こんにちは、アポロです。</p>
 <p>今日はChase銀行が発行するマリオットBonvoy Bountifulクレジットカードを紹介します。</p>
 <p>これからマリオット系クレジットカードの作成を考えている方の参考になれば嬉しいです。</p>
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252t/G8IS5CVAR5" target="_blank" rel="noopener">マリオットBonvoy Bountifulに申し込む</a></p>
+<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252u/WORXRJKOY3" target="_blank" rel="noopener">マリオットBonvoy Bountifulに申し込む</a></p>
 <p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison"]</p>
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
@@ -43,7 +43,7 @@
 <h3 id="anker21">入会ボーナスが８５０００マリオットポイント</h3>
 <p>クレカ発行するだけで<strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">８５０００マリオットポイント</strong>がもらえます。</p>
 <p>３か月以内に４０００ドル利用してもらえる入会ボーナスです。</p>
-<p>現在のオファーは<a href="https://www.referyourchasecard.com/252t/G8IS5CVAR5" target="_blank" rel="noopener">公式サイト</a>にて最新情報をチェックしてみてください。</p>
+<p>現在のオファーは<a href="https://www.referyourchasecard.com/252u/WORXRJKOY3" target="_blank" rel="noopener">公式サイト</a>にて最新情報をチェックしてみてください。</p>
 <p>プロモとかやると１２万とか１５万とか出る印象があります。</p>
 <p>マリオットポイントの価値ですが１ポイント０．００８ドル（０．８セント）と計算しています。</p>
 <p>８５０００ポイントは６８０ドル相当の価値ですね。</p>
@@ -60,7 +60,7 @@
 </ul>
 <p>合計で１８．５倍という計算なのでご注意を。</p>
 <p>マリオット公式サイトから予約すれば誰でも１ドルにつき１０ポイント付与されますし、クレカ持っていなくてもゴールドステータスなら+２．５倍付与されます。</p>
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252t/G8IS5CVAR5" target="_blank" rel="noopener">マリオットBonvoy Bountifulに申し込む</a></p>
+<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252u/WORXRJKOY3" target="_blank" rel="noopener">マリオットBonvoy Bountifulに申し込む</a></p>
 <h3 id="anker23">スーパー、レストランで４倍ポイント（通常２倍還元）</h3>
 <p>グロセリー（つまりスーパーマーケット）、レストランの利用でポイント４倍還元です。</p>
 <p>最初の１５，０００ドルまでが対象です。</p>
@@ -121,7 +121,7 @@
 <p>ただし年会費は２５０ドル発生するデメリットもあります。</p>
 <p>入会特典だけもらって１年後に解約する選択肢もあるでしょう。</p>
 <p>年会費無料はBoldクレカです。</p>
-<p><a href="https://www.referyourchasecard.com/252t/G8IS5CVAR5" target="_blank" rel="noopener">Marriott Bonvoy Boldと比較してみる</a></p>
+<p><a href="https://www.referyourchasecard.com/252u/WORXRJKOY3" target="_blank" rel="noopener">Marriott Bonvoy Boldと比較してみる</a></p>
 <p>年会費無料のマリオットBonvoy Boldクレカレビュー記事は⇒</p>
 <p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-bold"]</p>
 <h2 id="anker4">マリオットBonvoy Bountifulクレジットカードまとめ</h2>
@@ -131,6 +131,6 @@
 <p><strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">マリオット宿泊で１８．５倍のマリオットポイント、その他の利用で２倍のマリオットポイントが付与</strong>されます。</p>
 <p>海外為替手数料も無料なので日本に持ち帰ってマリオット系ホテルに使うこともできます。</p>
 <p>以上、少しでも参考になれば幸いです。</p>
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252t/G8IS5CVAR5" target="_blank" rel="noopener">マリオットBonvoy Bountifulに申し込む</a></p>
+<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252u/WORXRJKOY3" target="_blank" rel="noopener">マリオットBonvoy Bountifulに申し込む</a></p>
 <p>[nlink url="https://ibis-dallas.com/ihg-traveler-premier-comparison"]</p>
 <p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-new-benefits"]</p>

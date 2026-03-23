@@ -36,7 +36,7 @@
 <p>一方で、<strong>このカードが向かない人は以下の通りです：</strong>プラチナステータスを最初から欲しい方は、年会費650ドルでプラチナ自動付与の<a href="https://ibis-dallas.com/marriott-bonvoy-brilliant">Marriott Bonvoy Brilliant</a>を検討してください。また、5/24ルールを気にしない方は、年会費95ドルで同様の無料宿泊券がもらえる<a href="https://ibis-dallas.com/marriott-bonvoy-boundless">Marriott Bonvoy Boundless</a>の方が年会費が安くお得です。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="https://bit.ly/4hCwoW1" target="_blank" rel="noopener">Marriott Bonvoy Businessを公式条件で確認する</a></p>
+<p><a class="shiny-btn3" href="https://bit.ly/4d9DQI1" target="_blank" rel="noopener">Marriott Bonvoy Businessを公式条件で確認する</a></p>
 
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
@@ -144,7 +144,7 @@
 <p>この「無料宿泊2枚戦略」は、マリオットを年に複数回利用する方にとって非常に有効です。年会費220ドルで毎年2泊分の無料宿泊券がもらえるため、実質的な年会費は大幅に相殺されます。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="https://bit.ly/4hCwoW1" target="_blank" rel="noopener">5/24ルール回避の条件をチェックする</a></p>
+<p><a class="shiny-btn3" href="https://bit.ly/4d9DQI1" target="_blank" rel="noopener">5/24ルール回避の条件をチェックする</a></p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker3">年会費125ドルは回収できるか</h2>
@@ -163,7 +163,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>例えば、<a href="https://ibis-dallas.com/courtyard-marriott-shin-osaka-station">コートヤード新大阪ステーション</a>や<a href="https://ibis-dallas.com/four-points-flex-osaka-umeda">フォーポイント フレックス by シェラトン大阪梅田</a>などの中級ホテルで活用できます。また、<strong>15,000ポイントを追加することで最大50,000ポイントまで使用可能</strong>になり、より高級なホテルでの宿泊も可能です。</p>
+<p>例えば、<a href="https://ibis-dallas.com/courtyard-marriott-shin-osaka-station">コートヤード新大阪ステーション</a>や<a href="https://ibis-dallas.com/four-points-flex-osaka-umeda">フォーポイント フレックス by シェラトン大阪梅田</a>などの中級ホテルで活用できます。また、<strong>25,000ポイントを追加することで最大60,000ポイントまで使用可能</strong>になり、より高級なホテルでの宿泊も可能です。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -198,7 +198,7 @@
 <p>さらに、マリオット宿泊時に7％割引が適用されるため、実際の宿泊費用も節約できます。これらの特典を総合的に評価すれば、年会費125ドルは十分に回収できるカードと言えるでしょう。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="https://bit.ly/4hCwoW1" target="_blank" rel="noopener">年会費125ドルの価値を確認する</a></p>
+<p><a class="shiny-btn3" href="https://bit.ly/4d9DQI1" target="_blank" rel="noopener">年会費125ドルの価値を確認する</a></p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker4">5/24ルール回避の価値</h2>
@@ -270,7 +270,7 @@
 <p>Boundlessでは、5,000ドル利用ごとに宿泊実績1泊が追加付与されるため、クレカ利用だけでステータスアップも可能です。この戦略は、プラチナステータスを目指す方にとって非常に有効です。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="https://bit.ly/4hCwoW1" target="_blank" rel="noopener">5/24ルール回避の条件をチェックする</a></p>
+<p><a class="shiny-btn3" href="https://bit.ly/4d9DQI1" target="_blank" rel="noopener">5/24ルール回避の条件をチェックする</a></p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker5">向いている人・向いていない人</h2>
@@ -328,7 +328,7 @@
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<p><a class="shiny-btn3" href="https://bit.ly/4hCwoW1" target="_blank" rel="noopener">自分に最適か確認する</a></p>
+<p><a class="shiny-btn3" href="https://bit.ly/4d9DQI1" target="_blank" rel="noopener">自分に最適か確認する</a></p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker6">他カードとの役割整理（簡潔）</h2>
@@ -496,7 +496,7 @@
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<p><a class="shiny-btn3" href="https://bit.ly/4hCwoW1" target="_blank" rel="noopener">Marriott Bonvoy Businessを公式条件で確認する</a></p>
+<p><a class="shiny-btn3" href="https://bit.ly/4d9DQI1" target="_blank" rel="noopener">Marriott Bonvoy Businessを公式条件で確認する</a></p>
 
 <!-- wp:paragraph -->
 <p><strong>次に読むべき記事：</strong></p>

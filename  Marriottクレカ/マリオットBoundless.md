@@ -28,7 +28,7 @@
 <p>一方で、<strong>このカードが向かない人は以下の通りです：</strong>年に1回もマリオットに泊まらない方、年会費無料で始めたい方は<a href="https://ibis-dallas.com/marriott-bonvoy-bold">Marriott Bonvoy Bold</a>を検討してください。また、プラチナエリートステータスを確実に獲得したい方や、85,000ポイント相当の無料宿泊券（高級ホテル対応）が欲しい方は、年会費650ドルの<a href="https://ibis-dallas.com/marriott-bonvoy-brilliant">Marriott Bonvoy Brilliant</a>の方が適しています。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252t/G8IS5CVAR5" target="_blank" rel="noopener">Marriott Bonvoy Boundlessを公式条件で確認する</a></p>
+<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252u/WORXRJKOY3" target="_blank" rel="noopener">Marriott Bonvoy Boundlessを公式条件で確認する</a></p>
 
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
@@ -94,14 +94,14 @@
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>さらに、<strong>15,000ポイントを追加することで最大50,000ポイントまで使用可能</strong>になり、より高級なホテルでの宿泊も可能になります。例えば<a href="https://ibis-dallas.com/jw-marriott-nara">JWマリオットホテル奈良</a>や<a href="https://ibis-dallas.com/courtyard-marriott-shin-osaka-station">コートヤード新大阪ステーション</a>など、実際の宿泊記があるホテルでも利用できます。無料宿泊特典の詳しい使い方は<a href="https://ibis-dallas.com/marriott-free-night-award">マリオット無料宿泊特典の使い方</a>で解説しています。</p>
+<p>さらに、<strong>25,000ポイントを追加することで最大60,000ポイントまで使用可能</strong>になり、より高級なホテルでの宿泊も可能になります。例えば<a href="https://ibis-dallas.com/jw-marriott-nara">JWマリオットホテル奈良</a>や<a href="https://ibis-dallas.com/courtyard-marriott-shin-osaka-station">コートヤード新大阪ステーション</a>など、実際の宿泊記があるホテルでも利用できます。無料宿泊特典の詳しい使い方は<a href="https://ibis-dallas.com/marriott-free-night-award">マリオット無料宿泊特典の使い方</a>で解説しています。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p>つまり、<strong>年会費95ドルを支払って、210～350ドル相当の無料宿泊券が毎年もらえる</strong>ため、年1回以上マリオットに泊まる方であれば、年会費を確実に回収できるカードです。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252t/G8IS5CVAR5" target="_blank" rel="noopener">年会費95ドルの価値を確認する</a></p>
+<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252u/WORXRJKOY3" target="_blank" rel="noopener">年会費95ドルの価値を確認する</a></p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker3">無料宿泊特典の注意点と落とし穴</h2>
@@ -116,7 +116,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>無料宿泊特典は<strong>35,000ポイントまで</strong>のホテルが対象です。カテゴリー5までのホテルに限定されるため、リッツカールトンやセントレジスなどの高級ホテルは通常利用できません。ただし、<strong>15,000ポイントを追加することで最大50,000ポイントまで使用可能</strong>になり、カテゴリー6のホテル（例：JWマリオットホテル奈良）でも宿泊できます。</p>
+<p>無料宿泊特典は<strong>35,000ポイントまで</strong>のホテルが対象です。カテゴリー5までのホテルに限定されるため、リッツカールトンやセントレジスなどの高級ホテルは通常利用できません。ただし、<strong>25,000ポイントを追加することで最大60,000ポイントまで使用可能</strong>になり、必要ポイントが少し上のホテルでも宿泊できる可能性が広がります。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -143,7 +143,7 @@
 <p>無料宿泊特典は<strong>マリオット会員本人以外は使用できません</strong>。規約で譲渡不可と明記されているため、他人にプレゼントすることはできません。本人以外が宿泊する場合は、ポイント宿泊（電話予約で譲渡可能）を検討してください。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252t/G8IS5CVAR5" target="_blank" rel="noopener">無料宿泊特典の条件をチェックする</a></p>
+<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252u/WORXRJKOY3" target="_blank" rel="noopener">無料宿泊特典の条件をチェックする</a></p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker4">Boundlessで得られるステータスと限界</h2>
@@ -256,11 +256,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Q4. 無料宿泊特典に15,000ポイントを追加できるのは本当か？</h3>
+<h3 class="wp-block-heading">Q4. 無料宿泊特典に25,000ポイントを追加できるのは本当か？</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><strong>A.</strong> はい、<strong>2022年の改善により、無料宿泊特典に最大15,000ポイントを追加できるようになりました</strong>。Boundlessの35,000ポイント相当の無料宿泊特典に15,000ポイントを追加することで、最大50,000ポイントまで使用可能になり、カテゴリー6のホテル（例：JWマリオットホテル奈良）でも宿泊できます。追加は15,000ポイント一括ではなく、必要な分だけ追加することも可能です（例：3,000ポイント、7,000ポイントなど）。</p>
+<p><strong>A.</strong> はい、<strong>無料宿泊特典は最大25,000ポイントまで追加（トップオフ）できます</strong>。Boundlessの35,000ポイント相当の無料宿泊特典にポイントを追加することで、<strong>最大60,000ポイントまで</strong>のホテルに使えるようになります。追加は25,000ポイント一括ではなく、必要な分だけ追加することも可能です（例：3,000ポイント、7,000ポイントなど）。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -293,7 +293,7 @@
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252t/G8IS5CVAR5" target="_blank" rel="noopener">Marriott Bonvoy Boundlessを公式条件で確認する</a></p>
+<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252u/WORXRJKOY3" target="_blank" rel="noopener">Marriott Bonvoy Boundlessを公式条件で確認する</a></p>
 
 <!-- wp:paragraph -->
 <p><strong>次に読むべき記事：</strong></p>

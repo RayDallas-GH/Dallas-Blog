@@ -6,7 +6,7 @@
 <p><strong>結論：Marriott Bonvoy Brilliantは、プラチナエリートステータスを確実に、手間なく取得したい人にとって最強の1枚です。</strong>年会費650ドルと高額ですが、自動でプラチナエリートが付与されるだけでなく、年間300ドルの食事クレジット、85,000ポイント相当の無料宿泊券（約510～850ドル相当）、Priority Pass Select（429ドル相当）など、実質的な年会費は大幅に相殺されます。マリオットを年に複数回利用し、朝食無料・ラウンジアクセス・客室アップグレードなどの上級会員特典を重視する方にとって、年会費以上の価値を提供するカードです。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="https://www.americanexpress.com/en-us/referral/personal/marriott-bonvoy-brilliant-card?CORID=S~H~U~H~E~T~O~s~0~n-1763822112219-845569&amp;GENCODE=349992989701079&amp;XL=MIMNS&amp;extlink=US-MGM-MOBI_MEMBERSHIP-native-474-205937-K94O%3A9990&amp;ref=SHUHETOs0n&amp;v=2" target="_blank" rel="noopener">Marriott Bonvoy Brilliantを公式条件で確認する</a></p>
+<p><a class="shiny-btn3" href="https://www.americanexpress.com/en-us/credit-cards/referral/prospect/cards/personal/vanity/marriott-bonvoy-business-american-express-card?CORID=S~H~U~H~E~T~z~z~b~C-1774228940892-660416&amp;GENCODE=349992989701079&amp;XL=MIMNS&amp;extlink=US-MGM-MOBI_MEMBERSHIP-native-474-205937-KB9Q%3A9989&amp;ref=SHUHETzzbC&amp;v=2&amp;xrefer=marriott-bonvoy-business-american-express-card" target="_blank" rel="noopener">Marriott Bonvoy Brilliantを公式条件で確認する</a></p>
 
 <!-- wp:paragraph -->
 <p><strong>Marriott Bonvoy Brilliantが向いている人は以下の通りです：</strong></p>
@@ -159,7 +159,7 @@
 <p>これらの実体験から言えることは、<strong>プラチナエリートステータスは毎回の宿泊で実際の価値を提供する</strong>ということです。年会費650ドルという金額を、ステータスを買うコストとして捉え、年間複数回の宿泊で回収する考え方が重要です。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="https://www.americanexpress.com/en-us/referral/personal/marriott-bonvoy-brilliant-card?CORID=S~H~U~H~E~T~O~s~0~n-1763822112219-845569&amp;GENCODE=349992989701079&amp;XL=MIMNS&amp;extlink=US-MGM-MOBI_MEMBERSHIP-native-474-205937-K94O%3A9990&amp;ref=SHUHETOs0n&amp;v=2" target="_blank" rel="noopener">プラチナ自動付与の条件をチェックする</a></p>
+<p><a class="shiny-btn3" href="https://www.americanexpress.com/en-us/credit-cards/referral/prospect/cards/personal/vanity/marriott-bonvoy-business-american-express-card?CORID=S~H~U~H~E~T~z~z~b~C-1774228940892-660416&amp;GENCODE=349992989701079&amp;XL=MIMNS&amp;extlink=US-MGM-MOBI_MEMBERSHIP-native-474-205937-KB9Q%3A9989&amp;ref=SHUHETzzbC&amp;v=2&amp;xrefer=marriott-bonvoy-business-american-express-card" target="_blank" rel="noopener">プラチナ自動付与の条件をチェックする</a></p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker4">年会費650ドルは回収できるのか</h2>
@@ -205,7 +205,7 @@
 <p>食事クレジット300ドル、無料宿泊券510～850ドル相当、Priority Pass 429ドル相当を合計すると、年会費650ドルを大幅に上回る価値があります。さらに、プラチナステータスによる毎回の宿泊での特典（朝食無料、ラウンジ、アップグレードなど）の価値を加味すれば、年間複数回マリオットに宿泊する方にとって、年会費以上の価値を享受できるカードです。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="https://www.americanexpress.com/en-us/referral/personal/marriott-bonvoy-brilliant-card?CORID=S~H~U~H~E~T~O~s~0~n-1763822112219-845569&amp;GENCODE=349992989701079&amp;XL=MIMNS&amp;extlink=US-MGM-MOBI_MEMBERSHIP-native-474-205937-K94O%3A9990&amp;ref=SHUHETOs0n&amp;v=2" target="_blank" rel="noopener">年会費650ドルの価値を確認する</a></p>
+<p><a class="shiny-btn3" href="https://www.americanexpress.com/en-us/credit-cards/referral/prospect/cards/personal/vanity/marriott-bonvoy-business-american-express-card?CORID=S~H~U~H~E~T~z~z~b~C-1774228940892-660416&amp;GENCODE=349992989701079&amp;XL=MIMNS&amp;extlink=US-MGM-MOBI_MEMBERSHIP-native-474-205937-KB9Q%3A9989&amp;ref=SHUHETzzbC&amp;v=2&amp;xrefer=marriott-bonvoy-business-american-express-card" target="_blank" rel="noopener">年会費650ドルの価値を確認する</a></p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker5">他のマリオットカードとの役割の違い</h2>
@@ -327,7 +327,7 @@
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<p><a class="shiny-btn3" href="https://www.americanexpress.com/en-us/referral/personal/marriott-bonvoy-brilliant-card?CORID=S~H~U~H~E~T~O~s~0~n-1763822112219-845569&amp;GENCODE=349992989701079&amp;XL=MIMNS&amp;extlink=US-MGM-MOBI_MEMBERSHIP-native-474-205937-K94O%3A9990&amp;ref=SHUHETOs0n&amp;v=2" target="_blank" rel="noopener">Marriott Bonvoy Brilliantを公式条件で確認する</a></p>
+<p><a class="shiny-btn3" href="https://www.americanexpress.com/en-us/credit-cards/referral/prospect/cards/personal/vanity/marriott-bonvoy-business-american-express-card?CORID=S~H~U~H~E~T~z~z~b~C-1774228940892-660416&amp;GENCODE=349992989701079&amp;XL=MIMNS&amp;extlink=US-MGM-MOBI_MEMBERSHIP-native-474-205937-KB9Q%3A9989&amp;ref=SHUHETzzbC&amp;v=2&amp;xrefer=marriott-bonvoy-business-american-express-card" target="_blank" rel="noopener">Marriott Bonvoy Brilliantを公式条件で確認する</a></p>
 
 <!-- wp:paragraph -->
 <p><strong>次に読むべき記事：</strong></p>

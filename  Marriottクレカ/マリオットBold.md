@@ -6,7 +6,7 @@
 <p><strong>結論：Marriott Bonvoy Boldは、年会費を1ドルも払いたくないマリオット初心者には最適ですが、年1回以上確実にマリオットに泊まる方には向きません。</strong>年会費無料という最大のメリットがある一方で、無料宿泊特典が一切ない点が明確な限界です。Boldは「最初の1枚」「様子見カード」として位置づけられ、本気でマリオットを活用するなら<a href="https://ibis-dallas.com/marriott-bonvoy-boundless">Marriott Bonvoy Boundless</a>（年会費95ドル・無料宿泊付き）や<a href="https://ibis-dallas.com/marriott-bonvoy-business">Marriott Bonvoy Business</a>（年会費125ドル・無料宿泊付き）への切り替えを検討すべきカードです。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252t/G8IS5CVAR5" target="_blank" rel="noopener">Marriott Bonvoy Boldを公式条件で確認する</a></p>
+<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252u/WORXRJKOY3" target="_blank" rel="noopener">Marriott Bonvoy Boldを公式条件で確認する</a></p>
 
 <!-- wp:paragraph -->
 <p><strong>Marriott Bonvoy Boldが向いている人は以下の通りです：</strong></p>
@@ -91,7 +91,7 @@
 <p>Boldの最大の特徴は、<strong>年会費無料でありながらマリオットアカウントを育成できる</strong>点です。宿泊実績5泊が自動付与され、シルバーステータスも即座に獲得できるため、マリオット初心者がリスクなく始められる「入口カード」として最適です。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252t/G8IS5CVAR5" target="_blank" rel="noopener">年会費無料の条件を確認する</a></p>
+<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252u/WORXRJKOY3" target="_blank" rel="noopener">年会費無料の条件を確認する</a></p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker2">Boldの最大のメリットは何か</h2>
@@ -159,7 +159,7 @@
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252t/G8IS5CVAR5" target="_blank" rel="noopener">初心者向けカードの条件を確認する</a></p>
+<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252u/WORXRJKOY3" target="_blank" rel="noopener">初心者向けカードの条件を確認する</a></p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker3">Boldの明確なデメリット</h2>
@@ -239,7 +239,7 @@
 <p>マリオットを頻繁に利用する方なら、Boundless（マリオット宿泊6倍、スーパー・ガス・レストラン3倍）やBusiness（マリオット宿泊7倍、レストラン・ガス4倍）の方が還元率が高く、メインカードとして適しています。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252t/G8IS5CVAR5" target="_blank" rel="noopener">デメリットを理解した上で確認する</a></p>
+<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252u/WORXRJKOY3" target="_blank" rel="noopener">デメリットを理解した上で確認する</a></p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker4">他カードとの役割の違い</h2>
@@ -309,7 +309,7 @@
 <p>Boldでマリオットポイントを貯め、宿泊実績も5泊からスタートできるため、将来的に上位カードに切り替える際の基盤となります。ただし、年1回以上確実にマリオットに泊まる予定があるなら、最初からBoundlessやBusinessを検討すべきです。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252t/G8IS5CVAR5" target="_blank" rel="noopener">役割の違いを理解した上で確認する</a></p>
+<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252u/WORXRJKOY3" target="_blank" rel="noopener">役割の違いを理解した上で確認する</a></p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker5">向いている人・向いていない人</h2>
@@ -371,7 +371,7 @@
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252t/G8IS5CVAR5" target="_blank" rel="noopener">自分に最適か確認する</a></p>
+<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252u/WORXRJKOY3" target="_blank" rel="noopener">自分に最適か確認する</a></p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker6">よくある質問（FAQ）</h2>
@@ -437,7 +437,7 @@
 <p>ただし、プラチナを目指すなら、BoundlessやBusinessの15泊からスタートする方が効率的です。Boldは「年会費無料で始める」という位置づけであり、宿泊実績の多さは重視されていません。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252t/G8IS5CVAR5" target="_blank" rel="noopener">よくある質問を確認した上で申し込む</a></p>
+<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252u/WORXRJKOY3" target="_blank" rel="noopener">よくある質問を確認した上で申し込む</a></p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker7">まとめ＋次の一手</h2>
@@ -485,7 +485,7 @@
 <p>また、プラチナエリートステータスを最初から欲しい方は、<a href="https://ibis-dallas.com/marriott-bonvoy-brilliant">Marriott Bonvoy Brilliant</a>（年会費650ドル・プラチナ自動付与・85,000ポイント無料宿泊）を検討してください。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252t/G8IS5CVAR5" target="_blank" rel="noopener">Marriott Bonvoy Boldを公式条件で確認する</a></p>
+<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252u/WORXRJKOY3" target="_blank" rel="noopener">Marriott Bonvoy Boldを公式条件で確認する</a></p>
 
 <!-- wp:paragraph -->
 <p><strong>次に読むべき記事：</strong></p>
