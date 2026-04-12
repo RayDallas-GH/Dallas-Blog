@@ -690,13 +690,9 @@
 <h2 class="wp-block-heading" id="anker3">2026年開業予定</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph -->
-<p>2026年開業予定は今のところありません。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul></ul>
-<!-- /wp:list -->
+<!-- wp:list-item -->
+<li>ANAホリデイ・イン神戸三田（2026年4月27日リブランド開業）</li>
+<!-- /wp:list-item -->
 
 <!-- wp:paragraph -->
 <p>沖縄県ではインターコンチネンタル3か所目となる「インターコンチネンタル沖縄美ら海SUNリゾート」も2023年に予定されていましたが、現状工事着手したニュースは入っておらずかなり不透明です。</p>
@@ -721,10 +717,6 @@
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
 <li>北海道ニセコ シックスセンシズ（2027年）</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>ANAホリデイ・イン神戸三田（2027年）</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
