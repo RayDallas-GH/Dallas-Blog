@@ -57,7 +57,7 @@
 </ul>
 <p>[/box]</p>
 
-<p><a class="shiny-btn4" href="https://bit.ly/3NDRbh6" target="_blank" rel="noopener">Hilton Surpassクレジットカードに申し込む</a></p>
+<p><a class="shiny-btn4" href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHET6Htt&XLINK=MYCP" target="_blank" rel="noopener">Hilton Surpassクレジットカードに申し込む</a></p>
 
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
@@ -138,7 +138,7 @@
 <p>[nlink url="https://ibis-dallas.com/hilton-business-creditcard"]</p>
 <p>[nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"]</p>
 
-<p><a class="shiny-btn4" href="https://bit.ly/3NDRbh6" target="_blank" rel="noopener">Hilton Surpassクレジットカードに申し込む</a></p>
+<p><a class="shiny-btn4" href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHET6Htt&XLINK=MYCP" target="_blank" rel="noopener">Hilton Surpassクレジットカードに申し込む</a></p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker2">Hilton Surpassをおすすめする理由</h2>
@@ -166,7 +166,7 @@
 
 <p>[nlink url="https://ibis-dallas.com/hilton-business-creditcard"]</p>
 
-<p><a class="shiny-btn4" href="https://bit.ly/3NDRbh6" target="_blank" rel="noopener">Hilton Surpassクレジットカードに申し込む</a></p>
+<p><a class="shiny-btn4" href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHET6Htt&XLINK=MYCP" target="_blank" rel="noopener">Hilton Surpassクレジットカードに申し込む</a></p>
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker22">ポイント還元率が高い（ヒルトン宿泊で12倍還元）</h3>
@@ -252,7 +252,7 @@
 <p>朝食ブッフェになると一人$20も請求するホテルがありますので、夫婦で$40の節約になります。年間数回宿泊するだけでも、年会費$150を十分に回収できます。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn4" href="https://bit.ly/3NDRbh6" target="_blank" rel="noopener">毎回のヒルトン宿泊で朝食が無料になるHilton Surpass申し込み</a></p>
+<p><a class="shiny-btn4" href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHET6Htt&XLINK=MYCP" target="_blank" rel="noopener">毎回のヒルトン宿泊で朝食が無料になるHilton Surpass申し込み</a></p>
 <p>[nlink url="https://ibis-dallas.com/hilton-gold-benefits"]</p>
 
 <!-- wp:heading {"level":3} -->
@@ -690,7 +690,7 @@
 
 <p>[nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"]</p>
 
-<p><a class="shiny-btn4" href="https://bit.ly/3NDRbh6" target="_blank" rel="noopener">Amex Hilton Surpassクレジットカード申し込み</a></p>
+<p><a class="shiny-btn4" href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHET6Htt&XLINK=MYCP" target="_blank" rel="noopener">Amex Hilton Surpassクレジットカード申し込み</a></p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker9">関連記事</h2>

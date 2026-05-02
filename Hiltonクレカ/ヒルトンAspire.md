@@ -57,7 +57,7 @@
 </ul>
 <p>[/box]</p>
 
-<p><a class="shiny-btn4" href="https://bit.ly/3NDRbh6" target="_blank" rel="noopener">Hilton Aspireクレジットカードに申し込む</a></p>
+<p><a class="shiny-btn4" href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHETOHuZ&XLINK=MYCP" target="_blank" rel="noopener">Hilton Aspireクレジットカードに申し込む</a></p>
 
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
@@ -199,7 +199,7 @@
 <p>これだけで年会費$550を大幅に上回る価値です。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn4" href="https://bit.ly/3NDRbh6" target="_blank" rel="noopener">Hilton Aspireクレジットカードに申し込む</a></p>
+<p><a class="shiny-btn4" href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHETOHuZ&XLINK=MYCP" target="_blank" rel="noopener">Hilton Aspireクレジットカードに申し込む</a></p>
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker22">ポイント還元率が高い（ヒルトン宿泊で14倍還元）</h3>
@@ -339,7 +339,7 @@
 <p>例えば、<a href="https://ibis-dallas.com/conrad-tokyo">コンラッド東京</a>や<a href="https://ibis-dallas.com/roku-kyoto">ROKU KYOTO</a>で1泊すると、通常$300～$500程度の価値があります。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn4" href="https://bit.ly/3NDRbh6" target="_blank" rel="noopener">ヒルトンAspireを作成して無料宿泊特典をゲットしよう</a></p>
+<p><a class="shiny-btn4" href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHETOHuZ&XLINK=MYCP" target="_blank" rel="noopener">ヒルトンAspireを作成して無料宿泊特典をゲットしよう</a></p>
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker26">年間$400のヒルトンリゾートクレジット付与</h3>
@@ -826,7 +826,7 @@
 
 <p>[nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"]</p>
 
-<p><a class="shiny-btn4" href="https://bit.ly/3NDRbh6" target="_blank" rel="noopener">Hilton Aspireクレジットカードに申し込む</a></p>
+<p><a class="shiny-btn4" href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHETOHuZ&XLINK=MYCP" target="_blank" rel="noopener">Hilton Aspireクレジットカードに申し込む</a></p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker9">関連記事</h2>

@@ -58,7 +58,7 @@
 </ul>
 <p>[/box]</p>
 
-<p><a class="shiny-btn4" href="https://bit.ly/4bAHUjn" target="_blank" rel="noopener">Hilton Businessクレジットカードに申し込む</a></p>
+<p><a class="shiny-btn4" href="https://americanexpress.com/en-us/referral/hilton-honors-american-express-business-credit-card?ref=SHUHETOO30&XLINK=MYCP" target="_blank" rel="noopener">Hilton Businessクレジットカードに申し込む</a></p>
 
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
@@ -123,7 +123,7 @@
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<p><a class="shiny-btn4" href="https://bit.ly/4bAHUjn" target="_blank" rel="noopener">Hilton Businessクレジットカードに申し込む</a></p>
+<p><a class="shiny-btn4" href="https://americanexpress.com/en-us/referral/hilton-honors-american-express-business-credit-card?ref=SHUHETOO30&XLINK=MYCP" target="_blank" rel="noopener">Hilton Businessクレジットカードに申し込む</a></p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker2">Hilton Businessをおすすめする理由</h2>
@@ -149,7 +149,7 @@
 <p>これだけで年会費$195を大幅に上回る価値です。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn4" href="https://bit.ly/4bAHUjn" target="_blank" rel="noopener">Hilton Businessクレジットカードに申し込む</a></p>
+<p><a class="shiny-btn4" href="https://americanexpress.com/en-us/referral/hilton-honors-american-express-business-credit-card?ref=SHUHETOO30&XLINK=MYCP" target="_blank" rel="noopener">Hilton Businessクレジットカードに申し込む</a></p>
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker22">年間$240のHiltonクレジット付与（四半期ごとに$60）</h3>
@@ -193,7 +193,7 @@
 <p>なお、年間利用額$40,000達成でダイヤモンド会員が付与されます。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn4" href="https://bit.ly/4bAHUjn" target="_blank" rel="noopener">毎回のヒルトン宿泊で朝食が無料になるHilton Business申し込み</a></p>
+<p><a class="shiny-btn4" href="https://americanexpress.com/en-us/referral/hilton-honors-american-express-business-credit-card?ref=SHUHETOO30&XLINK=MYCP" target="_blank" rel="noopener">毎回のヒルトン宿泊で朝食が無料になるHilton Business申し込み</a></p>
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker24">ポイント還元率（ヒルトン宿泊で12倍還元）</h3>
@@ -662,7 +662,7 @@
 
 <p>[nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"]</p>
 
-<p><a class="shiny-btn4" href="https://bit.ly/4bAHUjn" target="_blank" rel="noopener">Hilton Businessクレジットカードに申し込む</a></p>
+<p><a class="shiny-btn4" href="https://americanexpress.com/en-us/referral/hilton-honors-american-express-business-credit-card?ref=SHUHETOO30&XLINK=MYCP" target="_blank" rel="noopener">Hilton Businessクレジットカードに申し込む</a></p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker10">関連記事</h2>

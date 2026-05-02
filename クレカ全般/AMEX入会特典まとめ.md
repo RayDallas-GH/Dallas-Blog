@@ -199,44 +199,44 @@ MRポイント系クレカの中で入会特典が最も多いのは<strong>Plat
 <td style="width: 35%;">獲得条件</td>
 </tr>
 <tr>
-<td style="width: 25%;"><a href="https://bit.ly/3NDRbh6" target="_blank" rel="noopener">Hilton Honors American Express Aspire Card</a></td>
+<td style="width: 25%;"><a href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHETOHuZ&XLINK=MYCP" target="_blank" rel="noopener">Hilton Honors American Express Aspire Card</a></td>
 <td style="width: 15%;">$550</td>
 <td style="width: 25%;">175,000ヒルトンポイント</td>
 <td style="width: 35%;">最初の6ヶ月で$6,000利用（期限：1/14/2026まで）</td>
 </tr>
 <tr>
-<td style="width: 25%;"><a href="https://bit.ly/3NDRbh6" target="_blank" rel="noopener">Hilton Honors American Express Surpass Card</a></td>
+<td style="width: 25%;"><a href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHET6Htt&XLINK=MYCP" target="_blank" rel="noopener">Hilton Honors American Express Surpass Card</a></td>
 <td style="width: 15%;">$150</td>
 <td style="width: 25%;">155,000ヒルトンポイント</td>
 <td style="width: 35%;">最初の6ヶ月で$3,000利用（期限：1/14/26まで）</td>
 </tr>
 <tr>
-<td style="width: 25%;"><a href="https://bit.ly/3NDRbh6" target="_blank" rel="noopener">Hilton Honors American Express Card</a></td>
+<td style="width: 25%;"><a href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHET6Htt&XLINK=MYCP" target="_blank" rel="noopener">Hilton Honors American Express Card</a></td>
 <td style="width: 15%;">無料</td>
 <td style="width: 25%;">100,000ヒルトンポイント</td>
 <td style="width: 35%;">最初の6ヶ月で$2,000利用（期限：1/14/2026まで）</td>
 </tr>
 <tr>
-<td style="width: 25%;"><a href="https://www.americanexpress.com/en-us/credit-cards/referral/prospect/cards/personal/vanity/marriott-bonvoy-business-american-express-card?CORID=S~H~U~H~E~T~z~z~b~C-1774228940892-660416&amp;GENCODE=349992989701079&amp;XL=MIMNS&amp;extlink=US-MGM-MOBI_MEMBERSHIP-native-474-205937-KB9Q%3A9989&amp;ref=SHUHETzzbC&amp;v=2&amp;xrefer=marriott-bonvoy-business-american-express-card" target="_blank" rel="noopener">Marriott Bonvoy Bevy American Express Card</a></td>
+<td style="width: 25%;"><a href="https://americanexpress.com/en-us/referral/marriott-bonvoy-bevy-american-express-card?ref=SHUHETzzbC&amp;XLINK=MYCP" target="_blank" rel="noopener">Marriott Bonvoy Bevy American Express Card</a></td>
 <td style="width: 15%;">$250</td>
 <td style="width: 25%;">85,000マリオットポイント</td>
 <td style="width: 35%;">最初の6ヶ月で$5,000利用</td>
 </tr>
 <tr>
-<td style="width: 25%;"><a href="https://www.americanexpress.com/en-us/credit-cards/referral/prospect/cards/personal/vanity/marriott-bonvoy-business-american-express-card?CORID=S~H~U~H~E~T~z~z~b~C-1774228940892-660416&amp;GENCODE=349992989701079&amp;XL=MIMNS&amp;extlink=US-MGM-MOBI_MEMBERSHIP-native-474-205937-KB9Q%3A9989&amp;ref=SHUHETzzbC&amp;v=2&amp;xrefer=marriott-bonvoy-business-american-express-card" target="_blank" rel="noopener">Marriott Bonvoy Brilliant American Express Card</a></td>
+<td style="width: 25%;"><a href="https://americanexpress.com/en-us/referral/marriott-bonvoy-brilliant-american-express-card?ref=SHUHETzzbC&amp;XLINK=MYCP" target="_blank" rel="noopener">Marriott Bonvoy Brilliant American Express Card</a></td>
 <td style="width: 15%;">$650</td>
 <td style="width: 25%;">100,000マリオットポイント</td>
 <td style="width: 35%;">最初の6ヶ月で$6,000利用</td>
 </tr>
 </tbody>
 </table>
-ホテル系では<strong><a href="https://bit.ly/3NDRbh6" target="_blank" rel="noopener">Hilton Honors American Express Aspire Card</a></strong>の175,000ヒルトンポイントが最も多い入会特典です。
+ホテル系では<strong><a href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHETOHuZ&XLINK=MYCP" target="_blank" rel="noopener">Hilton Honors American Express Aspire Card</a></strong>の175,000ヒルトンポイントが最も多い入会特典です。
 
 年会費$550で175,000ポイントはかなりお得な特典と言えるでしょう。
 
-年会費を抑えたい方は、年会費無料の<strong><a href="https://bit.ly/3NDRbh6" target="_blank" rel="noopener">Hilton Honors American Express Card</a></strong>の100,000ヒルトンポイントも選択肢の一つです。
+年会費を抑えたい方は、年会費無料の<strong><a href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHET6Htt&XLINK=MYCP" target="_blank" rel="noopener">Hilton Honors American Express Card</a></strong>の100,000ヒルトンポイントも選択肢の一つです。
 
-<strong><a href="https://www.americanexpress.com/en-us/credit-cards/referral/prospect/cards/personal/vanity/marriott-bonvoy-business-american-express-card?CORID=S~H~U~H~E~T~z~z~b~C-1774228940892-660416&amp;GENCODE=349992989701079&amp;XL=MIMNS&amp;extlink=US-MGM-MOBI_MEMBERSHIP-native-474-205937-KB9Q%3A9989&amp;ref=SHUHETzzbC&amp;v=2&amp;xrefer=marriott-bonvoy-business-american-express-card" target="_blank" rel="noopener">Marriott Bonvoy Brilliant American Express Card</a></strong>は年会費$650で100,000マリオットポイントがもらえるカードです。
+<strong><a href="https://americanexpress.com/en-us/referral/marriott-bonvoy-brilliant-american-express-card?ref=SHUHETzzbC&amp;XLINK=MYCP" target="_blank" rel="noopener">Marriott Bonvoy Brilliant American Express Card</a></strong>は年会費$650で100,000マリオットポイントがもらえるカードです。
 
 年会費は高めですが、プラチナエリートステータスが自動付与されるなど、年会費以上の価値がある特典が付いています。
 
@@ -383,9 +383,9 @@ MRポイント系クレカの中で入会特典が最も多いのは<strong>Plat
 </table>
 ランキングを見ると、ホテル系のカードが上位を占めています。
 
-特に<strong><a href="https://bit.ly/3NDRbh6" target="_blank" rel="noopener">Hilton Honors American Express Aspire Card</a></strong>が175,000ヒルトンポイントでトップです。
+特に<strong><a href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHETOHuZ&XLINK=MYCP" target="_blank" rel="noopener">Hilton Honors American Express Aspire Card</a></strong>が175,000ヒルトンポイントでトップです。
 
-年会費を考慮すると、<strong><a href="https://bit.ly/3NDRbh6" target="_blank" rel="noopener">Hilton Honors American Express Surpass Card</a></strong>の年会費$150で155,000ヒルトンポイントはコストパフォーマンスが高いと言えるでしょう。
+年会費を考慮すると、<strong><a href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHET6Htt&XLINK=MYCP" target="_blank" rel="noopener">Hilton Honors American Express Surpass Card</a></strong>の年会費$150で155,000ヒルトンポイントはコストパフォーマンスが高いと言えるでしょう。
 <h2 id="anker7">入会特典を獲得する際の注意点</h2>
 <img class="alignnone wp-image-30291 size-full" src="https://ibis-dallas.com/wp-content/uploads/2025/11/abstract_concept_of_American_credit_card_culture_2.jpg" alt="アメリカのクレジットカードイメージ" width="1456" height="816" />
 
@@ -417,11 +417,11 @@ MRポイント系クレカの中で入会特典が最も多いのは<strong>Plat
 
 2026年1月時点で計14枚のアメックスクレジットカードの入会特典を比較できるようにしました。
 
-入会特典が最も多いのは<strong><a href="https://bit.ly/3NDRbh6" target="_blank" rel="noopener">Hilton Honors American Express Aspire Card</a></strong>の175,000ヒルトンポイントです。
+入会特典が最も多いのは<strong><a href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHETOHuZ&XLINK=MYCP" target="_blank" rel="noopener">Hilton Honors American Express Aspire Card</a></strong>の175,000ヒルトンポイントです。
 
 ただし、年会費も$550と高めなので、年会費を考慮した判断も重要です。
 
-年会費を抑えたい方は、年会費無料の<strong><a href="https://bit.ly/3NDRbh6" target="_blank" rel="noopener">Hilton Honors American Express Card</a></strong>の100,000ヒルトンポイントや、<strong>Blue Cash Everyday Card</strong>の$200バックも選択肢の一つです。
+年会費を抑えたい方は、年会費無料の<strong><a href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHET6Htt&XLINK=MYCP" target="_blank" rel="noopener">Hilton Honors American Express Card</a></strong>の100,000ヒルトンポイントや、<strong>Blue Cash Everyday Card</strong>の$200バックも選択肢の一つです。
 
 入会特典はカード選びの重要な判断材料の一つですが、年会費や還元率、その他の特典も総合的に判断して選ぶことをおすすめします。
 

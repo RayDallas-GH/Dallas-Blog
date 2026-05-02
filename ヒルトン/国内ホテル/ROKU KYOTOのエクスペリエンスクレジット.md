@@ -1,4 +1,15 @@
 <!-- wp:paragraph -->
+<p>ヒルトン・オナーズのダイヤモンド会員向け「リゾート / LXR 等の体験型特典」として案内されていたエクスペリエンスクレジットは、<strong>2024年4月</strong>のプログラム変更に伴い<strong>廃止</strong>されました。現在、ROKU KYOTO における同カテゴリの上級会員特典に相当する案内は<strong>客室内ミニバー無料</strong>（その他、朝食・アップグレード等は従来どおりホテル・会員ルールに準拠）が主となります。本記事は、廃止前に実際に利用した<strong>体験記・当時の使い方</strong>として残しています。以降の本文は、特に断りのない箇所も、いずれも当時（エクスペリエンスクレジットが付与されていた期間）の内容としてお読みください。</p>
+<!-- /wp:paragraph -->
+
+<p>[box class="glay_box" title="本記事を初めて読む方へ（要約）"]</p>
+<ul>
+<li>エクスペリエンスクレジット＝<strong>2024年3月以前の制度</strong>。現在付与なし。</li>
+<li>現在の同系特典＝<strong>ミニバー無料</strong>（詳細は当日のホテル案内に従う）。</li>
+</ul>
+<p>[/box]</p>
+
+<!-- wp:paragraph -->
 <p>こんにちは、ヒルトンダイヤモンド会員のアポロです。</p>
 <!-- /wp:paragraph -->
 
@@ -40,6 +51,9 @@
 
 <p>[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]</p>
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
+<!-- wp:paragraph -->
+<p>※2-3 以降・第3章「エクスペリエンスクレジット」は、<strong>廃止前</strong>の当時内容です（現行はミニバー無料が該当。クレジット額面の特典はありません）。</p>
+<!-- /wp:paragraph -->
 <ul>
 <li>1.<a href="#anker1">ROKU KYOTOとは</a></li>
 <li>2.<a href="#anker2">ROKU KYOTOのダイヤモンド特典</a></li>
@@ -111,7 +125,7 @@
 <ul id="block-42ee6d5f-eaa8-4204-8274-817bf0672035" class="block-editor-rich-text__editable block-editor-block-list__block wp-block is-selected wp-block-list rich-text" tabindex="0" role="document" contenteditable="true" aria-multiline="true" aria-label="ブロック: リスト" data-block="42ee6d5f-eaa8-4204-8274-817bf0672035" data-type="core/list" data-title="リスト">
 <li>客室のアップグレード（プレミアデラックスまで）</li>
 <li>朝食無料</li>
-<li>１万円のエクスペリエンスクレジット</li>
+<li>１万円のエクスペリエンスクレジット（<strong>2024年4月以降廃止</strong>。現在の同系＝<strong>ミニバー無料</strong>を参照）</li>
 <li>アーリー・チェックイン / レイト・チェックアウト</li>
 <li>特典滞在で３人目も無料（ポイント泊は通常２人まで）</li>
 </ul>
@@ -122,7 +136,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>１万円のエクスペリエンスクレジットがなく、客室アップグレードはワンランク上までとなっている以外は同じですね。</p>
+<p>（上記の「１万円の差」は<strong>エクスペリエンスクレジット</strong>が廃止される前の比較です。）１万円のクレジット分は付与されず、客室アップグレードはワンランク上までとなっていた、という従来の違いでした。廃止後の現行案内はホテル・会員向け公表の内容に従ってください（ダイヤではミニバー無料等）。</p>
 <!-- /wp:paragraph -->
 
 <p>[box class="yellow_box" title="ゴールド特典"]</p>
@@ -227,6 +241,10 @@
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker23">１万円のエクスペリエンスクレジット</h3>
 <!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>（※この「１万円のエクスペリエンスクレジット」特典は<strong>2024年4月以降廃止</strong>。以下は当時の説明のまま掲載する参考記事です。）</p>
+<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p>ヒルトンダイヤモンド会員はホテル施設内で使える１万円分のエクスペリエンスクレジットが付与されます。</p>
@@ -347,6 +365,10 @@
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker3">ROKU KYOTOのエクスペリエンスクレジット</h2>
 <!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>以降、クレジット額の付与方法・使える場所はいずれも<strong>廃止前</strong>の体験に基づく記述です。現行制度では、上記のとおりエクスペリエンスクレジットは含まれず、体験型の案内に相当する主な上級会員特典は<strong>ミニバー無料</strong>のほか、朝食・客室アップグレード等（ホテル方針による）をご確認ください。</p>
+<!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker31">１泊目１０，０００円、２泊目以降は１泊につき５，０００円</h3>
@@ -863,6 +885,10 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
+<p>以下のまとめは、<strong>エクスペリエンスクレジット廃止前</strong>の体験を前提にした当時のおさらいです（現行は冒頭注記のとおり）。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>今日はROKU KYOTOのダイヤモンド特典を説明していきました。</p>
 <!-- /wp:paragraph -->
 
@@ -886,12 +912,12 @@
 <ul id="block-42ee6d5f-eaa8-4204-8274-817bf0672035" class="block-editor-rich-text__editable block-editor-block-list__block wp-block is-selected wp-block-list rich-text" tabindex="0" role="document" contenteditable="true" aria-multiline="true" aria-label="ブロック: リスト" data-block="42ee6d5f-eaa8-4204-8274-817bf0672035" data-type="core/list" data-title="リスト">
 <li>客室のアップグレード（プレミアデラックスまで）</li>
 <li>朝食無料</li>
-<li>１万円のエクスペリエンスクレジット</li>
+<li>１万円のエクスペリエンスクレジット（<strong>2024年4月以降廃止</strong>。現在の同系＝<strong>ミニバー無料</strong>を参照）</li>
 <li>アーリー・チェックイン / レイト・チェックアウト</li>
 <li>特典滞在で３人目も無料（ポイント泊は通常２人まで）</li>
 </ul>
 <p>[/box]</p>
-<p>私は今回、ダイヤモンド特典の１万円エクスペリエンスクレジットを利用してROKU KYOTOのレストラン「TENJIN」でコースディナーを食べてきました。</p>
+<p>私は当時、ダイヤモンド特典の１万円エクスペリエンスクレジットを利用してROKU KYOTOのレストラン「TENJIN」でコースディナーを食べてきました（現行の特典代わりのクレジット利用ではありません。制度は2024年4月廃止済み）。</p>
 <p>麓ディナーはアミューズからデザートまでギャラリー写真を使って１品ずつ紹介。</p>
 <p>また朝食無料になり美味な京都旅行となりました。</p>
 <p>今日は特にヒルトンダイヤモンド会員の方に読んでいただきたい記事になりました。</p>
