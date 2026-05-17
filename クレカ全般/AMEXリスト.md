@@ -412,7 +412,7 @@ AMEXキャッシュバック系のクレジットカードのリストです。
 そのほかの利用で2倍のマリオットポイント付与</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 98.8096%;" colspan="2"><a class="shiny-btn3" href="https://www.americanexpress.com/en-us/credit-cards/referral/prospect/cards/personal/vanity/marriott-bonvoy-bevy-american-express-card?CORID=S~H~U~H~E~T~B~l~4~j-1778989738695-123538&amp;GENCODE=349992989701079&amp;extlink=US-MGM-DEFAULT-copypaste-474-201279-KB9Q%3A9979&amp;ref=SHUHETBl4j&amp;v=2&amp;xl=cp01&amp;xrefer=marriott-bonvoy-bevy-american-express-card" target="_blank" rel="noopener">Marriott Bonvoy Bevyカード公式サイト</a></td>
+<td style="text-align: center; width: 98.8096%;" colspan="2"><a class="shiny-btn3" href="https://americanexpress.com/en-us/referral/marriott-bonvoy-business-american-express-card?ref=SHUHETBl4j&amp;xl=cp01" target="_blank" rel="noopener">Marriott Bonvoy Bevyカード公式サイト</a></td>
 </tr>
 </tbody>
 </table>
@@ -437,7 +437,7 @@ AMEXキャッシュバック系のクレジットカードのリストです。
 そのほかの利用で2倍のマリオットポイント付与</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 98.8096%;" colspan="2"><a class="shiny-btn3" href="https://www.americanexpress.com/en-us/credit-cards/referral/prospect/cards/personal/vanity/marriott-bonvoy-brilliant-american-express-card?CORID=S~H~U~H~E~T~B~l~4~j-1778989738695-123538&amp;GENCODE=349992989701079&amp;extlink=US-MGM-DEFAULT-copypaste-474-201279-KB9Q%3A9979&amp;ref=SHUHETBl4j&amp;v=2&amp;xl=cp01&amp;xrefer=marriott-bonvoy-brilliant-american-express-card" target="_blank" rel="noopener">Marriott Bonvoy Brilliantカード公式サイト</a></td>
+<td style="text-align: center; width: 98.8096%;" colspan="2"><a class="shiny-btn3" href="https://americanexpress.com/en-us/referral/marriott-bonvoy-business-american-express-card?ref=SHUHETBl4j&amp;xl=cp01" target="_blank" rel="noopener">Marriott Bonvoy Brilliantカード公式サイト</a></td>
 </tr>
 </tbody>
 </table>

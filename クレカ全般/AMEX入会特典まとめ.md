@@ -217,13 +217,13 @@ MRポイント系クレカの中で入会特典が最も多いのは<strong>Plat
 <td style="width: 35%;">最初の6ヶ月で$2,000利用（期限：1/14/2026まで）</td>
 </tr>
 <tr>
-<td style="width: 25%;"><a href="https://www.americanexpress.com/en-us/credit-cards/referral/prospect/cards/personal/vanity/marriott-bonvoy-bevy-american-express-card?CORID=S~H~U~H~E~T~B~l~4~j-1778989738695-123538&amp;GENCODE=349992989701079&amp;extlink=US-MGM-DEFAULT-copypaste-474-201279-KB9Q%3A9979&amp;ref=SHUHETBl4j&amp;v=2&amp;xl=cp01&amp;xrefer=marriott-bonvoy-bevy-american-express-card" target="_blank" rel="noopener">Marriott Bonvoy Bevy American Express Card</a></td>
+<td style="width: 25%;"><a href="https://americanexpress.com/en-us/referral/marriott-bonvoy-business-american-express-card?ref=SHUHETBl4j&amp;xl=cp01" target="_blank" rel="noopener">Marriott Bonvoy Bevy American Express Card</a></td>
 <td style="width: 15%;">$250</td>
 <td style="width: 25%;">85,000マリオットポイント</td>
 <td style="width: 35%;">最初の6ヶ月で$5,000利用</td>
 </tr>
 <tr>
-<td style="width: 25%;"><a href="https://www.americanexpress.com/en-us/credit-cards/referral/prospect/cards/personal/vanity/marriott-bonvoy-brilliant-american-express-card?CORID=S~H~U~H~E~T~B~l~4~j-1778989738695-123538&amp;GENCODE=349992989701079&amp;extlink=US-MGM-DEFAULT-copypaste-474-201279-KB9Q%3A9979&amp;ref=SHUHETBl4j&amp;v=2&amp;xl=cp01&amp;xrefer=marriott-bonvoy-brilliant-american-express-card" target="_blank" rel="noopener">Marriott Bonvoy Brilliant American Express Card</a></td>
+<td style="width: 25%;"><a href="https://americanexpress.com/en-us/referral/marriott-bonvoy-business-american-express-card?ref=SHUHETBl4j&amp;xl=cp01" target="_blank" rel="noopener">Marriott Bonvoy Brilliant American Express Card</a></td>
 <td style="width: 15%;">$650</td>
 <td style="width: 25%;">100,000マリオットポイント</td>
 <td style="width: 35%;">最初の6ヶ月で$6,000利用</td>
@@ -236,7 +236,7 @@ MRポイント系クレカの中で入会特典が最も多いのは<strong>Plat
 
 年会費を抑えたい方は、年会費無料の<strong><a href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHETndhp&xl=cp01" target="_blank" rel="noopener">Hilton Honors American Express Card</a></strong>の100,000ヒルトンポイントも選択肢の一つです。
 
-<strong><a href="https://www.americanexpress.com/en-us/credit-cards/referral/prospect/cards/personal/vanity/marriott-bonvoy-brilliant-american-express-card?CORID=S~H~U~H~E~T~B~l~4~j-1778989738695-123538&amp;GENCODE=349992989701079&amp;extlink=US-MGM-DEFAULT-copypaste-474-201279-KB9Q%3A9979&amp;ref=SHUHETBl4j&amp;v=2&amp;xl=cp01&amp;xrefer=marriott-bonvoy-brilliant-american-express-card" target="_blank" rel="noopener">Marriott Bonvoy Brilliant American Express Card</a></strong>は年会費$650で100,000マリオットポイントがもらえるカードです。
+<strong><a href="https://americanexpress.com/en-us/referral/marriott-bonvoy-business-american-express-card?ref=SHUHETBl4j&amp;xl=cp01" target="_blank" rel="noopener">Marriott Bonvoy Brilliant American Express Card</a></strong>は年会費$650で100,000マリオットポイントがもらえるカードです。
 
 年会費は高めですが、プラチナエリートステータスが自動付与されるなど、年会費以上の価値がある特典が付いています。
 
