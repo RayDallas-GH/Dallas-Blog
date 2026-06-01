@@ -334,7 +334,7 @@ AMEXキャッシュバック系のクレジットカードのリストです。
 そのほかの利用で3倍のヒルトンポイント付与</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 98.8095%;" colspan="2"><a class="shiny-btn3" href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHETndhp&xl=cp01" target="_blank" rel="noopener">Hilton Honorsカード公式サイト</a></td>
+<td style="text-align: center; width: 98.8095%;" colspan="2"><a class="shiny-btn3" href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHETUa7W&XLINK=MYCP" target="_blank" rel="noopener">Hilton Honorsカード公式サイト</a></td>
 </tr>
 </tbody>
 </table>
@@ -359,14 +359,14 @@ AMEXキャッシュバック系のクレジットカードのリストです。
 そのほかの利用で3倍のヒルトンポイント付与</td>
 </tr>
 <tr style="height: 24px;">
-<td style="text-align: center; width: 98.8095%; height: 24px;" colspan="2"><a class="shiny-btn3" href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHETndhp&xl=cp01" target="_blank" rel="noopener">Hilton Surpassクレジットカード公式サイト</a></td>
+<td style="text-align: center; width: 98.8095%; height: 24px;" colspan="2"><a class="shiny-btn3" href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHETUa7W&XLINK=MYCP" target="_blank" rel="noopener">Hilton Surpassクレジットカード公式サイト</a></td>
 </tr>
 </tbody>
 </table>
 [nlink url="https://ibis-dallas.com/hilton-surpass-creditcard"]
 
 [nlink url="https://ibis-dallas.com/hilton-business-creditcard"]
-<p><a class="shiny-btn3" href="https://americanexpress.com/en-us/referral/hilton-honors-american-express-business-credit-card?ref=SHUHETNnJI&xl=cp01" target="_blank" rel="noopener">Hilton Businessクレジットカード公式サイト</a></p>
+<p><a class="shiny-btn3" href="https://americanexpress.com/en-us/referral/marriott-bonvoy-business-american-express-card?ref=SHUHETbLWR&XLINK=MYCP" target="_blank" rel="noopener">Hilton Businessクレジットカード公式サイト</a></p>
 <h3 id="anker47">【年会費550ドル】Hilton Aspireカード【ヒルトンダイヤモンドステータス】</h3>
 <table style="width: 100%;" border="2">
 <tbody>
@@ -387,7 +387,7 @@ AMEXキャッシュバック系のクレジットカードのリストです。
 そのほかの利用で3倍のヒルトンポイント付与</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 98.8095%;" colspan="2"><a class="shiny-btn3" href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHETndhp&xl=cp01" target="_blank" rel="noopener">Hilton Aspireクレジットカード公式サイト</a></td>
+<td style="text-align: center; width: 98.8095%;" colspan="2"><a class="shiny-btn3" href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHETUa7W&XLINK=MYCP" target="_blank" rel="noopener">Hilton Aspireクレジットカード公式サイト</a></td>
 </tr>
 </tbody>
 </table>
