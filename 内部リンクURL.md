@@ -37,6 +37,7 @@ https://ibis-dallas.com/chase-bank-checking-account
 https://ibis-dallas.com/chase-creditcard-from-japan
 https://ibis-dallas.com/chase-sapphire-preferred-creditcard
 https://ibis-dallas.com/chase-sapphire-preferred-new-benefits
+https://ibis-dallas.com/chase-sapphire-preferred-update-2026
 https://ibis-dallas.com/creditcard-point-oneyear
 https://ibis-dallas.com/delta-gold-amex
 https://ibis-dallas.com/hilton-amex-delivery-period
@@ -381,13 +382,14 @@ https://ibis-dallas.com/amex-green-for-japan
 https://ibis-dallas.com/amex-mr-point
 https://ibis-dallas.com/mobile-suica-travel-category
 
-## credit-cards/credit-cards-usa/chase-sapphire (8件)
+## credit-cards/credit-cards-usa/chase-sapphire (9件)
 https://ibis-dallas.com/chase-account-linking
 https://ibis-dallas.com/chase-bank-checking-account
 https://ibis-dallas.com/chase-sapphire-preferred-creditcard
 https://ibis-dallas.com/chase-sapphire-preferred-creditcard-wife
 https://ibis-dallas.com/chase-sapphire-preferred-new-benefits
 https://ibis-dallas.com/chase-sapphire-preferred-to-japan
+https://ibis-dallas.com/chase-sapphire-preferred-update-2026
 https://ibis-dallas.com/chase-sapphire-reserve-creditcard
 https://ibis-dallas.com/chase-ur-point
 

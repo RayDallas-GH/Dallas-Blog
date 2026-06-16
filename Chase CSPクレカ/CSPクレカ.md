@@ -10,6 +10,20 @@
 <p>今後このクレジットカードを作成する方向けに残しておきます。</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:paragraph -->
+<p>なお2026年6月15日から、ガソリン3倍・ホテルクレジット100ドル・Global Entryクレジットなど特典が大幅に追加されました。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>一方でハイアット1:1転送廃止や10%アニバーサリーボーナス廃止も入っています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>最新の特典内容は別記事で詳しくまとめています⇒</p>
+<!-- /wp:paragraph -->
+
+<p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-update-2026"]</p>
+
 <p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
@@ -54,11 +68,11 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>年会費は<strong>９５ドル</strong>です。<br></p>
+<p>年会費は<strong>95ドル</strong>です。<br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>初年度から請求され、２年目以降も９５ドルです。<br></p>
+<p>初年度から請求され、2年目以降も95ドルです。<br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -66,7 +80,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>入会ボーナスポイントは通常６万ポイント、期間限定で75,000ポイントです。</p>
+<p>入会ボーナスポイントは<strong>75,000ポイント</strong>が標準です。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -74,7 +88,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>クレジットカード作成<strong>３か月以内で４，０００ドル使用</strong>する必要があります。<br></p>
+<p>クレジットカード作成<strong>3か月以内で5,000ドル使用</strong>する必要があります。<br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -82,23 +96,27 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>ポイントの価値は１セントから１．５セントですので１．２５セントと計算した場合、６万ポイントは<strong>７５０ドル分のボーナスポイント</strong>の価値があります。<br></p>
+<p>ポイントの価値は1セントから1.5セントです。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>最低でも６００ドル分です。</p>
+<p>Chase Travel経由でPoints Boost対象の予約なら最大1.5セント/ポイントですので、75,000ポイントは<strong>最大1,125ドル分のボーナスポイント</strong>の価値があります。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>ハイアットなどでうまく使えば１，０００ドル以上に化けます。</p>
+<p>最低でも750ドル分です。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>１０万ポイントはトラベルで使えば１２５０ドル分の価値があります！</p>
+<p>ハイアットなどでうまく使えば1,000ドル以上に化けます。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>２０１９年４月から規約が変わり、以前は年会費初年度無料、ボーナスポイントは５０，０００ポイントでした。</p>
+<p>なお2026年6月15日以降の新規申込者は、ハイアットへの転送レートが4:3（1,000 UR = 750 Hyatt）となります。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2019年4月から規約が変わり、以前は年会費初年度無料、ボーナスポイントは50,000ポイントでした。</p>
 <!-- /wp:paragraph -->
 
 <p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
@@ -108,7 +126,11 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>ポイント特典が改善され、２０２１年からトラベルは最大５倍、レストランだと３倍付与されることになりました。</p>
+<p>ポイント特典が改善され、2021年からトラベルは最大5倍、レストランだと3倍付与されることになりました。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2026年6月15日からは、ガソリン・EV充電3倍、Airbnb等のバケーションレンタル3倍、ホテルクレジット100ドル、Global Entryクレジット120ドルなどが追加されています。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -120,6 +142,12 @@
 <!-- /wp:paragraph -->
 
 <p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-new-benefits"]</p>
+
+<!-- wp:paragraph -->
+<p>2026年6月改定の変更点一覧・適用タイムラインはこちら⇒</p>
+<!-- /wp:paragraph -->
+
+<p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-update-2026"]</p>
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker14">ポイント交換方法</h3>
@@ -134,7 +162,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Chase銀行が提供する<strong>Ultimate Rewardsを介してポイント交換すれば２５％増</strong>になります。<br></p>
+<p>Chase銀行が提供する<strong>Ultimate Rewardsを介してポイント交換</strong>できます。<br></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2025年6月からChase Travel経由のポイント使い方は「Points Boost」へ移行し、固定1.25セント還元は廃止されました。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Points Boost対象の航空券・ホテルなら最大1.5セント/ポイント、非対象は1セント/ポイントです。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -146,7 +182,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>１ポイントは最低１セントの価値ですが、トラベル系に交換すれば１ポイント１．２５セントになります。<br></p>
+<p>1ポイントは最低1セントの価値です。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Chase Travel経由ならPoints Boost対象で最大1.5セント/ポイント、航空会社・ホテルパートナーへの転送は基本的に1:1です（2026年6月15日以降の新規申込者はハイアットのみ4:3）。<br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -155,23 +195,23 @@
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li><strong>航空会社のマイル</strong>に交換（ただしJAL、ANAはない。ダラスに強いSouthwestはある。１ポイント＝１．２５セント）</li>
+<li><strong>航空会社のマイル</strong>に交換（ただしJAL、ANAはない。ダラスに強いSouthwestはある。1ポイント=1マイル）</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>ホテルのポイント</strong>に交換（マリオットやハイアット、IHG。ハイアットだとカンクンのオールインクルーシブにポイントで宿泊できます。１ポイント＝１．２５セント）</li>
+<li><strong>ホテルのポイント</strong>に交換（マリオットやハイアット、IHG。ハイアットは2026年6月15日以降の新規申込者は4:3転送。マリオット・IHG等は1:1継続）</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>指定する銀行口座に<strong>キャッシュバック</strong>（１ポイント＝１セント）</li>
+<li>指定する銀行口座に<strong>キャッシュバック</strong>（1ポイント=1セント）</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Amazon.comでの買い物（１ポイント＝１セント）</li>
+<li>Amazon.comでの買い物（1ポイント=1セント）</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>ギフトカード（アップルやレストランなど２００種類以上！たぶんギフトカードやってるところならどこでも使えるくらいの種類があります。交換率はショップによって異なります）</li>
+<li>ギフトカード（アップルやレストランなど200種類以上！たぶんギフトカードやってるところならどこでも使えるくらいの種類があります。交換率はショップによって異なります）</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -192,7 +232,7 @@
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li>入会ボーナスが多い（<strong>７５０ドル</strong>！）</li>
+<li>入会ボーナスが多い（<strong>最大1,125ドル相当</strong>！）</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -200,11 +240,19 @@
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>トラベル、レストラン利用時にポイントが２倍</strong>もらえる</li>
+<li><strong>トラベル5倍、レストラン・ガソリン・Airbnb3倍</strong>など還元強化</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>ホテルクレジット100ドル＋Global Entry 120ドル</strong>で年会費95ドルを上回る特典</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
 <li><strong>外貨手数料が無料</strong></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>年会費95ドル据え置き</strong>（CSRは795ドルへ値上げされた中での据え置き）</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -218,16 +266,36 @@
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>年会費が初年度から発生（９５ドル）</li>
+<li>年会費が初年度から発生（95ドル）</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>5/24ルールがある（２４か月以内に５枚までの発行制限、Amexなど含む）</li>
+<li>5/24ルールがある（24か月以内に5枚までの発行制限、Amexなど含む）</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>ハイアットへの1:1転送廃止（2026年6月15日以降の新規申込は4:3）</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>10%アニバーサリーボーナス廃止</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Chase Travel固定1.25セント還元廃止（Points Boost非対象は1セント）</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>総合して判断すると年会費が９５ドルかかりますが、入会ボーナスで最低６００ドル返ってきますので作成できるのであれば作成をオススメします。</p>
+<p>総合して判断すると年会費が95ドルかかりますが、入会ボーナスとホテルクレジット100ドル・Global Entryクレジットなどを合わせれば十分に回収できます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ハイアット転送を主目的にしていた人は影響が大きいですが、Chase Travel経由でホテルを予約する人や日常使いが多い人にとっては2026年6月以降のCSPは以前より魅力的です。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>作成できるのであれば作成をオススメします。</p>
 <!-- /wp:paragraph -->
 
 <p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
@@ -254,11 +322,11 @@
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li>クレジットスコア：７２８（TransUnion、Equifaxともに同じスコア）</li>
+<li>クレジットスコア：728（TransUnion、Equifaxともに同じスコア）</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>申請日：２０１９年１０月（今更記事にしてるんかい、という突っ込みは置いといて笑。渡米後１年半）</li>
+<li>申請日：2019年10月（今更記事にしてるんかい、という突っ込みは置いといて笑。渡米後1年半）</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -266,11 +334,11 @@
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>クレジットカード保有枚数：５枚（パーソナル４枚＋ビジネス１枚）</li>
+<li>クレジットカード保有枚数：5枚（パーソナル4枚＋ビジネス1枚）</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>申請履歴：２０１９年３月と６月の２回（今回３回目）</li>
+<li>申請履歴：2019年3月と6月の2回（今回3回目）</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -282,7 +350,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>８００あっても落ちる人は落ちます。<br></p>
+<p>800あっても落ちる人は落ちます。<br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -298,7 +366,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>申請日現在で４枚保有しており（ビジネスカードは対象外）、Chaseと同時にAmexも一枚申し込んでいたので。</p>
+<p>申請日現在で4枚保有しており（ビジネスカードは対象外）、Chaseと同時にAmexも一枚申し込んでいたので。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -308,7 +376,7 @@
 <p>[nlink url="https://ibis-dallas.com/delta-gold-amex"]</p>
 
 <!-- wp:paragraph -->
-<p>今回の申請までにChaseは２回申し込んでいますが、１回目は渡米１年未満（記念受験）、２回目は９０日以内の申請といろいろ未熟者だったと今となっては反省。<br></p>
+<p>今回の申請までにChaseは2回申し込んでいますが、1回目は渡米1年未満（記念受験）、2回目は90日以内の申請といろいろ未熟者だったと今となっては反省。<br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -353,11 +421,11 @@
 <p>[nlink url="https://ibis-dallas.com/unionbank"]</p>
 
 <!-- wp:paragraph -->
-<p>（赴任後１年くらい）：Chase Sapphire Preferredに申請チャレンジ！若しくはChaseからの案内が来るのを待つ<br></p>
+<p>（赴任後1年くらい）：Chase Sapphire Preferredに申請チャレンジ！若しくはChaseからの案内が来るのを待つ<br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>僕と同じように１年半くらい口座開設なしでひたすら申請し続けるのもいいですが、効率悪いです。<br></p>
+<p>僕と同じように1年半くらい口座開設なしでひたすら申請し続けるのもいいですが、効率悪いです。<br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -378,7 +446,11 @@
 <p>今日はChase Sapphire Preferredクレジットカードを紹介しました。<br></p>
 <!-- /wp:paragraph -->
 
-<p>年会費は<span style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">初年度から９５ドル発生しますが、７５０ドル分以上の入会ボーナス</span>がもらえます。</p>
+<p>年会費は<span style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">初年度から95ドル発生しますが、75,000ポイントの入会ボーナス＋ホテルクレジット100ドル等で十分に回収可能</span>です。</p>
+
+<!-- wp:paragraph -->
+<p>2026年6月改定でガソリン3倍・Global Entryクレジットなど特典が大幅に強化され、年会費95ドル据え置きのままコスパは向上しています。</p>
+<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p>トラベル系に強いカードですので旅行好きな駐在員は作成を考えてもいいかもしれません。<br></p>
@@ -398,5 +470,6 @@
 
 <p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
 <p>[nlink url="https://ibis-dallas.com/chase-account-linking"]</p>
+<p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-update-2026"]</p>
 <p>[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]</p>
 <p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-creditcard-wife"]</p>
