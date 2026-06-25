@@ -1,4 +1,5 @@
 <!-- wp_post_id: 30743 -->
+<!-- wp_title: 【ダイヤモンド宿泊記】Viceroyバリ（ヒルトンSLH提携ホテル） -->
 <p>こんにちは、ヒルトンダイヤモンド会員のアポロです。</p>
 <p>今回はインドネシア・バリ島にあるViceroyバリに宿泊してきました。</p>
 <p>ウブドの緑豊かな渓谷に佇む高級リゾートホテルで、プライベートプール付きヴィラでの滞在を満喫しました。</p>
@@ -17,7 +18,7 @@
 <p>[/box]</p>
 
 <!-- wp:html -->
-<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2Fgroup%2Ftiku%2F03kaigaiIndonesiaBali.html%3Fl-id%3Dkaigai_Area_indonesia_bali&vcptn=kaereba" rel="nofollow" target="_blank">楽天トラベルでバリ島のホテルを探してみる</a>
+<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2Fgroup%2Ftiku%2F03kaigaiIndonesiaBali.html%3Fl-id%3Dkaigai_Area_indonesia_bali&vcptn=kaereba" rel="nofollow noopener" target="_blank">楽天トラベルでバリ島のホテルを探してみる</a>
 <!-- /wp:html -->
 
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
@@ -371,7 +372,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
-<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2Fgroup%2Ftiku%2F03kaigaiIndonesiaBali.html%3Fl-id%3Dkaigai_Area_indonesia_bali&vcptn=kaereba" rel="nofollow" target="_blank">楽天トラベルでバリ島のホテルを探してみる</a>
+<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2Fgroup%2Ftiku%2F03kaigaiIndonesiaBali.html%3Fl-id%3Dkaigai_Area_indonesia_bali&vcptn=kaereba" rel="nofollow noopener" target="_blank">楽天トラベルでバリ島のホテルを探してみる</a>
 <!-- /wp:html -->
 
 <!-- wp:html -->
@@ -383,7 +384,7 @@ b[a]=b[a]||function(){arguments.currentScript=c.currentScript
 c.getElementById(a)||(d=c.createElement(f),d.src=g,
 d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
 (window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
-msmaflink({"n":"バウワースアンドウィルキンス Bowers \u0026 Wilkins ワイヤレス・スマートスピーカー スペース・グレー B\u0026W ZEPPELINPRO\/GREY","b":"バウワースアンドウィルキンス(Bowers \u0026 Wilkins)","t":"ZEPPELINPRO\/GREY","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/31sLnh+jNuL._SL500_.jpg","\/31hEX8KKH+L._SL500_.jpg","\/31+DMUD4GdL._SL500_.jpg","\/31lO0Qtag+L._SL500_.jpg","\/31fqgaZO7mL._SL500_.jpg","\/51fnagb7xWL._SL500_.jpg","\/51WAypia9HL._SL500_.jpg","\/41OeaxQiGoL._SL500_.jpg","\/51c3unLYjML._SL500_.jpg","\/51kE-Chx9hL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B0DHZ2FS5R","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B0DHZ2FS5R","a_id":1414858,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/%E3%83%90%E3%82%A6%E3%83%AF%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%B3%E3%83%89%E3%82%A6%E3%82%A3%E3%83%AB%E3%82%AD%E3%83%B3%E3%82%B9%20Bowers%20%26%20Wilkins%20%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E3%83%BB%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC%20%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%B0%E3%83%AC%E3%83%BC%20B%26W%20ZEPPELINPRO%2FGREY\/","a_id":1414851,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1\u0026p=%E3%83%90%E3%82%A6%E3%83%AF%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%B3%E3%83%89%E3%82%A6%E3%82%A3%E3%83%AB%E3%82%AD%E3%83%B3%E3%82%B9%20Bowers%20%26%20Wilkins%20%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E3%83%BB%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC%20%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%B0%E3%83%AC%E3%83%BC%20B%26W%20ZEPPELINPRO%2FGREY","a_id":1414859,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"J3Cvd","s":"s"});
+msmaflink({"n":"バウワースアンドウィルキンス Bowers & Wilkins ワイヤレス・スマートスピーカー スペース・グレー B&W ZEPPELINPRO\/GREY","b":"バウワースアンドウィルキンス(Bowers & Wilkins)","t":"ZEPPELINPRO\/GREY","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/31sLnh+jNuL._SL500_.jpg","\/31hEX8KKH+L._SL500_.jpg","\/31+DMUD4GdL._SL500_.jpg","\/31lO0Qtag+L._SL500_.jpg","\/31fqgaZO7mL._SL500_.jpg","\/51fnagb7xWL._SL500_.jpg","\/51WAypia9HL._SL500_.jpg","\/41OeaxQiGoL._SL500_.jpg","\/51c3unLYjML._SL500_.jpg","\/51kE-Chx9hL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B0DHZ2FS5R","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B0DHZ2FS5R","a_id":1414858,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/%E3%83%90%E3%82%A6%E3%83%AF%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%B3%E3%83%89%E3%82%A6%E3%82%A3%E3%83%AB%E3%82%AD%E3%83%B3%E3%82%B9%20Bowers%20%26%20Wilkins%20%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E3%83%BB%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC%20%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%B0%E3%83%AC%E3%83%BC%20B%26W%20ZEPPELINPRO%2FGREY\/","a_id":1414851,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1&p=%E3%83%90%E3%82%A6%E3%83%AF%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%B3%E3%83%89%E3%82%A6%E3%82%A3%E3%83%AB%E3%82%AD%E3%83%B3%E3%82%B9%20Bowers%20%26%20Wilkins%20%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E3%83%BB%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC%20%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%B0%E3%83%AC%E3%83%BC%20B%26W%20ZEPPELINPRO%2FGREY","a_id":1414859,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"J3Cvd","s":"s"});
 </script>
 <div id="msmaflink-J3Cvd">リンク</div>
 <!-- MoshimoAffiliateEasyLink END -->
@@ -638,7 +639,7 @@ msmaflink({"n":"バウワースアンドウィルキンス Bowers \u0026 Wilkins
 <p>以上、少しでも参考になれば幸いです。</p>
 
 <!-- wp:html -->
-<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2Fgroup%2Ftiku%2F03kaigaiIndonesiaBali.html%3Fl-id%3Dkaigai_Area_indonesia_bali&vcptn=kaereba" rel="nofollow" target="_blank">楽天トラベルでバリ島のホテルを探してみる</a>
+<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2Fgroup%2Ftiku%2F03kaigaiIndonesiaBali.html%3Fl-id%3Dkaigai_Area_indonesia_bali&vcptn=kaereba" rel="nofollow noopener" target="_blank">楽天トラベルでバリ島のホテルを探してみる</a>
 <!-- /wp:html -->
 
 <p>[box class="yellow_box" title="ヒルトン紹介プログラム"]</p>

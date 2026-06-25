@@ -1,4 +1,5 @@
 <!-- wp_post_id: 16179 -->
+<!-- wp_title: IHG Rewards Premierカードとは？持つだけでプラチナ特典＆宿泊特典が付く理由【2026年版】 -->
 <!-- wp:paragraph -->
 <p>こんにちは、IHGプラチナのアポロです。</p>
 <!-- /wp:paragraph -->

@@ -1,11 +1,12 @@
 <!-- wp_post_id: 6634 -->
+<!-- wp_title: 【宿泊レビュー】コンラッドワシントンDC（Conrad Washington, DC）【ヒルトンホテル】 -->
 <p>こんにちは、ダラス駐在員の<span style="font-weight: 400;">アポロ</span>です。</p>
 <p>今日はワシントンDC旅行で宿泊した<span style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">コンラッドワシントンDCの宿泊レビュー</span>となります。</p>
 <p>コンラッドと聞くと高級ホテルのイメージがありますが、ワシントンDCのコンラッドは意外とリーズナブルな価格設定だと感じました。</p>
 <p>ま、ポイントで無料宿泊してきたんですけどね。</p>
 
 <!-- wp:html -->
-<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2Fkaigai%2Farea%2Famerica%2F%3Fscid%3DtopC_map_ovs&vcptn=kaereba" rel="nofollow" target="_blank">楽天トラベルでワシントンD.C.のホテルを探してみる</a>
+<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2Fkaigai%2Farea%2Famerica%2F%3Fscid%3DtopC_map_ovs&vcptn=kaereba" rel="nofollow noopener" target="_blank">楽天トラベルでワシントンD.C.のホテルを探してみる</a>
 <!-- /wp:html -->
 
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
@@ -110,7 +111,7 @@
 <!-- /wp:gallery -->
 
 <!-- wp:html -->
-<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2Fkaigai%2Farea%2Famerica%2F%3Fscid%3DtopC_map_ovs&vcptn=kaereba" rel="nofollow" target="_blank">楽天トラベルでワシントンD.C.のホテルを探してみる</a>
+<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2Fkaigai%2Farea%2Famerica%2F%3Fscid%3DtopC_map_ovs&vcptn=kaereba" rel="nofollow noopener" target="_blank">楽天トラベルでワシントンD.C.のホテルを探してみる</a>
 <!-- /wp:html -->
 
 <!-- wp:heading {"level":3} -->
@@ -319,7 +320,7 @@
 <p>以上、参考になれば幸いです。</p>
 
 <!-- wp:html -->
-<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2Fkaigai%2Farea%2Famerica%2F%3Fscid%3DtopC_map_ovs&vcptn=kaereba" rel="nofollow" target="_blank">楽天トラベルでワシントンD.C.のホテルを探してみる</a>
+<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2Fkaigai%2Farea%2Famerica%2F%3Fscid%3DtopC_map_ovs&vcptn=kaereba" rel="nofollow noopener" target="_blank">楽天トラベルでワシントンD.C.のホテルを探してみる</a>
 <!-- /wp:html -->
 
 <!-- wp:image {"id":6633,"sizeSlug":"large"} -->

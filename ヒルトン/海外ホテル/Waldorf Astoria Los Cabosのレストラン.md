@@ -1,4 +1,5 @@
 <!-- wp_post_id: 12416 -->
+<!-- wp_title: 【ロスカボス】Waldorf Astoria Los Cabosのレストラン -->
 <p>こんにちは、ヒルトンダイヤモンドのアポロです。</p>
 <p>Waldorf Astoriaロスカボスのレストランについて紹介します。</p>
 <p>オールインクルーシブではありませんが、どれも美味しく、そしてどれも高かったです（汗。</p>
@@ -57,30 +58,8 @@
 <p>チップなどもろもろ込みで<span style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">一人１００ドルくらい</span>します。</p>
 <p>ほかにも魚単品グリルやステーキなどありました。</p>
 
-<!-- wp:gallery {"columns":2,"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-2 is-cropped"><!-- wp:image {"id":12359,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0353-1024x768.jpg" alt="パン" class="wp-image-12359"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":12360,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0354-1024x768.jpg" alt="スープ" class="wp-image-12360"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":12361,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0355-1024x768.jpg" alt="前菜" class="wp-image-12361"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":12362,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0357-1024x768.jpg" alt="シーフードグリル" class="wp-image-12362"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":12363,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0358-1024x768.jpg" alt="サイドメニュー" class="wp-image-12363"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":12364,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0359-1024x768.jpg" alt="亀の食器" class="wp-image-12364"/></figure>
-<!-- /wp:image --></figure>
+<!-- wp:gallery {"ids":[12359,12360,12361,12362,12363,12364],"columns":2,"linkTo":"none"} -->
+<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0353-1024x768.jpg" alt="パン" data-id="12359" data-full-url="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0353-scaled.jpg" data-link="https://ibis-dallas.com/img_0353" class="wp-image-12359"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0354-1024x768.jpg" alt="スープ" data-id="12360" data-full-url="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0354-scaled.jpg" data-link="https://ibis-dallas.com/img_0354" class="wp-image-12360"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0355-1024x768.jpg" alt="前菜" data-id="12361" data-full-url="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0355-scaled.jpg" data-link="https://ibis-dallas.com/img_0355" class="wp-image-12361"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0357-1024x768.jpg" alt="シーフードグリル" data-id="12362" data-full-url="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0357-scaled.jpg" data-link="https://ibis-dallas.com/img_0357" class="wp-image-12362"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0358-1024x768.jpg" alt="サイドメニュー" data-id="12363" data-full-url="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0358-scaled.jpg" data-link="https://ibis-dallas.com/img_0358" class="wp-image-12363"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0359-1024x768.jpg" alt="亀の食器" data-id="12364" data-full-url="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0359-scaled.jpg" data-link="https://ibis-dallas.com/img_0359" class="wp-image-12364"/></figure></li></ul></figure>
 <!-- /wp:gallery -->
 
 <p>ロスカボスでは亀が有名らしくプレートにも亀が。</p>
@@ -136,14 +115,8 @@
 <p>Crudoには行っていないのですがプール横にあるちょっとしたバーです。</p>
 <p>メニューはほかより少なかったのでわざわざ行かなくてもいいかなという感じでした。</p>
 
-<!-- wp:gallery {"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":12390,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0395-1024x768.jpg" alt="プール" class="wp-image-12390"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":12342,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0324-1024x768.jpg" alt="プール" class="wp-image-12342"/></figure>
-<!-- /wp:image --></figure>
+<!-- wp:gallery {"ids":[12390,12342],"linkTo":"none"} -->
+<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0395-1024x768.jpg" alt="プール" data-id="12390" data-full-url="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0395-scaled.jpg" data-link="https://ibis-dallas.com/img_0395" class="wp-image-12390"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0324-1024x768.jpg" alt="プール" data-id="12342" data-full-url="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0324-scaled.jpg" data-link="https://ibis-dallas.com/img_0324" class="wp-image-12342"/></figure></li></ul></figure>
 <!-- /wp:gallery -->
 
 <h3 id="anker25">ブランコバー</h3>
@@ -158,10 +131,10 @@
 <h3 id="anker26">ルームサービス</h3>
 <p>ルームサービスはルーム以外にもプール沿いのベンチまで持ってきてくれます。</p>
 <p>最終日の夜はゆっくり部屋でディナーにしましたが、プールでのんびりお酒を嗜んだり、チーズピザを食べました。</p>
-<p>[caption id="attachment_12406" align="aligncenter" width="728"]<img class="wp-image-12406 size-large" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0581-1024x768.jpg" alt="マルガリータ" width="728" height="546" /> マルガリータ[/caption]</p>
+[caption id="attachment_12406" align="aligncenter" width="728"]<img class="wp-image-12406 size-large" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0581-1024x768.jpg" alt="マルガリータ" width="728" height="546" /> マルガリータ[/caption]
 <p>お酒飲みながらビーチでのんびりするなんて最高の贅沢です。</p>
 <p>本読みながらリラックスしていました。</p>
-<p>[caption id="attachment_12407" align="aligncenter" width="728"]<img class="wp-image-12407 size-large" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0583-1024x768.jpg" alt="ピザ" width="728" height="546" /> 奥にはモデルがブランコこいでいました[/caption]</p>
+[caption id="attachment_12407" align="aligncenter" width="728"]<img class="wp-image-12407 size-large" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0583-1024x768.jpg" alt="ピザ" width="728" height="546" /> 奥にはモデルがブランコこいでいました[/caption]
 <h2 id="anker3">Waldorf Astoriaロスカボスのレストランまとめ</h2>
 <p>今日はWaldorf Astoriaロスカボスのレストランを紹介しました。</p>
 <p><span style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">Waldorf Astoriaロスカボスはカボサンルーカスにありますが、オールインクルーシブではありません</span>。</p>

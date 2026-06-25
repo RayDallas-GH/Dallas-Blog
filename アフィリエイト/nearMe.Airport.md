@@ -1,4 +1,5 @@
 <!-- wp_post_id: 17036 -->
+<!-- wp_title: nearMe.Airportで空港と自宅ホテル間を定額送迎【紹介クーポンで2,000円引き】 -->
 <!-- wp:paragraph -->
 <p>こんにちは、旅行大好きアポロです。</p>
 <!-- /wp:paragraph -->
@@ -363,14 +364,6 @@
 <!-- wp:table -->
 <figure class="wp-block-table"><table><tbody><tr><td>予約人数</td><td>シェア割 最もおトク</td><td>早割 14日前までに予約</td><td>基本価格</td><td>空港定額タクシー （参考価格）</td></tr><tr><td>大人1人</td><td>2,980円</td><td>3,480円</td><td>4,980円</td><td>8,500~9,500円</td></tr><tr><td>大人1人、子供1人</td><td>4,230円</td><td>4,730円</td><td>6,230円</td><td>同上</td></tr><tr><td>大人1人、子供2人</td><td>5,480円</td><td>5,980円</td><td>7,480円</td><td>同上</td></tr><tr><td>大人2人</td><td>5,480円</td><td>5,980円</td><td>7,480円</td><td>同上</td></tr><tr><td>大人2人、子供1人</td><td>5,980円</td><td>6,480円</td><td>8,230円</td><td>同上</td></tr><tr><td>大人3人</td><td>6,480円</td><td>6,980円</td><td>8,980円</td><td>同上</td></tr><tr><td>大人4人</td><td>7,480円</td><td>7,980円</td><td>9,980円</td><td>同上</td></tr></tbody></table></figure>
 <!-- /wp:table -->
-
-<!-- wp:paragraph -->
-<p>羽田空港利用時の駐車場探しに不安がある方には、<strong><a href="https://haneda-smart.com/" target="_blank" rel="noreferrer noopener">ハネスマ</a></strong>がおすすめです。<br>混雑しやすい時期でも事前に駐車場を確保でき、旅行や出張をスムーズにスタートできます。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>ハネスマ公式サイト<br><a rel="noreferrer noopener" href="https://haneda-smart.com/" target="_blank">https://haneda-smart.com/</a></p>
-<!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">成田空港</h3>

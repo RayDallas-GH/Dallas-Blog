@@ -1,4 +1,5 @@
 <!-- wp_post_id: 30999 -->
+<!-- wp_title: ShipitoでiPhone購入！アメリカのiPhoneを日本へ発送する完全ガイド【2026年最新】 -->
 こんにちは、ダラス駐在員のアポロです。
 
 アメリカのiPhoneを購入して日本に送りたいけど、どうすればいいの？関税はいくらかかる？配送方法はどれがおすすめ？
@@ -281,11 +282,10 @@ iPhoneは夫婦分で2個、アクセサリーは私の分だけです。
 <img class="alignnone wp-image-31038 size-large" src="https://ibis-dallas.com/wp-content/uploads/2025/12/Shipito送料割引-1024x590.png" alt="Shipito送料割引" width="728" height="419" />
 <h3>関税について</h3>
 実際に支払った関税・消費税の実績をお伝えします。
-
 <ul>
-	<li><strong>関税・消費税額</strong>：16,740円</li>
-	<li><strong>支払い方法</strong>：代引き（現金）</li>
-	<li><strong>支払い場所</strong>：玄関先</li>
+ 	<li><strong>関税・消費税額</strong>：16,740円</li>
+ 	<li><strong>支払い方法</strong>：代引き（現金）</li>
+ 	<li><strong>支払い場所</strong>：玄関先</li>
 </ul>
 <strong style="background: linear-gradient(to bottom, rgba(128,255,255,0) 60%, #80ffff 60%);">商品到着時に、配送業者から代引きで関税・消費税を請求されました</strong>。
 

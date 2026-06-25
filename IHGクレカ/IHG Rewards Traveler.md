@@ -1,4 +1,5 @@
 <!-- wp_post_id: 16146 -->
+<!-- wp_title: IHG Rewards Travelerカードとは？年会費無料で得られる特典まとめ【2026年版】 -->
 <!-- wp:paragraph -->
 <p>こんにちは、IHGプラチナのアポロです。</p>
 <!-- /wp:paragraph -->
@@ -425,6 +426,7 @@
 <!-- /wp:paragraph -->
 
 <p><a class="shiny-btn3" href="https://www.referyourchasecard.com/210y/SRC1PQ7X83" target="_blank" rel="noopener">IHG Rewards Travelerクレジットカードに申し込む</a></p>
+<p>[nlink url="https://ibis-dallas.com/ihg-creditcard-comparison"]</p>
 <p>[nlink url="https://ibis-dallas.com/ihg-traveler-premier-comparison"]</p>
 <p>[nlink url="https://ibis-dallas.com/chase-creditcard-from-japan"]</p>
 <p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-boundless"]</p>

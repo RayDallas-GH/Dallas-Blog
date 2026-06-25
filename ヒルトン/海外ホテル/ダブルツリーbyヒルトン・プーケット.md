@@ -1,4 +1,5 @@
 <!-- wp_post_id: 29605 -->
+<!-- wp_title: 【ダイヤモンド宿泊記】ダブルツリーbyヒルトン・プーケット・バンタイ・リゾート（プールサイドバーが魅力） -->
 <!-- wp:paragraph -->
 <p>こんにちは、ヒルトンダイヤモンド会員のアポロです。</p>
 <!-- /wp:paragraph -->
@@ -31,7 +32,7 @@
 <p>[/box]</p>
 
 <!-- wp:html -->
-<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180857%2F180857.html&vcptn=kaereba" rel="nofollow" target="_blank">楽天トラベルでダブルツリーbyヒルトン・プーケットを予約する</a>
+<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180857%2F180857.html&vcptn=kaereba" rel="nofollow noopener" target="_blank">楽天トラベルでダブルツリーbyヒルトン・プーケットを予約する</a>
 <!-- /wp:html -->
 
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
@@ -57,7 +58,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180857%2F180857.html&vcptn=kaereba" rel="nofollow" target="_blank">ダブルツリーbyヒルトン・プーケット・バンタイ・リゾート</a>は、プーケットの中心地パトンビーチエリアに位置するリゾートホテルです。</p>
+<p><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&amp;pid=888048024&amp;vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180857%2F180857.html&amp;vcptn=kaereba" rel="nofollow noopener" target="_blank">ダブルツリーbyヒルトン・プーケット・バンタイ・リゾート</a>は、プーケットの中心地パトンビーチエリアに位置するリゾートホテルです。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -304,7 +305,7 @@
 <!-- /wp:gallery -->
 
 <!-- wp:html -->
-<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180857%2F180857.html&vcptn=kaereba" rel="nofollow" target="_blank">楽天トラベルでダブルツリーbyヒルトン・プーケットを予約する</a>
+<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180857%2F180857.html&vcptn=kaereba" rel="nofollow noopener" target="_blank">楽天トラベルでダブルツリーbyヒルトン・プーケットを予約する</a>
 <!-- /wp:html -->
 
 <!-- wp:heading -->
@@ -787,7 +788,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>今日は<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180857%2F180857.html&vcptn=kaereba" rel="nofollow" target="_blank">ダブルツリーbyヒルトン・プーケット・バンタイ・リゾート</a>の宿泊記となりました。</p>
+<p>今日は<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&amp;pid=888048024&amp;vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180857%2F180857.html&amp;vcptn=kaereba" rel="nofollow noopener" target="_blank">ダブルツリーbyヒルトン・プーケット・バンタイ・リゾート</a>の宿泊記となりました。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -819,7 +820,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
-<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180857%2F180857.html&vcptn=kaereba" rel="nofollow" target="_blank">楽天トラベルでダブルツリーbyヒルトン・プーケットを予約する</a>
+<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180857%2F180857.html&vcptn=kaereba" rel="nofollow noopener" target="_blank">楽天トラベルでダブルツリーbyヒルトン・プーケットを予約する</a>
 <!-- /wp:html -->
 
 <p>[box class="yellow_box" title="ヒルトン紹介プログラム"][contact-form-7 id="d99b16b" title="ヒルトンアメックス紹介リンク"][/box]</p>
