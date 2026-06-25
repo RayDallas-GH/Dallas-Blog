@@ -1,3 +1,5 @@
+<!-- wp_post_id: 30258 -->
+<!-- wp_title: 【2026年版】IHGクレジットカード全3枚を徹底比較｜Traveler・Premier・Businessの違いと選び方ガイド -->
 <!-- wp:paragraph -->
 <p>こんにちは、IHGプラチナのアポロです。</p>
 <!-- /wp:paragraph -->

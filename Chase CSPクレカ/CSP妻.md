@@ -1,3 +1,5 @@
+<!-- wp_post_id: 6502 -->
+<!-- wp_title: 【駐妻】職なし口座開設なしでもChase Sapphire Preferredクレジットカードが作成できました -->
 <!-- wp:paragraph -->
 <p>こんにちは、ダラス駐在員のアポロです。<br></p>
 <!-- /wp:paragraph -->

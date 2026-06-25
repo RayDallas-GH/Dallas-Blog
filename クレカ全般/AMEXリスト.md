@@ -1,3 +1,5 @@
+<!-- wp_post_id: 13217 -->
+<!-- wp_title: 【2026年版】アメリカのアメックスクレジットカードリスト -->
 こんにちは、クレカ中毒のアポロです。
 
 先日、医者に行ったら不知の病と宣告されました。。
@@ -34,17 +36,17 @@
 <ul>
  	<li>1.<a href="#anker1">アメリカのアメックスクレジットカードリスト</a></li>
  	<li>2.<a href="#anker2">MRポイント系クレカ</a></li>
-	<li>　2-1.<a href="#anker21">【年会費325ドル】Amexゴールドカード【レストランとスーパーで4倍】</a></li>
-	<li>　2-2.<a href="#anker22">【年会費895ドル】Amexプラチナカード【ホテルと航空券で5倍】</a></li>
+ 	<li>　2-1.<a href="#anker21">【年会費325ドル】Amexゴールドカード【レストランとスーパーで4倍】</a></li>
+ 	<li>　2-2.<a href="#anker22">【年会費895ドル】Amexプラチナカード【ホテルと航空券で5倍】</a></li>
  	<li>　2-3.<a href="#anker23">【年会費150ドル】Amexグリーンカード【交通系で3倍】</a></li>
  	<li>3.<a href="#anker3">キャッシュバック系クレカ</a></li>
  	<li>　3-1.<a href="#anker31">【年会費無料】Blue Cash Everydayカード【スーパーで3%還元】</a></li>
  	<li>　3-2.<a href="#anker32">【年会費初年度無料⇒95ドル】Blue Cash Preferredカード【スーパーで6%還元】</a></li>
  	<li>4.<a href="#anker4">トラベル系クレカ（エアラインとホテル）</a></li>
  	<li>　4-1.<a href="#anker41">【年会費無料】Delta Skymiles Blueカード</a></li>
-	<li>　4-2.<a href="#anker42">【年会費初年度無料⇒150ドル】Delta Skymiles Goldカード</a></li>
-	<li>　4-3.<a href="#anker43">【年会費350ドル】Delta Skymiles Platinumカード</a></li>
-	<li>　4-4.<a href="#anker44">【年会費650ドル】Delta Skymiles Reserveカード</a></li>
+ 	<li>　4-2.<a href="#anker42">【年会費初年度無料⇒150ドル】Delta Skymiles Goldカード</a></li>
+ 	<li>　4-3.<a href="#anker43">【年会費350ドル】Delta Skymiles Platinumカード</a></li>
+ 	<li>　4-4.<a href="#anker44">【年会費650ドル】Delta Skymiles Reserveカード</a></li>
  	<li>　4-5.<a href="#anker45">【年会費無料】Hilton Honorsカード</a></li>
  	<li>　4-6.<a href="#anker46">【年会費150ドル】Hilton Surpassカード【ヒルトンゴールドステータス】</a></li>
  	<li>　4-7.<a href="#anker47">【年会費550ドル】Hilton Aspireカード【ヒルトンダイヤモンドステータス】</a></li>
@@ -66,9 +68,9 @@
 
 2026年1月時点で計14枚あります。
 <ol>
-	<li>MRポイント系クレカ⇒3枚</li>
-	<li>キャッシュバック系クレカ⇒2枚</li>
-	<li>トラベル系クレカ（エアラインとホテル）⇒9枚</li>
+ 	<li>MRポイント系クレカ⇒3枚</li>
+ 	<li>キャッシュバック系クレカ⇒2枚</li>
+ 	<li>トラベル系クレカ（エアラインとホテル）⇒9枚</li>
 </ol>
 <strong style="background: linear-gradient(to bottom, rgba(128,255,255,0) 60%, #80ffff 60%);">MRポイントはアメックス独自のポイントで、旅行系に強い</strong>です。
 
@@ -366,7 +368,8 @@ AMEXキャッシュバック系のクレジットカードのリストです。
 [nlink url="https://ibis-dallas.com/hilton-surpass-creditcard"]
 
 [nlink url="https://ibis-dallas.com/hilton-business-creditcard"]
-<p><a class="shiny-btn3" href="https://americanexpress.com/en-us/referral/marriott-bonvoy-business-american-express-card?ref=SHUHETbLWR&XLINK=MYCP" target="_blank" rel="noopener">Hilton Businessクレジットカード公式サイト</a></p>
+
+<a class="shiny-btn3" href="https://americanexpress.com/en-us/referral/marriott-bonvoy-business-american-express-card?ref=SHUHETbLWR&XLINK=MYCP" target="_blank" rel="noopener">Hilton Businessクレジットカード公式サイト</a>
 <h3 id="anker47">【年会費550ドル】Hilton Aspireカード【ヒルトンダイヤモンドステータス】</h3>
 <table style="width: 100%;" border="2">
 <tbody>
@@ -527,9 +530,9 @@ AMEXキャッシュバック系のクレジットカードのリストです。
 
 2026年1月時点で計14枚あります。
 <ol>
-	<li>MRポイント系クレカ⇒3枚</li>
-	<li>キャッシュバック系クレカ⇒2枚</li>
-	<li>トラベル系クレカ（エアラインとホテル）⇒9枚</li>
+ 	<li>MRポイント系クレカ⇒3枚</li>
+ 	<li>キャッシュバック系クレカ⇒2枚</li>
+ 	<li>トラベル系クレカ（エアラインとホテル）⇒9枚</li>
 </ol>
 MRポイントはアメックス独自のポイントで、旅行系に強いです。
 

@@ -1,3 +1,5 @@
+<!-- wp_post_id: 11354 -->
+<!-- wp_title: 【Amexプラチナ】アメリカンエキスプレスプラチナカード徹底レビュー（在米者向け） -->
 こんにちは、ダラス駐在員のアポロです。
 
 今日は<strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">アメリカンエキスプレスプラチナカードについて紹介</strong>します。

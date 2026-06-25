@@ -1,3 +1,5 @@
+<!-- wp_post_id: 27294 -->
+<!-- wp_title: 【徹底レビュー】Chase Sapphire Reserveクレジットカード：高級旅行カードの実力を徹底解説 -->
 <!-- wp:paragraph -->
 <p>こんにちは、クレカ研究家のアポロです。</p>
 <!-- /wp:paragraph -->

@@ -1,3 +1,5 @@
+<!-- wp_post_id: 5665 -->
+<!-- wp_title: 【アメリカ】銀行口座開設なしでも作成可能！Chase Sapphire Preferredクレジットカード -->
 <!-- wp:paragraph -->
 <p>こんにちは、アポロです。<br></p>
 <!-- /wp:paragraph -->
@@ -23,7 +25,6 @@
 <!-- /wp:paragraph -->
 
 <p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-update-2026"]</p>
-
 <p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>

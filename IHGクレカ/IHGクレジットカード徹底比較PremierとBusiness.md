@@ -1,3 +1,5 @@
+<!-- wp_post_id: 30253 -->
+<!-- wp_title: IHGクレジットカード比較｜PremierとBusinessどっちを選ぶべき？特典・違いを徹底解説【2026年版】 -->
 <!-- wp:paragraph -->
 <p>こんにちは、IHGプラチナのアポロです。</p>
 <!-- /wp:paragraph -->

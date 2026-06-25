@@ -1,3 +1,5 @@
+<!-- wp_post_id: 16246 -->
+<!-- wp_title: IHGクレジットカード比較｜TravelerとPremierどっちを選ぶべき？メリット・違いを徹底解説【2026年版】 -->
 <!-- wp:paragraph -->
 <p>こんにちは、IHGプラチナのアポロです。</p>
 <!-- /wp:paragraph -->

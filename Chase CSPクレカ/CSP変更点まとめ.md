@@ -1,3 +1,5 @@
+<!-- wp_post_id: 31851 -->
+<!-- wp_title: Chase Sapphire Preferred改定内容を完全解説【2026年6月】 -->
 <!-- wp:paragraph -->
 <p>こんにちは、アポロです。</p>
 <!-- /wp:paragraph -->
@@ -19,7 +21,6 @@
 <!-- /wp:paragraph -->
 
 <p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
-
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
 <li>1.<a href="#anker1">CSP変更の概要（結論）</a></li>
@@ -101,11 +102,17 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul>
+<ul><!-- wp:list-item -->
 <li><strong>2025年6月23日より前に申込</strong>：Points Boost移行時に2年間の猶予あり（2025年10月26日までに獲得したポイントは2027年10月26日まで1.25セント還元可能）</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
 <li><strong>2026年6月15日より前に申込</strong>：2026年6月15日から新特典を利用可能。ただしハイアット1:1転送と10%ボーナスは2026年10月1日まで継続</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
 <li><strong>2026年6月15日以降に申込</strong>：新特典は即時適用。ハイアット4:3転送・10%ボーナス廃止も即時適用</li>
-</ul>
+<!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
@@ -175,11 +182,17 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul>
+<ul><!-- wp:list-item -->
 <li><strong>Points Boost対象</strong>の航空券・ホテル：最大1.5セント/ポイント（プレミアムキャビンは最大1.75セント）</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
 <li><strong>Points Boost非対象</strong>の予約：1セント/ポイント</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
 <li>固定1.25セント還元は<strong>廃止</strong></li>
-</ul>
+<!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
@@ -195,11 +208,17 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul>
+<ul><!-- wp:list-item -->
 <li>2025年10月26日までに獲得したポイント → 2027年10月26日まで、Chase Travel旅行予約で<strong>最低1.25セント/ポイント</strong>で利用可能</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
 <li>上記ポイントはPoints Boost対象予約なら最大1.75セントまで使える</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
 <li>2025年10月26日以降に獲得したポイント → 新ルール（非対象は1セント）が適用</li>
-</ul>
+<!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:heading {"level":4} -->
@@ -393,11 +412,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:list -->
-<ul>
+<ul><!-- wp:list-item -->
 <li><strong>2025年6月23日〜</strong>：Points Boost適用。2025年10月26日までの獲得ポイントは2027年10月26日まで1.25セント還元可能</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
 <li><strong>2026年6月15日〜</strong>：ガソリン3倍、Airbnb 3倍、ホテルクレジット100ドル、Global Entryクレジット、Apple TV、緊急避難保険など新特典が利用可能</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
 <li><strong>2026年10月1日〜</strong>：ハイアット転送4:3へ。10%アニバーサリーボーナス廃止（最終ボーナスは2027年1月31日までに付与）</li>
-</ul>
+<!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:heading {"level":3} -->
@@ -405,11 +430,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:list -->
-<ul>
+<ul><!-- wp:list-item -->
 <li>2026年6月15日時点の新特典はすべて即時利用可能</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
 <li>ハイアット転送4:3、10%ボーナスなしも<strong>最初から適用</strong></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
 <li>Points Boost非対象のChase Travel予約は1セント/ポイント</li>
-</ul>
+<!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:heading {"level":3} -->
@@ -439,12 +470,21 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul>
+<ul><!-- wp:list-item -->
 <li>ガソリン・Airbnb 3倍など日常使いの還元強化</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
 <li>ホテルクレジット100ドル＋Global Entry 120ドルで年会費95ドルを上回る特典</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
 <li>緊急避難保険など旅行保護の充実</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
 <li>年会費95ドル据え置き</li>
-</ul>
+<!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
@@ -452,11 +492,17 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul>
+<ul><!-- wp:list-item -->
 <li>ハイアット1:1転送廃止（4:3へ）</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
 <li>10%アニバーサリーボーナス廃止</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
 <li>Chase Travel固定1.25セント還元廃止（Points Boost非対象は1セント）</li>
-</ul>
+<!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
@@ -472,6 +518,5 @@
 <!-- /wp:paragraph -->
 
 <p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
-
 <p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-creditcard-wife"]</p>
 <p>[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]</p>

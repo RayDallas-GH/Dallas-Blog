@@ -1,3 +1,5 @@
+<!-- wp_post_id: 21879 -->
+<!-- wp_title: IHG Premier Businessカードとは？持つだけでプラチナ＆宿泊特典が付く理由【2026年版】 -->
 <!-- wp:paragraph -->
 <p>こんにちは、IHGプラチナのアポロです。</p>
 <!-- /wp:paragraph -->
