@@ -1,3 +1,4 @@
+<!-- wp_post_id: 14932 -->
 <!-- wp:paragraph -->
 <p>こんにちは、高級ホテル好きのアポロです。</p>
 <!-- /wp:paragraph -->

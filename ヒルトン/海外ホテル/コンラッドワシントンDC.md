@@ -1,3 +1,4 @@
+<!-- wp_post_id: 6634 -->
 <p>こんにちは、ダラス駐在員の<span style="font-weight: 400;">アポロ</span>です。</p>
 <p>今日はワシントンDC旅行で宿泊した<span style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">コンラッドワシントンDCの宿泊レビュー</span>となります。</p>
 <p>コンラッドと聞くと高級ホテルのイメージがありますが、ワシントンDCのコンラッドは意外とリーズナブルな価格設定だと感じました。</p>

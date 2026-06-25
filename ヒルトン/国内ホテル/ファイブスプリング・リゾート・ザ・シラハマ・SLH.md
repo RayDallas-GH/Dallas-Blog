@@ -1,3 +1,4 @@
+<!-- wp_post_id: 31633 -->
 <!-- wp:shortcode -->
 [box class="green_box" title="本記事で解決できるお悩み"]
 <!-- /wp:shortcode -->

@@ -1,3 +1,4 @@
+<!-- wp_post_id: 23979 -->
 <!-- wp:paragraph -->
 <p><strong>【2026年最新情報】</strong>Hilton Aspireクレジットカードは、年会費$550という高額な年会費にもかかわらず、実質無料以上に使える最強のホテルクレジットカードです。</p>
 <!-- /wp:paragraph -->

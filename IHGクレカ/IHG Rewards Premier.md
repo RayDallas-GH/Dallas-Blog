@@ -1,3 +1,4 @@
+<!-- wp_post_id: 16179 -->
 <!-- wp:paragraph -->
 <p>こんにちは、IHGプラチナのアポロです。</p>
 <!-- /wp:paragraph -->

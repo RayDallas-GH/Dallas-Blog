@@ -1,3 +1,4 @@
+<!-- wp_post_id: 17867 -->
 <!-- wp:paragraph -->
 <p>こんにちは、マリオットプラチナのアポロです。</p>
 <!-- /wp:paragraph -->

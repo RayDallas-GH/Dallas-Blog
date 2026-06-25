@@ -1,3 +1,4 @@
+<!-- wp_post_id: 26782 -->
 <p>[box class="green_box" title="本記事で解決できるお悩み"]</p>
 <ul>
 <li><a href="#anker2">ダブルツリーbyヒルトン大阪城のゴールドダイヤモンド特典が知りたい</a></li>

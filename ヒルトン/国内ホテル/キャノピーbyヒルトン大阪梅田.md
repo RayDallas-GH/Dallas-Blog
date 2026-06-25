@@ -1,3 +1,4 @@
+<!-- wp_post_id: 27631 -->
 <p>[box class="green_box" title="本記事で解決できるお悩み"]</p>
 <ul>
 <li>キャノピーbyヒルトン大阪梅田のダイヤモンド特典が知りたい</li>
