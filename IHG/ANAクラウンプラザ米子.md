@@ -567,3 +567,7 @@
 
 <p>[nlink url="https://ibis-dallas.com/ana-crowneplaza-ube"]</p>
 <p>[nlink url="https://ibis-dallas.com/ana-crowneplaza-chitose"]</p>
+
+<!-- wp:shortcode -->
+[hotelier id="32065"]
+<!-- /wp:shortcode -->
