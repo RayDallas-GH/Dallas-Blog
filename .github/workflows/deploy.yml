@@ -35,15 +35,16 @@ jobs:
             [ -z "$file" ] && continue
             [ ! -f "$file" ] && echo "SKIP (deleted): $file" && continue
 
-            # wp_post_id をコメントから取得
+            # wp_post_id / wp_title をコメントから取得
             WP_ID=$(head -5 "$file" | grep -o 'wp_post_id: [0-9]*' | grep -o '[0-9]*')
             if [ -z "$WP_ID" ]; then
               echo "SKIP (no wp_post_id): $file"
               continue
             fi
+            WP_TITLE=$(head -5 "$file" | grep 'wp_title:' | sed 's/.*wp_title: //' | sed 's/ -->//')
 
-            # wp_post_idコメント行を除いた本文を一時ファイルに書き出し
-            tail -n +2 "$file" > /tmp/wp_content.txt
+            # コメント行（wp_post_id / wp_title）を除いた本文を一時ファイルに書き出し
+            grep -v '<!-- wp_post_id:' "$file" | grep -v '<!-- wp_title:' > /tmp/wp_content.txt
 
             echo "Deploying: $file → WP post $WP_ID"
 
@@ -52,12 +53,25 @@ jobs:
                 /tmp/wp_content.txt \
                 "${SSH_USER}@${SSH_HOST}:~/tmp_wp_content.txt"
 
-            ssh -p "$SSH_PORT" -i ~/.ssh/deploy_key \
-                "${SSH_USER}@${SSH_HOST}" \
-                "wp --path=/home/${SSH_USER}/ibis-dallas.com/public_html \
-                 post update ${WP_ID} \
-                 --post_content=\"\$(cat ~/tmp_wp_content.txt)\" \
-                 2>/dev/null \
-                 && echo 'OK: post ${WP_ID} updated' \
-                 && rm -f ~/tmp_wp_content.txt"
+            # タイトルあり/なしで更新コマンドを分岐
+            if [ -n "$WP_TITLE" ]; then
+              ssh -p "$SSH_PORT" -i ~/.ssh/deploy_key \
+                  "${SSH_USER}@${SSH_HOST}" \
+                  "wp --path=/home/${SSH_USER}/ibis-dallas.com/public_html \
+                   post update ${WP_ID} \
+                   --post_content=\"\$(cat ~/tmp_wp_content.txt)\" \
+                   --post_title=\"${WP_TITLE}\" \
+                   2>/dev/null \
+                   && echo 'OK: post ${WP_ID} updated' \
+                   && rm -f ~/tmp_wp_content.txt"
+            else
+              ssh -p "$SSH_PORT" -i ~/.ssh/deploy_key \
+                  "${SSH_USER}@${SSH_HOST}" \
+                  "wp --path=/home/${SSH_USER}/ibis-dallas.com/public_html \
+                   post update ${WP_ID} \
+                   --post_content=\"\$(cat ~/tmp_wp_content.txt)\" \
+                   2>/dev/null \
+                   && echo 'OK: post ${WP_ID} updated (title unchanged)' \
+                   && rm -f ~/tmp_wp_content.txt"
+            fi
           done
