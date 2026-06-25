@@ -24,27 +24,19 @@ jobs:
           chmod 600 ~/.ssh/deploy_key
           ssh-keyscan -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
 
-      - name: Get changed .md files
-        id: changed
-        run: |
-          FILES=$(git diff --name-only HEAD~1 HEAD -- '*.md' | grep '\.md$' || true)
-          echo "files<<EOF" >> $GITHUB_OUTPUT
-          echo "$FILES" >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
-
-      - name: Deploy changed files to WordPress
-        if: steps.changed.outputs.files != ''
+      - name: Deploy changed .md files to WordPress
         env:
           SSH_HOST: ${{ secrets.SSH_HOST }}
           SSH_PORT: ${{ secrets.SSH_PORT }}
           SSH_USER: ${{ secrets.SSH_USER }}
         run: |
-          echo "${{ steps.changed.outputs.files }}" | while IFS= read -r file; do
+          # 変更されたファイルを取得（日本語パス対応のため -z オプション使用）
+          git diff -z --name-only HEAD~1 HEAD | tr '\0' '\n' | grep '\.md$' | while IFS= read -r file; do
             [ -z "$file" ] && continue
             [ ! -f "$file" ] && echo "SKIP (deleted): $file" && continue
 
             # wp_post_id をコメントから取得
-            WP_ID=$(head -5 "$file" | grep -o 'wp_post_id: [0-9]*' | grep -o '[0-9]*' || true)
+            WP_ID=$(head -5 "$file" | grep -o 'wp_post_id: [0-9]*' | grep -o '[0-9]*')
             if [ -z "$WP_ID" ]; then
               echo "SKIP (no wp_post_id): $file"
               continue
@@ -53,20 +45,19 @@ jobs:
             # wp_post_idコメント行を除いた本文を一時ファイルに書き出し
             tail -n +2 "$file" > /tmp/wp_content.txt
 
-            echo "Uploading: $file → WP post $WP_ID"
+            echo "Deploying: $file → WP post $WP_ID"
 
-            # サーバーに一時ファイルを転送
+            # サーバーに一時ファイルを転送してWP-CLI実行
             scp -P "$SSH_PORT" -i ~/.ssh/deploy_key \
                 /tmp/wp_content.txt \
                 "${SSH_USER}@${SSH_HOST}:~/tmp_wp_content.txt"
 
-            # サーバー側でWP-CLIを実行
             ssh -p "$SSH_PORT" -i ~/.ssh/deploy_key \
                 "${SSH_USER}@${SSH_HOST}" \
                 "wp --path=/home/${SSH_USER}/ibis-dallas.com/public_html \
-                 post update $WP_ID \
+                 post update ${WP_ID} \
                  --post_content=\"\$(cat ~/tmp_wp_content.txt)\" \
                  2>/dev/null \
-                 && echo 'OK: post $WP_ID updated' \
-                 && rm ~/tmp_wp_content.txt"
+                 && echo 'OK: post ${WP_ID} updated' \
+                 && rm -f ~/tmp_wp_content.txt"
           done
