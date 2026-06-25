@@ -1,3 +1,22 @@
+# GitHubデプロイ連携ルール
+
+## 新規記事ファイルの作成時
+- ファイル先頭の**1行目**に必ず以下を記述する（これがないと自動デプロイが機能しない）：
+  ```
+  <!-- wp_post_id: N -->
+  ```
+  - `N` はWordPress管理画面の記事編集URLに含まれる数字（例：`post=18461`）
+- WPで先に記事を作成してIDを確認してからファイルを作ること
+
+## WP→ローカル同期（プル）
+- WP側の記事をローカルに取り込むには `wp_pull` コマンドを使う（`~/.zshrc` に定義済み）：
+  ```
+  wp_pull ヒルトン/国内ホテル/ヒルトン東京お台場.md
+  ```
+- 全ファイル一括プルは `wp_pull_all`
+
+---
+
 # あなたの役割
 - プロの旅行雑誌編集者
 - Webライター歴5年以上
@@ -34,11 +53,15 @@
 [box class="yellow_box" title="ヒルトン紹介プログラム"]
 [contact-form-7 id="d99b16b" title="ヒルトンアメックス紹介リンク"]
 [/box]
-3. トマレバリンク（あれば）
-   - トマレバリンクを追加する際は、以下のルールを必ず遵守すること：
-     - 「posted with トマレバ」が含まれている場合は削除する
-     - 外部リンク（tomareba.comへのリンク）も削除する
-     - `<div class="tomarebalink-powered-date">posted with <a href="http://tomareba.com" rel="nofollow" target="_blank">トマレバ</a></div>`の部分は完全に削除すること
+3. Hotelier7ウィジェット（あれば）
+   - 形式：`[hotelier id="XXXXX"]`（idはHotelier7の物件ID）
+   - WPブロックエディターでの記述形式：
+     ```
+     <!-- wp:shortcode -->
+     [hotelier id="XXXXX"]
+     <!-- /wp:shortcode -->
+     ```
+   - トマレバのコードが残っている場合は完全に削除してHotelier7に置き換える
 4. **海外ホテルレビュー記事の場合：楽天トラベル予約ボタン（目次の直前）**
    - `<a class="shiny-btn3" href="リンク先のURL" rel="nofollow" target="_blank">楽天トラベルで〇〇ホテルを予約する</a>`
    - リンク先URLは別途指定（楽天トラベル）
@@ -133,7 +156,7 @@
 
 ## まとめ記事側
 - `ヒルトン/General/日本国内ヒルトン系列ホテル一覧【2026年版】.md` を更新
-- 該当ホテルのH4見出し＋トマレバリンクの直後に、宿泊記への `[nlink]` を追加
+- 該当ホテルのH4見出し＋Hotelier7ウィジェットの直後に、宿泊記への `[nlink]` を追加
 - 詳細ルールはリポジトリ直下の `CLAUDE.md` を参照
 
 # ブログ記事作成・提案に関するルール
