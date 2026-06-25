@@ -16,9 +16,9 @@
 <p>自然豊かでのんびりできました。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="31968"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="31968"]
+<!-- /wp:shortcode -->
 
 <p>[nlink url="https://ibis-dallas.com/ihg-hotel-japan"]</p>
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
@@ -797,8 +797,8 @@ msmaflink({"n":"宮沢賢治童話集 注文の多い料理店・セロひきの
 <p>以上、少しでも参考になれば幸いです。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="31968"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="31968"]
+<!-- /wp:shortcode -->
 
 <p>[nlink url="https://ibis-dallas.com/ihg-traveler-premier-comparison"]</p>

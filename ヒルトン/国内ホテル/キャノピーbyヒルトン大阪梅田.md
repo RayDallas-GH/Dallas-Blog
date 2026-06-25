@@ -43,9 +43,9 @@
 <p>[box class="yellow_box" title="ヒルトン紹介プログラム"][contact-form-7 id="d99b16b" title="ヒルトンアメックス紹介リンク"][/box]</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32012"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32012"]
+<!-- /wp:shortcode -->
 
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
@@ -622,9 +622,9 @@
 <p>以上、少しでも参考になれば幸いです。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32012"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32012"]
+<!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
 [box class="yellow_box" title="ヒルトン紹介プログラム"][contact-form-7 id="d99b16b" title="ヒルトンアメックス紹介リンク"][/box]

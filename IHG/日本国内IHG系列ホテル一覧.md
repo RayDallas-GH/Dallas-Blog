@@ -176,9 +176,9 @@
 <h4 class="wp-block-heading">ANAクラウンプラザホテル千歳</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32001"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32001"]
+<!-- /wp:shortcode -->
 
 <p>[nlink url="https://ibis-dallas.com/ana-crowneplaza-chitose"]</p>
 
@@ -186,49 +186,49 @@
 <h4 class="wp-block-heading">ANAクラウンプラザホテル札幌</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32026"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32026"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ANAクラウンプラザホテル釧路</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32027"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32027"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ANAホリデイ・イン札幌すすきの</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32028"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32028"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">Vignette Collectionザ・ウィンザーホテル洞爺</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32029"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32029"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">インターコンチネンタル札幌（2025年10月開業）</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32030"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32030"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ホリデイ・イン＆スイーツ札幌大通公園（2025年秋開業）</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32031"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32031"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker22">東北</h3>
@@ -238,17 +238,17 @@
 <h4 class="wp-block-heading">ANAインターコンチネンタル安比高原リゾート（岩手）</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32032"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32032"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ANAクラウンプラザリゾート安比高原（岩手）</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="31968"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="31968"]
+<!-- /wp:shortcode -->
 
 <p>[nlink url="https://ibis-dallas.com/ana-crowneplaza-appikogen"]</p>
 
@@ -256,33 +256,33 @@
 <h4 class="wp-block-heading">ANAホリデイ・イン リゾート安比高原（岩手）</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32033"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32033"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ANAホリデイ・イン岩手北上（岩手）</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32034"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32034"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ANAクラウンプラザホテル秋田</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32035"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32035"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ANAホリデイ・イン仙台</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32036"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32036"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker23">東京</h3>
@@ -292,33 +292,33 @@
 <h4 class="wp-block-heading">ANAインターコンチネンタルホテル東京</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32037"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32037"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">インターコンチネンタル東京ベイ</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32038"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32038"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ストリングスホテル東京インターコンチネンタル</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32039"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32039"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">キンプトン新宿東京</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32040"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32040"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ホテルインディゴ東京渋谷</h4>
@@ -328,9 +328,9 @@
 <p>2023年8月29日開業済みです。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32041"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32041"]
+<!-- /wp:shortcode -->
 
 <p>[nlink url="https://ibis-dallas.com/hotel-indigo-shibuya"]</p>
 
@@ -342,17 +342,17 @@
 <h4 class="wp-block-heading">インターコンチネンタル横浜Pier8（神奈川）</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32042"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32042"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ヨコハマ グランド インターコンチネンタル ホテル（神奈川）</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="31966"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="31966"]
+<!-- /wp:shortcode -->
 
 <p>[nlink url="https://ibis-dallas.com/intercontinental-yokohama-grand"]</p>
 
@@ -360,25 +360,25 @@
 <h4 class="wp-block-heading">ホテルインディゴ箱根強羅（神奈川）</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32043"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32043"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ANAクラウンプラザホテル成田（千葉）</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32044"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32044"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ANAホリデイ・インリゾート軽井沢（2025年9月開業）</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32045"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32045"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker25">中部（名古屋・甲信越・北陸）</h3>
@@ -388,9 +388,9 @@
 <h4 class="wp-block-heading">ホテルインディゴ犬山有楽苑（愛知）</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32000"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32000"]
+<!-- /wp:shortcode -->
 
 <p>[nlink url="https://ibis-dallas.com/hotel-indigo-inuyama"]</p>
 
@@ -398,25 +398,25 @@
 <h4 class="wp-block-heading">ホテルインディゴ軽井沢（長野）</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32046"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32046"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ANAクラウンプラザホテルグランコート名古屋（愛知）</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32047"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32047"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ANAホリデイ・イン リゾート信濃大町くろよん（長野）</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32048"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32048"]
+<!-- /wp:shortcode -->
 
 <p>[nlink url="https://ibis-dallas.com/ana-holidayinnresorts-kuroyon"]</p>
 
@@ -424,9 +424,9 @@
 <h4 class="wp-block-heading">ANAクラウンプラザホテル新潟</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="31973"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="31973"]
+<!-- /wp:shortcode -->
 
 <p>[nlink url="https://ibis-dallas.com/ana-crowneplaza-niigata"]</p>
 
@@ -434,25 +434,25 @@
 <h4 class="wp-block-heading">ANAクラウンプラザホテル富山</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32049"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32049"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ANAクラウンプラザホテル金沢（石川）</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32050"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32050"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ANAホリテイ・イン金沢スカイ（石川）</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32051"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32051"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker26">関西（大阪・京都・近畿）</h3>
@@ -462,9 +462,9 @@
 <h4 class="wp-block-heading">インターコンチネンタルホテル大阪</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32052"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32052"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ANAクラウンプラザホテル大阪</h4>
@@ -474,17 +474,17 @@
 <p>2025年10月15日に閉館予定です。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32053"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32053"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ホリデイ・インエクスプレス大阪シティセンター御堂筋</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32054"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32054"]
+<!-- /wp:shortcode -->
 
 <p>[nlink url="https://ibis-dallas.com/holidayinnexpress-osaka-midosuji"]</p>
 
@@ -492,17 +492,17 @@
 <h4 class="wp-block-heading">ホリデイ・イン＆スイーツ新大阪</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32055"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32055"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ホリデイ・イン大阪難波</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32056"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32056"]
+<!-- /wp:shortcode -->
 
 <p>[nlink url="https://ibis-dallas.com/holiday-inn-osaka-namba"]</p>
 
@@ -514,9 +514,9 @@
 <p>2023年に大規模改装に着手し、2025年4月1日にリーガロイヤルホテル大阪ヴィニェットコレクションとしてリブランド開業しました。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32057"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32057"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">voco大阪セントラル</h4>
@@ -526,41 +526,41 @@
 <p>2023年5月30日開業済みです。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32058"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32058"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">シックスセンシズ京都</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32059"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32059"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ANAクラウンプラザホテル京都</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32060"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32060"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ANAクラウンプラザホテル神戸（兵庫）</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32061"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32061"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ガーナーホテル京都四条烏丸（2025年11月開業）</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32062"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32062"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker27">中国・四国</h3>
@@ -570,25 +570,25 @@
 <h4 class="wp-block-heading">ANAクラウンプラザホテル岡山</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32063"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32063"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ANAクラウンプラザホテル広島</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32064"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32064"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ANAクラウンプラザホテル米子（鳥取）</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32065"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32065"]
+<!-- /wp:shortcode -->
 
 <p>[nlink url="https://ibis-dallas.com/ana-crowneplaza-yonago"]</p>
 
@@ -596,9 +596,9 @@
 <h4 class="wp-block-heading">ANAクラウンプラザホテル宇部（山口）</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32066"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32066"]
+<!-- /wp:shortcode -->
 
 <p>[nlink url="https://ibis-dallas.com/ana-crowneplaza-ube"]</p>
 
@@ -606,9 +606,9 @@
 <h4 class="wp-block-heading">ANAクラウンプラザホテル松山（愛媛）</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32067"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32067"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker28">九州</h3>
@@ -618,49 +618,49 @@
 <h4 class="wp-block-heading">ANAインターコンチネンタル別府リゾート＆スパ（大分）</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32068"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32068"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ANAクラウンプラザホテル福岡</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32069"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32069"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ホテルインディゴ長崎グラバーストリート</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32070"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32070"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ANAクラウンプラザホテル長崎グラバーヒル</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32071"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32071"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ANAクラウンプラザホテル熊本ニュースカイ</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32072"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32072"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ANA ホリデイ・イン リゾート宮崎</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32073"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32073"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker29">沖縄</h3>
@@ -670,9 +670,9 @@
 <h4 class="wp-block-heading">ANAインターコンチネンタル石垣リゾート</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="31971"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="31971"]
+<!-- /wp:shortcode -->
 
 <p>[nlink url="https://ibis-dallas.com/intercontinental-ishigaki"]</p>
 
@@ -680,9 +680,9 @@
 <h4 class="wp-block-heading">ANAインターコンチネンタル万座ビーチリゾート</h4>
 <!-- /wp:heading -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32074"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32074"]
+<!-- /wp:shortcode -->
 
 <p>[nlink url="https://ibis-dallas.com/intercontinental-manza"]</p>
 

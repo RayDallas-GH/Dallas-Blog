@@ -20,9 +20,9 @@
 <p>大阪の中心部・梅田エリアにあり、ビジネスや観光の拠点として最適な立地を誇るこのホテルは、2024年11月にオープンした比較的新しい施設です。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32159"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32159"]
+<!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
 <p>マリオットアメックスプレミアム申請は紹介経由が一番お得（公式サイト経由より6,000ポイント多いです）⇒</p>
@@ -391,6 +391,6 @@
 <p>[box class="yellow_box" title="マリオット紹介プログラムで申請する"][contact-form-7 id="238d4b4" title="マリオットアメックス紹介リンク"][/box]</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32159"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32159"]
+<!-- /wp:shortcode -->

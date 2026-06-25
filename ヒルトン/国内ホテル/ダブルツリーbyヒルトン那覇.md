@@ -33,9 +33,9 @@
 <p>[contact-form-7 id="d99b16b" title="ヒルトンアメックス紹介リンク"]</p>
 <p>[/box]</p>
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32022"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32022"]
+<!-- /wp:shortcode -->
 
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
@@ -978,9 +978,9 @@
 <p>[contact-form-7 id="d99b16b" title="ヒルトンアメックス紹介リンク"]</p>
 <p>[/box]</p>
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32022"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32022"]
+<!-- /wp:shortcode -->
 
 <p>[nlink url="https://ibis-dallas.com/doubletree-by-hilton-naha-shuri-castle"]</p>
 <p>[nlink url="https://ibis-dallas.com/hilton-okinawa-chatan"]</p>

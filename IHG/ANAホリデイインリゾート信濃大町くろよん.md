@@ -20,9 +20,9 @@
 <p>朝食ビュッフェも地元で採れる野菜を中心に提供していて美味しかったです。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32048"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32048"]
+<!-- /wp:shortcode -->
 
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
@@ -927,9 +927,9 @@
 <p>以上、少しでも参考になれば幸いです。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32048"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32048"]
+<!-- /wp:shortcode -->
 
 <p>[nlink url="https://ibis-dallas.com/ihg-hotel-japan"]</p>
 <p>[nlink url="https://ibis-dallas.com/ihg-traveler-premier-comparison"]</p>

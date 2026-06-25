@@ -16,9 +16,9 @@
 <p>ぜひ最後までお付き合いください。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32154"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32154"]
+<!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
 <p>マリオットアメックスプレミアム申請は紹介経由が一番お得（公式サイト経由より6,000ポイント多いです）⇒</p>
@@ -1063,9 +1063,9 @@
 <p>以上、少しでも参考になれば幸いです。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32154"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32154"]
+<!-- /wp:shortcode -->
 
 <p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-premium-card"]</p>
 

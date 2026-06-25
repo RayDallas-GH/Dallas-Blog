@@ -57,9 +57,9 @@
 <li>7.<a href="#anker7">【ダイヤモンド宿泊記】ダブルツリーbyヒルトン大阪城まとめ</a></li>
 </ul>
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32011"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32011"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker1">ダブルツリーbyヒルトン大阪城（２０２４年５月開業）</h2>
@@ -885,6 +885,6 @@
 
 <p>[box class="yellow_box" title="ヒルトン紹介プログラム"][contact-form-7 id="d99b16b" title="ヒルトンアメックス紹介リンク"][/box]</p>
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32011"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32011"]
+<!-- /wp:shortcode -->

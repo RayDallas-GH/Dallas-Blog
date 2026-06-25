@@ -24,9 +24,9 @@
 <p>それではどうぞ！</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="31973"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="31973"]
+<!-- /wp:shortcode -->
 
 <p>[nlink url="https://ibis-dallas.com/ihg-hotel-japan"]</p>
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
@@ -576,9 +576,9 @@
 <p>以上、少しでも参考になれば幸いです。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="31973"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="31973"]
+<!-- /wp:shortcode -->
 
 <p>[nlink url="https://ibis-dallas.com/ana-crowneplaza-appikogen"]</p>
 <p>[nlink url="https://ibis-dallas.com/intercontinental-ishigaki"]</p>

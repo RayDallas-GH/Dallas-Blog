@@ -16,9 +16,9 @@
 <p>フォーポイント系列のプラチナ特典は限定的ですが、実際の宿泊体験を詳しくレポートします。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32161"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32161"]
+<!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
 <p>マリオットアメックスプレミアム申請は紹介経由が一番お得（公式サイト経由より6,000ポイント多いです）⇒</p>
@@ -347,9 +347,9 @@
 <p>以上、少しでも参考になれば幸いです。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32161"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32161"]
+<!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
 <p>[box class="yellow_box" title="マリオット紹介プログラムで申請する"][contact-form-7 id="238d4b4" title="マリオットアメックス紹介リンク"][/box]</p>

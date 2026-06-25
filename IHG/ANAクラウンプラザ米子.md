@@ -20,9 +20,9 @@
 <p>米子城跡や境港の水木しげるロードも近く、観光にも便利なロケーションでした。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32065"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32065"]
+<!-- /wp:shortcode -->
 
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>

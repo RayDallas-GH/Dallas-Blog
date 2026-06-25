@@ -12,9 +12,9 @@
 <p>ダイヤモンド特典で朝食は無料、エグゼクティブラウンジも利用できました。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32016"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32016"]
+<!-- /wp:shortcode -->
 
 <p>[box class="yellow_box" title="本記事の信頼性"]</p>
 <ul>
@@ -538,9 +538,9 @@
 <p>以上、少しでも参考になれば幸いです。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32016"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32016"]
+<!-- /wp:shortcode -->
 
 <p>[box class="yellow_box" title="ヒルトン紹介プログラム"][contact-form-7 id="d99b16b" title="ヒルトンアメックス紹介リンク"][/box]</p>
 <p>[nlink url="https://ibis-dallas.com/hilton-classic-card-japan"]</p>

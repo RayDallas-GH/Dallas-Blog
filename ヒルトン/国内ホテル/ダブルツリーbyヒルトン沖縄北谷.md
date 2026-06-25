@@ -20,9 +20,9 @@
 <p>ダイヤモンド特典での客室アップグレードや43ウェストルーフトップバーでの無料ドリンク、朝食ビュッフェの様子など、実際の宿泊体験を詳しくレポートしていきます。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32021"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32021"]
+<!-- /wp:shortcode -->
 
 <p>[box class="yellow_box" title="本記事の信頼性"]</p>
 <ul>
@@ -857,6 +857,6 @@
 <p class="whitespace-normal break-words">[nlink url="https://ibis-dallas.com/doubletree-by-hilton-naha-shuri-castle"]</p>
 <p class="whitespace-normal break-words">[nlink url="https://ibis-dallas.com/doubletree-by-hilton-naha"]</p>
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32021"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32021"]
+<!-- /wp:shortcode -->

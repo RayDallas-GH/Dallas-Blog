@@ -20,9 +20,9 @@
 <p>奈良公園にも近いので奈良観光にも便利な場所でした。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="31998"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="31998"]
+<!-- /wp:shortcode -->
 
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
@@ -955,9 +955,9 @@
 <p>以上、少しでも参考になれば幸いです。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="31998"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="31998"]
+<!-- /wp:shortcode -->
 
 <p>[nlink url="https://ibis-dallas.com/hilton-osaka"]</p>
 <p>[nlink url="https://ibis-dallas.com/marriott-hotspring"]</p>

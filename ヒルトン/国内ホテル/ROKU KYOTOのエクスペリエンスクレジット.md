@@ -47,9 +47,9 @@
 <p>ダイヤモンド特典を有効活用してリラックスできるといいですね。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="31961"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="31961"]
+<!-- /wp:shortcode -->
 
 <p>[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]</p>
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
@@ -362,9 +362,9 @@
 <figure class="wp-block-image size-large"><img src="https://ibis-dallas.com/wp-content/uploads/2023/04/IMG_6953-1024x768.jpg" alt="ROKU KYOTOティーハウス" class="wp-image-19495"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="31961"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="31961"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker3">ROKU KYOTOのエクスペリエンスクレジット</h2>
@@ -927,9 +927,9 @@
 <p>今日は特にヒルトンダイヤモンド会員の方に読んでいただきたい記事になりました。</p>
 <p>以上、少しでも参考になれば幸いです。</p>
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="31961"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="31961"]
+<!-- /wp:shortcode -->
 
 <p>[nlink url="https://ibis-dallas.com/hilton-honors-creditcard"]</p>
 <p>[nlink url="https://ibis-dallas.com/hilton-hotel-japan"]</p>

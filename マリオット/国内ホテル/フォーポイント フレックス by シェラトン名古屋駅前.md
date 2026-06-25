@@ -12,9 +12,9 @@
 <p>名古屋駅から徒歩5分という抜群のロケーションでした。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32148"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32148"]
+<!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
 <p>マリオットアメックスプレミアム申請は紹介経由が一番お得（公式サイト経由より6,000ポイント多いです）⇒</p>
@@ -247,9 +247,9 @@
 <p>以上、少しでも参考になれば幸いです。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32148"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32148"]
+<!-- /wp:shortcode -->
 
 <p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-premium-card"]</p>
 

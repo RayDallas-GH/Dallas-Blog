@@ -24,9 +24,9 @@
 <p>[/box]</p>
 <p>[box class="yellow_box" title="ヒルトン紹介プログラム"][contact-form-7 id="d99b16b" title="ヒルトンアメックス紹介リンク"][/box]</p>
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32015"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32015"]
+<!-- /wp:shortcode -->
 
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
@@ -45,9 +45,9 @@
 <li>10.<a href="#anker10">【ダイヤモンド宿泊記】ダブルツリーbyヒルトン京都東山まとめ</a></li>
 </ul>
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32015"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32015"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker1">ダブルツリーbyヒルトン京都東山</h2>
@@ -804,9 +804,9 @@
 <p>[box class="yellow_box" title="ヒルトン紹介プログラム"][contact-form-7 id="d99b16b" title="ヒルトンアメックス紹介リンク"][/box]</p></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<div class="cstmreba">[hotelier id="32015"]</div>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[hotelier id="32015"]
+<!-- /wp:shortcode -->
 
 <p>[box class="yellow_box" title="ヒルトン紹介プログラム"][contact-form-7 id="d99b16b" title="ヒルトンアメックス紹介リンク"][/box]</p>
 <p>[nlink url="https://ibis-dallas.com/hilton-okinawa-chatan"]</p>
