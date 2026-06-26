@@ -36,7 +36,7 @@ jobs:
             [ ! -f "$file" ] && echo "SKIP (deleted): $file" && continue
 
             # wp_post_id / wp_title をコメントから取得
-            WP_ID=$(head -5 "$file" | grep -o 'wp_post_id: [0-9]*' | grep -o '[0-9]*')
+            WP_ID=$(head -5 "$file" | grep -o 'wp_post_id: [0-9]*' | grep -o '[0-9]*' || true)
             if [ -z "$WP_ID" ]; then
               echo "SKIP (no wp_post_id): $file"
               continue
