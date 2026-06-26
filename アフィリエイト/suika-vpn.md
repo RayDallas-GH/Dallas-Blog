@@ -16,6 +16,10 @@
 <p>今日は日本人向けに特化したスイカVPNを詳しく解説するね。</p>
 <p>[/voice]</p>
 
+<!-- wp:image {"id":32316,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://ibis-dallas.com/wp-content/uploads/2026/06/suika-vpn-top-dazn.jpg" alt="スイカVPN公式サイト DAZNを安全に快適に楽しもう" class="wp-image-32316"/></figure>
+<!-- /wp:image -->
+
 <!-- wp:paragraph -->
 <p>こんにちは、海外駐在経験者のアポロです。</p>
 <!-- /wp:paragraph -->
@@ -210,24 +214,20 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>スイカVPNの料金は<strong>月額878円〜</strong>（税込・消費税なし）とリーズナブルです。</p>
+<p>スイカVPNの料金は<strong>月額878円〜</strong>（消費税なし）とリーズナブルです。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>※以下は執筆時点の料金です。最新の料金は公式サイトでご確認ください。</p>
-<!-- /wp:paragraph -->
+<!-- wp:image {"id":32318,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://ibis-dallas.com/wp-content/uploads/2026/06/suika-vpn-price.png" alt="スイカVPN料金プラン一覧" class="wp-image-32318"/></figure>
+<!-- /wp:image -->
 
-<!-- wp:paragraph -->
-<p>長期プランほど月あたりの料金が安くなります。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>海外在住期間が決まっている方は滞在期間に合わせたプランを選ぶとよいでしょう。</p>
-<!-- /wp:paragraph -->
+<!-- wp:table -->
+<figure class="wp-block-table"><table><thead><tr><th>プラン</th><th>月あたり</th><th>合計金額</th><th>お得額</th></tr></thead><tbody><tr><td>2年プラン（20%OFF）</td><td><strong>878円</strong></td><td>21,094円</td><td>実質6ヶ月無料</td></tr><tr><td>1年プラン（15%OFF）</td><td>938円</td><td>11,258円</td><td>実質2ヶ月無料</td></tr><tr><td>6ヶ月プラン（10%OFF）</td><td>988円</td><td>5,932円</td><td>652円お得</td></tr><tr><td>3ヶ月プラン（5%OFF）</td><td>1,048円</td><td>3,144円</td><td>148円お得</td></tr><tr><td>1ヶ月プラン</td><td>1,097円</td><td>1,097円</td><td>—</td></tr></tbody></table></figure>
+<!-- /wp:table -->
 
 <!-- wp:shortcode -->
 [voice icon="https://ibis-dallas.com/wp-content/uploads/2021/07/ワシアイコン-scaled.jpg" name="アポロ" type="l"]
-消費税が請求されないのは地味に助かる。
+長期滞在が決まっているなら2年プランが断然お得。実質6ヶ月分無料になるよ。
 [/voice]
 <!-- /wp:shortcode -->
 
@@ -244,22 +244,32 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:table -->
-<figure class="wp-block-table"><table><thead><tr><th></th><th><strong>スイカVPN</strong></th><th>NordVPN</th><th>MillenVPN</th><th>Surfshark</th></tr></thead><tbody><tr><td>月額（最安）</td><td><strong>878円〜</strong></td><td>440円〜（2年契約）</td><td>396円〜（2年契約）</td><td>256円〜（2年契約）</td></tr><tr><td>月額（1ヶ月）</td><td><strong>1,097円</strong></td><td>1,920円</td><td>1,360円</td><td>1,738円</td></tr><tr><td>同時接続台数</td><td><strong>50台</strong></td><td>6台</td><td>5台</td><td>無制限</td></tr><tr><td>サーバー設置</td><td>世界45都市</td><td>60か国</td><td>50か国80都市</td><td>100か国</td></tr><tr><td>返金保証</td><td>30日間</td><td>30日間</td><td>30日間</td><td>30日間</td></tr><tr><td>日本語サポート</td><td>◎</td><td>△</td><td>◎</td><td>△</td></tr><tr><td>日本特化</td><td><strong>◎</td><td>×</td><td>△</td><td>×</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table><thead><tr><th></th><th><strong>スイカVPN</strong></th><th>NordVPN</th><th>MillenVPN</th><th>Surfshark</th></tr></thead><tbody><tr><td>月額（最安）</td><td><strong>878円〜</strong></td><td>440円〜（2年契約）</td><td>396円〜（2年契約）</td><td>256円〜（2年契約）</td></tr><tr><td>月額（1ヶ月）</td><td><strong>1,097円</strong></td><td>1,920円</td><td>1,360円</td><td>1,738円</td></tr><tr><td>同時接続台数</td><td><strong>50台</strong></td><td>6台</td><td>5台</td><td>無制限</td></tr><tr><td>サーバー設置</td><td>世界45都市</td><td>60か国</td><td>50か国80都市</td><td>100か国</td></tr><tr><td>返金保証</td><td>30日間</td><td>30日間</td><td>30日間</td><td>30日間</td></tr><tr><td>日本語サポート</td><td>◎</td><td>△</td><td>◎</td><td>△</td></tr><tr><td>日本特化</td><td><strong>◎</strong></td><td>×</td><td>△</td><td>×</td></tr></tbody></table></figure>
 <!-- /wp:table -->
 
 <!-- wp:paragraph -->
-<p>NordVPNやSurfsahrkは2年契約なら月額がぐっと安くなりますが、<strong>同時接続台数の多さと日本語サポートの手厚さではスイカVPNが圧倒的</strong>です。</p>
+<p>また、日本サーバーへの接続速度ではスイカVPNが他社を上回っています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":32319,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://ibis-dallas.com/wp-content/uploads/2026/06/suika-vpn-speed.png" alt="スイカVPN速度比較 NordVPN・ExpressVPN・MillenVPNより高速" class="wp-image-32319"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>ダウンロード・アップロードともにスイカVPNが最速</strong>で、動画視聴でも快適に使えます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>NordVPNやSurfsahrkは2年契約なら月額がぐっと安くなりますが、<strong>同時接続台数・通信速度・日本語サポートではスイカVPNが圧倒的</strong>です。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p>家族でシェアしたい方、日本語でサポートを受けたい方にはスイカVPNが向いています。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p>NordVPNの詳細はこちら⇒</p>
 <p>[nlink url="https://ibis-dallas.com/nordvpn"]</p>
 
-<!-- wp:paragraph -->
 <p>MillenVPNの詳細はこちら⇒</p>
 <p>[nlink url="https://ibis-dallas.com/millenvpn"]</p>
 
@@ -331,6 +341,10 @@
 <h2 class="wp-block-heading" id="anker6">スイカVPNで視聴できる日本の動画配信サービス</h2>
 <!-- /wp:heading -->
 
+<!-- wp:image {"id":32317,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://ibis-dallas.com/wp-content/uploads/2026/06/suika-vpn-service.png" alt="スイカVPNで視聴できる日本の動画配信サービス一覧" class="wp-image-32317"/></figure>
+<!-- /wp:image -->
+
 <!-- wp:paragraph -->
 <p>スイカVPNで日本のIPアドレスに接続すれば、以下の動画配信サービスが海外から視聴できるようになります。</p>
 <!-- /wp:paragraph -->
@@ -359,7 +373,13 @@
 <li>TVer</li>
 <!-- /wp:list-item -->
 <!-- wp:list-item -->
+<li>Disney+</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
 <li>FODプレミアム</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Paravi</li>
 <!-- /wp:list-item -->
 <!-- wp:list-item -->
 <li>Radiko</li>
@@ -370,7 +390,6 @@
 <!-- wp:paragraph -->
 <p>動画配信サービスごとに別途契約が必要ですが、VPNを接続した状態で日本のサービスにアクセスすれば視聴できます。</p>
 <!-- /wp:paragraph -->
-
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker7">スイカVPNまとめ</h2>
@@ -393,6 +412,9 @@
 <!-- /wp:list-item -->
 <!-- wp:list-item -->
 <li>256ビット暗号化で公共Wi-Fiも安全</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>日本サーバーへの接続速度が他社より速い</li>
 <!-- /wp:list-item -->
 <!-- wp:list-item -->
 <li>30日間無料キャンセル保証あり</li>
