@@ -1,6 +1,5 @@
 <!-- wp_post_id: 32322 -->
 <!-- wp_title: 【2026年W杯】海外からDAZNでワールドカップを見る方法｜スイカVPNで視聴する手順 -->
-<!-- wp_slug: suika-vpn-worldcup -->
 
 <p>[box class="green_box" title="本記事で解決できるお悩み"]</p>
 <ul>
