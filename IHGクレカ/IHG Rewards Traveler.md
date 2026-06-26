@@ -243,7 +243,9 @@
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<p>[nlink url="https://ibis-dallas.com/intercontinental-yokohama-grand"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/intercontinental-yokohama-grand"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker25">年会費無料</h3>
@@ -257,8 +259,12 @@
 <p>マリオットやヒルトン系の年会費無料クレカもあるのでホテルチェーン選び、クレカ選びの参考にしてください。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-bold"]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-honors-creditcard"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-bold"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-honors-creditcard"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker26">ポイント利用で3泊する場合4泊目が無料</h3>
@@ -334,7 +340,9 @@
 <figure class="wp-block-image size-full"><img src="https://ibis-dallas.com/wp-content/uploads/2022/04/Travel-Purchase-coverage.jpg" alt="Travel &amp; Purchase coverage" class="wp-image-16154"/></figure>
 <!-- /wp:image -->
 
-<p>[nlink url="https://ibis-dallas.com/lost-baggage-rio"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/lost-baggage-rio"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker3">IHG Rewards Travelerのデメリット</h2>
@@ -368,8 +376,12 @@
 <p>４大銀行の中でも口座作成ボーナスもあり、使い勝手が一番いいと思っているChase銀行ですので口座作成してもいいことしかありません。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/chase-bank-checking-account"]</p>
-<p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-creditcard"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-bank-checking-account"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-creditcard"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker32">入会特典がIHG Rewards Premierより少ない</h3>
@@ -395,7 +407,9 @@
 <p>会員ステータス制度も変更になるので両方のクレカ特典を比較しながら作成するカードを決めましょう。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/ihg-rewards-premier"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ihg-rewards-premier"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker4">IHG Rewards Travelerクレジットカードまとめ</h2>
@@ -426,7 +440,15 @@
 <!-- /wp:paragraph -->
 
 <p><a class="shiny-btn3" href="https://www.referyourchasecard.com/210y/SRC1PQ7X83" target="_blank" rel="noopener">IHG Rewards Travelerクレジットカードに申し込む</a></p>
-<p>[nlink url="https://ibis-dallas.com/ihg-creditcard-comparison"]</p>
-<p>[nlink url="https://ibis-dallas.com/ihg-traveler-premier-comparison"]</p>
-<p>[nlink url="https://ibis-dallas.com/chase-creditcard-from-japan"]</p>
-<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-boundless"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ihg-creditcard-comparison"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ihg-traveler-premier-comparison"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-creditcard-from-japan"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-boundless"]
+<!-- /wp:shortcode -->

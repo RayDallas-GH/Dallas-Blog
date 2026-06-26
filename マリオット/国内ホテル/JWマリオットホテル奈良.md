@@ -751,7 +751,9 @@
 <p>ポイント利用による無料宿泊でしたが１０００ポイントも後日付与されました。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/marriott-platinum-benefit"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-platinum-benefit"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker8">（おまけ）奈良観光</h2>
@@ -959,6 +961,12 @@
 [hotelier id="31998"]
 <!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/hilton-osaka"]</p>
-<p>[nlink url="https://ibis-dallas.com/marriott-hotspring"]</p>
-<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-premium-card"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-osaka"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-hotspring"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-premium-card"]
+<!-- /wp:shortcode -->

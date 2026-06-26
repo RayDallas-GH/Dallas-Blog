@@ -159,7 +159,9 @@
 <p>CSP改定の全体像・適用タイムラインはこちら⇒</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-update-2026"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-update-2026"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker1">Chase銀行クレカのURポイントの使い方（ULTIMATE REWARDS）</h2>
@@ -846,7 +848,9 @@ msmaflink({"n":"Apple AirPods Max 2 - ブルー","b":"Apple(アップル)","t":"
 <p>上級ステータスが少ない分、より待遇されることは間違いありません。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/hyatt-hotel-japan"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hyatt-hotel-japan"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker10-2">IHGポイント</h3>
@@ -868,7 +872,9 @@ msmaflink({"n":"Apple AirPods Max 2 - ブルー","b":"Apple(アップル)","t":"
 <p>日本でも数多く展開しているIHG系列ホテルなので使い勝手は一番よいです。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/ihg-hotel-japan"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ihg-hotel-japan"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker10-3">マリオットポイント</h3>
@@ -890,9 +896,15 @@ msmaflink({"n":"Apple AirPods Max 2 - ブルー","b":"Apple(アップル)","t":"
 <p>クレカを作りながらステータスを上げていきましょう。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/marriott-hotel-japan"]</p>
-<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison"]</p>
-<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-premium-card"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-hotel-japan"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-premium-card"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker10-4">Wyndham Rewardsポイント</h3>
@@ -942,8 +954,12 @@ msmaflink({"n":"Apple AirPods Max 2 - ブルー","b":"Apple(アップル)","t":"
 <p>アメックスが展開しているMRポイントからヒルトンへの移管を検討しましょう。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-hotel-japan"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-hotel-japan"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker11">URポイントが貯まるChase銀行発行クレカ</h2>
@@ -1013,7 +1029,9 @@ msmaflink({"n":"Apple AirPods Max 2 - ブルー","b":"Apple(アップル)","t":"
 <p>2026年6月15日の改定でハイアット転送が4:3になったため、ハイアット移行を主目的にしていた方はCSR保有や転送タイミングの見直しが必要です。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-creditcard"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-creditcard"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker12">Chase銀行クレジットカードURポイントの究極利用ガイドまとめ</h2>
@@ -1105,8 +1123,18 @@ msmaflink({"n":"Apple AirPods Max 2 - ブルー","b":"Apple(アップル)","t":"
 <p>以上、少しでも参考になれば幸いです。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-update-2026"]</p>
-<p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-new-benefits"]</p>
-<p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-creditcard"]</p>
-<p>[nlink url="https://ibis-dallas.com/chase-account-linking"]</p>
-<p>[nlink url="https://ibis-dallas.com/chase-address-change-japan"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-update-2026"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-new-benefits"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-creditcard"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-account-linking"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-address-change-japan"]
+<!-- /wp:shortcode -->

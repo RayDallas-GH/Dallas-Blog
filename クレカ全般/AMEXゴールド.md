@@ -45,7 +45,9 @@
 <p>どうでもいいトリビアは置いといて、ここからはアメックスゴールドの魅力、メリットを徹底解説します。</p>
 <p><strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">追加カードについて：</strong>最初の5枚までの追加カードは年会費無料です。6枚目以降の追加カードは、1枚につき年間35ドルの年会費がかかります。</p>
 <p>Twitterでアンケート調査した結果もアメリカのアメックスゴールドはメインで使っているカード1位でした！</p>
-<p>[nlink url="https://ibis-dallas.com/main-creditcard-usa"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/main-creditcard-usa"]
+<!-- /wp:shortcode -->
 <h2 id="anker2">アメックスゴールドのメリット特典</h2>
 <h3 id="anker21">入会ボーナスが6万MRポイント</h3>
 <p>入会して<strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">6か月以内に6000ドル利用で6万MRポイントゲット</strong>です。</p>
@@ -78,24 +80,32 @@
 <p>コロナ禍で外食は減っているかと思いますが<strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">テイクアウトやデリバリー利用でも4倍が適用</strong>されます。</p>
 <p><span style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">ホテル内のレストランだとホテルカテゴリーになる</span><span style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">ことがある</span>ので、そのときはホテルとコラボしているクレジットカードを利用しましょう。</p>
 <p>たとえばヒルトンホテルならヒルトン系のクレジットカードとか⇒</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]
+<!-- /wp:shortcode -->
 <h3 id="anker23">スーパーマーケットで4倍ポイント付与</h3>
 <p><strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">スーパーマーケット利用でも4倍ポイント</strong>貯まります。</p>
 <p>1年間（カレンダー年）につき25000ドルまでと制限がありますが、毎月2000ドルもスーパーで買い物する人も少ないので、無視できる条件です。</p>
 <p>日頃のスーパー利用でもMRポイントを貯めちゃいましょう。</p>
 <p>MRポイントをまとめて貯めたい方はアメックスゴールドの利用をオススメしますが、僕は<strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">6％キャッシュバックされるBlue Cash Preferred</strong>をスーパーで利用しています。</p>
-<p>[nlink url="https://ibis-dallas.com/blue-cash-preferred"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/blue-cash-preferred"]
+<!-- /wp:shortcode -->
 <h3 id="anker24">航空券購入で3倍ポイント付与</h3>
 <p>コロナ禍で出張や旅行は減りましたが、<strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">航空券購入で3倍</strong>貯まります。</p>
 <p><span style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">航空会社かアメックストラベルから直接購入のみ3倍ポイント付与</span>されますのでご注意ください。</p>
 <p>また楽天がアメリカで展開するRAKUTENでもMRポイントは貯まりやすいです。</p>
 <p>RAKUTENは在米者、駐在員必須のサービスとなりますので、まだアカウントお持ちでない方は今すぐにどうぞ（紹介リンク経由だと30ドル程度もらえます）⇒</p>
 <p><a href="https://www.rakuten.com/r/M1P100" target="_blank" rel="noopener">Rakuten紹介リンク</a></p>
-<p>[nlink url="https://ibis-dallas.com/rakuten-referral-program"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/rakuten-referral-program"]
+<!-- /wp:shortcode -->
 <p>ウェブサイト（僕の場合はGoogle Chrome）の拡張機能をインストールしておけばサイト訪問時に勝手に判別してくれます。</p>
 <p>TopChashbackも併用しており、アメリカではこの2つのキャッシュバックサイトが有名です。</p>
 <p>オンラインショッピング利用時はRAKUTENかTopChashbackをチェックしましょう。</p>
-<p>[nlink url="https://ibis-dallas.com/topcashback"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/topcashback"]
+<!-- /wp:shortcode -->
 <h3 id="anker25">120ドルの食事クレジット（毎月10ドル付与）</h3>
 <p>なんとクレジットカードに<strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">120ドルの食事クレジット</strong>が付与されます。</p>
 <p>年会費の半分が回収できちゃいますね。</p>
@@ -137,8 +147,12 @@
 <p>日本が発行するクレジットカードはアメックスもどこでも為替手数料取ってきますからね。</p>
 <p>通常、数パーセントの海外為替手数料が無料になるアメリカのアメックスゴールドカード。</p>
 <p>日本一時帰国やメキシコなど海外旅行にも携帯してガンガンMRポイントを貯めていきましょう。</p>
-<p>[nlink url="https://ibis-dallas.com/expedia-creditcard-coupon"]</p>
-<p>[nlink url="https://ibis-dallas.com/hyatt-zilara-cancun"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/expedia-creditcard-coupon"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hyatt-zilara-cancun"]
+<!-- /wp:shortcode -->
 <h3 id="anker28">新色ローズゴールドカードが可愛い</h3>
 <p><img class="alignnone size-medium wp-image-19422" src="https://ibis-dallas.com/wp-content/uploads/2023/04/アメックスゴールドカード（ローズゴールド）-300x190.jpg" alt="アメックスゴールドカード（ローズゴールド）" width="300" height="190" /></p>
 <p>アメリカのアメックスゴールドカードからローズゴールドカードがデビューしました。</p>
@@ -156,7 +170,9 @@
 <p>ややこしいのですが日本のアメックスもMRポイントプログラムを提供していますが、まったく別です。</p>
 <p>アメリカのMRポイントプログラムについて解説していきます。</p>
 <p>別記事で詳しくまとめていますので併せてご覧ください⇒</p>
-<p>[nlink url="https://ibis-dallas.com/amex-mr-point"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/amex-mr-point"]
+<!-- /wp:shortcode -->
 <h3 id="anker31">エアラインマイルに交換して使う（ANAマイルもOK）</h3>
 <p>おそらく圧倒的に多い使い方はエアラインマイルに交換して使う方法です。</p>
 <p><strong style="background: linear-gradient(to bottom, rgba(128,255,255,0) 60%, #80ffff 60%);">ANAマイルにも交換でき、日本人駐在員は重宝するでしょう。</strong></p>
@@ -172,7 +188,9 @@
 <p>ハイアット系ホテルには交換できません。</p>
 <p>交換レートがいいのはヒルトン系ですが、マリオット系ホテルも日本でも数多く展開しています。</p>
 <p>お好みのホテルポイントに交換するのもひとつの選択肢でしょう。</p>
-<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison"]
+<!-- /wp:shortcode -->
 <h3 id="anker33">Amexトラベルサービス利用時に使う</h3>
 <p>Amexにはトラベルサービスがあります。</p>
 <p>航空券やホテル、レンタカーなど、旅行時に必要な支払いがMRポイントで支払うことができます。</p>
@@ -192,11 +210,17 @@
 <p>アメリカのアメックスクレジットカード3枚（グリーン、ゴールド、プラチナ）の比較記事は別記事で徹底レビューしています。</p>
 <p>グリーン、ゴールド、プラチナと3色それぞれ年会費も異なりますし、ポイントアップカテゴリーも違います。</p>
 <p>MRポイントの貯め方を中心にレビューしていますので、読者の皆さんの生活シーンに合わせて選んで頂けるといいかと。</p>
-<p>[nlink url="https://ibis-dallas.com/amex-creditcard-comparison"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/amex-creditcard-comparison"]
+<!-- /wp:shortcode -->
 <p>アメックスプラチナカードは⇒</p>
-<p>[nlink url="https://ibis-dallas.com/american-express-platinum"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/american-express-platinum"]
+<!-- /wp:shortcode -->
 <p>アメックスグリーンカードは⇒</p>
-<p>[nlink url="https://ibis-dallas.com/american-express-green"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/american-express-green"]
+<!-- /wp:shortcode -->
 <h2 id="anker5">【AMEX】アメリカのアメックスゴールドカードまとめ</h2>
 <p>今日は<strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">アメリカのAMEX（アメックス）が発行するゴールドカードを紹介</strong>しました。</p>
 <p><strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">レストランやスーパーで4倍のMRポイントが、航空券購入で3倍のMRポイント</strong>が貯まります。</p>
@@ -205,5 +229,9 @@
 <p>以上、少しでも参考になれば幸いです。</p>
 <p><a class="shiny-btn3" href="https://www.americanexpress.com/us/credit-cards/card/gold-card/" target="_blank" rel="noopener noreferrer">アメックスゴールドの申し込みはこちら</a></p>
 <p>（↑右クリック後、シークレットモードで開くと入会ボーナスが増える確率もアップします↑）</p>
-<p>[nlink url="https://ibis-dallas.com/creditcard-point-oneyear"]</p>
-<p>[nlink url="https://ibis-dallas.com/comic-reading"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/creditcard-point-oneyear"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/comic-reading"]
+<!-- /wp:shortcode -->

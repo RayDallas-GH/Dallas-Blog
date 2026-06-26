@@ -66,7 +66,9 @@
 <p>別記事で詳細にまとめていますのでこちらもあわせてご覧ください。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/ihg-rewards-traveler"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ihg-rewards-traveler"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker2">IHG Rewards Premierクレジットカードについて</h2>
@@ -96,7 +98,9 @@
 <p>別記事で詳細にまとめていますのでこちらもあわせてご覧ください。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/ihg-rewards-premier"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ihg-rewards-premier"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker3">IHG Rewards TravelerとIHG Rewards Premierの比較表</h2>
@@ -234,8 +238,12 @@
 <p>ただ99ドルで毎年無料宿泊券もらえるので余力があれば持つのも魅力的です。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/ihg-premier-business-comparison"]</p>
-<p>[nlink url="https://ibis-dallas.com/ihg-rewards-premier-business"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ihg-premier-business-comparison"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ihg-rewards-premier-business"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker5">IHG入会特典の注意事項</h2>
@@ -322,6 +330,12 @@
 <!-- /wp:paragraph -->
 
 <p><a class="shiny-btn3" href="https://www.referyourchasecard.com/210y/SRC1PQ7X83" target="_blank" rel="noopener">IHG Rewards クレジットカードに申し込む</a></p>
-<p>[nlink url="https://ibis-dallas.com/ihg-creditcard-comparison"]</p>
-<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-boundless"]</p>
-<p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-new-benefits"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ihg-creditcard-comparison"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-boundless"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-new-benefits"]
+<!-- /wp:shortcode -->

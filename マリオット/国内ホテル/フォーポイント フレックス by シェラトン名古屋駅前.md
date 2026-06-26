@@ -31,7 +31,9 @@
 <li>3.<a href="#anker3">フォーポイント フレックス by シェラトン名古屋駅前の客室</a></li>
 <li>4.<a href="#anker4">【宿泊記】フォーポイント フレックス by シェラトン名古屋駅前</a></li>
 </ul>
-<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-premium-card"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-premium-card"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker1">フォーポイント フレックス by シェラトン名古屋駅前の基本情報</h2>
@@ -251,7 +253,9 @@
 [hotelier id="32148"]
 <!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-premium-card"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-premium-card"]
+<!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
 [box class="yellow_box" title="マリオット紹介プログラムで申請する"][contact-form-7 id="238d4b4" title="マリオットアメックス紹介リンク"][/box]

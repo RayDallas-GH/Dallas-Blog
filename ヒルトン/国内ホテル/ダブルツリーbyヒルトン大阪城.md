@@ -787,7 +787,9 @@
 <li><strong>空港ラウンジが無料</strong>（プライオリティ・パス付帯なし）</li>
 <li><strong>新規入会特典：35,000ポイント</strong></li>
 </ul>
-<p>[nlink url="https://ibis-dallas.com/hilton-premium-card-japan"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-premium-card-japan"]
+<!-- /wp:shortcode -->
 <p><strong>&#x1f4a1; 選び方のポイント &#x1f4a1;</strong></p>
 <ul>
 <li><strong>朝食無料だけが目的なら</strong>→ヒルトンオナーズカード</li>

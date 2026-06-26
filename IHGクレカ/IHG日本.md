@@ -101,9 +101,15 @@
 <p>アメリカ在住経験がなく、アメリカでのクレジットヒストリーもない日本在住者は、残念ながら申請できません。Chase銀行の審査は厳格で、アメリカ国内での信用情報が必須です。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/ihg-rewards-traveler"]</p>
-<p>[nlink url="https://ibis-dallas.com/ihg-rewards-premier"]</p>
-<p>[nlink url="https://ibis-dallas.com/ihg-rewards-premier-business"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ihg-rewards-traveler"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ihg-rewards-premier"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ihg-rewards-premier-business"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker3">IHGクレジットカードの特典と限界</h2>
@@ -169,8 +175,12 @@
 <p>IHG好きな方の気持ちは理解できますが、クレジットカード起点の特典という観点では、ヒルトンやマリオットの方が優れています。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/ihg-creditcard-comparison"]</p>
-<p>[nlink url="https://ibis-dallas.com/ihg-traveler-premier-comparison"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ihg-creditcard-comparison"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ihg-traveler-premier-comparison"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker4">日本在住者にとっての現実的な代替案</h2>
@@ -237,9 +247,15 @@
 <!-- /wp:paragraph -->
 
 <p>[box class="yellow_box" title="ヒルトン紹介プログラムで申請する"][contact-form-7 id="d99b16b" title="ヒルトンアメックス紹介リンク"][/box]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-classic-card-japan"]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-premium-card-japan"]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-classic-card-japan"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-premium-card-japan"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker42">マリオット・アメックス（日本発行可能）</h3>
@@ -284,8 +300,12 @@
 <!-- /wp:paragraph -->
 
 <p>[box class="yellow_box" title="マリオット紹介プログラムで申請する"][contact-form-7 id="238d4b4" title="マリオットアメックス紹介リンク"][/box]</p>
-<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-premium-card"]</p>
-<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-premium-card"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker5">まとめ：日本在住ならヒルトンかマリオットのアメックスで十分</h2>
@@ -332,5 +352,9 @@
 <p>IHGカードが日本で作れない代わりに、国内で完結するホテルカードを選びましょう。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"]</p>
-<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison"]
+<!-- /wp:shortcode -->

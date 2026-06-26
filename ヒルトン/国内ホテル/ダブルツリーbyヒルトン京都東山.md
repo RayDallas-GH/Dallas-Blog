@@ -699,7 +699,9 @@
 <li><strong>空港ラウンジが無料</strong>（プライオリティ・パス付帯なし）</li>
 <li><strong>新規入会特典：35,000ポイント</strong></li>
 </ul>
-<p>[nlink url="https://ibis-dallas.com/hilton-premium-card-japan"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-premium-card-japan"]
+<!-- /wp:shortcode -->
 <p><strong>&#x1f4a1; 選び方のポイント &#x1f4a1;</strong></p>
 <ul>
 <li><strong>朝食無料だけが目的なら</strong>→ヒルトンオナーズカード</li>
@@ -809,8 +811,18 @@
 <!-- /wp:shortcode -->
 
 <p>[box class="yellow_box" title="ヒルトン紹介プログラム"][contact-form-7 id="d99b16b" title="ヒルトンアメックス紹介リンク"][/box]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-okinawa-chatan"]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-dog-friendly"]</p>
-<p>[nlink url="https://ibis-dallas.com/use-hilton-point"]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-second-guest-free"]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-diamond-benefits"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-okinawa-chatan"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-dog-friendly"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/use-hilton-point"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-second-guest-free"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-diamond-benefits"]
+<!-- /wp:shortcode -->

@@ -47,7 +47,9 @@
 <p><a class="shiny-btn3" href="https://bit.ly/3M0xNpZ" target="_blank" rel="nofollow noopener">スイカVPN公式サイトを見る（30日間無料キャンセルあり）</a></p>
 
 <p>他のVPNサービスとの比較記事はこちら⇒</p>
-<p>[nlink url="https://ibis-dallas.com/vpn"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/vpn"]
+<!-- /wp:shortcode -->
 
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
@@ -268,10 +270,14 @@
 <!-- /wp:paragraph -->
 
 <p>NordVPNの詳細はこちら⇒</p>
-<p>[nlink url="https://ibis-dallas.com/nordvpn"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/nordvpn"]
+<!-- /wp:shortcode -->
 
 <p>MillenVPNの詳細はこちら⇒</p>
-<p>[nlink url="https://ibis-dallas.com/millenvpn"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/millenvpn"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker5">スイカVPNの申し込み方法・使い方</h2>
@@ -439,6 +445,12 @@
 
 <p><a class="shiny-btn3" href="https://bit.ly/3M0xNpZ" target="_blank" rel="nofollow noopener">スイカVPNを30日間お試しする</a></p>
 
-<p>[nlink url="https://ibis-dallas.com/vpn"]</p>
-<p>[nlink url="https://ibis-dallas.com/nordvpn"]</p>
-<p>[nlink url="https://ibis-dallas.com/millenvpn"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/vpn"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/nordvpn"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/millenvpn"]
+<!-- /wp:shortcode -->

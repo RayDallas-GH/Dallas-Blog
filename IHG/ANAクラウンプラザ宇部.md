@@ -85,9 +85,15 @@
 <p>山口県にヒルトン、マリオット、ハイアットなどの外資系ホテルはなかなか進出できないですからね。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/ana-crowneplaza-chitose"]</p>
-<p>[nlink url="https://ibis-dallas.com/ana-crowneplaza-appikogen"]</p>
-<p>[nlink url="https://ibis-dallas.com/ana-crowneplaza-niigata"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ana-crowneplaza-chitose"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ana-crowneplaza-appikogen"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ana-crowneplaza-niigata"]
+<!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
 <p>夕食はホテルから徒歩圏内の「地酒ダイニング ほりおか」に行きました。</p>
@@ -731,8 +737,12 @@ msmaflink({"n":"新装版 世に棲む日日 1-4巻 セット","b":"","t":"","d"
 <p>ブログ開設初期ですね。懐かしい。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/glover-garden"]</p>
-<p>[nlink url="https://ibis-dallas.com/gunkanjima"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/glover-garden"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/gunkanjima"]
+<!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
 <p>午前中に萩観光し、道の駅「萩しーまーと」で海鮮丼ランチを食べました。</p>
@@ -792,8 +802,12 @@ msmaflink({"n":"新装版 世に棲む日日 1-4巻 セット","b":"","t":"","d"
 <p>このあと広島県に戻ってヒルトン広島に宿泊しました。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/hilton-hiroshima"]</p>
-<p>[nlink url="https://ibis-dallas.com/sheraton-grand-hiroshima"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-hiroshima"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/sheraton-grand-hiroshima"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker7">【宿泊記】ANAクラウンプラザ宇部まとめ</h2>
@@ -831,7 +845,15 @@ msmaflink({"n":"新装版 世に棲む日日 1-4巻 セット","b":"","t":"","d"
 [hotelier id="32066"]
 <!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/ihg-hotel-japan"]</p>
-<p>[nlink url="https://ibis-dallas.com/ana-crowneplaza-chitose"]</p>
-<p>[nlink url="https://ibis-dallas.com/ana-crowneplaza-niigata"]</p>
-<p>[nlink url="https://ibis-dallas.com/ana-crowneplaza-appikogen"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ihg-hotel-japan"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ana-crowneplaza-chitose"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ana-crowneplaza-niigata"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ana-crowneplaza-appikogen"]
+<!-- /wp:shortcode -->

@@ -931,5 +931,9 @@
 [hotelier id="32048"]
 <!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/ihg-hotel-japan"]</p>
-<p>[nlink url="https://ibis-dallas.com/ihg-traveler-premier-comparison"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ihg-hotel-japan"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ihg-traveler-premier-comparison"]
+<!-- /wp:shortcode -->

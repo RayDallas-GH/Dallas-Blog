@@ -180,7 +180,9 @@
 [hotelier id="32001"]
 <!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/ana-crowneplaza-chitose"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ana-crowneplaza-chitose"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ANAクラウンプラザホテル札幌</h4>
@@ -250,7 +252,9 @@
 [hotelier id="31968"]
 <!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/ana-crowneplaza-appikogen"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ana-crowneplaza-appikogen"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ANAホリデイ・イン リゾート安比高原（岩手）</h4>
@@ -332,7 +336,9 @@
 [hotelier id="32041"]
 <!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/hotel-indigo-shibuya"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hotel-indigo-shibuya"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker24">関東（東京以外）</h3>
@@ -354,7 +360,9 @@
 [hotelier id="31966"]
 <!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/intercontinental-yokohama-grand"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/intercontinental-yokohama-grand"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ホテルインディゴ箱根強羅（神奈川）</h4>
@@ -392,7 +400,9 @@
 [hotelier id="32000"]
 <!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/hotel-indigo-inuyama"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hotel-indigo-inuyama"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ホテルインディゴ軽井沢（長野）</h4>
@@ -418,7 +428,9 @@
 [hotelier id="32048"]
 <!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/ana-holidayinnresorts-kuroyon"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ana-holidayinnresorts-kuroyon"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ANAクラウンプラザホテル新潟</h4>
@@ -428,7 +440,9 @@
 [hotelier id="31973"]
 <!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/ana-crowneplaza-niigata"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ana-crowneplaza-niigata"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ANAクラウンプラザホテル富山</h4>
@@ -486,7 +500,9 @@
 [hotelier id="32054"]
 <!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/holidayinnexpress-osaka-midosuji"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/holidayinnexpress-osaka-midosuji"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ホリデイ・イン＆スイーツ新大阪</h4>
@@ -504,7 +520,9 @@
 [hotelier id="32056"]
 <!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/holiday-inn-osaka-namba"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/holiday-inn-osaka-namba"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">リーガロイヤルホテル大阪ヴィニェットコレクション</h4>
@@ -590,7 +608,9 @@
 [hotelier id="32065"]
 <!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/ana-crowneplaza-yonago"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ana-crowneplaza-yonago"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ANAクラウンプラザホテル宇部（山口）</h4>
@@ -600,7 +620,9 @@
 [hotelier id="32066"]
 <!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/ana-crowneplaza-ube"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ana-crowneplaza-ube"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ANAクラウンプラザホテル松山（愛媛）</h4>
@@ -674,7 +696,9 @@
 [hotelier id="31971"]
 <!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/intercontinental-ishigaki"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/intercontinental-ishigaki"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ANAインターコンチネンタル万座ビーチリゾート</h4>
@@ -684,7 +708,9 @@
 [hotelier id="32074"]
 <!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/intercontinental-manza"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/intercontinental-manza"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker3">2026年開業予定</h2>
@@ -768,8 +794,12 @@
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<p>[nlink url="https://ibis-dallas.com/ihg-rewards-premier"]</p>
-<p>[nlink url="https://ibis-dallas.com/ihg-rewards-traveler"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ihg-rewards-premier"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ihg-rewards-traveler"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker5">日本国内IHG系列ホテル一覧まとめ【2025年版】</h2>
@@ -799,4 +829,6 @@
 <p>以上、少しでも参考になれば幸いです。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/ihg-traveler-premier-comparison"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ihg-traveler-premier-comparison"]
+<!-- /wp:shortcode -->

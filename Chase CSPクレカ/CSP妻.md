@@ -38,8 +38,12 @@
 <p>詳しくは過去の記事にまとめていますので参考にしてください。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-creditcard"]</p>
-<p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-new-benefits"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-creditcard"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-new-benefits"]
+<!-- /wp:shortcode -->
 <p>これで<span style="background: linear-gradient(to bottom, rgba(128,255,255,0) 60%, #80ffff 60%);">無事に夫婦揃って発行</span>できました^^</p>
 <p><strong style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">入会ボーナスポイントは６０，０００ポイント（現金価値で６００ドル）</strong>なのですが、使い方次第では１，０００ドル以上のリターンが期待できる非常にありがたいクレジットカードとなります。</p>
 
@@ -48,7 +52,9 @@
 <!-- /wp:paragraph -->
 
 <p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener noreferrer">Chase Sapphire Preferredクレジットカード申し込み</a></p>
-<p>[nlink url="https://ibis-dallas.com/hyatt-zilara-cancun"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hyatt-zilara-cancun"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker2">Chase Sapphire Preferred承認までのやりとり<br></h2>
@@ -142,7 +148,9 @@
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<p>[nlink url="https://ibis-dallas.com/credit-score-wife"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/credit-score-wife"]
+<!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
 <p>少しだけ考察します。<br></p>
@@ -170,7 +178,9 @@
 <p> <a href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener" title="">Chase Sapphire Preferredクレジットカード紹介リンク</a> </p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/chase-bank-checking-account"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-bank-checking-account"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker4">Amexクレジットカードはポップアップ出現で不戦敗<br></h2>
@@ -186,7 +196,9 @@
 <p>あとはデルタゴールドが１月末で規約変更があり、それまでにボーナスポイントがほしかったのもあります。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/delta-gold-amex"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/delta-gold-amex"]
+<!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
 <p>早速デルタゴールドを申請したのですが、見慣れたポップアップ画面が現れました。</p>
@@ -233,6 +245,12 @@
 <!-- /wp:paragraph -->
 
 <p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener noreferrer">Chase Sapphire Preferredクレジットカード申し込み</a></p>
-<p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-creditcard"]</p>
-<p>[nlink url="https://ibis-dallas.com/chase-ur-point"]</p>
-<p>[nlink url="https://ibis-dallas.com/creditcard-point-oneyear"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-creditcard"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-ur-point"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/creditcard-point-oneyear"]
+<!-- /wp:shortcode -->

@@ -821,7 +821,9 @@
 <p>富山はダブルツリーにしてはかなりきれいだったのでぜひ新しいうちに泊まってみてください。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/doubletree-by-hilton-toyama"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/doubletree-by-hilton-toyama"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker7">ヒルトンステイをもっとお得に！アメックス提携カードで手に入れる特別特典</h2>
@@ -870,7 +872,9 @@
 <li><strong>空港ラウンジが無料</strong>（プライオリティ・パス付帯なし）</li>
 <li><strong>新規入会特典：35,000ポイント</strong></li>
 </ul>
-<p>[nlink url="https://ibis-dallas.com/hilton-premium-card-japan"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-premium-card-japan"]
+<!-- /wp:shortcode -->
 <p><strong>&#x1f4a1; 選び方のポイント &#x1f4a1;</strong></p>
 <ul>
 <li><strong>朝食無料だけが目的なら</strong>→ヒルトンオナーズカード</li>
@@ -982,8 +986,18 @@
 [hotelier id="32022"]
 <!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/doubletree-by-hilton-naha-shuri-castle"]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-okinawa-chatan"]</p>
-<p>[nlink url="https://ibis-dallas.com/doubletree-by-hilton-kyoto-higashiyama"]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-hotel-japan"]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/doubletree-by-hilton-naha-shuri-castle"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-okinawa-chatan"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/doubletree-by-hilton-kyoto-higashiyama"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-hotel-japan"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"]
+<!-- /wp:shortcode -->

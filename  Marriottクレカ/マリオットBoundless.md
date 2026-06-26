@@ -313,7 +313,15 @@
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison"]</p>
-<p>[nlink url="https://ibis-dallas.com/marriott-free-night-award"]</p>
-<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-brilliant"]</p>
-<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-bevy"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-free-night-award"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-brilliant"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-bevy"]
+<!-- /wp:shortcode -->

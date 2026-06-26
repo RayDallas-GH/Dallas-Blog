@@ -24,7 +24,9 @@
 <p>マリオットアメックスプレミアム申請は紹介経由が一番お得（公式サイト経由より6,000ポイント多いです）⇒</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-premium-card"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-premium-card"]
+<!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
 [box class="yellow_box" title="マリオット紹介プログラムで申請する"][contact-form-7 id="238d4b4" title="マリオットアメックス紹介リンク"][/box]
@@ -1067,7 +1069,9 @@
 [hotelier id="32154"]
 <!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-premium-card"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-premium-card"]
+<!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
 [box class="yellow_box" title="マリオット紹介プログラムで申請する"][contact-form-7 id="238d4b4" title="マリオットアメックス紹介リンク"][/box]

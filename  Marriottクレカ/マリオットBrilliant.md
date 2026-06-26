@@ -347,14 +347,26 @@
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison"]
+<!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-boundless"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-boundless"]
+<!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/marriott-free-night-award"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-free-night-award"]
+<!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/jw-marriott-nara"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/jw-marriott-nara"]
+<!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/ritz-carlton-okinawa"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ritz-carlton-okinawa"]
+<!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/izu-marriott-shuzenji"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/izu-marriott-shuzenji"]
+<!-- /wp:shortcode -->

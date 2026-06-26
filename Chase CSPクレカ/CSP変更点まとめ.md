@@ -62,8 +62,12 @@
 <p>ハイアットポイント転送を重視している人ほど、影響は大きいです。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-creditcard"]</p>
-<p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-new-benefits"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-creditcard"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-new-benefits"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker2">変更の形式（Chaseはどう改定しているか）</h2>
@@ -365,7 +369,9 @@
 <p>ハイアット転送がCSPの最大の魅力だった読者には、最も痛い変更です。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/chase-ur-point"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-ur-point"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">② 10%アニバーサリーボーナスの廃止</h4>
@@ -455,7 +461,9 @@
 <p>古参CSP会員ほど、ポイント使い方の面ではまだメリットが残っています。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-new-benefits"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-new-benefits"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker5">まとめ：CSPは今も持つべきか</h2>
@@ -518,5 +526,9 @@
 <!-- /wp:paragraph -->
 
 <p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
-<p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-creditcard-wife"]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-creditcard-wife"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]
+<!-- /wp:shortcode -->

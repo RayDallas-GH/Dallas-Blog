@@ -67,7 +67,9 @@
 <p>フロントスタッフの対応も丁寧で、プラチナエリート会員であることを伝えると専用カウンターでチェックインしていただきました。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/ihg-hotel-japan"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ihg-hotel-japan"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker2">ANAクラウンプラザホテル米子のアクセス</h2>
@@ -565,8 +567,12 @@
 <p>以上、少しでも参考になれば幸いです。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/ana-crowneplaza-ube"]</p>
-<p>[nlink url="https://ibis-dallas.com/ana-crowneplaza-chitose"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ana-crowneplaza-ube"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ana-crowneplaza-chitose"]
+<!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
 [hotelier id="32065"]

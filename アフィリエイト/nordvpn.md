@@ -43,7 +43,9 @@
 <!-- /wp:paragraph -->
 
 <p>海外駐在員におすすめする５つのVPNサービス比較記事は⇒</p>
-<p>[nlink url="https://ibis-dallas.com/vpn"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/vpn"]
+<!-- /wp:shortcode -->
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
 <li>1.<a href="#anker1">アメリカ駐在員がVPNサービスを必要とする理由</a></li>
@@ -759,6 +761,12 @@
 
 <p><a class="shiny-btn3" href="https://bit.ly/42yqdK5" target="_blank" rel="noopener">NordVPNをお試しで使ってみる</a></p>
 <p>海外駐在員におすすめする５つのVPNサービス比較記事は⇒</p>
-<p>[nlink url="https://ibis-dallas.com/vpn"]</p>
-<p>[nlink url="https://ibis-dallas.com/millenvpn"]</p>
-<p>[nlink url="https://ibis-dallas.com/transferwise"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/vpn"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/millenvpn"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/transferwise"]
+<!-- /wp:shortcode -->

@@ -83,8 +83,12 @@
 <p>最寄り駅からは小規模なチャイナタウンがありました。</p>
 <p><img class="aligncenter wp-image-8696 size-large" src="https://ibis-dallas.com/wp-content/uploads/2020/05/IMG_3500-1024x768.jpg" alt="" width="728" height="546" /></p>
 <p>空港からコンラッドまでは地下鉄で移動しましたが、宿泊中の観光はなんだかんだ<span style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">UberやLyftなどを使って移動</span>していました。</p>
-<p>[nlink url="https://ibis-dallas.com/uber"]</p>
-<p>[nlink url="https://ibis-dallas.com/lyft"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/uber"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/lyft"]
+<!-- /wp:shortcode -->
 <p>夫婦で地下鉄乗ると２人分きっぷ料金がかかりますが、Uberだと何人乗っても変わらないですからね。</p>
 <p>多少割高ですが有意義に観光するために時間をとりました。</p>
 
@@ -121,7 +125,9 @@
 <p>ダイヤモンドステータスのため、<strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">夫婦で１泊５０ドル分のクレジット</strong>が付与されました。</p>
 <p>朝食程度なら無料で食べられます。</p>
 <p>ありがとう、Aspire！</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]
+<!-- /wp:shortcode -->
 <p>なお、Aspireクレジットカードの特典として<strong style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">コンラッドに２泊以上すると１００ドルのクレジットが付与される</strong>という特典がありますが、これは<strong style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">ポイント利用での宿泊だと対象外</strong>でした。</p>
 <p>Estuary（エスチュアリー；英語で河口という意味）というレストランがホテル内２階に入っていて、隣にバーもありました。</p>
 <p>ヒルトンラウンジはありませんでした。</p>
@@ -243,7 +249,9 @@
 <li><strong>空港ラウンジが無料</strong>（プライオリティ・パス付帯なし）</li>
 <li><strong>新規入会特典：35,000ポイント</strong></li>
 </ul>
-<p>[nlink url="https://ibis-dallas.com/hilton-premium-card-japan"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-premium-card-japan"]
+<!-- /wp:shortcode -->
 <p><strong>&#x1f4a1; 選び方のポイント &#x1f4a1;</strong></p>
 <ul>
 <li><strong>朝食無料だけが目的なら</strong>→ヒルトンオナーズカード</li>
@@ -316,7 +324,9 @@
 <p>地下鉄も近くにあるのですが、なんだかんだUberやLyftを使って移動しました。</p>
 <p>ヒルトンのクレジットカードを作成すれば<strong style="background: linear-gradient(to bottom, rgba(128,255,255,0) 60%, #80ffff 60%);">コンラッドにも無料で宿泊</strong>することができます。</p>
 <p>いっしょにヒルトンホテルを満喫しませんか。</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-weekend-reward"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-weekend-reward"]
+<!-- /wp:shortcode -->
 <p>以上、参考になれば幸いです。</p>
 
 <!-- wp:html -->
@@ -327,4 +337,6 @@
 <figure class="wp-block-image size-large"><img src="https://ibis-dallas.com/wp-content/uploads/2020/02/IMG_3543-768x1024.jpg" alt="" class="wp-image-6633"/><figcaption class="wp-element-caption">クリスマスも近いためホテルの目の前にはツリーがありました</figcaption></figure>
 <!-- /wp:image -->
 
-<p>[nlink url="https://ibis-dallas.com/washington-dc-sightseeing"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/washington-dc-sightseeing"]
+<!-- /wp:shortcode -->

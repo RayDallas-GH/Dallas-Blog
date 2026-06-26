@@ -129,7 +129,9 @@
 <!-- /wp:paragraph -->
 
 <p><a class="shiny-btn3" href="https://px.a8.net/svt/ejp?a8mat=3NEVKI+9NP62A+4Q64+5ZMCI" target="_blank" rel="noopener">nearMe.Airportを使ってみる</a></p>
-<p>[nlink url="https://ibis-dallas.com/platinum-elite-with-creditcards"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/platinum-elite-with-creditcards"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker2">アカウント登録方法</h2>
@@ -772,6 +774,12 @@
 <!-- /wp:paragraph -->
 
 <p><a class="shiny-btn3" href="https://px.a8.net/svt/ejp?a8mat=3NEVKI+9NP62A+4Q64+5ZMCI" target="_blank" rel="noopener">nearMe.Airportを使ってみる</a></p>
-<p>[nlink url="https://ibis-dallas.com/sold-useless-articles"]</p>
-<p>[nlink url="https://ibis-dallas.com/usa-tv-ground-waves"]</p>
-<p>[nlink url="https://ibis-dallas.com/job-change-recruitment"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/sold-useless-articles"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/usa-tv-ground-waves"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/job-change-recruitment"]
+<!-- /wp:shortcode -->

@@ -19,8 +19,12 @@
 <!-- /wp:paragraph -->
 
 <p>[box class="yellow_box" title="ヒルトン紹介プログラム"][contact-form-7 id="d99b16b" title="ヒルトンアメックス紹介リンク"][/box]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-classic-card-japan"]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-premium-card-japan"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-classic-card-japan"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-premium-card-japan"]
+<!-- /wp:shortcode -->
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
 <li>1.<a href="#anker1">日本国内のヒルトン系列ホテル</a></li>
@@ -67,8 +71,12 @@
 <p>非常に楽しみですね。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/hilton-hotel-japan"]</p>
-<p>[nlink url="https://ibis-dallas.com/hyatt-hotel-japan"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-hotel-japan"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hyatt-hotel-japan"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker2">スモールラグジュアリーホテル（SLH）とは</h2>
@@ -294,7 +302,9 @@
 <div class="cstmreba"><div class="tomarebalink-box"><div class="tomarebalink-image"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D2046&vcptn=kaereba" target="_blank" rel="nofollow noopener"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3438631&pid=888048024" height="1" width="0" border="0"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2046/2046.jpg" width="300" style="border: none;" ></a></div><div class="tomarebalink-info"><div class="tomarebalink-name"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D2046&vcptn=kaereba" target="_blank" rel="nofollow noopener"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3438631&pid=888048024" height="1" width="0" border="0">名古屋観光ホテル</a></div><div class="tomarebalink-address" style="margin-bottom:5px;">愛知県名古屋市中区錦1-19-30<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=http%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2046%2Frtmap.html&vcptn=kaereba" target="_blank" rel="nofollow noopener"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3438631&pid=888048024" height="1" width="0" border="0">[地図]</a></div><div class="tomarebalink-link1"><div class="shoplinkrakuten"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D2046&vcptn=kaereba" target="_blank" rel="nofollow noopener" title="楽天トラベル">楽天トラベルで探す<img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3438631&pid=888048024" height="1" width="0" border="0"></a></div><div class="shoplinkjalan"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=887906765&vc_url=http%3A%2F%2Fwww.jalan.net%2Fyad327245%2F&vcptn=kaereba" target="_blank" rel="nofollow noopener" title="じゃらん">じゃらんで探す<img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3438631&pid=887906765" height="1" width="1" border="0"></a></div><div class="shoplinkjtb"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888042102&vc_url=https%3A%2F%2Fwww.jtb.co.jp%2Fkokunai_hotel%2Flist%2F%3Fhotelkeyword%3D%25E5%2590%258D%25E5%258F%25A4%25E5%25B1%258B%25E8%25A6%25B3%25E5%2585%2589%25E3%2583%259B%25E3%2583%2586%25E3%2583%25AB%2520%25E3%2582%25A8%25E3%2582%25B9%25E3%2583%2591%25E3%2582%25B7%25E3%2582%25AA&vcptn=kaereba" target="_blank" rel="nofollow noopener" title="JTB">JTBで探す<img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3438631&pid=888042102" height="1" width="1" border="0"></a></div><div class="shoplinkikyu"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=887906770&vc_url=https%3A%2F%2Fwww.ikyu.com%2Fap%2Fsrch%2FUspW11103.aspx%3Fkwd%3D%25E5%2590%258D%25E5%258F%25A4%25E5%25B1%258B%25E8%25A6%25B3%25E5%2585%2589%25E3%2583%259B%25E3%2583%2586%25E3%2583%25AB%2520%25E3%2582%25A8%25E3%2582%25B9%25E3%2583%2591%25E3%2582%25B7%25E3%2582%25AA&vcptn=kaereba" target="_blank" rel="nofollow noopener" title="一休">一休で探す<img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3438631&pid=887906770" height="1" width="1" border="0"></a></div>	  <div class="shoplinkrurubu"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=887906760&vc_url=https%3A%2F%2Fwww.rurubu.travel%3FtextToSearch%3D%25E5%2590%258D%25E5%258F%25A4%25E5%25B1%258B%25E8%25A6%25B3%25E5%2585%2589%25E3%2583%259B%25E3%2583%2586%25E3%2583%25AB%2520%25E3%2582%25A8%25E3%2582%25B9%25E3%2583%2591%25E3%2582%25B7%25E3%2582%25AA&vcptn=kaereba" target="_blank" rel="nofollow noopener" title="るるぶ">るるぶで探す<img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3438631&pid=887906760" height="1" width="1" border="0"></a></div>	  <div class="shoplinkyahoo"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=887906773&vc_url=http%3A%2F%2Ftravel.yahoo.co.jp%2Fdhotel%2Fshisetsu%2FHT10019932%2Finformation%2F&vcptn=kaereba" target="_blank" rel="nofollow noopener" title="Yahoo!トラベル">Yahoo!トラベルで探す<img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3438631&pid=887906773" height="1" width="1" border="0"></a></div></div></div><div class="booklink-footer"></div></div></div>
 <!-- /wp:html -->
 
-<p>[nlink url="https://ibis-dallas.com/nagoyakankohotel-espacio"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/nagoyakankohotel-espacio"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker36">志摩観光ホテル・ザ・ベイスイート</h3>
@@ -368,7 +378,9 @@
 <div class="cstmreba"><div class="tomarebalink-box"><div class="tomarebalink-image"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D191595&vcptn=kaereba" target="_blank" rel="nofollow" ><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3438631&pid=888048024" height="1" width="0" border="0"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/191595/191595.jpg" width="300" style="border: none;" ></a></div><div class="tomarebalink-info"><div class="tomarebalink-name"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D191595&vcptn=kaereba" target="_blank" rel="nofollow" ><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3438631&pid=888048024" height="1" width="0" border="0">ＦＩＶＥ　ＳＰＲＩＮＧ　ＲＥＳＯＲＴ　ＴＨＥ　ＳＨＩＲＡＨＡＭＡ</a></div><div class="tomarebalink-address" style="margin-bottom:5px;">和歌山県西牟婁郡白浜町300-2<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=http%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F191595%2Frtmap.html&vcptn=kaereba" target="_blank" rel="nofollow" ><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3438631&pid=888048024" height="1" width="0" border="0">[地図]</a></div><div class="tomarebalink-link1"><div class="shoplinkrakuten"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D191595&vcptn=kaereba" target="_blank" rel="nofollow" title="楽天トラベル" >楽天トラベルで探す<img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3438631&pid=888048024" height="1" width="0" border="0"></a></div><div class="shoplinkjalan"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=887906765&vc_url=http%3A%2F%2Fwww.jalan.net%2Fuw%2Fuwp2011%2Fuww2011init.do%3Fkeyword%3D%2583t%2583%2540%2583C%2583u%2583X%2583v%2583%258A%2583%2593%2583O%2581E%2583%258A%2583%255D%2581%255B%2583g%2581E%2583U%2581E%2583V%2583%2589%2583n%2583%257D&vcptn=kaereba" target="_blank" rel="nofollow" title="じゃらん" >じゃらんで探す<img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3438631&pid=887906765" height="1" width="1" border="0"></a></div><div class="shoplinkjtb"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888042102&vc_url=https%3A%2F%2Fwww.jtb.co.jp%2Fkokunai_hotel%2Flist%2F%3Fhotelkeyword%3D%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%2596%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25BB%25E3%2583%25AA%25E3%2582%25BE%25E3%2583%25BC%25E3%2583%2588%25E3%2583%25BB%25E3%2582%25B6%25E3%2583%25BB%25E3%2582%25B7%25E3%2583%25A9%25E3%2583%258F%25E3%2583%259E&vcptn=kaereba" target="_blank" rel="nofollow noopener" title="JTB">JTBで探す<img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3438631&pid=888042102" height="1" width="1" border="0"></a></div><div class="shoplinkikyu"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=887906770&vc_url=https%3A%2F%2Fwww.ikyu.com%2Fap%2Fsrch%2FUspW11103.aspx%3Fkwd%3D%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%2596%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25BB%25E3%2583%25AA%25E3%2582%25BE%25E3%2583%25BC%25E3%2583%2588%25E3%2583%25BB%25E3%2582%25B6%25E3%2583%25BB%25E3%2582%25B7%25E3%2583%25A9%25E3%2583%258F%25E3%2583%259E&vcptn=kaereba" target="_blank" rel="nofollow noopener" title="一休">一休で探す<img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3438631&pid=887906770" height="1" width="1" border="0"></a></div>	  <div class="shoplinkrurubu"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=887906760&vc_url=https%3A%2F%2Fwww.rurubu.travel%3FtextToSearch%3D%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%2596%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25BB%25E3%2583%25AA%25E3%2582%25BE%25E3%2583%25BC%25E3%2583%2588%25E3%2583%25BB%25E3%2582%25B6%25E3%2583%25BB%25E3%2582%25B7%25E3%2583%25A9%25E3%2583%258F%25E3%2583%259E&vcptn=kaereba" target="_blank" rel="nofollow noopener" title="るるぶ">るるぶで探す<img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3438631&pid=887906760" height="1" width="1" border="0"></a></div>	  <div class="shoplinkyahoo"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=887906773&vc_url=https%3A%2F%2Ftravel.yahoo.co.jp%2Fdhotel%2Fsearch%2F%3Fqry%3D%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%2596%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25BB%25E3%2583%25AA%25E3%2582%25BE%25E3%2583%25BC%25E3%2583%2588%25E3%2583%25BB%25E3%2582%25B6%25E3%2583%25BB%25E3%2582%25B7%25E3%2583%25A9%25E3%2583%258F%25E3%2583%259E&vcptn=kaereba" target="_blank" rel="nofollow noopener" title="Yahoo!トラベル">Yahoo!トラベルで探す<img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3438631&pid=887906773" height="1" width="1" border="0"></a></div></div></div><div class="booklink-footer"></div></div></div>
 <!-- /wp:html -->
 
-<p>[nlink url="https://ibis-dallas.com/five-spring-resort-the-shirahama"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/five-spring-resort-the-shirahama"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker312">サンカラホテル＆スパ屋久島（鹿児島）</h3>
@@ -394,8 +406,12 @@
 <div class="cstmreba"><div class="tomarebalink-box"><div class="tomarebalink-image"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D129406&vcptn=kaereba" target="_blank" rel="nofollow noopener"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3438631&pid=888048024" height="1" width="0" border="0"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/129406/129406.jpg" width="300" style="border: none;" ></a></div><div class="tomarebalink-info"><div class="tomarebalink-name"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D129406&vcptn=kaereba" target="_blank" rel="nofollow noopener"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3438631&pid=888048024" height="1" width="0" border="0">ザ・テラスクラブ ウェルネスタラソ アット ブセナ</a></div><div class="tomarebalink-address" style="margin-bottom:5px;">沖縄県名護市喜瀬1750<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=http%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F129406%2Frtmap.html&vcptn=kaereba" target="_blank" rel="nofollow noopener"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3438631&pid=888048024" height="1" width="0" border="0">[地図]</a></div><div class="tomarebalink-link1"><div class="shoplinkrakuten"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D129406&vcptn=kaereba" target="_blank" rel="nofollow noopener" title="楽天トラベル">楽天トラベルで探す<img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3438631&pid=888048024" height="1" width="0" border="0"></a></div><div class="shoplinkjalan"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=887906765&vc_url=http%3A%2F%2Fwww.jalan.net%2Fyad358232%2F&vcptn=kaereba" target="_blank" rel="nofollow noopener" title="じゃらん">じゃらんで探す<img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3438631&pid=887906765" height="1" width="1" border="0"></a></div><div class="shoplinkjtb"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888042102&vc_url=https%3A%2F%2Fwww.jtb.co.jp%2Fkokunai_hotel%2Flist%2F%3Fhotelkeyword%3D%25E3%2582%25B6%25E3%2583%25BB%25E3%2583%2586%25E3%2583%25A9%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%2596%2520%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2588%2520%25E3%2583%2596%25E3%2582%25BB%25E3%2583%258A&vcptn=kaereba" target="_blank" rel="nofollow noopener" title="JTB">JTBで探す<img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3438631&pid=888042102" height="1" width="1" border="0"></a></div><div class="shoplinkikyu"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=887906770&vc_url=https%3A%2F%2Fwww.ikyu.com%2Fap%2Fsrch%2FUspW11103.aspx%3Fkwd%3D%25E3%2582%25B6%25E3%2583%25BB%25E3%2583%2586%25E3%2583%25A9%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%2596%2520%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2588%2520%25E3%2583%2596%25E3%2582%25BB%25E3%2583%258A&vcptn=kaereba" target="_blank" rel="nofollow noopener" title="一休">一休で探す<img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3438631&pid=887906770" height="1" width="1" border="0"></a></div>	  <div class="shoplinkrurubu"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=887906760&vc_url=https%3A%2F%2Fwww.rurubu.travel%3FtextToSearch%3D%25E3%2582%25B6%25E3%2583%25BB%25E3%2583%2586%25E3%2583%25A9%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%2596%2520%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2588%2520%25E3%2583%2596%25E3%2582%25BB%25E3%2583%258A&vcptn=kaereba" target="_blank" rel="nofollow noopener" title="るるぶ">るるぶで探す<img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3438631&pid=887906760" height="1" width="1" border="0"></a></div>	  <div class="shoplinkyahoo"><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=887906773&vc_url=https%3A%2F%2Ftravel.yahoo.co.jp%2Fdhotel%2Fsearch%2F%3Fqry%3D%25E3%2582%25B6%25E3%2583%25BB%25E3%2583%2586%25E3%2583%25A9%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%2596%2520%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2588%2520%25E3%2583%2596%25E3%2582%25BB%25E3%2583%258A&vcptn=kaereba" target="_blank" rel="nofollow noopener" title="Yahoo!トラベル">Yahoo!トラベルで探す<img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3438631&pid=887906773" height="1" width="1" border="0"></a></div></div></div><div class="booklink-footer"></div></div></div>
 <!-- /wp:html -->
 
-<p>[nlink url="https://ibis-dallas.com/the-terrace-club-at-busena-lounge"]</p>
-<p>[nlink url="https://ibis-dallas.com/the-terrace-club-at-busena-breakfast"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/the-terrace-club-at-busena-lounge"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/the-terrace-club-at-busena-breakfast"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker314">【提携終了】ヒノデヒルズ・ニセコビレッジ</h3>
@@ -488,7 +504,9 @@
 <li><strong>空港ラウンジが無料</strong>（プライオリティ・パス付帯なし）</li>
 <li><strong>新規入会特典：35,000ポイント</strong></li>
 </ul>
-<p>[nlink url="https://ibis-dallas.com/hilton-premium-card-japan"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-premium-card-japan"]
+<!-- /wp:shortcode -->
 <p><strong>&#x1f4a1; 選び方のポイント &#x1f4a1;</strong></p>
 <ul>
 <li><strong>朝食無料だけが目的なら</strong>→ヒルトンオナーズカード</li>
@@ -644,7 +662,15 @@
 <!-- /wp:paragraph -->
 
 <p>[box class="yellow_box" title="ヒルトン紹介プログラム"][contact-form-7 id="d99b16b" title="ヒルトンアメックス紹介リンク"][/box]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-classic-card-japan"]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-premium-card-japan"]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-classic-card-japan"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-premium-card-japan"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]
+<!-- /wp:shortcode -->

@@ -129,7 +129,9 @@
 </ol>
 <p>[/aside]<br />
 <!-- /wp:shortcode --></p>
-<p>[nlink url="https://ibis-dallas.com/hilton-garden-inn-kyoto"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-garden-inn-kyoto"]
+<!-- /wp:shortcode -->
 <p><!-- wp:heading --></p>
 <h2 class="wp-block-heading" id="anker3">ROKU KYOTOの部屋</h2>
 <p><!-- /wp:heading --></p>
@@ -471,7 +473,9 @@
 <p><!-- wp:paragraph --></p>
 <p>ゴールドステータスになるなら⇒</p>
 <p><!-- /wp:paragraph --></p>
-<p>[nlink url="https://ibis-dallas.com/hilton-business-creditcard"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-business-creditcard"]
+<!-- /wp:shortcode -->
 <p><!-- wp:image {"align":"center","id":15077} --></p>
 <figure class="wp-block-image aligncenter"><img src="https://ibis-dallas.com/wp-content/uploads/2021/12/IMG_2480-1024x768.jpg" alt="ROKU KYOTO" class="wp-image-15077"/></p>
 <figcaption class="wp-element-caption">こんな景色を見ながら朝食</figcaption>
@@ -890,7 +894,9 @@
 <p><!-- wp:paragraph --></p>
 <p>Aspireクレカは在米経験ないと作成できないクレカなんですがヒルトン推しなら超絶お得になるので持っておくとよかとです（なぜか博多弁）</p>
 <p><!-- /wp:paragraph --></p>
-<p>[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]
+<!-- /wp:shortcode -->
 <p><!-- wp:heading --></p>
 <h2 class="wp-block-heading" id="anker11">ヒルトンステイをもっとお得に！アメックス提携カードで手に入れる特別特典</h2>
 <p><!-- /wp:heading --></p>
@@ -934,7 +940,9 @@
 <li><strong>空港ラウンジが無料</strong>（プライオリティ・パス付帯なし）</li>
 <li><strong>新規入会特典：35,000ポイント</strong></li>
 </ul>
-<p>[nlink url="https://ibis-dallas.com/hilton-premium-card-japan"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-premium-card-japan"]
+<!-- /wp:shortcode -->
 <p><strong>&#x1f4a1; 選び方のポイント &#x1f4a1;</strong></p>
 <ul>
 <li><strong>朝食無料だけが目的なら</strong>→ヒルトンオナーズカード</li>
@@ -1037,5 +1045,9 @@
 [hotelier id="31961"]
 </div>
 <p><!-- /wp:html --></p>
-<p>[nlink url="https://ibis-dallas.com/conrad-osaka"]</p>
-<p>[nlink url="https://ibis-dallas.com/curio-kyukaruizawa"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/conrad-osaka"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/curio-kyukaruizawa"]
+<!-- /wp:shortcode -->

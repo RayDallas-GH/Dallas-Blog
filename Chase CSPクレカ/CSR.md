@@ -665,7 +665,9 @@
 <p>併せてご確認ください。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/chase-ur-point"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-ur-point"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker81">Chase Travel portalでの予約</h3>
@@ -1041,7 +1043,9 @@
 <p>Chase銀行口座の開設を検討しましょう。開設済みだと承認率が上がる噂もあります。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/chase-bank-checking-account"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-bank-checking-account"]
+<!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
 <p><strong>信用履歴の確認</strong></p>
@@ -1149,8 +1153,12 @@
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-new-benefits"]</p>
-<p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-creditcard"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-new-benefits"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-creditcard"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker132">American Express Platinum Cardとの比較</h3>
@@ -1333,4 +1341,6 @@
 <!-- /wp:paragraph -->
 
 <p><a class="shiny-btn3" href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener">Chase Sapphire Reserveを申請する</a></p>
-<p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-to-japan"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-to-japan"]
+<!-- /wp:shortcode -->

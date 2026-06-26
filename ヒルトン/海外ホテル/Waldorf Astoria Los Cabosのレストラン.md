@@ -28,7 +28,9 @@
 
 <p>文字数の観点からレストランレビューのみ記事を分けました。</p>
 <p>ホテル全般の宿泊レビューは別記事にまとめているので併せてお読みください。</p>
-<p>[nlink url="https://ibis-dallas.com/waldorf-astoria-los-cabos"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/waldorf-astoria-los-cabos"]
+<!-- /wp:shortcode -->
 <h2 id="anker2">Waldorf Astoriaロスカボスのレストラン</h2>
 <p><img class="aligncenter size-large wp-image-12396" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0409-1024x768.jpg" alt="Waldorf Astoriaロスカボス" width="728" height="546"></p>
 <p>Waldorf Astoriaロスカボスはオールインクルーシブではありません。</p>
@@ -75,7 +77,9 @@
 <p>El Farallonは朝食で来ることが多いと思います。</p>
 <p>朝、ランチ、ディナー全てやっています。</p>
 <p>僕は<strong style="background: linear-gradient(to bottom, rgba(128,255,255,0) 60%, #80ffff 60%);">ダイヤモンドステータスを持っていたので朝食無料</strong>でした。</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]
+<!-- /wp:shortcode -->
 <p><span style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">コンチネンタルブレックファスト（フルーツ盛り合わせ、シリアル、コーヒー）だけでも３１ドル</span>します。</p>
 <p>プラス税とサービス料です。</p>
 <p>これが無料になるのでかなりお得ですよね。</p>
@@ -143,5 +147,9 @@
 <p><span style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">アガベシロップのフルーツは美味しい</span>のでぜひ食べてみてください。</p>
 <p>ロスカボスは物価が高く、税金が１６％、サービス料も１５％がかかりますが、高級ホテルならではの最高のサービスを味わうために宿泊してみてはいかがでしょうか。</p>
 <p>以上、少しでも参考になれば幸いです。</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-weekend-reward"]</p>
-<p>[nlink url="https://ibis-dallas.com/pueblo-bonito-pacifica"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-weekend-reward"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/pueblo-bonito-pacifica"]
+<!-- /wp:shortcode -->

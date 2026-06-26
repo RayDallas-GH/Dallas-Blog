@@ -133,10 +133,18 @@
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<p>[nlink url="https://ibis-dallas.com/hilton-honors-creditcard"]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-business-creditcard"]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-honors-creditcard"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-business-creditcard"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"]
+<!-- /wp:shortcode -->
 
 <p><a class="shiny-btn4" href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHETUa7W&XLINK=MYCP" target="_blank" rel="noopener">Hilton Surpassクレジットカードに申し込む</a></p>
 
@@ -164,7 +172,9 @@
 <p>年会費$150に対して、入会特典だけで高級ホテルに2～3泊できるポイントがもらえます。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/hilton-business-creditcard"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-business-creditcard"]
+<!-- /wp:shortcode -->
 
 <p><a class="shiny-btn4" href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHETUa7W&XLINK=MYCP" target="_blank" rel="noopener">Hilton Surpassクレジットカードに申し込む</a></p>
 
@@ -210,7 +220,9 @@
 <p>貯めたポイントはヒルトンホテルで使うことができます。詳しい使い方は<a href="https://ibis-dallas.com/use-hilton-point">ヒルトンポイントの使い方ガイド</a>をご覧ください。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/use-hilton-point"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/use-hilton-point"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker23">ヒルトンクレジット年間$200付与（四半期ごとに$50）</h3>
@@ -253,7 +265,9 @@
 <!-- /wp:paragraph -->
 
 <p><a class="shiny-btn4" href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHETUa7W&XLINK=MYCP" target="_blank" rel="noopener">毎回のヒルトン宿泊で朝食が無料になるHilton Surpass申し込み</a></p>
-<p>[nlink url="https://ibis-dallas.com/hilton-gold-benefits"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-gold-benefits"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker25">年間利用額$15,000で無料宿泊特典付与</h3>
@@ -313,7 +327,9 @@
 <p>ダイヤモンド会員のベネフィットは別記事に詳しくまとめました。詳しくは<a href="https://ibis-dallas.com/hilton-diamond-benefits">ヒルトンダイヤモンド会員の特典</a>をご覧ください。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/hilton-diamond-benefits"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-diamond-benefits"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker27">外貨手数料無料</h3>
@@ -501,10 +517,18 @@
 
 <p>詳しい比較は<a href="https://ibis-dallas.com/hilton-creditcard-comparison">Hiltonカード4枚徹底比較記事</a>をご覧ください。</p>
 
-<p>[nlink url="https://ibis-dallas.com/hilton-honors-creditcard"]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-business-creditcard"]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-honors-creditcard"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-business-creditcard"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker5">実際の使い方・筆者の体験談</h2>
@@ -538,7 +562,9 @@
 <p>翌年はフリーステイで<a href="https://ibis-dallas.com/conrad-tokyo">コンラッド東京</a>などに宿泊できそうです。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/conrad-tokyo"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/conrad-tokyo"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">日常使いでポイントを貯める</h3>
@@ -582,7 +608,9 @@
 <p>逆に、最初からダイヤモンド会員になりたい方や、年間最大3泊の無料宿泊特典が欲しい方は、<a href="https://ibis-dallas.com/hilton-aspire-creditcard">Aspire</a>を検討してください。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker7">FAQ（よくある質問）</h2>
@@ -612,7 +640,9 @@
 <p>A. 年会費$550を許容できる方は、<a href="https://ibis-dallas.com/hilton-aspire-creditcard">Aspire</a>がおすすめです。ダイヤモンド会員になれて、年間最大3泊の無料宿泊特典、年間$600のクレジット特典が付与されます。年会費$550を許容できない方は、Surpassが良い選択肢です。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Q4. ゴールド会員の特典はどのくらいの価値がありますか？</h3>
@@ -622,7 +652,9 @@
 <p>A. ゴールド会員の最大のメリットは朝食無料です。朝食ブッフェになると一人$20も請求するホテルがありますので、夫婦で$40の節約になります。年間数回宿泊するだけでも、年会費$150を十分に回収できます。詳しくは<a href="https://ibis-dallas.com/hilton-gold-benefits">ヒルトンゴールド会員の特典</a>をご覧ください。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/hilton-gold-benefits"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-gold-benefits"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Q5. 年間$15,000利用は現実的ですか？</h3>
@@ -682,13 +714,17 @@
 <p>旅行が多く、年会費$550を許容できる方は<a href="https://ibis-dallas.com/hilton-aspire-creditcard">Hilton Aspire</a>も検討してみてください。ダイヤモンド会員になれて、年間最大3泊の無料宿泊特典、年間$600のクレジット特典が付与されます。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]
+<!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
 <p>Hiltonカードの違いが詳しく知りたい方は<a href="https://ibis-dallas.com/hilton-creditcard-comparison">Hiltonカード4枚徹底比較記事</a>もご覧ください。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"]
+<!-- /wp:shortcode -->
 
 <p><a class="shiny-btn4" href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHETUa7W&XLINK=MYCP" target="_blank" rel="noopener">Amex Hilton Surpassクレジットカード申し込み</a></p>
 
@@ -726,12 +762,24 @@
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<p>[nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-honors-creditcard"]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-business-creditcard"]</p>
-<p>[nlink url="https://ibis-dallas.com/use-hilton-point"]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-gold-benefits"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-honors-creditcard"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-business-creditcard"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/use-hilton-point"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-gold-benefits"]
+<!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
 <p><strong>【更新履歴】</strong></p>

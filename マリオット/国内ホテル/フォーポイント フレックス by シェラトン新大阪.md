@@ -28,7 +28,9 @@
 <p>[box class="yellow_box" title="マリオット紹介プログラムで申請する"][contact-form-7 id="238d4b4" title="マリオットアメックス紹介リンク"][/box]</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-premium-card"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-premium-card"]
+<!-- /wp:shortcode -->
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
 <li>1.<a href="#anker1">フォーポイント フレックス by シェラトン新大阪の基本情報</a></li>
@@ -355,4 +357,6 @@
 <p>[box class="yellow_box" title="マリオット紹介プログラムで申請する"][contact-form-7 id="238d4b4" title="マリオットアメックス紹介リンク"][/box]</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/osaka-station-hotel-autograph-collection"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/osaka-station-hotel-autograph-collection"]
+<!-- /wp:shortcode -->

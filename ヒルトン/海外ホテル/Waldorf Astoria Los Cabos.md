@@ -95,7 +95,9 @@
 <p>ただしアメリカのクレジットカードについてくる無料宿泊券を利用し、宿泊料金はタダになりました。</p>
 <p>前述の通り、レストランとチップ、送迎代のみ代金を払いました。</p>
 <p>ダイヤモンドステータスで朝食が無料になったのも大きかったです。</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]
+<!-- /wp:shortcode -->
 <h3 id="anker14">コロナ感染対策</h3>
 <p>コロナ感染対策について。</p>
 <p>まずホテルチェックインのときに検温がありました。</p>
@@ -168,7 +170,9 @@
 <h3 id="anker32">レストラン</h3>
 <p><img class="aligncenter size-large wp-image-12357" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0351-1024x768.jpg" alt="Waldorf Astoriaロスカボス" width="728" height="546"></p>
 <p>レストランについては別記事でくわしくまとめました。</p>
-<p>[nlink url="https://ibis-dallas.com/waldorf-astoria-los-cabos-restaurant"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/waldorf-astoria-los-cabos-restaurant"]
+<!-- /wp:shortcode -->
 <p>オールインクルーシブではありません。</p>
 <p>DON MANUEL'Sがチップと税あわせて一人１００ドルくらいしますが、ビーチ沿いでいい雰囲気でした。</p>
 <p>ホテルから歩いて１０分くらいにレストランが集まるハーバーがあるのでそこで食べるのもいいかもしれません。</p>
@@ -319,7 +323,9 @@
 <li><strong>空港ラウンジが無料</strong>（プライオリティ・パス付帯なし）</li>
 <li><strong>新規入会特典：35,000ポイント</strong></li>
 </ul>
-<p>[nlink url="https://ibis-dallas.com/hilton-premium-card-japan"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-premium-card-japan"]
+<!-- /wp:shortcode -->
 <p><strong>&#x1f4a1; 選び方のポイント &#x1f4a1;</strong></p>
 <ul>
 <li><strong>朝食無料だけが目的なら</strong>→ヒルトンオナーズカード</li>
@@ -391,4 +397,6 @@
 <p>ぜひ読者の皆さまもいつかヒルトンWaldorf Astoriaに宿泊してみてください。</p>
 <p>以上、少しでも参考になれば幸いです。</p>
 <p><img class="aligncenter size-large wp-image-12410" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0587-1024x768.jpg" alt="夕日" width="728" height="546"></p>
-<p>[nlink url="https://ibis-dallas.com/pueblo-bonito-pacifica"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/pueblo-bonito-pacifica"]
+<!-- /wp:shortcode -->

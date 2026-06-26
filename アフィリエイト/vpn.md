@@ -369,7 +369,9 @@
 </tr>
 </tbody>
 </table>
-<p>[nlink url="https://ibis-dallas.com/millenvpn"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/millenvpn"]
+<!-- /wp:shortcode -->
 <h3 id="anker44">NordVPN</h3>
 
 <!-- wp:image {"id":20319,"sizeSlug":"large","linkDestination":"none"} -->
@@ -424,7 +426,9 @@
 <li>Surfshark</li>
 </ol>
 <p>（追記：ExpressVPNのウェブサイトも日本語表記されるようになりました。それでもNordVPNやSurfsharkより割高なサービスです）</p>
-<p>[nlink url="https://ibis-dallas.com/nordvpn"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/nordvpn"]
+<!-- /wp:shortcode -->
 <h3 id="anker45">Surfshark</h3>
 
 <!-- wp:image {"id":20321,"sizeSlug":"large","linkDestination":"none"} -->
@@ -702,6 +706,12 @@
 </tr>
 </tbody>
 </table>
-<p>[nlink url="https://ibis-dallas.com/ebookjapan"]</p>
-<p>[nlink url="https://ibis-dallas.com/airalo"]</p>
-<p>[nlink url="https://ibis-dallas.com/topcashback"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ebookjapan"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/airalo"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/topcashback"]
+<!-- /wp:shortcode -->

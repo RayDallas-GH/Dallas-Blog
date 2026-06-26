@@ -767,7 +767,9 @@
 <li><strong>空港ラウンジが無料</strong>（プライオリティ・パス付帯なし）</li>
 <li><strong>新規入会特典：35,000ポイント</strong></li>
 </ul>
-<p>[nlink url="https://ibis-dallas.com/hilton-premium-card-japan"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-premium-card-japan"]
+<!-- /wp:shortcode -->
 <p><strong>&#x1f4a1; 選び方のポイント &#x1f4a1;</strong></p>
 <ul>
 <li><strong>朝食無料だけが目的なら</strong>→ヒルトンオナーズカード</li>
@@ -853,7 +855,9 @@
 <p class="whitespace-normal break-words">次回の沖縄旅行の際は、ぜひダブルツリーbyヒルトン沖縄北谷リゾートを検討してみてはいかがでしょうか。</p>
 <p>以上、少しでも参考になれば幸いです。</p>
 <p class="whitespace-normal break-words">[box class="yellow_box" title="ヒルトン紹介プログラム"][contact-form-7 id="d99b16b" title="ヒルトンアメックス紹介リンク"][/box]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-okinawa-chatan"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-okinawa-chatan"]
+<!-- /wp:shortcode -->
 <p class="whitespace-normal break-words">[nlink url="https://ibis-dallas.com/doubletree-by-hilton-naha-shuri-castle"]</p>
 <p class="whitespace-normal break-words">[nlink url="https://ibis-dallas.com/doubletree-by-hilton-naha"]</p>
 

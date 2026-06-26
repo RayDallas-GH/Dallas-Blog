@@ -24,7 +24,9 @@
 <p>最新の特典内容は別記事で詳しくまとめています⇒</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-update-2026"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-update-2026"]
+<!-- /wp:shortcode -->
 <p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
@@ -142,13 +144,17 @@
 <p>新しいポイント特典について詳しくは別記事でまとめています⇒</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-new-benefits"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-new-benefits"]
+<!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
 <p>2026年6月改定の変更点一覧・適用タイムラインはこちら⇒</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-update-2026"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-update-2026"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker14">ポイント交換方法</h3>
@@ -225,7 +231,9 @@
 <!-- /wp:image -->
 
 <p>URポイントの詳しい使い方は別記事にまとめました⇒</p>
-<p>[nlink url="https://ibis-dallas.com/chase-ur-point"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-ur-point"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker15">メリット</h3>
@@ -343,8 +351,12 @@
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<p>[nlink url="https://ibis-dallas.com/creditcard-application-within90days"]</p>
-<p>[nlink url="https://ibis-dallas.com/creditkarma"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/creditcard-application-within90days"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/creditkarma"]
+<!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
 <p>少し考察しておくとクレジットスコアはあまり意味ありません。<br></p>
@@ -374,7 +386,9 @@
 <p>Amexはだいたい申請すれば通りますからね。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/delta-gold-amex"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/delta-gold-amex"]
+<!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
 <p>今回の申請までにChaseは2回申し込んでいますが、1回目は渡米1年未満（記念受験）、2回目は90日以内の申請といろいろ未熟者だったと今となっては反省。<br></p>
@@ -418,8 +432,12 @@
 <p>僕は渡米前にユニオンバンクの口座を開設したのみでした。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/chase-bank-checking-account"]</p>
-<p>[nlink url="https://ibis-dallas.com/unionbank"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-bank-checking-account"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/unionbank"]
+<!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
 <p>（赴任後1年くらい）：Chase Sapphire Preferredに申請チャレンジ！若しくはChaseからの案内が来るのを待つ<br></p>
@@ -470,7 +488,15 @@
 <!-- /wp:paragraph -->
 
 <p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
-<p>[nlink url="https://ibis-dallas.com/chase-account-linking"]</p>
-<p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-update-2026"]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]</p>
-<p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-creditcard-wife"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-account-linking"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-update-2026"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-creditcard-wife"]
+<!-- /wp:shortcode -->

@@ -509,10 +509,18 @@
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison"]
+<!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-boundless"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-boundless"]
+<!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-business"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-business"]
+<!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-brilliant"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-brilliant"]
+<!-- /wp:shortcode -->

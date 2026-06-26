@@ -51,7 +51,9 @@
 [hotelier id="31961"]
 <!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]
+<!-- /wp:shortcode -->
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 
 <!-- wp:paragraph -->
@@ -111,7 +113,9 @@
 <p>ROKU KYOTOに初めて宿泊したときのレビュー記事はこちら⇒</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/roku-kyoto"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/roku-kyoto"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker2">ROKU KYOTOのダイヤモンド特典</h2>
@@ -810,7 +814,9 @@
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
-<p>[nlink url="https://ibis-dallas.com/hilton-garden-inn-kyoto"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-garden-inn-kyoto"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker5">（アメリカ限定）Hilton Aspireクレジットカード作成で自動的にダイヤモンド会員になろう</h2>
@@ -882,7 +888,9 @@
 <p>詳細はブログ記事もご覧ください。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker6">【ダイヤモンド特典】ROKU KYOTOのエクスペリエンスクレジットでコースディナーまとめ</h2>
@@ -931,6 +939,12 @@
 [hotelier id="31961"]
 <!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/hilton-honors-creditcard"]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-hotel-japan"]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-reservation-tel-number"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-honors-creditcard"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-hotel-japan"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-reservation-tel-number"]
+<!-- /wp:shortcode -->

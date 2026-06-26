@@ -20,7 +20,9 @@
 <p>使いこなしていきましょう。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]
+<!-- /wp:shortcode -->
 <p>[box class="yellow_box" title="本記事の信頼性"]</p>
 <ul>
 <li>アメリカのAMEXヒルトン系クレジットカード４枚すべて作成</li>
@@ -87,7 +89,9 @@
 <p>あくまで<strong>ヒルトンAspireのフライトクレジットは航空券のみが対象</strong>です。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/hilton-premium-card-japan"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-premium-card-japan"]
+<!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
 <p>なお、２０２３年１０月以前の旧AspireはAirline Fee Creditとして２５０ドル付与されていましたが、航空券は対象外。</p>
@@ -235,5 +239,9 @@
 <li>旅行代理店経由での購入、チャーター便、ツアー、クルーズ、発券手数料、変更手数料などは対象外</li>
 </ul>
 <p>[/box]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-resort-credit-japan"]</p>
-<p>[nlink url="https://ibis-dallas.com/hilton-honors-creditcard"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-resort-credit-japan"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-honors-creditcard"]
+<!-- /wp:shortcode -->

@@ -800,7 +800,9 @@
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
-<p>[nlink url="https://ibis-dallas.com/chihuly-garden-and-glass"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chihuly-garden-and-glass"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">スターバックスコーヒー 富山環水公園店</h3>
@@ -1019,7 +1021,9 @@
 <li><strong>空港ラウンジが無料</strong>（プライオリティ・パス付帯なし）</li>
 <li><strong>新規入会特典：35,000ポイント</strong></li>
 </ul>
-<p>[nlink url="https://ibis-dallas.com/hilton-premium-card-japan"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-premium-card-japan"]
+<!-- /wp:shortcode -->
 <p><strong>&#x1f4a1; 選び方のポイント &#x1f4a1;</strong></p>
 <ul>
 <li><strong>朝食無料だけが目的なら</strong>→ヒルトンオナーズカード</li>
@@ -1127,5 +1131,9 @@
 [hotelier id="32009"]
 <!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/doubletree-by-hilton-naha-shuri-castle"]</p>
-<p>[nlink url="https://ibis-dallas.com/doubletree-by-hilton-kyoto-higashiyama"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/doubletree-by-hilton-naha-shuri-castle"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/doubletree-by-hilton-kyoto-higashiyama"]
+<!-- /wp:shortcode -->

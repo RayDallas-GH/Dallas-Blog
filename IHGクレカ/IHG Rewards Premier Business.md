@@ -213,7 +213,9 @@
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<p>[nlink url="https://ibis-dallas.com/ihg-hotel-japan"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ihg-hotel-japan"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker24">自動的にプラチナステータス</h3>
@@ -265,7 +267,9 @@
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<p>[nlink url="https://ibis-dallas.com/intercontinental-yokohama-grand"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/intercontinental-yokohama-grand"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker25">毎年のクレカ更新で無料宿泊券が付与</h3>
@@ -299,7 +303,9 @@
 <p>毎年の更新でマリオット無料宿泊券が付与されるクレカはこちら⇒</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-boundless"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-boundless"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker26">ポイント購入時は20%オフ</h3>
@@ -337,7 +343,9 @@
 <p>ヒルトンは4泊ポイント利用だと5泊無料なので、IHGのほうが少し条件がゆるいですね。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker28">海外為替手数料無料</h3>
@@ -397,7 +405,9 @@
 <figure class="wp-block-image size-full"><img src="https://ibis-dallas.com/wp-content/uploads/2022/04/Travel-Purchase-coverage.jpg" alt="Travel &amp; Purchase coverage" class="wp-image-16154"/></figure>
 <!-- /wp:image -->
 
-<p>[nlink url="https://ibis-dallas.com/lost-baggage-rio"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/lost-baggage-rio"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker2-10">Global Entry/TSA PreCheck費用負担</h3>
@@ -465,8 +475,12 @@
 <p>4大銀行の中でも口座作成ボーナスもあり、使い勝手が一番いいと思っているChase銀行ですので口座作成してもいいことしかありません。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/chase-bank-checking-account"]</p>
-<p>[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-new-benefits"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-bank-checking-account"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-sapphire-preferred-new-benefits"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker32">年会費が99ドル発生する</h3>
@@ -500,7 +514,9 @@
 <p>年会費無料のTravlerクレカ（パーソナルカード）もありますが、特典を比較しながら作成するカードを決めましょう。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/ihg-rewards-traveler"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ihg-rewards-traveler"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker4">IHG Rewards Premierビジネスクレジットカードまとめ</h2>
@@ -539,8 +555,18 @@
 <!-- /wp:paragraph -->
 
 <p><a class="shiny-btn3" href="https://www.referyourchasecard.com/210y/SRC1PQ7X83#ihg3" target="_blank" rel="noopener">IHG Rewards Premier Businessクレジットカードに申し込む</a></p>
-<p>[nlink url="https://ibis-dallas.com/ihg-creditcard-comparison"]</p>
-<p>[nlink url="https://ibis-dallas.com/ihg-traveler-premier-comparison"]</p>
-<p>[nlink url="https://ibis-dallas.com/chase-account-linking"]</p>
-<p>[nlink url="https://ibis-dallas.com/chase-creditcard-from-japan"]</p>
-<p>[nlink url="https://ibis-dallas.com/marriott-bonvoy-bold"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ihg-creditcard-comparison"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ihg-traveler-premier-comparison"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-account-linking"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/chase-creditcard-from-japan"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-bold"]
+<!-- /wp:shortcode -->

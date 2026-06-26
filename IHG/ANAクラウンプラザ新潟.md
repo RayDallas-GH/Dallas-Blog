@@ -28,7 +28,9 @@
 [hotelier id="31973"]
 <!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/ihg-hotel-japan"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ihg-hotel-japan"]
+<!-- /wp:shortcode -->
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
 <li>1.<a href="#anker1">ANAクラウンプラザ新潟</a></li>
@@ -100,7 +102,9 @@
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50352.43117665628!2d139.0277258641714!3d37.92980088241434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5ff4c98c389bb4f5%3A0x83d396fe558f7dd6!2zQU5B44Kv44Op44Km44Oz44OX44Op44K244Ob44OG44OrIOaWsOa9nw!5e0!3m2!1sja!2sjp!4v1667007937024!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <!-- /wp:html -->
 
-<p>[nlink url="https://ibis-dallas.com/intercontinental-yokohama-grand"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/intercontinental-yokohama-grand"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 id="anker2">ANAクラウンプラザ新潟のアクセス</h2>
@@ -202,7 +206,9 @@
 <p>ホテルの目の前に115台のスペースがあり、公共交通機関で宿泊する方もいるので余裕はあると思いますが、満車の場合は他に近隣の提携駐車場はありません。</p>
 <!-- /wp:paragraph -->
 
-<p>[nlink url="https://ibis-dallas.com/ihg-traveler-premier-comparison"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ihg-traveler-premier-comparison"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 id="anker3">ANAクラウンプラザ新潟の部屋（ジュニアスイートにアップグレード）</h2>
@@ -580,5 +586,9 @@
 [hotelier id="31973"]
 <!-- /wp:shortcode -->
 
-<p>[nlink url="https://ibis-dallas.com/ana-crowneplaza-appikogen"]</p>
-<p>[nlink url="https://ibis-dallas.com/intercontinental-ishigaki"]</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/ana-crowneplaza-appikogen"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/intercontinental-ishigaki"]
+<!-- /wp:shortcode -->
