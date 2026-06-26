@@ -252,6 +252,13 @@ H2: まとめ（anker6）
 - 新規記事提案時は `紹介リンク.md` のクレカ紹介を意識した集客・収益記事を優先
 - 記事案は `ブログ記事案.md` に追記（最終更新日を記載）
 
+### アフィリエイト記事の収益導線
+
+- 外部アフィリエイトリンクは `rel="nofollow noopener"` を必ず付ける
+- ボタンリンクは `shiny-btn3` クラスを使用（宿泊記と同じ）
+- 記事内に最低2箇所（冒頭・まとめ）、可能なら3〜4箇所配置
+- アフィリエイトリンクが変わる場合はmdファイルを直接編集してgit push
+
 ---
 
 ## 品質管理・ファクトチェック
@@ -358,6 +365,45 @@ wp post meta update POST_ID _thumbnail_id MEDIA_ID
 10. ファクトチェック 2回目
 11. タイトル案・スラッグ案をチャットで提案
 ```
+
+---
+
+## 新規記事の作成フロー
+
+```
+1. WP管理画面で新規投稿を「下書き」で作成しpost_idを取得
+   または：wp post create --post_title="タイトル" --post_status=draft --post_name=スラッグ --porcelain
+2. mdファイルを作成し、先頭2行にpost_idとタイトルを記載
+   <!-- wp_post_id: XXXXX -->
+   <!-- wp_title: タイトル -->
+3. 記事本文を執筆（WordPress HTML形式）
+4. git add → git commit → git push でWPに自動反映
+5. アイキャッチ画像を設定：wp post meta update POST_ID _thumbnail_id MEDIA_ID
+6. カテゴリー設定：wp post update POST_ID --post_category=TERM_ID
+```
+
+**スラッグ変更が必要な場合**
+mdファイルのスラッグ情報はWPに自動反映されないため、以下で手動更新：
+```bash
+wp post update POST_ID --post_name=新しいスラッグ
+```
+
+---
+
+## Hotelierカード（予約ウィジェット）
+
+- 国内ホテル宿泊記には必ず設置（最低2枚：冒頭・末尾）
+- 使用形式（`<div class="cstmreba">` は不要）：
+  ```
+  <!-- wp:shortcode -->
+  [hotelier id="XXXXX"]
+  <!-- /wp:shortcode -->
+  ```
+- Hotelier IDの調べ方：
+  ```bash
+  wp post list --post_type=hotelier_hotel --fields=ID,post_title --posts_per_page=500
+  ```
+- トマレバリンクが残っている場合はHotelierカードに置換する
 
 ---
 
