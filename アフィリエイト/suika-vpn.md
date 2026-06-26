@@ -40,7 +40,7 @@
 <p>詳しく解説します。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="A8_AFFILIATE_LINK_HERE" target="_blank" rel="nofollow noopener">スイカVPN公式サイトを見る（30日間無料キャンセルあり）</a></p>
+<p><a class="shiny-btn3" href="https://bit.ly/3M0xNpZ" target="_blank" rel="nofollow noopener">スイカVPN公式サイトを見る（30日間無料キャンセルあり）</a></p>
 
 <p>他のVPNサービスとの比較記事はこちら⇒</p>
 <p>[nlink url="https://ibis-dallas.com/vpn"]</p>
@@ -203,7 +203,7 @@
 <p>申し込み後すぐに使えるので、まずお試しで始めてみるのがおすすめです。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="A8_AFFILIATE_LINK_HERE" target="_blank" rel="nofollow noopener">スイカVPNを30日間お試しする</a></p>
+<p><a class="shiny-btn3" href="https://bit.ly/3M0xNpZ" target="_blank" rel="nofollow noopener">スイカVPNを30日間お試しする</a></p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker3">スイカVPNの料金プラン</h2>
@@ -294,7 +294,7 @@
 <p><strong>申し込み完了と同時にアカウントが発行</strong>されるので、待ち時間なしで使い始められます。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="A8_AFFILIATE_LINK_HERE" target="_blank" rel="nofollow noopener">スイカVPNに申し込む（30日間無料キャンセルあり）</a></p>
+<p><a class="shiny-btn3" href="https://bit.ly/3M0xNpZ" target="_blank" rel="nofollow noopener">スイカVPNに申し込む（30日間無料キャンセルあり）</a></p>
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker52">アプリのインストールと接続方法</h3>
@@ -371,9 +371,6 @@
 <p>動画配信サービスごとに別途契約が必要ですが、VPNを接続した状態で日本のサービスにアクセスすれば視聴できます。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>FIFAワールドカップ2026の視聴方法について詳しくはこちら⇒</p>
-<p>[nlink url="https://ibis-dallas.com/worldcup-vpn"]</p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker7">スイカVPNまとめ</h2>
@@ -418,7 +415,7 @@
 <p>以上、少しでも参考になれば幸いです。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="A8_AFFILIATE_LINK_HERE" target="_blank" rel="nofollow noopener">スイカVPNを30日間お試しする</a></p>
+<p><a class="shiny-btn3" href="https://bit.ly/3M0xNpZ" target="_blank" rel="nofollow noopener">スイカVPNを30日間お試しする</a></p>
 
 <p>[nlink url="https://ibis-dallas.com/vpn"]</p>
 <p>[nlink url="https://ibis-dallas.com/nordvpn"]</p>
