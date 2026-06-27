@@ -16,7 +16,7 @@
 <p>入会ボーナスは＄１，０００以上の価値がある非常にありがたいクレジットカードです。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener noreferrer">Chase Sapphire Preferredクレジットカード申し込み</a></p>
+<p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19x/ML5E4XXXQA" target="_blank" rel="noopener noreferrer">Chase Sapphire Preferredクレジットカード申し込み</a></p>
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
 <li>1.<a href="#anker1">Chase Sapphire Preferredクレジットカードとは</a></li>
@@ -51,7 +51,7 @@
 <p>ハイアットなどに交換すると価値は高まりますね。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener noreferrer">Chase Sapphire Preferredクレジットカード申し込み</a></p>
+<p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19x/ML5E4XXXQA" target="_blank" rel="noopener noreferrer">Chase Sapphire Preferredクレジットカード申し込み</a></p>
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/hyatt-zilara-cancun"]
 <!-- /wp:shortcode -->
@@ -112,7 +112,7 @@
 <p>申請から１か月以上経過してしまいましたが、無事に承認されました。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
+<p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19x/ML5E4XXXQA" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker3">Chase Sapphire Preferred承認条件～駐妻編<br></h2>
@@ -175,7 +175,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p> <a href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener" title="">Chase Sapphire Preferredクレジットカード紹介リンク</a> </p>
+<p> <a href="https://www.referyourchasecard.com/19x/ML5E4XXXQA" target="_blank" rel="noopener" title="">Chase Sapphire Preferredクレジットカード紹介リンク</a> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->
@@ -244,7 +244,7 @@
 <p>以上、少しでも参考になれば幸いです。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener noreferrer">Chase Sapphire Preferredクレジットカード申し込み</a></p>
+<p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19x/ML5E4XXXQA" target="_blank" rel="noopener noreferrer">Chase Sapphire Preferredクレジットカード申し込み</a></p>
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/chase-sapphire-preferred-creditcard"]
 <!-- /wp:shortcode -->

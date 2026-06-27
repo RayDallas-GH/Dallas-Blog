@@ -16,7 +16,7 @@ Chase Sapphire Preferredクレジットカードのベネフィットが、<stro
 
 [nlink url="https://ibis-dallas.com/chase-sapphire-preferred-update-2026"]
 
-<a class="shiny-btn4" href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a>
+<a class="shiny-btn4" href="https://www.referyourchasecard.com/19x/ML5E4XXXQA" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a>
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 
 <ul>
@@ -319,7 +319,7 @@ Ultimate Rewards → World of Hyatt の転送レートが、<strong>1:1（1,000 
 
 以上、少しでも参考になれば幸いです。
 
-<a class="shiny-btn4" href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a>
+<a class="shiny-btn4" href="https://www.referyourchasecard.com/19x/ML5E4XXXQA" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a>
 
 [nlink url="https://ibis-dallas.com/chase-sapphire-preferred-creditcard-wife"]
 

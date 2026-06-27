@@ -20,7 +20,7 @@
 <p>既存カード会員か、これから申し込むかで適用時期が変わるので、自分がどの枠に当てはまるかもあわせて確認してください。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
+<p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19x/ML5E4XXXQA" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
 <li>1.<a href="#anker1">CSP変更の概要（結論）</a></li>
@@ -151,7 +151,7 @@
 <p>2026年6月の改定で、ホテルクレジット100ドル＋Global Entryクレジット120ドル（4年に1回）が加わったことで、<span style="background: linear-gradient(to bottom, rgba(128,255,255,0) 60%, #80ffff 60%);">年会費95ドルを上回る特典価値</span>が公式に設定されました。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
+<p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19x/ML5E4XXXQA" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker3">変更点の一覧</h2>
@@ -525,7 +525,7 @@
 <p>以上、少しでも参考になれば幸いです。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
+<p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19x/ML5E4XXXQA" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/chase-sapphire-preferred-creditcard-wife"]
 <!-- /wp:shortcode -->

@@ -27,7 +27,7 @@
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/chase-sapphire-preferred-update-2026"]
 <!-- /wp:shortcode -->
-<p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
+<p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19x/ML5E4XXXQA" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
 <li>1.<a href="#anker1">Chase Sapphire Preferredクレジットカード</a></li>
@@ -63,7 +63,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5667,"width":"292px","height":"auto","aspectRatio":"1.5977859778597785","sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large is-resized"><a href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noreferrer noopener"><img src="https://ibis-dallas.com/wp-content/uploads/2020/01/sapphire_preferred_card.png" alt="" class="wp-image-5667" style="aspect-ratio:1.5977859778597785;width:292px;height:auto"/></a></figure>
+<figure class="wp-block-image size-large is-resized"><a href="https://www.referyourchasecard.com/19x/ML5E4XXXQA" target="_blank" rel="noreferrer noopener"><img src="https://ibis-dallas.com/wp-content/uploads/2020/01/sapphire_preferred_card.png" alt="" class="wp-image-5667" style="aspect-ratio:1.5977859778597785;width:292px;height:auto"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -122,7 +122,7 @@
 <p>2019年4月から規約が変わり、以前は年会費初年度無料、ボーナスポイントは50,000ポイントでした。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
+<p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19x/ML5E4XXXQA" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker13">ポイント付与方法</h3>
@@ -185,7 +185,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p> <a href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener" title="">Chase Sapphire Preferredクレジットカード紹介リンク</a> </p>
+<p> <a href="https://www.referyourchasecard.com/19x/ML5E4XXXQA" target="_blank" rel="noopener" title="">Chase Sapphire Preferredクレジットカード紹介リンク</a> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -307,7 +307,7 @@
 <p>作成できるのであれば作成をオススメします。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
+<p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19x/ML5E4XXXQA" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker2">申請時の条件</h2>
@@ -398,7 +398,7 @@
 <p>駐在は任期が決まっており、貴重な期間ですのでクレジットカードを作成するのであればぜひ後悔のないクレカ作成をして頂ければと思います。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
+<p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19x/ML5E4XXXQA" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker3">将来申請を考えている方へのアドバイス</h2>
@@ -451,7 +451,7 @@
 <p>先人の知識はどんどん活用して前進していきましょう！<br></p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
+<p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19x/ML5E4XXXQA" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker4">【アメリカ】Chase Sapphire Preferredクレジットカードまとめ</h2>
@@ -487,7 +487,7 @@
 <p>以上、参考になれば幸いです。<br></p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19v/92QAXMHZBJ" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
+<p><a class="shiny-btn4" href="https://www.referyourchasecard.com/19x/ML5E4XXXQA" target="_blank" rel="noopener">Chase Sapphire Preferredクレジットカード申し込み</a></p>
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/chase-account-linking"]
 <!-- /wp:shortcode -->
