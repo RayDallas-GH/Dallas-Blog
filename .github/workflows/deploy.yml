@@ -31,7 +31,7 @@ jobs:
           SSH_USER: ${{ secrets.SSH_USER }}
         run: |
           # 変更されたファイルを取得（日本語パス対応のため -z オプション使用）
-          git diff -z --name-only HEAD~1 HEAD | tr '\0' '\n' | grep '\.md$' | while IFS= read -r file; do
+          while IFS= read -r file; do
             [ -z "$file" ] && continue
             [ ! -f "$file" ] && echo "SKIP (deleted): $file" && continue
 
@@ -55,7 +55,7 @@ jobs:
 
             # タイトルあり/なしで更新コマンドを分岐
             if [ -n "$WP_TITLE" ]; then
-              ssh -p "$SSH_PORT" -i ~/.ssh/deploy_key \
+              ssh -n -p "$SSH_PORT" -i ~/.ssh/deploy_key \
                   "${SSH_USER}@${SSH_HOST}" \
                   "wp --path=/home/${SSH_USER}/ibis-dallas.com/public_html \
                    post update ${WP_ID} \
@@ -65,7 +65,7 @@ jobs:
                    && echo 'OK: post ${WP_ID} updated' \
                    && rm -f ~/tmp_wp_content.txt"
             else
-              ssh -p "$SSH_PORT" -i ~/.ssh/deploy_key \
+              ssh -n -p "$SSH_PORT" -i ~/.ssh/deploy_key \
                   "${SSH_USER}@${SSH_HOST}" \
                   "wp --path=/home/${SSH_USER}/ibis-dallas.com/public_html \
                    post update ${WP_ID} \
@@ -74,4 +74,4 @@ jobs:
                    && echo 'OK: post ${WP_ID} updated (title unchanged)' \
                    && rm -f ~/tmp_wp_content.txt"
             fi
-          done
+          done < <(git diff -z --name-only HEAD~1 HEAD | tr '\0' '\n' | grep '\.md$')
