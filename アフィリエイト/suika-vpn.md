@@ -50,6 +50,9 @@
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/vpn"]
 <!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/vpn#anker42"]
+<!-- /wp:shortcode -->
 
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
@@ -453,4 +456,7 @@
 <!-- /wp:shortcode -->
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/millenvpn"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/suika-vpn-worldcup"]
 <!-- /wp:shortcode -->
