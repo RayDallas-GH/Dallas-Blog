@@ -1,0 +1,53 @@
+#!/bin/bash
+# push前に記事mdファイルをlint_articles.pyでチェックする。
+# エラーがあればpushを中止する。
+set -e
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+cd "$REPO_ROOT"
+
+zero_sha="0000000000000000000000000000000000000000"
+local_sha_out=""
+remote_sha_out=""
+while read -r local_ref local_sha remote_ref_line remote_sha; do
+    local_sha_out="$local_sha"
+    remote_sha_out="$remote_sha"
+done
+
+# remote_sha が全ゼロ＝リモートにまだ存在しない新規ブランチのpush
+# → 直近1コミットとの差分で代用（無ければ空ツリーとの差分＝全ファイル対象）
+base=""
+if [ -n "$remote_sha_out" ] && [ "$remote_sha_out" != "$zero_sha" ] && git rev-parse --verify "$remote_sha_out" >/dev/null 2>&1; then
+    base="$remote_sha_out"
+elif git rev-parse --verify "HEAD~1" >/dev/null 2>&1; then
+    base="HEAD~1"
+else
+    base="$(git hash-object -t tree /dev/null)"
+fi
+
+target="${local_sha_out:-HEAD}"
+
+changed=()
+while IFS= read -r -d '' f; do
+    changed+=("$f")
+done < <(git diff -z --name-only --diff-filter=ACMR "$base" "$target" -- '*.md')
+
+added=()
+while IFS= read -r -d '' f; do
+    added+=("$f")
+done < <(git diff -z --name-only --diff-filter=A "$base" "$target" -- '*.md')
+
+if [ "${#changed[@]}" -eq 0 ]; then
+    exit 0
+fi
+
+python3 scripts/lint_articles.py "${changed[@]}" --new "${added[@]}"
+result=$?
+
+if [ "$result" -ne 0 ]; then
+    echo ""
+    echo "記事チェックでエラーが見つかりました。push を中止します。"
+    echo "内容を修正するか、緊急時は 'git push --no-verify' で回避してください。"
+    exit 1
+fi
+
+exit 0
