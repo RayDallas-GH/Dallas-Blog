@@ -20,10 +20,6 @@
 <p>ダイヤモンド特典での客室アップグレードや43ウェストルーフトップバーでの無料ドリンク、朝食ビュッフェの様子など、実際の宿泊体験を詳しくレポートしていきます。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:shortcode -->
-[hotelier id="32021"]
-<!-- /wp:shortcode -->
-
 <p>[box class="yellow_box" title="本記事の信頼性"]</p>
 <ul>
 <li>アメリカのAMEXヒルトン系クレジットカード4枚すべて作成</li>
@@ -33,10 +29,6 @@
 <li>海外のWaldorf AstoriaやConradにも宿泊済み</li>
 </ul>
 <p>[/box]</p>
-
-<!-- wp:paragraph -->
-<p>[box class="yellow_box" title="ヒルトン紹介プログラム"][contact-form-7 id="d99b16b" title="ヒルトンアメックス紹介リンク"][/box]</p>
-<!-- /wp:paragraph -->
 
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
@@ -332,6 +324,10 @@
 <p>花火もホテルから出ることなく見れました。</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:paragraph -->
+<p>こうした部屋のアップグレードも、ヒルトンのアメックス提携カードを持っていれば上級会員特典として狙いやすくなります。詳しくは<a href="#anker8">カードの特典</a>で紹介します。</p>
+<!-- /wp:paragraph -->
+
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker4">43ウェストルーフトップバーでのダイヤモンド特典</h2>
 <!-- /wp:heading -->
@@ -410,6 +406,14 @@
 <figure class="wp-block-image size-full"><img src="https://ibis-dallas.com/wp-content/uploads/2025/06/IMG_4645.jpg" alt="ダブルツリーbyヒルトン沖縄北谷リゾートのルーフトップバー４３ウェスト" class="wp-image-28842"/></figure>
 <!-- /wp:image -->
 
+<!-- wp:paragraph -->
+<p>こうしたルーフトップバーの利用も、ヒルトンのアメックス提携カードを持っていれば上級会員特典として使えるようになります。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+[box class="yellow_box" title="ヒルトン紹介プログラム"][contact-form-7 id="d99b16b" title="ヒルトンアメックス紹介リンク"][/box]
+<!-- /wp:shortcode -->
+
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker5">朝食ビュッフェ（レストラン「マティーラ」）</h2>
 <!-- /wp:heading -->
@@ -433,6 +437,14 @@
 <!-- wp:paragraph -->
 <p>ダイヤモンド会員は2名まで無料で利用でき、通常料金は大人3,600円です。</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+[hotelier id="32021"]
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-classic-card-japan"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">ダイヤモンド・ゴールド会員限定特典</h3>
@@ -786,52 +798,10 @@
 </ul>
 <p>&#x1f4e3; <strong>紹介リンクから申し込むことで、お得になります！</strong> &#x1f4e3;</p>
 <p>[box class="yellow_box" title="ヒルトン紹介プログラムで今すぐ申請する"][contact-form-7 id="d99b16b" title="ヒルトンアメックス紹介リンク"][/box]</p>
-<h3>アメリカ在住の方向けヒルトンAMEXカード4種類</h3>
+<h3>アメリカ在住の方向けヒルトンAMEXカード</h3>
 
-<!-- wp:image {"id":26372,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://ibis-dallas.com/wp-content/uploads/2024/04/4-hilton-creditcard-2024.jpg" alt="4-hilton-creditcard-2024" class="wp-image-26372"/></figure>
-<!-- /wp:image -->
-
-<p>アメリカにお住まいの方は、さらに選択肢が広がります。<br />用途に合わせて4種類からベストなカードを選べます。</p>
-<h4>1. Hilton Honors American Express Card【年会費無料】</h4>
-<ul>
-<li>ヒルトンシルバー会員資格付与</li>
-<li>ポイント7倍（ヒルトン利用時）</li>
-<li><strong>新規入会特典：100,000ポイント</strong>（条件達成で）</li>
-</ul>
-<h4>2. Hilton Honors American Express Surpass Card【年会費$150】</h4>
-<ul>
-<li><strong>ヒルトンゴールド会員資格</strong>（朝食無料など）</li>
-<li>ポイント12倍（ヒルトン利用時）</li>
-<li>年間$15,000利用で無料宿泊券1枚</li>
-<li><strong>新規入会特典：130,000ポイント</strong>（条件達成で）</li>
-</ul>
-<h4>3. Hilton Honors American Express Aspire Card【年会費$550】</h4>
-<ul>
-<li><strong>ヒルトンダイヤモンド会員資格</strong>（最高ランク）</li>
-<li>ポイント14倍（ヒルトン利用時）</li>
-<li><strong>年間$400ヒルトンリゾートクレジット（半期ごとに200ドル）</strong></li>
-<li><strong>年間$200エアラインクレジット（四半期ごとに50ドル）</strong></li>
-<li><strong>無料宿泊券が毎年自動付与</strong></li>
-<li><strong>新規入会特典：150,000ポイント</strong>（条件達成で）</li>
-</ul>
-<h4>4. Hilton Honors American Express Business Card【年会費$195】</h4>
-<ul>
-<li><strong>ヒルトンゴールド会員資格</strong></li>
-<li>ビジネス利用でポイント12倍</li>
-<li>年間$15,000と$60,000利用で無料宿泊券2枚まで獲得可能</li>
-<li><strong>新規入会特典：130,000ポイント</strong>（条件達成で）</li>
-</ul>
-<p>詳しい比較とレビューはこちら： [nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"] [nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]</p>
-<h4>なぜ今ヒルトンカードが選ばれているのか？</h4>
-<ol>
-<li><strong>無料宿泊の価値上昇</strong>：ヒルトンホテルの宿泊料金は年々上昇中。<br />無料宿泊特典の価値が高まっています。</li>
-<li><strong>朝食無料の大きな価値</strong>：高級ホテルの朝食は2人で1回約8,000円相当。<br />年3回の宿泊で約24,000円の節約に。</li>
-<li><strong>アップグレード特典</strong>：通常料金の2倍以上の上位客室へのアップグレードも可能。</li>
-<li><strong>特典ポイントの柔軟性</strong>：航空マイルへの移行や買い物にも使えるポイント。</li>
-</ol>
-<p><strong>あなたも今回のレビューで紹介したホテルを、次回は特別な特典付きで体験してみませんか？</strong></p>
-<p>今すぐ申し込んで、次回のヒルトンステイをワンランク上の体験に変えましょう！</p>
+<p>アメリカにお住まいの方は、無料〜年会費$550まで4種類のヒルトンAMEXカードから選べます。ヒルトン利用時のポイント倍率が高く、上位カードほど無料宿泊券やダイヤモンド会員資格が付帯します。</p>
+<p>4枚の年会費・特典・入会ボーナスの詳しい比較はこちら： [nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"] [nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]</p>
 <h2 id="anker9">ダブルツリーbyヒルトン沖縄北谷リゾート宿泊記まとめ</h2>
 
 <!-- wp:image {"id":28875,"sizeSlug":"full","linkDestination":"none"} -->
@@ -854,13 +824,16 @@
 <p class="whitespace-normal break-words">ダイヤモンド会員の特典を活用すれば、テラス付きの客室アップグレードなどさらに充実した沖縄ステイを満喫できます。</p>
 <p class="whitespace-normal break-words">次回の沖縄旅行の際は、ぜひダブルツリーbyヒルトン沖縄北谷リゾートを検討してみてはいかがでしょうか。</p>
 <p>以上、少しでも参考になれば幸いです。</p>
-<p class="whitespace-normal break-words">[box class="yellow_box" title="ヒルトン紹介プログラム"][contact-form-7 id="d99b16b" title="ヒルトンアメックス紹介リンク"][/box]</p>
-<!-- wp:shortcode -->
-[nlink url="https://ibis-dallas.com/hilton-okinawa-chatan"]
-<!-- /wp:shortcode -->
-<p class="whitespace-normal break-words">[nlink url="https://ibis-dallas.com/doubletree-by-hilton-naha-shuri-castle"]</p>
-<p class="whitespace-normal break-words">[nlink url="https://ibis-dallas.com/doubletree-by-hilton-naha"]</p>
+
+<p>[box class="yellow_box" title="ヒルトン紹介プログラム"][contact-form-7 id="d99b16b" title="ヒルトンアメックス紹介リンク"][/box]</p>
 
 <!-- wp:shortcode -->
 [hotelier id="32021"]
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-okinawa-chatan"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/doubletree-by-hilton-naha"]
 <!-- /wp:shortcode -->
