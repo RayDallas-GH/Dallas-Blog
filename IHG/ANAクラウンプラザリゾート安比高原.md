@@ -17,7 +17,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->
-[hotelier id="31968"]
+[yadokko id="32426"]
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
@@ -802,7 +802,7 @@ msmaflink({"n":"宮沢賢治童話集 注文の多い料理店・セロひきの
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->
-[hotelier id="31968"]
+[yadokko id="32426"]
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->

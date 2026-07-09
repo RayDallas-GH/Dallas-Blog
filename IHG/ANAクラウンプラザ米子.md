@@ -21,7 +21,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->
-[hotelier id="32065"]
+[yadokko id="32522"]
 <!-- /wp:shortcode -->
 
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
@@ -575,5 +575,5 @@
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
-[hotelier id="32065"]
+[yadokko id="32522"]
 <!-- /wp:shortcode -->

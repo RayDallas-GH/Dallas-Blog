@@ -688,7 +688,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->
-[hotelier id="32022"]
+[yadokko id="32480"]
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
@@ -953,7 +953,7 @@
 <p>[/box]</p>
 
 <!-- wp:shortcode -->
-[hotelier id="32022"]
+[yadokko id="32480"]
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->

@@ -355,7 +355,7 @@
 <!-- /wp:gallery -->
 
 <!-- wp:shortcode -->
-[hotelier id="32023"]
+[yadokko id="32481"]
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
@@ -1024,5 +1024,5 @@ msmaflink({"n":"パナソニック スチーマー ナノケア コンパクト�
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
-[hotelier id="32023"]
+[yadokko id="32481"]
 <!-- /wp:shortcode -->

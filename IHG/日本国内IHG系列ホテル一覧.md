@@ -177,7 +177,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32001"]
+[yadokko id="32459"]
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
@@ -189,7 +189,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32026"]
+[yadokko id="32484"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -197,7 +197,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32027"]
+[yadokko id="32485"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -205,7 +205,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32028"]
+[yadokko id="32486"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -213,7 +213,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32029"]
+[yadokko id="32487"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -221,7 +221,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32030"]
+[yadokko id="32488"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -229,7 +229,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32031"]
+[yadokko id="32489"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
@@ -241,7 +241,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32032"]
+[yadokko id="32490"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -249,7 +249,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="31968"]
+[yadokko id="32426"]
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
@@ -261,7 +261,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32033"]
+[yadokko id="32491"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -269,7 +269,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32034"]
+[yadokko id="32492"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -277,7 +277,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32035"]
+[yadokko id="32493"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -285,7 +285,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32036"]
+[yadokko id="32494"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
@@ -297,7 +297,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32037"]
+[yadokko id="32495"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -305,7 +305,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32038"]
+[yadokko id="32496"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -313,7 +313,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32039"]
+[yadokko id="32497"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -321,7 +321,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32040"]
+[yadokko id="32498"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -333,7 +333,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->
-[hotelier id="32041"]
+[yadokko id="32499"]
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
@@ -349,7 +349,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32042"]
+[yadokko id="32500"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -357,7 +357,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="31966"]
+[yadokko id="32424"]
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
@@ -369,7 +369,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32043"]
+[yadokko id="32501"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -377,7 +377,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32044"]
+[yadokko id="32502"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -385,7 +385,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32045"]
+[yadokko id="32503"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
@@ -397,7 +397,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32000"]
+[yadokko id="32458"]
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
@@ -409,7 +409,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32046"]
+[yadokko id="32504"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -417,7 +417,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32047"]
+[yadokko id="32505"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -425,7 +425,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32048"]
+[yadokko id="32506"]
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
@@ -437,7 +437,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="31973"]
+[yadokko id="32431"]
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
@@ -449,7 +449,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32049"]
+[yadokko id="32507"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -457,7 +457,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32050"]
+[yadokko id="32508"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -465,7 +465,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32051"]
+[yadokko id="32509"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
@@ -477,7 +477,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32052"]
+[yadokko id="32510"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -497,7 +497,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32054"]
+[yadokko id="32511"]
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
@@ -509,7 +509,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32055"]
+[yadokko id="32512"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -517,7 +517,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32056"]
+[yadokko id="32513"]
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
@@ -533,7 +533,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->
-[hotelier id="32057"]
+[yadokko id="32514"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -545,7 +545,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->
-[hotelier id="32058"]
+[yadokko id="32515"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -553,7 +553,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32059"]
+[yadokko id="32516"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -561,7 +561,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32060"]
+[yadokko id="32517"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -569,7 +569,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32061"]
+[yadokko id="32518"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -577,7 +577,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32062"]
+[yadokko id="32519"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
@@ -589,7 +589,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32063"]
+[yadokko id="32520"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -597,7 +597,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32064"]
+[yadokko id="32521"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -605,7 +605,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32065"]
+[yadokko id="32522"]
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
@@ -629,7 +629,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32067"]
+[yadokko id="32523"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
@@ -641,7 +641,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32068"]
+[yadokko id="32524"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -649,7 +649,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32069"]
+[yadokko id="32525"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -657,7 +657,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32070"]
+[yadokko id="32526"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -665,7 +665,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32071"]
+[yadokko id="32527"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -673,7 +673,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32072"]
+[yadokko id="32528"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
@@ -681,7 +681,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32073"]
+[yadokko id="32529"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
@@ -693,7 +693,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="31971"]
+[yadokko id="32429"]
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
@@ -705,7 +705,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[hotelier id="32074"]
+[yadokko id="32530"]
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->

@@ -540,7 +540,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->
-[hotelier id="32015"]
+[yadokko id="32473"]
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
@@ -777,7 +777,7 @@
 <p>[box class="yellow_box" title="ヒルトン紹介プログラム"][contact-form-7 id="d99b16b" title="ヒルトンアメックス紹介リンク"][/box]</p>
 
 <!-- wp:shortcode -->
-[hotelier id="32015"]
+[yadokko id="32473"]
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->

@@ -48,7 +48,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->
-[hotelier id="31961"]
+[yadokko id="32419"]
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
@@ -367,7 +367,7 @@
 <!-- /wp:image -->
 
 <!-- wp:shortcode -->
-[hotelier id="31961"]
+[yadokko id="32419"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading -->
@@ -936,7 +936,7 @@
 <p>以上、少しでも参考になれば幸いです。</p>
 
 <!-- wp:shortcode -->
-[hotelier id="31961"]
+[yadokko id="32419"]
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->

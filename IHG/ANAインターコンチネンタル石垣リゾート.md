@@ -21,7 +21,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->
-[hotelier id="31971"]
+[yadokko id="32429"]
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
@@ -1211,7 +1211,7 @@ msmaflink({"n":"パナソニック ヘアドライヤー ナノケア 高浸透�
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->
-[hotelier id="31971"]
+[yadokko id="32429"]
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->

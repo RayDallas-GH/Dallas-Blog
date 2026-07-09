@@ -13,7 +13,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->
-[hotelier id="32148"]
+[yadokko id="32603"]
 <!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
@@ -250,7 +250,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->
-[hotelier id="32148"]
+[yadokko id="32603"]
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
