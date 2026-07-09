@@ -485,12 +485,8 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>2025年10月15日に閉館予定です。</p>
+<p>2025年10月15日に閉館されました。</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:shortcode -->
-[hotelier id="32053"]
-<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">ホリデイ・インエクスプレス大阪シティセンター御堂筋</h4>
@@ -616,9 +612,9 @@
 <h4 class="wp-block-heading">ANAクラウンプラザホテル宇部（山口）</h4>
 <!-- /wp:heading -->
 
-<!-- wp:shortcode -->
-[hotelier id="32066"]
-<!-- /wp:shortcode -->
+<!-- wp:paragraph -->
+<p>廃業されました。</p>
+<!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/ana-crowneplaza-ube"]

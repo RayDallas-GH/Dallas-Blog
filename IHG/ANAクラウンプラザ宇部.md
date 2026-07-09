@@ -16,9 +16,9 @@
 <p>なんとプレミアムルームはすべてマッサージチェアが置いてあります。笑</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:shortcode -->
-[hotelier id="32066"]
-<!-- /wp:shortcode -->
+<!-- wp:paragraph -->
+<p>※ANAクラウンプラザ宇部は現在廃業されています。</p>
+<!-- /wp:paragraph -->
 
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
@@ -840,10 +840,6 @@ msmaflink({"n":"新装版 世に棲む日日 1-4巻 セット","b":"","t":"","d"
 <!-- wp:paragraph -->
 <p>以上、少しでも参考になれば幸いです。</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:shortcode -->
-[hotelier id="32066"]
-<!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/ihg-hotel-japan"]
