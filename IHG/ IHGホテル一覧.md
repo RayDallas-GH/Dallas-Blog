@@ -1,3 +1,5 @@
+<!-- wp_post_id: 18654 -->
+<!-- wp_title: 日本国内IHG系列ホテル一覧【2026年版】 -->
 <!-- wp:paragraph -->
 <p>こんにちは、IHGダイヤモンドエリートのアポロです。</p>
 <!-- /wp:paragraph -->
