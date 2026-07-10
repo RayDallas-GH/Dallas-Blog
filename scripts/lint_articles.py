@@ -85,14 +85,24 @@ def check_new_hotel_review(path: Path, text: str) -> list[str]:
     if not re.search(r'id="anker5"', text) and "朝食" not in text:
         errors.append("朝食セクションが見つかりません（H2独立セクションが必須）")
 
-    hotelier_count = len(re.findall(r'\[hotelier id="\d+"\]', text))
+    hotelier_count = len(re.findall(r'\[(?:hotelier|yadokko) id="\d+"\]', text))
     if hotelier_count < 2:
-        errors.append(f"Hotelierカードが{hotelier_count}枚しかありません（最低2枚必要）")
+        errors.append(f"ホテルカード（yadokko/hotelier）が{hotelier_count}枚しかありません（最低2枚必要）")
 
     return errors
 
 
 SKIP_NAMES = {"CLAUDE.md", "内部リンクURL.md", "紹介リンク.md", "ブログ記事案.md", "AUTOMATION.md", "writing-rules.md"}
+
+# 既に公開済みの記事をgit管理下に初めて追加しただけのファイル（新規執筆ではない）。
+# 新規記事向けの厳格チェック（まとめ記事nlink・朝食H2・カード2枚）は免除する。
+# 双方向nlinkのバックログ対応は別タスクとして着手する（CLAUDE.md参照）。
+LEGACY_IMPORT_PATHS = {
+    "ヒルトン/国内ホテル/テラスクラブアットブセナ.md",
+    "ヒルトン/国内ホテル/テラスクラブアットブセナクラブラウンジ.md",
+    "ヒルトン/国内ホテル/テラスクラブアットブセナ朝食ビュッフェ.md",
+    "マリオット/国内ホテル/フォーポイントバイシェラトン名古屋（セントレア）.md",
+}
 
 
 def main(changed_files: list[str], new_files: list[str]) -> int:
@@ -107,7 +117,7 @@ def main(changed_files: list[str], new_files: list[str]) -> int:
 
         errors, warnings = check_common(path, known_slugs)
 
-        if f in new_set and is_domestic_hotel_review(path):
+        if f in new_set and is_domestic_hotel_review(path) and f not in LEGACY_IMPORT_PATHS:
             errors.extend(check_new_hotel_review(path, path.read_text(encoding="utf-8")))
 
         if errors or warnings:
