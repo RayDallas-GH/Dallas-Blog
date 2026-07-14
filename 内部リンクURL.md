@@ -141,8 +141,11 @@ https://ibis-dallas.com/marriott-benefit-for-others
 https://ibis-dallas.com/marriott-dog-friendly
 https://ibis-dallas.com/marriott-free-night-award
 https://ibis-dallas.com/marriott-hotel-japan
+https://ibis-dallas.com/marriott-hotel-japan-baby-bed
 https://ibis-dallas.com/marriott-hotspring
 https://ibis-dallas.com/marriott-platinum-benefit
+https://ibis-dallas.com/marriott-platinum-breakfast-japan
+https://ibis-dallas.com/marriott-platinum-lounge-japan
 https://ibis-dallas.com/mesm-tokyo
 https://ibis-dallas.com/moxy-osaka-honmachi
 https://ibis-dallas.com/moxy-osaka-shin-umeda
