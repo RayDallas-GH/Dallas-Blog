@@ -1,11 +1,16 @@
 <!-- wp_post_id: 27631 -->
 <!-- wp_title: 【ダイヤモンド宿泊記】キャノピーbyヒルトン大阪梅田のラウンジ特典（コーナースイートにアップグレード） -->
-<p>[box class="green_box" title="本記事で解決できるお悩み"]</p>
-<ul>
-<li>キャノピーbyヒルトン大阪梅田のダイヤモンド特典が知りたい</li>
-<li>キャノピーbyヒルトン大阪梅田のエグゼクティブラウンジの様子が知りたい</li>
-<li>キャノピーbyヒルトン大阪梅田の朝食ビュッフェについて知りたい<br />[/box]</li>
-</ul>
+<!-- wp:shortcode -->
+[box class="green_box" title="本記事で解決できるお悩み"]
+・キャノピーbyヒルトン大阪梅田のダイヤモンド特典が知りたい
+・キャノピーbyヒルトン大阪梅田のエグゼクティブラウンジの様子が知りたい
+・キャノピーbyヒルトン大阪梅田の朝食ビュッフェについて知りたい
+[/box]
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[voice icon="https://ibis-dallas.com/wp-content/uploads/2021/07/ワシアイコン-scaled.jpg" name="アポロ" type="l"]2024年開業のキャノピー大阪梅田を、ダイヤモンド特典でのアップグレードから朝食まで一気に紹介します[/voice]
+<!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
 <p>こんにちは、ヒルトンダイヤモンドのアポロです。</p>
@@ -132,6 +137,10 @@
 <!-- wp:paragraph -->
 <p>キャノピー系列は日本初となります。</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-hotel-japan"]
+<!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
 <p>大阪の中心地である梅田に位置し、JR大阪駅から徒歩約7分の便利なアクセス。</p>
@@ -600,6 +609,13 @@
 
 <!-- wp:shortcode -->
 [box class="yellow_box" title="ヒルトン紹介プログラム"][contact-form-7 id="d99b16b" title="ヒルトンアメックス紹介リンク"][/box]
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-hotel-japan"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-osaka"]
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
