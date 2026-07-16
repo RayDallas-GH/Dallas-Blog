@@ -336,7 +336,7 @@ AMEXキャッシュバック系のクレジットカードのリストです。
 そのほかの利用で3倍のヒルトンポイント付与</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 98.8095%;" colspan="2"><a class="shiny-btn3" href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHETUa7W&XLINK=MYCP" target="_blank" rel="noopener">Hilton Honorsカード公式サイト</a></td>
+<td style="text-align: center; width: 98.8095%;" colspan="2">[kurepochi card="amex-hilton-honors"]</td>
 </tr>
 </tbody>
 </table>
@@ -361,7 +361,7 @@ AMEXキャッシュバック系のクレジットカードのリストです。
 そのほかの利用で3倍のヒルトンポイント付与</td>
 </tr>
 <tr style="height: 24px;">
-<td style="text-align: center; width: 98.8095%; height: 24px;" colspan="2"><a class="shiny-btn3" href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHETUa7W&XLINK=MYCP" target="_blank" rel="noopener">Hilton Surpassクレジットカード公式サイト</a></td>
+<td style="text-align: center; width: 98.8095%; height: 24px;" colspan="2">[kurepochi card="amex-hilton-surpass"]</td>
 </tr>
 </tbody>
 </table>
@@ -369,7 +369,7 @@ AMEXキャッシュバック系のクレジットカードのリストです。
 
 [nlink url="https://ibis-dallas.com/hilton-business-creditcard"]
 
-<a class="shiny-btn3" href="https://americanexpress.com/en-us/referral/marriott-bonvoy-business-american-express-card?ref=SHUHETbLWR&XLINK=MYCP" target="_blank" rel="noopener">Hilton Businessクレジットカード公式サイト</a>
+[kurepochi card="amex-hilton-business"]
 <h3 id="anker47">【年会費550ドル】Hilton Aspireカード【ヒルトンダイヤモンドステータス】</h3>
 <table style="width: 100%;" border="2">
 <tbody>
@@ -390,7 +390,7 @@ AMEXキャッシュバック系のクレジットカードのリストです。
 そのほかの利用で3倍のヒルトンポイント付与</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 98.8095%;" colspan="2"><a class="shiny-btn3" href="https://americanexpress.com/en-us/referral/hilton-honors?ref=SHUHETUa7W&XLINK=MYCP" target="_blank" rel="noopener">Hilton Aspireクレジットカード公式サイト</a></td>
+<td style="text-align: center; width: 98.8095%;" colspan="2">[kurepochi card="amex-hilton-aspire"]</td>
 </tr>
 </tbody>
 </table>
@@ -415,7 +415,7 @@ AMEXキャッシュバック系のクレジットカードのリストです。
 そのほかの利用で2倍のマリオットポイント付与</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 98.8096%;" colspan="2"><a class="shiny-btn3" href="https://americanexpress.com/en-us/referral/marriott-bonvoy-business-american-express-card?ref=SHUHETBl4j&amp;xl=cp01" target="_blank" rel="noopener">Marriott Bonvoy Bevyカード公式サイト</a></td>
+<td style="text-align: center; width: 98.8096%;" colspan="2">[kurepochi card="amex-marriott-bevy"]</td>
 </tr>
 </tbody>
 </table>
@@ -440,7 +440,7 @@ AMEXキャッシュバック系のクレジットカードのリストです。
 そのほかの利用で2倍のマリオットポイント付与</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 98.8096%;" colspan="2"><a class="shiny-btn3" href="https://americanexpress.com/en-us/referral/marriott-bonvoy-business-american-express-card?ref=SHUHETBl4j&amp;xl=cp01" target="_blank" rel="noopener">Marriott Bonvoy Brilliantカード公式サイト</a></td>
+<td style="text-align: center; width: 98.8096%;" colspan="2">[kurepochi card="amex-marriott-brilliant"]</td>
 </tr>
 </tbody>
 </table>

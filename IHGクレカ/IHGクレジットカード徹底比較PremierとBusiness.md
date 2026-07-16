@@ -25,7 +25,7 @@
 <!-- /wp:paragraph -->
 
 <p>[aside type="warning"]アメリカのクレジットカードとなるためアメリカ現地社員やアメリカ駐在員、アメリカ留学など限られた方のみ発行できるクレカとなることご了承ください。[/aside]</p>
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/210y/SRC1PQ7X83" target="_blank" rel="noopener">IHG Rewards クレジットカードに申し込む</a></p>
+<p>[kurepochi card="chase-ihg-premier"]</p>
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
 <li>1.<a href="#anker1">IHG Rewards Premierクレジットカードについて</a></li>
@@ -366,7 +366,7 @@
 <p>以上、少しでも参考になれば幸いです。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/210y/SRC1PQ7X83" target="_blank" rel="noopener">IHG Rewards クレジットカードに申し込む</a></p>
+<p>[kurepochi card="chase-ihg-premier"]</p>
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/ihg-rewards-premier"]
 <!-- /wp:shortcode -->
