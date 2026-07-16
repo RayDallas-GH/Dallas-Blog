@@ -396,6 +396,7 @@
 [yadokko id="32639"]
 <!-- /wp:shortcode -->
 
+<p>[nlink url="https://ibis-dallas.com/the-terrace-club-at-busena"]</p>
 <p>[nlink url="https://ibis-dallas.com/the-terrace-club-at-busena-lounge"]</p>
 <p>[nlink url="https://ibis-dallas.com/the-terrace-club-at-busena-breakfast"]</p>
 
