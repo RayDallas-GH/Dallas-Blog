@@ -14,6 +14,9 @@ git push前のpre-pushフックから呼ばれる想定。
   - 国内ヒルトン/マリオット宿泊記で、まとめ記事へのnlinkが最低1つあるか
   - 国内ヒルトン/マリオット宿泊記で、朝食のH2セクション（id="anker5"相当）があるか
   - 国内ヒルトン/マリオット宿泊記で、Hotelierカードが最低2枚あるか
+  - 海外ヒルトン/マリオット宿泊記で、朝食のH2セクション（id="anker6"相当）があるか
+  - 海外ヒルトン/マリオット宿泊記で、Yadokkoカードが最低3枚あるか
+  - 海外ヒルトン/マリオット宿泊記で、クレカ訴求セクション（H2）があるか
 
 エラー（exit 1）: 規約違反の可能性が高いもの
 警告（exit 0だが表示）: 見落としがちだが誤検知もあり得るもの
@@ -50,6 +53,11 @@ def load_known_slugs() -> set[str]:
 def is_domestic_hotel_review(path: Path) -> bool:
     parts = path.parts
     return any(p in HOTEL_CHAIN_DIRS for p in parts) and "国内ホテル" in parts
+
+
+def is_overseas_hotel_review(path: Path) -> bool:
+    parts = path.parts
+    return any(p in HOTEL_CHAIN_DIRS for p in parts) and "海外ホテル" in parts
 
 
 def check_common(path: Path, known_slugs: set[str]) -> tuple[list[str], list[str]]:
@@ -92,6 +100,22 @@ def check_new_hotel_review(path: Path, text: str) -> list[str]:
     return errors
 
 
+def check_new_overseas_hotel_review(text: str) -> list[str]:
+    errors = []
+
+    if not re.search(r'id="anker6"', text) and "朝食" not in text:
+        errors.append("朝食セクションが見つかりません（H2独立セクションが必須）")
+
+    yadokko_count = len(re.findall(r'\[yadokko id="\d+"\]', text))
+    if yadokko_count < 3:
+        errors.append(f"Yadokkoカードが{yadokko_count}枚しかありません（海外ホテル宿泊記は最低3枚必要）")
+
+    if not re.search(r"ヒルトンステイをもっとお得に|マリオットカードでお得に泊まろう", text):
+        errors.append("クレカ訴求セクション（H2）が見つかりません")
+
+    return errors
+
+
 SKIP_NAMES = {"CLAUDE.md", "内部リンクURL.md", "紹介リンク.md", "ブログ記事案.md", "AUTOMATION.md", "writing-rules.md"}
 
 # 既に公開済みの記事をgit管理下に初めて追加しただけのファイル（新規執筆ではない）。
@@ -119,6 +143,8 @@ def main(changed_files: list[str], new_files: list[str]) -> int:
 
         if f in new_set and is_domestic_hotel_review(path) and f not in LEGACY_IMPORT_PATHS:
             errors.extend(check_new_hotel_review(path, path.read_text(encoding="utf-8")))
+        elif f in new_set and is_overseas_hotel_review(path) and f not in LEGACY_IMPORT_PATHS:
+            errors.extend(check_new_overseas_hotel_review(path.read_text(encoding="utf-8")))
 
         if errors or warnings:
             print(f"\n■ {path}")
