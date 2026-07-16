@@ -13,12 +13,14 @@
 <ul>
 <li>1.<a href="#anker1">コンラッドとは</a></li>
 <li>2.<a href="#anker2">コンラッドワシントンDC宿泊レビュー</a></li>
-<li>　2-1.<a href="#anker21">アクセス</a></li>
-<li>　2-2.<a href="#anker22">部屋</a></li>
-<li>　2-3.<a href="#anker23">レストラン</a></li>
-<li>　2-4.<a href="#anker24">宿泊料金</a></li>
-<li>3.<a href="#anker3">ヒルトンステイをもっとお得に！アメックス提携カードで手に入れる特別特典</a></li>
-<li>4.<a href="#anker4">コンラッドワシントンDCホテルまとめ</a></li>
+<li>3.<a href="#anker3">アクセス</a></li>
+<li>4.<a href="#anker4">部屋</a></li>
+<li>5.<a href="#anker5">レストラン</a></li>
+<li>6.<a href="#anker6">朝食</a></li>
+<li>7.<a href="#anker7">宿泊料金</a></li>
+<li>8.<a href="#anker8">ヒルトンステイをもっとお得に！アメックス提携カードで手に入れる特別特典</a></li>
+<li>9.<a href="#anker9">周辺観光・現地情報</a></li>
+<li>10.<a href="#anker10">コンラッドワシントンDCホテルまとめ</a></li>
 </ul>
 
 <!-- wp:heading -->
@@ -45,6 +47,7 @@
 <p>ワシントンDCもいつか観光してみたいところだったのですが、他の都市を優先した結果、渡米２年目にようやくこれました。</p>
 <p>クレジットカード作成によってポイントが余るほどあったので（確か当時４０万ポイントくらい）、ポイント消化も兼ねてポイント宿泊してきました。</p>
 <p>わーい。</p>
+<p>コンラッドワシントンDCは２０１９年２月にオープンしたばかりで、宿泊したときはオープンしてから１年経たずというほぼ新築状態でした。</p>
 
 <!-- wp:gallery {"columns":2,"linkTo":"none"} -->
 <figure class="wp-block-gallery has-nested-images columns-2 is-cropped"><!-- wp:image {"id":6626,"sizeSlug":"large","linkDestination":"none"} -->
@@ -68,8 +71,8 @@
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="anker21">アクセス</h3>
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="anker3">アクセス</h2>
 <!-- /wp:heading -->
 
 <p>コンラッドワシントンDCは観光に便利なロケーションでした。</p>
@@ -92,11 +95,10 @@
 <p>夫婦で地下鉄乗ると２人分きっぷ料金がかかりますが、Uberだと何人乗っても変わらないですからね。</p>
 <p>多少割高ですが有意義に観光するために時間をとりました。</p>
 
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="anker22">部屋</h3>
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="anker4">部屋</h2>
 <!-- /wp:heading -->
 
-<p><strong style="background: linear-gradient(to bottom, rgba(128,255,255,0) 60%, #80ffff 60%);">コンラッドワシントンDCは２０１９年２月にオープン</strong>したばかりのため、宿泊したときはオープンしてから１年経たずというほぼ新築状態でした。</p>
 <p>Aspireでダイヤモンドステータスとなりますが、サンクスギビング休暇という混み合う時期でもあったので<span style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">アップグレードはありません</span>でした。</p>
 <p>部屋は清潔感があり、綺麗でした。</p>
 
@@ -114,21 +116,16 @@
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
+<p>こうした特典やアップグレードをフル活用するなら、ヒルトン系クレジットカードの保有がおすすめです。詳しくは<a href="#anker8">クレカ訴求セクション</a>で解説します。</p>
+
 <!-- wp:shortcode -->
 [yadokko id="32798"]
 <!-- /wp:shortcode -->
 
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="anker23">レストラン</h3>
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="anker5">レストラン</h2>
 <!-- /wp:heading -->
 
-<p>ダイヤモンドステータスのため、<strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">夫婦で１泊５０ドル分のクレジット</strong>が付与されました。</p>
-<p>朝食程度なら無料で食べられます。</p>
-<p>ありがとう、Aspire！</p>
-<!-- wp:shortcode -->
-[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]
-<!-- /wp:shortcode -->
-<p>なお、Aspireクレジットカードの特典として<strong style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">コンラッドに２泊以上すると１００ドルのクレジットが付与される</strong>という特典がありますが、これは<strong style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">ポイント利用での宿泊だと対象外</strong>でした。</p>
 <p>Estuary（エスチュアリー；英語で河口という意味）というレストランがホテル内２階に入っていて、隣にバーもありました。</p>
 <p>ヒルトンラウンジはありませんでした。</p>
 
@@ -142,14 +139,6 @@
 
 <!-- wp:paragraph -->
 <p>サンクスギビングのため特別メニューしかありませんでした。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>２泊で合計１００ドルのクレジットが付与されましたが、さすがにちょっとはみ出ました（５０ドルくらい）。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>２泊もコンラッドに泊まって５０ドルなんてお得ですよね。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"columns":2,"linkTo":"none"} -->
@@ -178,8 +167,27 @@
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="anker24">宿泊料金</h3>
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="anker6">朝食</h2>
+<!-- /wp:heading -->
+
+<p>ダイヤモンドステータスのため、<strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">夫婦で１泊５０ドル分のクレジット</strong>が付与されました。</p>
+<p>朝食程度なら無料で食べられます。</p>
+<p>ありがとう、Aspire！</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]
+<!-- /wp:shortcode -->
+<p>なお、Aspireクレジットカードの特典として<strong style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">コンラッドに２泊以上すると１００ドルのクレジットが付与される</strong>という特典がありますが、これは<strong style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">ポイント利用での宿泊だと対象外</strong>でした。</p>
+<p>２泊で合計１００ドルのクレジットが付与されましたが、さすがにちょっとはみ出ました（５０ドルくらい）。</p>
+<p>２泊もコンラッドに泊まって５０ドルなんてお得ですよね。</p>
+<p>海外の朝食は2名で1万円を超えることも珍しくないので、こうしたF&amp;Bクレジットは大きなメリットです。</p>
+
+<!-- wp:shortcode -->
+[yadokko id="32798"]
+<!-- /wp:shortcode -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="anker7">宿泊料金</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -203,7 +211,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading" id="anker3">ヒルトンステイをもっとお得に！アメックス提携カードで手に入れる特別特典</h2>
+<h2 class="wp-block-heading" id="anker8">ヒルトンステイをもっとお得に！アメックス提携カードで手に入れる特別特典</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":22504,"sizeSlug":"large","linkDestination":"none"} -->
@@ -212,6 +220,7 @@
 
 <p><strong>ヒルトンホテルでの宿泊体験をさらにグレードアップさせるなら、クレジットカードの活用がおすすめです。</strong></p>
 <p>アメリカン・エキスプレス提携の「ヒルトンオナーズカード」を持つだけで、世界7,000以上のヒルトン系列ホテルで<strong>無料朝食</strong>や<strong>ルームアップグレード</strong>の特典が自動的に付与されます。</p>
+<p>コンラッドワシントンDCのような海外ホテルでは、プレミアムカード付帯の<strong>海外旅行保険</strong>（利用付帯、保険金額は最高1億円）や、国内主要空港＋ハワイの<strong>空港ラウンジ無料利用</strong>といった海外滞在ならではの特典も心強い味方になります。</p>
 <p>次回の滞在をワンランク上の体験にしませんか？</p>
 <h3>日本在住の旅行好きの方におすすめの2枚</h3>
 
@@ -316,7 +325,17 @@
 <p>今すぐ申し込んで、次回のヒルトンステイをワンランク上の体験に変えましょう！</p>
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading" id="anker4">コンラッドワシントンDCホテルまとめ</h2>
+<h2 class="wp-block-heading" id="anker9">周辺観光・現地情報</h2>
+<!-- /wp:heading -->
+
+<p>ホワイトハウスまで徒歩約１５分、スミソニアン博物館へも地下鉄やUber・Lyftでアクセスできる便利な立地です。</p>
+<p>最寄り駅周辺には小規模なチャイナタウンもあります。</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/washington-dc-sightseeing"]
+<!-- /wp:shortcode -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="anker10">コンラッドワシントンDCホテルまとめ</h2>
 <!-- /wp:heading -->
 
 <p>今日はサンクスギビングでポイント宿泊したコンラッドワシントンDCのレビュー記事となります。</p>
@@ -336,7 +355,3 @@
 <!-- wp:image {"id":6633,"sizeSlug":"large"} -->
 <figure class="wp-block-image size-large"><img src="https://ibis-dallas.com/wp-content/uploads/2020/02/IMG_3543-768x1024.jpg" alt="" class="wp-image-6633"/><figcaption class="wp-element-caption">クリスマスも近いためホテルの目の前にはツリーがありました</figcaption></figure>
 <!-- /wp:image -->
-
-<!-- wp:shortcode -->
-[nlink url="https://ibis-dallas.com/washington-dc-sightseeing"]
-<!-- /wp:shortcode -->
