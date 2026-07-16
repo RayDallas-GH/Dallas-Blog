@@ -1,5 +1,19 @@
 <!-- wp_post_id: 20848 -->
 <!-- wp_title: 【ダイヤモンド宿泊記】ダブルツリーbyヒルトン那覇（コーナーツインにアップグレード） -->
+
+<!-- wp:shortcode -->
+[box class="green_box" title="本記事で解決できるお悩み"]
+・ダブルツリーbyヒルトン那覇のダイヤモンド特典が知りたい
+・客室タイプやアップグレードの目安が知りたい
+・ラウンジの様子が知りたい
+・朝食の内容が知りたい
+[/box]
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[voice icon="https://ibis-dallas.com/wp-content/uploads/2021/07/ワシアイコン-scaled.jpg" name="アポロ" type="l"]那覇空港アクセス抜群のダブルツリーbyヒルトン那覇を一気に紹介します[/voice]
+<!-- /wp:shortcode -->
+
 <!-- wp:paragraph -->
 <p>こんにちは、ヒルトンダイヤモンドのアポロです。</p>
 <!-- /wp:paragraph -->
@@ -58,6 +72,10 @@
 <!-- wp:paragraph -->
 <p>ダブルツリーbyヒルトン那覇は那覇空港からのアクセスが抜群にいいです。</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-hotel-japan"]
+<!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
 <p>モノレール「那覇空港駅」から10分、5駅目「旭橋駅」の目の前にあります。</p>
@@ -960,5 +978,5 @@
 [nlink url="https://ibis-dallas.com/doubletree-by-hilton-naha-shuri-castle"]
 <!-- /wp:shortcode -->
 <!-- wp:shortcode -->
-[nlink url="https://ibis-dallas.com/hilton-okinawa-chatan"]
+[nlink url="https://ibis-dallas.com/hilton-hotel-japan"]
 <!-- /wp:shortcode -->
