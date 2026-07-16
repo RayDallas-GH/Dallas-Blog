@@ -56,6 +56,10 @@
 <p>ダブルツリーbyヒルトン京都東山は2023年8月8日に開業しました。</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-hotel-japan"]
+<!-- /wp:shortcode -->
+
 <!-- wp:paragraph -->
 <p>京都エリアにはROKU KYOTOしかなかったのですが、ヒルトンガーデンインを筆頭に増えてきていますよね。</p>
 <!-- /wp:paragraph -->
@@ -781,7 +785,7 @@
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
-[nlink url="https://ibis-dallas.com/hilton-diamond-benefits"]
+[nlink url="https://ibis-dallas.com/hilton-hotel-japan"]
 <!-- /wp:shortcode -->
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/use-hilton-point"]
