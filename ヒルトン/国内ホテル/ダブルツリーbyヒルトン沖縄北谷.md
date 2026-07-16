@@ -1,5 +1,19 @@
 <!-- wp_post_id: 28803 -->
 <!-- wp_title: 【ダイヤモンド宿泊記】ダブルツリーbyヒルトン沖縄北谷リゾート（朝食で沖縄限定特典も満喫） -->
+
+<!-- wp:shortcode -->
+[box class="green_box" title="本記事で解決できるお悩み"]
+・ダブルツリーbyヒルトン沖縄北谷リゾートのダイヤモンド特典が知りたい
+・客室タイプやアップグレードの目安が知りたい
+・43ウェストルーフトップバーの様子が知りたい
+・朝食ビュッフェの内容が知りたい
+[/box]
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[voice icon="https://ibis-dallas.com/wp-content/uploads/2021/07/ワシアイコン-scaled.jpg" name="アポロ" type="l"]美浜アメリカンビレッジ直結のダブルツリーbyヒルトン沖縄北谷リゾートを一気に紹介します[/voice]
+<!-- /wp:shortcode -->
+
 <!-- wp:paragraph -->
 <p>こんにちは、ヒルトンダイヤモンド会員のアポロです。</p>
 <!-- /wp:paragraph -->
@@ -58,6 +72,10 @@
 <!-- wp:paragraph -->
 <p>ダブルツリーbyヒルトン沖縄北谷リゾートは2018年6月1日に開業しました。</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-hotel-japan"]
+<!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
 <p>隣接するヒルトン沖縄北谷リゾート（2014年開業）と合わせて、北谷エリアを代表するリゾートホテルとなります。</p>
@@ -835,5 +853,5 @@
 [nlink url="https://ibis-dallas.com/hilton-okinawa-chatan"]
 <!-- /wp:shortcode -->
 <!-- wp:shortcode -->
-[nlink url="https://ibis-dallas.com/doubletree-by-hilton-naha"]
+[nlink url="https://ibis-dallas.com/hilton-hotel-japan"]
 <!-- /wp:shortcode -->
