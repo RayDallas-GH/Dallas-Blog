@@ -1,5 +1,19 @@
 <!-- wp_post_id: 20844 -->
 <!-- wp_title: 【ダイヤモンド宿泊記】ダブルツリーbyヒルトン富山～ラウンジないけどサウナあり（キングプレミアムにアップグレード） -->
+
+<!-- wp:shortcode -->
+[box class="green_box" title="本記事で解決できるお悩み"]
+・ダブルツリーbyヒルトン富山のダイヤモンド特典が知りたい
+・客室タイプやアップグレードの目安が知りたい
+・大浴場とサウナの様子が知りたい
+・朝食ビュッフェの内容が知りたい
+[/box]
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[voice icon="https://ibis-dallas.com/wp-content/uploads/2021/07/ワシアイコン-scaled.jpg" name="アポロ" type="l"]ラウンジはないけどサウナがあるダブルツリーbyヒルトン富山を一気に紹介します[/voice]
+<!-- /wp:shortcode -->
+
 <!-- wp:paragraph -->
 <p>こんにちは、ヒルトンダイヤモンド会員のアポロです。</p>
 <!-- /wp:paragraph -->
@@ -63,6 +77,10 @@
 <!-- wp:paragraph -->
 <p>ヒルトンとしても北陸初のホテルとなります。</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-hotel-japan"]
+<!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
 <p>今回は金沢観光とあわせて富山に訪問しました。</p>
@@ -1102,7 +1120,7 @@
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
-[nlink url="https://ibis-dallas.com/doubletree-by-hilton-naha-shuri-castle"]
+[nlink url="https://ibis-dallas.com/hilton-hotel-japan"]
 <!-- /wp:shortcode -->
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/doubletree-by-hilton-kyoto-higashiyama"]
