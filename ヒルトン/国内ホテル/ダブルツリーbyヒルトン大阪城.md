@@ -72,6 +72,10 @@
 <p>ダブルツリーbyヒルトン大阪城は２０２４年５月に開業した新規ホテルです。</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-hotel-japan"]
+<!-- /wp:shortcode -->
+
 <!-- wp:paragraph -->
 <p>５月１日に開業しソフトオープン、５月２３日にグランドオープンしました。</p>
 <!-- /wp:paragraph -->
@@ -862,4 +866,11 @@
 
 <!-- wp:shortcode -->
 [yadokko id="32469"]
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-hotel-japan"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-osaka"]
 <!-- /wp:shortcode -->
