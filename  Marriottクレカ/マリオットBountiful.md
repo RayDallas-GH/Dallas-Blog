@@ -1,7 +1,10 @@
+<!-- wp_post_id: 21939 -->
+<!-- wp_title: 【2026年版】マリオットBonvoy Bountifulの特典と年会費を徹底解説 -->
+
 <p>こんにちは、アポロです。</p>
 <p>今日はChase銀行が発行するマリオットBonvoy Bountifulクレジットカードを紹介します。</p>
 <p>これからマリオット系クレジットカードの作成を考えている方の参考になれば嬉しいです。</p>
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252u/WORXRJKOY3" target="_blank" rel="noopener">マリオットBonvoy Bountifulに申し込む</a></p>
+<p>[kurepochi card="chase-marriott-bountiful"]</p>
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison"]
 <!-- /wp:shortcode -->
@@ -66,7 +69,7 @@
 </ul>
 <p>合計で１８．５倍という計算なのでご注意を。</p>
 <p>マリオット公式サイトから予約すれば誰でも１ドルにつき１０ポイント付与されますし、クレカ持っていなくてもゴールドステータスなら+２．５倍付与されます。</p>
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252u/WORXRJKOY3" target="_blank" rel="noopener">マリオットBonvoy Bountifulに申し込む</a></p>
+<p>[kurepochi card="chase-marriott-bountiful"]</p>
 <h3 id="anker23">スーパー、レストランで４倍ポイント（通常２倍還元）</h3>
 <p>グロセリー（つまりスーパーマーケット）、レストランの利用でポイント４倍還元です。</p>
 <p>最初の１５，０００ドルまでが対象です。</p>
@@ -153,7 +156,7 @@
 <p><strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">マリオット宿泊で１８．５倍のマリオットポイント、その他の利用で２倍のマリオットポイントが付与</strong>されます。</p>
 <p>海外為替手数料も無料なので日本に持ち帰ってマリオット系ホテルに使うこともできます。</p>
 <p>以上、少しでも参考になれば幸いです。</p>
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252u/WORXRJKOY3" target="_blank" rel="noopener">マリオットBonvoy Bountifulに申し込む</a></p>
+<p>[kurepochi card="chase-marriott-bountiful"]</p>
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/ihg-traveler-premier-comparison"]
 <!-- /wp:shortcode -->

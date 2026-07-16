@@ -1,3 +1,6 @@
+<!-- wp_post_id: 14893 -->
+<!-- wp_title: 【2026年版】Marriott Bonvoy Boundlessは本当に得か？年会費95ドルで毎年1泊無料の実力 -->
+
 <!-- wp:paragraph -->
 <p><strong>結論：Marriott Bonvoy Boundlessは、年1回以上マリオット系列ホテルに宿泊する方には、年会費95ドルで確実に元が取れるカードです。</strong>毎年自動付与される35,000ポイント相当の無料宿泊券（約210～350ドル相当）だけで年会費を十分に上回る価値があり、マリオット宿泊で6倍ポイント、スーパー・ガス・レストランで3倍ポイントが貯まるため、マリオットを定期的に利用する方にとって最もコスパの良いカードと言えるでしょう。</p>
 <!-- /wp:paragraph -->
@@ -28,7 +31,7 @@
 <p>一方で、<strong>このカードが向かない人は以下の通りです：</strong>年に1回もマリオットに泊まらない方、年会費無料で始めたい方は<a href="https://ibis-dallas.com/marriott-bonvoy-bold">Marriott Bonvoy Bold</a>を検討してください。また、プラチナエリートステータスを確実に獲得したい方や、85,000ポイント相当の無料宿泊券（高級ホテル対応）が欲しい方は、年会費650ドルの<a href="https://ibis-dallas.com/marriott-bonvoy-brilliant">Marriott Bonvoy Brilliant</a>の方が適しています。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252u/WORXRJKOY3" target="_blank" rel="noopener">Marriott Bonvoy Boundlessを公式条件で確認する</a></p>
+<p>[kurepochi card="chase-marriott-boundless"]</p>
 
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
@@ -101,7 +104,7 @@
 <p>つまり、<strong>年会費95ドルを支払って、210～350ドル相当の無料宿泊券が毎年もらえる</strong>ため、年1回以上マリオットに泊まる方であれば、年会費を確実に回収できるカードです。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252u/WORXRJKOY3" target="_blank" rel="noopener">年会費95ドルの価値を確認する</a></p>
+<p>[kurepochi card="chase-marriott-boundless"]</p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker3">無料宿泊特典の注意点と落とし穴</h2>
@@ -143,7 +146,7 @@
 <p>無料宿泊特典は<strong>マリオット会員本人以外は使用できません</strong>。規約で譲渡不可と明記されているため、他人にプレゼントすることはできません。本人以外が宿泊する場合は、ポイント宿泊（電話予約で譲渡可能）を検討してください。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252u/WORXRJKOY3" target="_blank" rel="noopener">無料宿泊特典の条件をチェックする</a></p>
+<p>[kurepochi card="chase-marriott-boundless"]</p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker4">Boundlessで得られるステータスと限界</h2>
@@ -293,7 +296,7 @@
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/252u/WORXRJKOY3" target="_blank" rel="noopener">Marriott Bonvoy Boundlessを公式条件で確認する</a></p>
+<p>[kurepochi card="chase-marriott-boundless"]</p>
 
 <!-- wp:paragraph -->
 <p><strong>次に読むべき記事：</strong></p>

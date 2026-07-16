@@ -24,7 +24,7 @@
 <p>この記事を読んで、Chase Sapphire Reserveを申請すべきか判断できる記事となれば幸いです。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/19x/ML5E4XXXQA" target="_blank" rel="noopener">Chase Sapphire Reserveを申請する</a></p>
+<p>[kurepochi card="chase-sapphire-reserve"]</p>
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
 <li>1.<a href="#anker1">はじめに</a></li>
@@ -171,7 +171,7 @@
 <p>リニューアルによる期間限定オファーですので気になる方はお早めにどうぞ。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/19x/ML5E4XXXQA" target="_blank" rel="noopener">Chase Sapphire Reserveを申請する</a></p>
+<p>[kurepochi card="chase-sapphire-reserve"]</p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker3">年会費$795の詳細内訳</h2>
@@ -489,7 +489,7 @@
 <p>実際に旅行中のトラブルで保険を利用したことがありますが、手続きも簡単で迅速に対応してもらえました。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/19x/ML5E4XXXQA" target="_blank" rel="noopener">Chase Sapphire Reserveを申請する</a></p>
+<p>[kurepochi card="chase-sapphire-reserve"]</p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker7">新規追加された生活特典</h2>
@@ -767,7 +767,7 @@
 <p>ただし、旅行での利用に比べて価値は低くなるため、最後の手段として考えるのが良いでしょう。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/19x/ML5E4XXXQA" target="_blank" rel="noopener">Chase Sapphire Reserveを申請する</a></p>
+<p>[kurepochi card="chase-sapphire-reserve"]</p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker9">空港ラウンジアクセス完全ガイド</h2>
@@ -1244,7 +1244,7 @@
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/19x/ML5E4XXXQA" target="_blank" rel="noopener">Chase Sapphire Reserveを申請する</a></p>
+<p>[kurepochi card="chase-sapphire-reserve"]</p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker14">Chase Sapphire Reserve 2025年版まとめ</h2>
@@ -1340,7 +1340,7 @@
 <p>以上、少しでも参考になれば幸いです。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/19x/ML5E4XXXQA" target="_blank" rel="noopener">Chase Sapphire Reserveを申請する</a></p>
+<p>[kurepochi card="chase-sapphire-reserve"]</p>
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/chase-sapphire-preferred-to-japan"]
 <!-- /wp:shortcode -->

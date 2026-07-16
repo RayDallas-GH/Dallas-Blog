@@ -32,7 +32,7 @@
 <p>今のところ日本に同様のクレカはなくアメリカやイギリスなどの海外限定となっています。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/210y/SRC1PQ7X83#ihg3" target="_blank" rel="noopener">IHG Rewards Premier Businessクレジットカードに申し込む</a></p>
+<p>[kurepochi card="chase-ihg-premier-business"]</p>
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
 <li>1.<a href="#anker1">IHG Rewards Premier Businessクレジットカードについて（ビジネスカード）</a></li>
@@ -554,7 +554,7 @@
 <p>以上、少しでも参考になれば幸いです。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn3" href="https://www.referyourchasecard.com/210y/SRC1PQ7X83#ihg3" target="_blank" rel="noopener">IHG Rewards Premier Businessクレジットカードに申し込む</a></p>
+<p>[kurepochi card="chase-ihg-premier-business"]</p>
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/ihg-creditcard-comparison"]
 <!-- /wp:shortcode -->
