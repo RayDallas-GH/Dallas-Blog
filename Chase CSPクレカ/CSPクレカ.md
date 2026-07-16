@@ -63,7 +63,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5667,"width":"292px","height":"auto","aspectRatio":"1.5977859778597785","sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large is-resized"><a href="https://www.referyourchasecard.com/19x/ML5E4XXXQA" target="_blank" rel="noreferrer noopener"><img src="https://ibis-dallas.com/wp-content/uploads/2020/01/sapphire_preferred_card.png" alt="" class="wp-image-5667" style="aspect-ratio:1.5977859778597785;width:292px;height:auto"/></a></figure>
+<figure class="wp-block-image size-large is-resized"><a href="https://ibis-dallas.com/?kurepochi_go=chase-sapphire-preferred&kurepochi_post=5665" target="_blank" rel="noreferrer noopener"><img src="https://ibis-dallas.com/wp-content/uploads/2020/01/sapphire_preferred_card.png" alt="" class="wp-image-5667" style="aspect-ratio:1.5977859778597785;width:292px;height:auto"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -185,7 +185,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p> <a href="https://www.referyourchasecard.com/19x/ML5E4XXXQA" target="_blank" rel="noopener" title="">Chase Sapphire Preferredクレジットカード紹介リンク</a> </p>
+<p> <a href="https://ibis-dallas.com/?kurepochi_go=chase-sapphire-preferred&kurepochi_post=5665" target="_blank" rel="noopener" title="">Chase Sapphire Preferredクレジットカード紹介リンク</a> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

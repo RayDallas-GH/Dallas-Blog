@@ -47,7 +47,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.referyourchasecard.com/210y/SRC1PQ7X83" target="_blank" rel="noopener">IHG Rewards Travelerクレジットカード</a>は年会費無料でシルバーエリート自動付与、</p>
+<p><a href="https://ibis-dallas.com/?kurepochi_go=chase-ihg-traveler&kurepochi_post=16246" target="_blank" rel="noopener">IHG Rewards Travelerクレジットカード</a>は年会費無料でシルバーエリート自動付与、</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -79,7 +79,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.referyourchasecard.com/210y/SRC1PQ7X83" target="_blank" rel="noopener">IHG Rewards Premierクレジットカード</a>は年会費99ドルでプラチナエリート自動付与、</p>
+<p><a href="https://ibis-dallas.com/?kurepochi_go=chase-ihg-premier&kurepochi_post=16246" target="_blank" rel="noopener">IHG Rewards Premierクレジットカード</a>は年会費99ドルでプラチナエリート自動付与、</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -155,7 +155,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>まず<a href="https://www.referyourchasecard.com/210y/SRC1PQ7X83" target="_blank" rel="noopener">IHG Rewards Traveler</a>が向いている方について。</p>
+<p>まず<a href="https://ibis-dallas.com/?kurepochi_go=chase-ihg-traveler&kurepochi_post=16246" target="_blank" rel="noopener">IHG Rewards Traveler</a>が向いている方について。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -201,7 +201,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>つづいて<a href="https://www.referyourchasecard.com/210y/SRC1PQ7X83" target="_blank" rel="noopener">IHG Rewards Premier</a>が向いている方について。</p>
+<p>つづいて<a href="https://ibis-dallas.com/?kurepochi_go=chase-ihg-premier&kurepochi_post=16246" target="_blank" rel="noopener">IHG Rewards Premier</a>が向いている方について。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -5,7 +5,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>今日はChase銀行が発行する<a href="https://www.referyourchasecard.com/210y/SRC1PQ7X83#ihg3" target="_blank" rel="noopener">IHG Rewards Premier Businessクレジットカード</a>を紹介します。</p>
+<p>今日はChase銀行が発行する<a href="https://ibis-dallas.com/?kurepochi_go=chase-ihg-premier-business&kurepochi_post=21879" target="_blank" rel="noopener">IHG Rewards Premier Businessクレジットカード</a>を紹介します。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -21,7 +21,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>本記事では<a href="https://www.referyourchasecard.com/210y/SRC1PQ7X83#ihg3" target="_blank" rel="noopener">IHG Rewards Premier Businessクレジットカード</a>の特典を説明しますので、</p>
+<p>本記事では<a href="https://ibis-dallas.com/?kurepochi_go=chase-ihg-premier-business&kurepochi_post=21879" target="_blank" rel="noopener">IHG Rewards Premier Businessクレジットカード</a>の特典を説明しますので、</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -62,7 +62,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.referyourchasecard.com/210y/SRC1PQ7X83#ihg3" target="_blank" rel="noopener">IHG Rewards Premier Businessクレジットカード</a>はChase銀行が発行する年会費99ドルのIHG系ビジネスクレカです。</p>
+<p><a href="https://ibis-dallas.com/?kurepochi_go=chase-ihg-premier-business&kurepochi_post=21879" target="_blank" rel="noopener">IHG Rewards Premier Businessクレジットカード</a>はChase銀行が発行する年会費99ドルのIHG系ビジネスクレカです。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -94,11 +94,11 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"center","id":21900,"sizeSlug":"full","linkDestination":"custom"} -->
-<figure class="wp-block-image aligncenter size-full"><a href="https://www.referyourchasecard.com/210y/SRC1PQ7X83#ihg3" target="_blank" rel="noreferrer noopener"><img src="https://ibis-dallas.com/wp-content/uploads/2023/08/ihg_premier_business_card-140k.jpg" alt="IHG Premier Business Credit Card入会ポイント140K" class="wp-image-21900"/></a></figure>
+<figure class="wp-block-image aligncenter size-full"><a href="https://ibis-dallas.com/?kurepochi_go=chase-ihg-premier-business&kurepochi_post=21879" target="_blank" rel="noreferrer noopener"><img src="https://ibis-dallas.com/wp-content/uploads/2023/08/ihg_premier_business_card-140k.jpg" alt="IHG Premier Business Credit Card入会ポイント140K" class="wp-image-21900"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.referyourchasecard.com/210y/SRC1PQ7X83#ihg3" target="_blank" rel="noopener">IHG Rewards Premier Businessクレジットカード</a>の入会ボーナスは14万ポイントです！</p>
+<p><a href="https://ibis-dallas.com/?kurepochi_go=chase-ihg-premier-business&kurepochi_post=21879" target="_blank" rel="noopener">IHG Rewards Premier Businessクレジットカード</a>の入会ボーナスは14万ポイントです！</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -176,7 +176,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.referyourchasecard.com/210y/SRC1PQ7X83#ihg3" target="_blank" rel="noopener" title="">IHG Rewards Premier Businessクレジットカードに申し込む</a></p>
+<p><a href="https://ibis-dallas.com/?kurepochi_go=chase-ihg-premier-business&kurepochi_post=21879" target="_blank" rel="noopener" title="">IHG Rewards Premier Businessクレジットカードに申し込む</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->

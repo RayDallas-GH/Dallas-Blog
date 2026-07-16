@@ -5,7 +5,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>今日はChase銀行が発行する<a href="https://www.referyourchasecard.com/210y/SRC1PQ7X83" target="_blank" rel="noopener">IHG Rewards Premierクレジットカード</a>を紹介します。</p>
+<p>今日はChase銀行が発行する<a href="https://ibis-dallas.com/?kurepochi_go=chase-ihg-premier&kurepochi_post=16179" target="_blank" rel="noopener">IHG Rewards Premierクレジットカード</a>を紹介します。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -54,7 +54,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.referyourchasecard.com/210y/SRC1PQ7X83" target="_blank" rel="noopener">IHG Rewards Premierクレジットカード</a>はChase銀行が発行する年会費99ドルのIHG系クレカです。</p>
+<p><a href="https://ibis-dallas.com/?kurepochi_go=chase-ihg-premier&kurepochi_post=16179" target="_blank" rel="noopener">IHG Rewards Premierクレジットカード</a>はChase銀行が発行する年会費99ドルのIHG系クレカです。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -86,7 +86,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><a rel="noopener" href="https://www.referyourchasecard.com/210y/SRC1PQ7X83" target="_blank">IHG Rewards Premierクレジットカード</a>の入会ボーナスは14万ポイントです！</p>
+<p><a rel="noopener" href="https://ibis-dallas.com/?kurepochi_go=chase-ihg-premier&kurepochi_post=16179" target="_blank">IHG Rewards Premierクレジットカード</a>の入会ボーナスは14万ポイントです！</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -164,7 +164,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.referyourchasecard.com/210y/SRC1PQ7X83" target="_blank" rel="noopener" title="">IHG Rewards Premierクレジットカードに申し込む</a></p>
+<p><a href="https://ibis-dallas.com/?kurepochi_go=chase-ihg-premier&kurepochi_post=16179" target="_blank" rel="noopener" title="">IHG Rewards Premierクレジットカードに申し込む</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -256,7 +256,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><a rel="noopener" href="https://www.referyourchasecard.com/210y/SRC1PQ7X83" target="_blank">IHG Rewards Premierクレジットカード</a>には40000ポイントまでのIHG系列ホテルの無料宿泊券が毎年付与されます。</p>
+<p><a rel="noopener" href="https://ibis-dallas.com/?kurepochi_go=chase-ihg-premier&kurepochi_post=16179" target="_blank">IHG Rewards Premierクレジットカード</a>には40000ポイントまでのIHG系列ホテルの無料宿泊券が毎年付与されます。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -463,7 +463,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><a rel="noopener" href="https://www.referyourchasecard.com/210y/SRC1PQ7X83" target="_blank">IHG Rewards Premierクレジットカード</a>は毎年年会費が発生します。</p>
+<p><a rel="noopener" href="https://ibis-dallas.com/?kurepochi_go=chase-ihg-premier&kurepochi_post=16179" target="_blank">IHG Rewards Premierクレジットカード</a>は毎年年会費が発生します。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -499,7 +499,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>今日は<a href="https://www.referyourchasecard.com/210y/SRC1PQ7X83" target="_blank" rel="noopener">IHG Rewards Premierクレジットカード</a>を紹介しました。</p>
+<p>今日は<a href="https://ibis-dallas.com/?kurepochi_go=chase-ihg-premier&kurepochi_post=16179" target="_blank" rel="noopener">IHG Rewards Premierクレジットカード</a>を紹介しました。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

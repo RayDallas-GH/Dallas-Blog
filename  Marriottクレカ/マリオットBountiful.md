@@ -50,7 +50,7 @@
 <h3 id="anker21">入会ボーナスが８５０００マリオットポイント</h3>
 <p>クレカ発行するだけで<strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">８５０００マリオットポイント</strong>がもらえます。</p>
 <p>３か月以内に４０００ドル利用してもらえる入会ボーナスです。</p>
-<p>現在のオファーは<a href="https://www.referyourchasecard.com/252u/WORXRJKOY3" target="_blank" rel="noopener">公式サイト</a>にて最新情報をチェックしてみてください。</p>
+<p>現在のオファーは<a href="https://ibis-dallas.com/?kurepochi_go=chase-marriott-bountiful&kurepochi_post=21939" target="_blank" rel="noopener">公式サイト</a>にて最新情報をチェックしてみてください。</p>
 <p>プロモとかやると１２万とか１５万とか出る印象があります。</p>
 <p>マリオットポイントの価値ですが１ポイント０．００８ドル（０．８セント）と計算しています。</p>
 <p>８５０００ポイントは６８０ドル相当の価値ですね。</p>
@@ -144,7 +144,7 @@
 <p>ただし年会費は２５０ドル発生するデメリットもあります。</p>
 <p>入会特典だけもらって１年後に解約する選択肢もあるでしょう。</p>
 <p>年会費無料はBoldクレカです。</p>
-<p><a href="https://www.referyourchasecard.com/252u/WORXRJKOY3" target="_blank" rel="noopener">Marriott Bonvoy Boldと比較してみる</a></p>
+<p><a href="https://ibis-dallas.com/?kurepochi_go=chase-marriott-bountiful&kurepochi_post=21939" target="_blank" rel="noopener">Marriott Bonvoy Boldと比較してみる</a></p>
 <p>年会費無料のマリオットBonvoy Boldクレカレビュー記事は⇒</p>
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/marriott-bonvoy-bold"]

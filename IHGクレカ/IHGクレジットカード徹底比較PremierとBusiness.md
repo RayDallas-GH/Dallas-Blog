@@ -47,7 +47,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.referyourchasecard.com/210y/SRC1PQ7X83" target="_blank" rel="noopener">IHG Rewards Premierクレジットカード</a>は年会費99ドルでプラチナエリート自動付与、</p>
+<p><a href="https://ibis-dallas.com/?kurepochi_go=chase-ihg-premier&kurepochi_post=30253" target="_blank" rel="noopener">IHG Rewards Premierクレジットカード</a>は年会費99ドルでプラチナエリート自動付与、</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -79,7 +79,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.referyourchasecard.com/210y/SRC1PQ7X83" target="_blank" rel="noopener">IHG Rewards Premier Businessクレジットカード</a>は年会費99ドルでプラチナエリート自動付与、</p>
+<p><a href="https://ibis-dallas.com/?kurepochi_go=chase-ihg-premier-business&kurepochi_post=30253" target="_blank" rel="noopener">IHG Rewards Premier Businessクレジットカード</a>は年会費99ドルでプラチナエリート自動付与、</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

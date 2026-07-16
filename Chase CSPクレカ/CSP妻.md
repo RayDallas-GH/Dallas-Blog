@@ -175,7 +175,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p> <a href="https://www.referyourchasecard.com/19x/ML5E4XXXQA" target="_blank" rel="noopener" title="">Chase Sapphire Preferredクレジットカード紹介リンク</a> </p>
+<p> <a href="https://ibis-dallas.com/?kurepochi_go=chase-sapphire-preferred&kurepochi_post=6502" target="_blank" rel="noopener" title="">Chase Sapphire Preferredクレジットカード紹介リンク</a> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->

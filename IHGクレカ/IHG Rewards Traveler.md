@@ -52,7 +52,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.referyourchasecard.com/210y/SRC1PQ7X83" target="_blank" rel="noopener">IHG Rewards Travelerクレジットカード</a>はChase銀行が発行する年会費無料のIHG系クレカです。</p>
+<p><a href="https://ibis-dallas.com/?kurepochi_go=chase-ihg-traveler&kurepochi_post=16146" target="_blank" rel="noopener">IHG Rewards Travelerクレジットカード</a>はChase銀行が発行する年会費無料のIHG系クレカです。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -84,7 +84,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.referyourchasecard.com/210y/SRC1PQ7X83" target="_blank" rel="noopener">IHG Rewards Travelerクレカ</a>の入会ボーナスは<strong>通常8万ポイント</strong>（条件：最初の3ヶ月で$2,000の支出）です。</p>
+<p><a href="https://ibis-dallas.com/?kurepochi_go=chase-ihg-traveler&kurepochi_post=16146" target="_blank" rel="noopener">IHG Rewards Travelerクレカ</a>の入会ボーナスは<strong>通常8万ポイント</strong>（条件：最初の3ヶ月で$2,000の支出）です。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -162,7 +162,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.referyourchasecard.com/210y/SRC1PQ7X83" target="_blank" rel="noopener" title="">IHG Rewards Travelerクレジットカードに申し込む</a></p>
+<p><a href="https://ibis-dallas.com/?kurepochi_go=chase-ihg-traveler&kurepochi_post=16146" target="_blank" rel="noopener" title="">IHG Rewards Travelerクレジットカードに申し込む</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -210,7 +210,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>新しい会員ステータスの中で、<a href="https://www.referyourchasecard.com/210y/SRC1PQ7X83" target="_blank" rel="noopener">IHG Rewards Travelerクレカ</a>を持つだけで自動的にシルバーステータスになります。</p>
+<p>新しい会員ステータスの中で、<a href="https://ibis-dallas.com/?kurepochi_go=chase-ihg-traveler&kurepochi_post=16146" target="_blank" rel="noopener">IHG Rewards Travelerクレカ</a>を持つだけで自動的にシルバーステータスになります。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -252,7 +252,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.referyourchasecard.com/210y/SRC1PQ7X83" target="_blank" rel="noopener">IHG Rewards Travelerクレカ</a>は年会費無料となります。（Premierは年会費99ドル）</p>
+<p><a href="https://ibis-dallas.com/?kurepochi_go=chase-ihg-traveler&kurepochi_post=16146" target="_blank" rel="noopener">IHG Rewards Travelerクレカ</a>は年会費無料となります。（Premierは年会費99ドル）</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -311,7 +311,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>年会費無料の<a href="https://www.referyourchasecard.com/210y/SRC1PQ7X83" target="_blank" rel="noopener">IHG Rewards Travelerクレジットカード</a>でも以下が自動付与されます。</p>
+<p>年会費無料の<a href="https://ibis-dallas.com/?kurepochi_go=chase-ihg-traveler&kurepochi_post=16146" target="_blank" rel="noopener">IHG Rewards Travelerクレジットカード</a>でも以下が自動付与されます。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -357,7 +357,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Chase銀行発行の<a href="https://www.referyourchasecard.com/210y/SRC1PQ7X83" target="_blank" rel="noopener">IHG Rewards Travelerクレジットカード</a>はアメックスより審査が厳しいことで有名です。</p>
+<p>Chase銀行発行の<a href="https://ibis-dallas.com/?kurepochi_go=chase-ihg-traveler&kurepochi_post=16146" target="_blank" rel="noopener">IHG Rewards Travelerクレジットカード</a>はアメックスより審査が厳しいことで有名です。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -420,7 +420,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>今日は<a href="https://www.referyourchasecard.com/210y/SRC1PQ7X83" target="_blank" rel="noopener">IHG Rewards Travelerクレジットカード</a>を紹介しました。</p>
+<p>今日は<a href="https://ibis-dallas.com/?kurepochi_go=chase-ihg-traveler&kurepochi_post=16146" target="_blank" rel="noopener">IHG Rewards Travelerクレジットカード</a>を紹介しました。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
