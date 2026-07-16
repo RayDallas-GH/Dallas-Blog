@@ -1344,3 +1344,4 @@
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/chase-sapphire-preferred-to-japan"]
 <!-- /wp:shortcode -->
+
