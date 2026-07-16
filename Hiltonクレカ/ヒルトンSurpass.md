@@ -60,7 +60,7 @@
 </ul>
 <p>[/box]</p>
 
-<p>[kurepochi card="amex-hilton-surpass" button="Hilton Surpassクレジットカードに申し込む"]</p>
+<p>[kurepochi card="amex-hilton-surpass"]</p>
 
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
@@ -149,7 +149,7 @@
 [nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"]
 <!-- /wp:shortcode -->
 
-<p>[kurepochi card="amex-hilton-surpass" button="Hilton Surpassクレジットカードに申し込む"]</p>
+<p>[kurepochi card="amex-hilton-surpass"]</p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker2">Hilton Surpassをおすすめする理由</h2>
@@ -179,7 +179,7 @@
 [nlink url="https://ibis-dallas.com/hilton-business-creditcard"]
 <!-- /wp:shortcode -->
 
-<p>[kurepochi card="amex-hilton-surpass" button="Hilton Surpassクレジットカードに申し込む"]</p>
+<p>[kurepochi card="amex-hilton-surpass"]</p>
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker22">ポイント還元率が高い（ヒルトン宿泊で12倍還元）</h3>
@@ -267,7 +267,7 @@
 <p>朝食ブッフェになると一人$20も請求するホテルがありますので、夫婦で$40の節約になります。年間数回宿泊するだけでも、年会費$150を十分に回収できます。</p>
 <!-- /wp:paragraph -->
 
-<p>[kurepochi card="amex-hilton-surpass" button="毎回のヒルトン宿泊で朝食が無料になるHilton Surpass申し込み"]</p>
+<p>[kurepochi card="amex-hilton-surpass"]</p>
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/hilton-gold-benefits"]
 <!-- /wp:shortcode -->
@@ -729,7 +729,7 @@
 [nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"]
 <!-- /wp:shortcode -->
 
-<p>[kurepochi card="amex-hilton-surpass" button="Amex Hilton Surpassクレジットカード申し込み"]</p>
+<p>[kurepochi card="amex-hilton-surpass"]</p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker9">関連記事</h2>
