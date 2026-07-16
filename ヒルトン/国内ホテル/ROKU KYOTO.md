@@ -1,5 +1,19 @@
 <!-- wp_post_id: 14991 -->
 <!-- wp_title: 【ダイヤモンド宿泊記】紅葉シーズンのヒルトンROKU KYOTO -->
+
+<!-- wp:shortcode -->
+[box class="green_box" title="本記事で解決できるお悩み"]
+・ROKU KYOTOのダイヤモンド特典が知りたい
+・客室タイプやアップグレードの目安が知りたい
+・ティーハウスの利用時間・雰囲気が知りたい
+・朝食ビュッフェの内容が知りたい
+[/box]
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[voice icon="https://ibis-dallas.com/wp-content/uploads/2021/07/ワシアイコン-scaled.jpg" name="アポロ" type="l"]紅葉シーズンのROKU KYOTOを、部屋・ティーハウス・朝食・サーマルプールまで一気に紹介します[/voice]
+<!-- /wp:shortcode -->
+
 <!-- wp:paragraph -->
 <p>こんにちは、ヒルトンダイヤモンドのアポロです。</p>
 <!-- /wp:paragraph -->
@@ -58,6 +72,9 @@
 <p>ROKU KYOTO, LXR Hotels &amp; Resortsは、「鷹ヶ峰」「鷲ヶ峰」「天ヶ峰」の三座を総称した鷹峯三山の麓に位置しています。敷地内には一級河川「天神川」が流れ、川のせせらぎが聞こえる静謐な空気が漂う場所です。<br />天神川は紙屋川とも呼ばれ、平安時代に川のほとりで紙を漉いた紙座があったことに由来しています。紙を漉く「漉(ろく)」という言葉をホテル名称の「ROKU」に名付け、鷹峯三山と天神川の自然に囲まれた土地独自の環境を表しました。訪れたお客様にこの特別な空間を味わってもらいたいという想いが込められています。</p>
 <p>https://www.rokukyoto.com/info</p>
 </blockquote>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-hotel-japan"]
+<!-- /wp:shortcode -->
 <h2 id="anker2">京都駅からのアクセス</h2>
 <p>ROKU KYOTOはしょうざんリゾートの南に位置し、元はしょうざんのボウリング場でした（タクシーの運転手が教えてくれました）。</p>
 <p>アマン京都も近くにあり高級ホテルが並びます。</p>
@@ -1016,8 +1033,8 @@
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
-[nlink url="https://ibis-dallas.com/conrad-osaka"]
+[nlink url="https://ibis-dallas.com/hilton-hotel-japan"]
 <!-- /wp:shortcode -->
 <!-- wp:shortcode -->
-[nlink url="https://ibis-dallas.com/curio-kyukaruizawa"]
+[nlink url="https://ibis-dallas.com/conrad-osaka"]
 <!-- /wp:shortcode -->
