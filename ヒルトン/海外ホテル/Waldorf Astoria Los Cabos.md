@@ -13,21 +13,24 @@
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
 <li>1.<a href="#anker1">Waldorf Astoriaロスカボス</a></li>
-<li>　1-1.<a href="#anker11">ロケーション</a></li>
-<li>　1-2.<a href="#anker12">送迎サービス</a></li>
-<li>　1-3.<a href="#anker13">宿泊料金</a></li>
-<li>　1-4.<a href="#anker14">コロナ感染対策</a></li>
-<li>　1-5.<a href="#anker15">誕生日サービス</a></li>
-<li>2.<a href="#anker2">部屋</a></li>
-<li>3.<a href="#anker3">ホテル施設</a></li>
-<li>　3-1.<a href="#anker31">フロントロビー</a></li>
-<li>　3-2.<a href="#anker12">レストラン</a></li>
-<li>　3-3.<a href="#anker33">プール</a></li>
-<li>　3-4.<a href="#anker34">ビーチ</a></li>
-<li>　3-5.<a href="#anker35">ジム</a></li>
-<li>　3-6.<a href="#anker36">ギフトショップ</a></li>
-<li>4.<a href="#anker4">ヒルトンステイをもっとお得に！アメックス提携カードで手に入れる特別特典</a></li>
-<li>5.<a href="#anker5">Waldorf Astoriaロスカボス宿泊レビューまとめ</a></li>
+<li>　1-1.<a href="#anker11">誕生日などのサプライズ演出</a></li>
+<li>　1-2.<a href="#anker12">コロナ対策について</a></li>
+<li>2.<a href="#anker2">Waldorf Astoriaロスカボスへのアクセス</a></li>
+<li>　2-1.<a href="#anker21">空港からのアクセス</a></li>
+<li>　2-2.<a href="#anker22">送迎サービス</a></li>
+<li>3.<a href="#anker3">ダイヤモンド会員特典</a></li>
+<li>4.<a href="#anker4">部屋</a></li>
+<li>5.<a href="#anker5">ホテル施設</a></li>
+<li>　5-1.<a href="#anker51">フロントロビー</a></li>
+<li>　5-2.<a href="#anker52">レストラン</a></li>
+<li>　5-3.<a href="#anker53">プール</a></li>
+<li>　5-4.<a href="#anker54">ビーチ</a></li>
+<li>　5-5.<a href="#anker55">ジム</a></li>
+<li>　5-6.<a href="#anker56">ギフトショップ</a></li>
+<li>6.<a href="#anker6">朝食</a></li>
+<li>7.<a href="#anker7">ヒルトンステイをもっとお得に！アメックス提携カードで手に入れる特別特典</a></li>
+<li>8.<a href="#anker8">周辺観光・現地情報</a></li>
+<li>9.<a href="#anker9">Waldorf Astoriaロスカボス宿泊レビューまとめ</a></li>
 </ul>
 <h2 id="anker1">Waldorf Astoriaロスカボス</h2>
 <p><img class="aligncenter size-large wp-image-12336" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0318-1024x768.jpg" alt="サボテン" width="728" height="546" /></p>
@@ -60,7 +63,32 @@
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
-<h3 id="anker11">ロケーション</h3>
+<h3 id="anker11">誕生日などのサプライズ演出</h3>
+<p>予約時に担当コンシェルジュがつきました。</p>
+<p>宿泊が近づくと挨拶メールがあり、何かの記念日かと聞かれたので宿泊期間中に自分の誕生日と伝えたら部屋にシャンパンが置いてありました！</p>
+<p>自己演出！笑</p>
+<p><img class="aligncenter size-large wp-image-12348" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0334-1024x768.jpg" alt="誕生日シャンパン" width="728" height="546"></p>
+<p>ビーチ眺めながらお祝いしました。</p>
+<p><img class="aligncenter size-large wp-image-12351" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0338-1024x768.jpg" alt="シャンパン" width="728" height="546"></p>
+<p>ほかにもレストランで誕生日スイーツをもらいました。</p>
+<p>それぞれ違うレストランだったのですが花火でお祝いしてくれました笑</p>
+<p><img class="aligncenter size-large wp-image-12365" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0360-1024x768.jpg" alt="誕生日スイーツ" width="728" height="546"></p>
+<p><img class="aligncenter size-large wp-image-12400" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0416-1024x768.jpg" alt="チュロス" width="728" height="546"></p>
+
+<h3 id="anker12">コロナ対策について</h3>
+<p>コロナ感染対策について。</p>
+<p>まずホテルチェックインのときに検温がありました。</p>
+<p>サニタイザーもしてくれたような気がしますが、記憶があいまいです。</p>
+<p><img class="aligncenter size-large wp-image-12388" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0393-1024x768.jpg" alt="Waldorf Astoriaロスカボス" width="728" height="546"></p>
+<p>部屋にはヒルトンが契約しているLysolのワイプとWaldorf特製サニタイザーが置いてありました。</p>
+<p>ヒルトンの取り組みについて、詳しくは<a href="https://www.hilton.com/ja/corporate/cleanstay/" target="_blank" rel="noopener noreferrer">クリーンステイプログラム</a>を見てみてください。</p>
+<p><img class="aligncenter size-large wp-image-12349" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0336-1024x768.jpg" alt="サニタイザー" width="728" height="546"></p>
+<p>前日までに宿泊したPueblo Bonito系列のホテルは全身を消毒、スーツケースも消毒してくれましたが、そこまで大掛かりではありませんでした。</p>
+<p>それでも最低限のコロナ対策はバッチリしてあったので、安心して宿泊できました。</p>
+
+<h2 id="anker2">Waldorf Astoriaロスカボスへのアクセス</h2>
+
+<h3 id="anker21">空港からのアクセス</h3>
 <p>Waldorf Astoriaロスカボスはメキシコのカボサンルーカスに位置します。</p>
 <p>空港からは３０分程度です。</p>
 <p>カボサンルーカスは高級オールインクルーシブホテルが多いのですが、ここは違うので注意してください。</p>
@@ -70,7 +98,7 @@
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d46681.45562162174!2d-109.88487318012282!3d22.87888766017143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1de878484f2c3d7f!2sWaldorf%20Astoria%20Los%20Cabos%20Pedregal!5e0!3m2!1sen!2sus!4v1610574927918!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 <!-- /wp:html -->
 
-<h3 id="anker12">送迎サービス</h3>
+<h3 id="anker22">送迎サービス</h3>
 <p>Waldorf Astoriaは送迎サービスも受け付けています。</p>
 <p>以下の２つです。</p>
 <ol>
@@ -84,7 +112,8 @@
 <p>現金を用意しておけばタクシーでも問題ないかと思います。</p>
 <p>外部サイトでシャトルバスを頼んでもきっとたどり着くと思いますが、他人と乗り合いになります。</p>
 <p>コスト面、安全面などを考慮しながら決めましょう。</p>
-<h3 id="anker13">宿泊料金</h3>
+
+<h2 id="anker3">ダイヤモンド会員特典</h2>
 <p>[caption id="attachment_12329" align="aligncenter" width="728"]<img class="wp-image-12329 size-large" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0309-1024x768.jpg" alt="部屋" width="728" height="546"> 部屋から海が見えました[/caption]</p>
 <p>さすがWaldorf Astoriaです。高いです。</p>
 <p>１０００ドルくらいしますね。</p>
@@ -101,28 +130,8 @@
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]
 <!-- /wp:shortcode -->
-<h3 id="anker14">コロナ感染対策</h3>
-<p>コロナ感染対策について。</p>
-<p>まずホテルチェックインのときに検温がありました。</p>
-<p>サニタイザーもしてくれたような気がしますが、記憶があいまいです。</p>
-<p><img class="aligncenter size-large wp-image-12388" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0393-1024x768.jpg" alt="Waldorf Astoriaロスカボス" width="728" height="546"></p>
-<p>部屋にはヒルトンが契約しているLysolのワイプとWaldorf特製サニタイザーが置いてありました。</p>
-<p>ヒルトンの取り組みについて、詳しくは<a href="https://www.hilton.com/ja/corporate/cleanstay/" target="_blank" rel="noopener noreferrer">クリーンステイプログラム</a>を見てみてください。</p>
-<p><img class="aligncenter size-large wp-image-12349" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0336-1024x768.jpg" alt="サニタイザー" width="728" height="546"></p>
-<p>前日までに宿泊したPueblo Bonito系列のホテルは全身を消毒、スーツケースも消毒してくれましたが、そこまで大掛かりではありませんでした。</p>
-<p>それでも最低限のコロナ対策はバッチリしてあったので、安心して宿泊できました。</p>
-<h3 id="anker15">誕生日サービス</h3>
-<p>予約時に担当コンシェルジュがつきました。</p>
-<p>宿泊が近づくと挨拶メールがあり、何かの記念日かと聞かれたので宿泊期間中に自分の誕生日と伝えたら部屋にシャンパンが置いてありました！</p>
-<p>自己演出！笑</p>
-<p><img class="aligncenter size-large wp-image-12348" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0334-1024x768.jpg" alt="誕生日シャンパン" width="728" height="546"></p>
-<p>ビーチ眺めながらお祝いしました。</p>
-<p><img class="aligncenter size-large wp-image-12351" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0338-1024x768.jpg" alt="シャンパン" width="728" height="546"></p>
-<p>ほかにもレストランで誕生日スイーツをもらいました。</p>
-<p>それぞれ違うレストランだったのですが花火でお祝いしてくれました笑</p>
-<p><img class="aligncenter size-large wp-image-12365" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0360-1024x768.jpg" alt="誕生日スイーツ" width="728" height="546"></p>
-<p><img class="aligncenter size-large wp-image-12400" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0416-1024x768.jpg" alt="チュロス" width="728" height="546"></p>
-<h2 id="anker2">部屋</h2>
+
+<h2 id="anker4">部屋</h2>
 <p>つづいて気になるお部屋紹介です。</p>
 <p>まず部屋から海が見えます！プールもついてます！</p>
 <p><img class="aligncenter size-large wp-image-12323" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0302-1024x768.jpg" alt="Waldorf Astoriaロスカボス" width="728" height="546"></p>
@@ -154,9 +163,15 @@
 <p>それでも部屋から見える景色は最高でした。</p>
 <p><img class="aligncenter size-large wp-image-12333" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0314-1024x768.jpg" alt="ベランダ" width="728" height="546"></p>
 <p><img class="aligncenter size-large wp-image-12334" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0316-1024x768.jpg" alt="部屋にプール" width="728" height="546"></p>
-<h2 id="anker3">ホテル施設</h2>
+<p>こうした客室アップグレードをフル活用するなら、ヒルトン系クレジットカードの保有がおすすめです。詳しくは<a href="#anker7">クレカ訴求セクション</a>で解説します。</p>
+
+<!-- wp:shortcode -->
+[yadokko id="32797"]
+<!-- /wp:shortcode -->
+
+<h2 id="anker5">ホテル施設</h2>
 <p>Waldorf Astoriaロスカボスのホテル施設を紹介していきます。</p>
-<h3 id="anker31">フロントロビー</h3>
+<h3 id="anker51">フロントロビー</h3>
 <p><img class="aligncenter size-large wp-image-12388" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0393-1024x768.jpg" alt="Waldorf Astoriaロスカボス" width="728" height="546"></p>
 <p>フロントロビーは屋外です。</p>
 <p>チェックインからバカンスは始まっています。</p>
@@ -170,19 +185,16 @@
 <p><img class="aligncenter size-large wp-image-12394" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0404-1024x768.jpg" alt="Waldorf Astoriaロスカボス" width="728" height="546"></p>
 <p>夜のフロントはイルミネーションが綺麗でした。</p>
 <p>停まっている車はWaldorf Astoriaの送迎車です。</p>
-<h3 id="anker32">レストラン</h3>
+<h3 id="anker52">レストラン</h3>
 <p><img class="aligncenter size-large wp-image-12357" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0351-1024x768.jpg" alt="Waldorf Astoriaロスカボス" width="728" height="546"></p>
 <p>レストランについては別記事でくわしくまとめました。</p>
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/waldorf-astoria-los-cabos-restaurant"]
 <!-- /wp:shortcode -->
-<!-- wp:shortcode -->
-[yadokko id="32797"]
-<!-- /wp:shortcode -->
 <p>オールインクルーシブではありません。</p>
 <p>DON MANUEL'Sがチップと税あわせて一人１００ドルくらいしますが、ビーチ沿いでいい雰囲気でした。</p>
 <p>ホテルから歩いて１０分くらいにレストランが集まるハーバーがあるのでそこで食べるのもいいかもしれません。</p>
-<h3 id="anker33">プール</h3>
+<h3 id="anker53">プール</h3>
 <p><img class="aligncenter size-large wp-image-12390" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0395-1024x768.jpg" alt="プール" width="728" height="546"></p>
 <p>プールはインフィニティプールでした。</p>
 <p>どこに座っても海しか見えません。</p>
@@ -190,7 +202,7 @@
 <p>みんな読書やおしゃべりをしながらのんびりしていました。</p>
 <p>プールサイドでは席を決めるとタオルを持ってきてくれて、わざわざチェアに敷いてくれます。</p>
 <p><img class="aligncenter size-large wp-image-12322" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0300-1024x768.jpg" alt="Waldorf Astoriaロスカボス" width="728" height="546"></p>
-<h3 id="anker34">ビーチ</h3>
+<h3 id="anker54">ビーチ</h3>
 <p><img class="aligncenter size-large wp-image-12343" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0326-1024x768.jpg" alt="Waldorf Astoriaロスカボス" width="728" height="546"></p>
 <p>ロスカボスのビーチは波が激しいです。</p>
 <p>そして海に入ってすぐ深くなります。</p>
@@ -202,7 +214,7 @@
 <p>少なくともホエールウォッチングしている船はたくさん見えます。</p>
 <p>[caption id="attachment_12335" align="aligncenter" width="728"]<img class="wp-image-12335 size-large" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0317-1024x768.jpg" alt="ビーチ" width="728" height="546"> ホエールウォッチング船が近くに見えます[/caption]</p>
 <p>ホテルからクジラを見つけるために海を眺めてみてはいかがでしょうか。</p>
-<h3 id="anker35">ジム</h3>
+<h3 id="anker55">ジム</h3>
 <p><img class="aligncenter size-large wp-image-12392" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0402-1024x768.jpg" alt="ジム" width="728" height="546"></p>
 <p>ヒルトンによくあるフィットネスジム。</p>
 <p>もちろんWaldorf Astoriaにもありました。</p>
@@ -210,7 +222,7 @@
 <p>２０２１年は定期的に運動しようとこころがけているので宿泊期間中は毎日来て腹筋などを鍛えていました。</p>
 <p>朝のほうが人多いですが、気にするほど混まないです。</p>
 <p>[caption id="attachment_12393" align="aligncenter" width="728"]<img class="wp-image-12393 size-large" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0403-1024x768.jpg" alt="Waldorf Astoriaロスカボス" width="728" height="546"> ジムの横の図書館スペース[/caption]</p>
-<h3 id="anker36">ギフトショップ</h3>
+<h3 id="anker56">ギフトショップ</h3>
 <p><img class="aligncenter size-large wp-image-12372" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0376-1024x768.jpg" alt="Waldorf Astoriaロスカボス" width="728" height="546"></p>
 <p>Waldorf Astoria内にもギフトショップがありました。</p>
 <p>ロスカボス全体でガラス細工が有名みたいで、前回宿泊したPueblo Bonitoにも販売していました。</p>
@@ -282,8 +294,23 @@
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
+<h2 id="anker6">朝食</h2>
+<p>朝食はホテル内レストラン「El Farallon」でいただけます。</p>
+<p>El Farallonは朝・ランチ・ディナーすべて営業しているレストランです。</p>
+<p>コンチネンタルブレックファスト（フルーツ盛り合わせ、シリアル、コーヒー）だけで３１ドル、ベーコンなどが付くフルブレックファストは４０ドルほどします。</p>
+<p>ダイヤモンドステータスを持っていると、この朝食が無料になります。</p>
+<p>朝食の写真や雰囲気は別記事のレストランレビューでも詳しく紹介しています。</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/waldorf-astoria-los-cabos-restaurant"]
+<!-- /wp:shortcode -->
+<p>海外の朝食は2名で1万円を超えることも珍しくないので、ダイヤモンド会員特典で無料になるのは大きなメリットです。</p>
+
+<!-- wp:shortcode -->
+[yadokko id="32797"]
+<!-- /wp:shortcode -->
+
 <!-- wp:heading -->
-<h2 class="wp-block-heading" id="anker4">ヒルトンステイをもっとお得に！アメックス提携カードで手に入れる特別特典</h2>
+<h2 class="wp-block-heading" id="anker7">ヒルトンステイをもっとお得に！アメックス提携カードで手に入れる特別特典</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":22504,"sizeSlug":"large","linkDestination":"none"} -->
@@ -292,6 +319,7 @@
 
 <p><strong>ヒルトンホテルでの宿泊体験をさらにグレードアップさせるなら、クレジットカードの活用がおすすめです。</strong></p>
 <p>アメリカン・エキスプレス提携の「ヒルトンオナーズカード」を持つだけで、世界7,000以上のヒルトン系列ホテルで<strong>無料朝食</strong>や<strong>ルームアップグレード</strong>の特典が自動的に付与されます。</p>
+<p>Waldorf Astoriaロスカボスのような海外リゾートでは、プレミアムカード付帯の<strong>海外旅行保険</strong>（利用付帯、保険金額は最高1億円）や、国内主要空港＋ハワイの<strong>空港ラウンジ無料利用</strong>といった海外滞在ならではの特典も心強い味方になります。</p>
 <p>次回の滞在をワンランク上の体験にしませんか？</p>
 <h3>日本在住の旅行好きの方におすすめの2枚</h3>
 
@@ -394,7 +422,14 @@
 </ol>
 <p><strong>あなたも今回のレビューで紹介したホテルを、次回は特別な特典付きで体験してみませんか？</strong></p>
 <p>今すぐ申し込んで、次回のヒルトンステイをワンランク上の体験に変えましょう！</p>
-<h2 id="anker5">Waldorf Astoriaロスカボス宿泊レビューまとめ</h2>
+
+<h2 id="anker8">周辺観光・現地情報</h2>
+<p>ホテルからトンネルを歩いて５分ほどでカボサンルーカスのダウンタウンに出られます。</p>
+<p>また、ホテルから歩いて１０分ほどのところにレストランが集まるハーバーがあり、そちらで食事をするのもおすすめです。</p>
+<p>ロスカボス全体でガラス細工のお土産が有名で、街のショップでも見かけることができます。</p>
+<p>ロスカボスは物価が高く消費税が１６％かかるため、外食や買い物の際は事前に予算を見積もっておくと安心です。</p>
+
+<h2 id="anker9">Waldorf Astoriaロスカボス宿泊レビューまとめ</h2>
 <p><img class="aligncenter size-large wp-image-12386" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0391-1024x768.jpg" alt="Waldorf Astoriaロスカボス" width="728" height="546"></p>
 <p>今日はメキシコ・ロスカボスにあるWaldorf Astoriaロスカボスの宿泊体験を紹介しました。</p>
 <p><strong style="background: linear-gradient(to bottom, rgba(128,255,255,0) 60%, #80ffff 60%);">Waldorf Astoriaはヒルトン系列で最高ブランドのホテル</strong>です。</p>
@@ -406,6 +441,9 @@
 [yadokko id="32797"]
 <!-- /wp:shortcode -->
 <p><img class="aligncenter size-large wp-image-12410" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0587-1024x768.jpg" alt="夕日" width="728" height="546"></p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/waldorf-astoria-los-cabos-restaurant"]
+<!-- /wp:shortcode -->
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/pueblo-bonito-pacifica"]
 <!-- /wp:shortcode -->
