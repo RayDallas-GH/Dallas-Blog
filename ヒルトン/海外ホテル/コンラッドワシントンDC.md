@@ -5,9 +5,9 @@
 <p>コンラッドと聞くと高級ホテルのイメージがありますが、ワシントンDCのコンラッドは意外とリーズナブルな価格設定だと感じました。</p>
 <p>ま、ポイントで無料宿泊してきたんですけどね。</p>
 
-<!-- wp:html -->
-<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2Fkaigai%2Farea%2Famerica%2F%3Fscid%3DtopC_map_ovs&vcptn=kaereba" rel="nofollow noopener" target="_blank">楽天トラベルでワシントンD.C.のホテルを探してみる</a>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[yadokko id="32798"]
+<!-- /wp:shortcode -->
 
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
@@ -114,9 +114,9 @@
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
-<!-- wp:html -->
-<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2Fkaigai%2Farea%2Famerica%2F%3Fscid%3DtopC_map_ovs&vcptn=kaereba" rel="nofollow noopener" target="_blank">楽天トラベルでワシントンD.C.のホテルを探してみる</a>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[yadokko id="32798"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker23">レストラン</h3>
@@ -329,9 +329,9 @@
 <!-- /wp:shortcode -->
 <p>以上、参考になれば幸いです。</p>
 
-<!-- wp:html -->
-<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2Fkaigai%2Farea%2Famerica%2F%3Fscid%3DtopC_map_ovs&vcptn=kaereba" rel="nofollow noopener" target="_blank">楽天トラベルでワシントンD.C.のホテルを探してみる</a>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[yadokko id="32798"]
+<!-- /wp:shortcode -->
 
 <!-- wp:image {"id":6633,"sizeSlug":"large"} -->
 <figure class="wp-block-image size-large"><img src="https://ibis-dallas.com/wp-content/uploads/2020/02/IMG_3543-768x1024.jpg" alt="" class="wp-image-6633"/><figcaption class="wp-element-caption">クリスマスも近いためホテルの目の前にはツリーがありました</figcaption></figure>

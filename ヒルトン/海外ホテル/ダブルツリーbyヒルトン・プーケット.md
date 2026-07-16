@@ -31,9 +31,9 @@
 </ul>
 <p>[/box]</p>
 
-<!-- wp:html -->
-<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180857%2F180857.html&vcptn=kaereba" rel="nofollow noopener" target="_blank">楽天トラベルでダブルツリーbyヒルトン・プーケットを予約する</a>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[yadokko id="32799"]
+<!-- /wp:shortcode -->
 
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
@@ -304,9 +304,9 @@
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
-<!-- wp:html -->
-<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180857%2F180857.html&vcptn=kaereba" rel="nofollow noopener" target="_blank">楽天トラベルでダブルツリーbyヒルトン・プーケットを予約する</a>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[yadokko id="32799"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker5">ダブルツリーbyヒルトン・プーケット・バンタイ・リゾートの3つのプール</h2>
@@ -821,9 +821,9 @@
 <p>以上、少しでも参考になれば幸いです。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<a class="shiny-btn3" href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&pid=888048024&vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180857%2F180857.html&vcptn=kaereba" rel="nofollow noopener" target="_blank">楽天トラベルでダブルツリーbyヒルトン・プーケットを予約する</a>
-<!-- /wp:html -->
+<!-- wp:shortcode -->
+[yadokko id="32799"]
+<!-- /wp:shortcode -->
 
 <p>[box class="yellow_box" title="ヒルトン紹介プログラム"][contact-form-7 id="d99b16b" title="ヒルトンアメックス紹介リンク"][/box]</p>
 <!-- wp:shortcode -->

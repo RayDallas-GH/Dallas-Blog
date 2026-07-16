@@ -7,6 +7,9 @@
 <p>素晴らしいサービスでした。</p>
 <p>せっかくですので宿泊記事としてまとめておきたいと思います。</p>
 <p>今後、Waldorf Astoriaロスカボスに宿泊を考えている方の参考になればと思います。</p>
+<!-- wp:shortcode -->
+[yadokko id="32797"]
+<!-- /wp:shortcode -->
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
 <li>1.<a href="#anker1">Waldorf Astoriaロスカボス</a></li>
@@ -172,6 +175,9 @@
 <p>レストランについては別記事でくわしくまとめました。</p>
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/waldorf-astoria-los-cabos-restaurant"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[yadokko id="32797"]
 <!-- /wp:shortcode -->
 <p>オールインクルーシブではありません。</p>
 <p>DON MANUEL'Sがチップと税あわせて一人１００ドルくらいしますが、ビーチ沿いでいい雰囲気でした。</p>
@@ -396,6 +402,9 @@
 <p>クレジットカードの無料宿泊を利用しましたが、たまにはいいサービスを体験するのもいいですね。</p>
 <p>ぜひ読者の皆さまもいつかヒルトンWaldorf Astoriaに宿泊してみてください。</p>
 <p>以上、少しでも参考になれば幸いです。</p>
+<!-- wp:shortcode -->
+[yadokko id="32797"]
+<!-- /wp:shortcode -->
 <p><img class="aligncenter size-large wp-image-12410" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0587-1024x768.jpg" alt="夕日" width="728" height="546"></p>
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/pueblo-bonito-pacifica"]

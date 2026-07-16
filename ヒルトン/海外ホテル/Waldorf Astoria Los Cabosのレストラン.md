@@ -4,6 +4,9 @@
 <p>Waldorf Astoriaロスカボスのレストランについて紹介します。</p>
 <p>オールインクルーシブではありませんが、どれも美味しく、そしてどれも高かったです（汗。</p>
 <p>今後、宿泊を予定されている方の参考になればと思います。</p>
+<!-- wp:shortcode -->
+[yadokko id="32797"]
+<!-- /wp:shortcode -->
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
 <li>1.<a href="#anker1">Waldorf Astoriaロスカボスについて</a></li>
@@ -147,6 +150,9 @@
 <p><span style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">アガベシロップのフルーツは美味しい</span>のでぜひ食べてみてください。</p>
 <p>ロスカボスは物価が高く、税金が１６％、サービス料も１５％がかかりますが、高級ホテルならではの最高のサービスを味わうために宿泊してみてはいかがでしょうか。</p>
 <p>以上、少しでも参考になれば幸いです。</p>
+<!-- wp:shortcode -->
+[yadokko id="32797"]
+<!-- /wp:shortcode -->
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/hilton-weekend-reward"]
 <!-- /wp:shortcode -->
