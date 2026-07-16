@@ -1,5 +1,18 @@
 <!-- wp_post_id: 27524 -->
 <!-- wp_title: 【ダイヤモンド宿泊記】ダブルツリーbyヒルトン京都駅のエグゼクティブラウンジ -->
+
+<!-- wp:shortcode -->
+[box class="green_box" title="本記事で解決できるお悩み"]
+・ダブルツリーbyヒルトン京都駅のダイヤモンド特典が知りたい
+・エグゼクティブラウンジのイブニングカクテル・朝食が知りたい
+・無料朝食の内容が知りたい
+[/box]
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[voice icon="https://ibis-dallas.com/wp-content/uploads/2021/07/ワシアイコン-scaled.jpg" name="アポロ" type="l"]ダブルツリーbyヒルトン京都駅のエグゼクティブラウンジと朝食を一気に紹介します[/voice]
+<!-- /wp:shortcode -->
+
 <!-- wp:paragraph -->
 <p>こんにちは、ヒルトンダイヤモンドのアポロです。</p>
 <!-- /wp:paragraph -->
@@ -41,6 +54,9 @@
 <!-- /wp:image -->
 
 <p>ダブルツリーbyヒルトン京都駅のダイヤモンド特典をまとめました。</p>
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-hotel-japan"]
+<!-- /wp:shortcode -->
 <p>[box class="black_box" title="ダブルツリーbyヒルトン京都駅のダイヤモンド特典"]</p>
 <ul>
 <li>エグゼクティブラウンジ利用</li>
@@ -519,7 +535,7 @@
 
 <p>[box class="yellow_box" title="ヒルトン紹介プログラム"][contact-form-7 id="d99b16b" title="ヒルトンアメックス紹介リンク"][/box]</p>
 <!-- wp:shortcode -->
-[nlink url="https://ibis-dallas.com/hilton-premium-card-japan"]
+[nlink url="https://ibis-dallas.com/hilton-hotel-japan"]
 <!-- /wp:shortcode -->
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"]
