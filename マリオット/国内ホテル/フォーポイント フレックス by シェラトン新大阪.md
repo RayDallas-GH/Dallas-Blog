@@ -1,5 +1,18 @@
 <!-- wp_post_id: 28206 -->
 <!-- wp_title: 【プラチナ宿泊記】フォーポイント フレックス by シェラトン新大阪 -->
+
+<!-- wp:shortcode -->
+[box class="green_box" title="本記事で解決できるお悩み"]
+・フォーポイント フレックス by シェラトン新大阪のプラチナ特典が知りたい
+・客室の様子が知りたい
+・朝食・ホテル施設について知りたい
+[/box]
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[voice icon="https://ibis-dallas.com/wp-content/uploads/2021/07/ワシアイコン-scaled.jpg" name="アポロ" type="l"]駅徒歩5分未満のフォーポイント フレックス新大阪を一気に紹介します[/voice]
+<!-- /wp:shortcode -->
+
 <!-- wp:paragraph -->
 <p>こんにちは、マリオットプラチナ会員のアポロです。</p>
 <!-- /wp:paragraph -->
@@ -16,21 +29,6 @@
 <p>フォーポイント系列のプラチナ特典は限定的ですが、実際の宿泊体験を詳しくレポートします。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:shortcode -->
-[yadokko id="32616"]
-<!-- /wp:shortcode -->
-
-<!-- wp:paragraph -->
-<p>マリオットアメックスプレミアム申請は紹介経由が一番お得（公式サイト経由より6,000ポイント多いです）⇒</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>[box class="yellow_box" title="マリオット紹介プログラムで申請する"][contact-form-7 id="238d4b4" title="マリオットアメックス紹介リンク"][/box]</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:shortcode -->
-[nlink url="https://ibis-dallas.com/marriott-bonvoy-premium-card"]
-<!-- /wp:shortcode -->
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
 <li>1.<a href="#anker1">フォーポイント フレックス by シェラトン新大阪の基本情報</a></li>
@@ -56,6 +54,10 @@
 <!-- wp:paragraph -->
 <p>大阪や周辺地域を訪れる際の利便性は非常に高く、ビジネスや観光利用に理想的な拠点となっています。</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-hotel-japan"]
+<!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
 <p>ホテルは無料Wi-Fiを完備したモダンな客室225室を備えており、喫煙または禁煙のさまざまなタイプのダブルルーム、ツインルーム、シングルルームを用意しています。</p>
@@ -321,6 +323,70 @@
 <p>駅までのアクセスも良好なため、大阪市内や京都、神戸などへの移動も便利です。</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:shortcode -->
+[yadokko id="32616"]
+<!-- /wp:shortcode -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">マリオットカードでお得に泊まろう</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>マリオット系列ホテルに泊まるなら、マリオットBonvoyクレジットカードの活用がおすすめです。</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>カードを持つだけでエリートステータスが自動付与され、年会費更新時の無料宿泊特典や、ポイント還元率アップの恩恵を受けられます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">日本在住の旅行好きの方におすすめの2枚</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>日本在住の方は、アメックス発行の以下2枚から選べます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><!-- wp:list-item -->
+<li>マリオットボンヴォイ・アメリカン・エキスプレス・カード</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>マリオットボンヴォイ・アメリカン・エキスプレス・プレミアムカード</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>どちらも申込み後すぐにゴールドエリート会員資格が自動付与</strong>され、一般会員では条件達成が必要な特典を初日から享受できます！</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-base-card-2025"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-premium-card"]
+<!-- /wp:shortcode -->
+
+<!-- wp:paragraph -->
+<p>紹介経由が一番お得（公式サイト経由より6,000ポイント多い）⇒</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+[box class="yellow_box" title="マリオット紹介プログラムで申請する"][contact-form-7 id="238d4b4" title="マリオットアメックス紹介リンク"][/box]
+<!-- /wp:shortcode -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">アメリカ在住の方向けマリオットBonvoyカード</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>アメリカにお住まいの方は、無料〜年会費$650まで6種類のマリオットBonvoyカードから選べます。年1回以上マリオットに泊まる方は、年会費更新時に無料宿泊特典が自動付与されるBoundless・Brilliant・Businessが年会費を回収しやすくおすすめです。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison"]
+<!-- /wp:shortcode -->
+
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker6">【プラチナ宿泊記】フォーポイント フレックス by シェラトン新大阪まとめ</h2>
 <!-- /wp:heading -->
@@ -349,14 +415,18 @@
 <p>以上、少しでも参考になれば幸いです。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:shortcode -->
-[yadokko id="32616"]
-<!-- /wp:shortcode -->
+<!-- wp:paragraph -->
+<p>マリオットアメックスプレミアム申請は紹介経由が一番お得（公式サイト経由より6,000ポイント多いです）⇒</p>
+<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p>[box class="yellow_box" title="マリオット紹介プログラムで申請する"][contact-form-7 id="238d4b4" title="マリオットアメックス紹介リンク"][/box]</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->
-[nlink url="https://ibis-dallas.com/osaka-station-hotel-autograph-collection"]
+[yadokko id="32616"]
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-hotel-japan"]
 <!-- /wp:shortcode -->
