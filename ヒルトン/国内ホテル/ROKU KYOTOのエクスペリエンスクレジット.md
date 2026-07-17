@@ -11,6 +11,32 @@
 </ul>
 <p>[/box]</p>
 
+<!-- wp:shortcode -->
+[box class="green_box" title="本記事で解決できるお悩み"]
+<!-- /wp:shortcode -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><a href="#anker2">ROKU KYOTOのダイヤモンド特典が知りたい</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#anker3">エクスペリエンスクレジットの使い方（当時）が知りたい</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#anker4">レストランTENJINのコースディナーの内容が知りたい</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:shortcode -->
+[/box]
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[voice icon="https://ibis-dallas.com/wp-content/uploads/2021/07/ワシアイコン-scaled.jpg" name="アポロ" type="l"]ROKU KYOTOのエクスペリエンスクレジットでコースディナーを楽しんだ体験記を紹介します[/voice]
+<!-- /wp:shortcode -->
+
 <!-- wp:paragraph -->
 <p>こんにちは、ヒルトンダイヤモンド会員のアポロです。</p>
 <!-- /wp:paragraph -->
@@ -54,6 +80,18 @@
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]
 <!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+<p>[box class="yellow_box" title="本記事の信頼性"]</p>
+<ul>
+<li>アメリカのAMEXヒルトン系クレジットカード4枚すべて作成</li>
+<li>日本のヒルトンアメックスも作成</li>
+<li>2019年からヒルトンダイヤモンド会員</li>
+<li>コンラッド東京、コンラッド大阪、ROKU KYOTOなどに宿泊済み</li>
+<li>海外のWaldorf AstoriaやConradにも宿泊済み</li>
+</ul>
+<p>[/box]</p>
+<!-- /wp:shortcode -->
+
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 
 <!-- wp:paragraph -->

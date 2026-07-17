@@ -1,5 +1,36 @@
 <!-- wp_post_id: 31633 -->
 <!-- wp_title: 【ダイヤモンド宿泊記】ファイブスプリング・リゾート・ザ・シラハマ・SLH（全室スイート＆温泉プール） -->
+
+<!-- wp:shortcode -->
+[box class="green_box" title="本記事で解決できるお悩み"]
+<!-- /wp:shortcode -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><a href="#anker2">ダイヤモンド特典が知りたい</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#anker3">全室スイートの客室が知りたい</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#anker4">温泉プール・大浴場・サウナの様子が知りたい</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#anker5">オールインクルーシブの内容が知りたい</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:shortcode -->
+[/box]
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[voice icon="https://ibis-dallas.com/wp-content/uploads/2021/07/ワシアイコン-scaled.jpg" name="アポロ" type="l"]全室スイート＆オールインクルーシブのファイブスプリング・リゾート・ザ・シラハマを一気に紹介します[/voice]
+<!-- /wp:shortcode -->
+
 <!-- wp:paragraph -->
 <p>こんにちは、ヒルトンダイヤモンド会員のアポロです。</p>
 <!-- /wp:paragraph -->
