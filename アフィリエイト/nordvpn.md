@@ -42,7 +42,7 @@
 <p><a href="https://bit.ly/42yqdK5" target="_blank" rel="noopener" title="">NordVPN公式ホームページ</a></p>
 <!-- /wp:paragraph -->
 
-<p>海外駐在員におすすめする５つのVPNサービス比較記事は⇒</p>
+<p>海外駐在員におすすめする5つのVPNサービス比較記事は⇒</p>
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/vpn"]
 <!-- /wp:shortcode -->
@@ -53,17 +53,17 @@
 <li>　1-2.<a href="#anker1-2">赴任国にブロックされているコンテンツにアクセス可能</a></li>
 <li>　1-3.<a href="#anker1-3">セキュリティやプライバシーを守ることができる</a></li>
 <li>2.<a href="#anker2">VPN（Virtual Private Network）とは</a></li>
-<li>3.<a href="#anker3">NordVPNの６つのメリット</a></li>
+<li>3.<a href="#anker3">NordVPNの6つのメリット</a></li>
 <li>　3-1.<a href="#anker31">安いサービス料</a></li>
-<li>　3-2.<a href="#anker32">３か月無料延長あり</a></li>
+<li>　3-2.<a href="#anker32">3か月無料延長あり</a></li>
 <li>　3-3.<a href="#anker33">サーバー台数が最多</a></li>
-<li>　3-4.<a href="#anker34">最大６台まで同時接続可能（家族共有OK）</a></li>
+<li>　3-4.<a href="#anker34">最大6台まで同時接続可能（家族共有OK）</a></li>
 <li>　3-5.<a href="#anker35">日本の動画配信サービスも問題なく視聴可能</a></li>
-<li>　3-6.<a href="#anker36">３０日間の返金保証</a></li>
-<li>4.<a href="#anker4">NordVPNの２つのデメリット</a></li>
-<li>　4-1.<a href="#anker41">中国では使えない（対応国は６０か国）</a></li>
-<li>　4-2.<a href="#anker42">１か月プランだと割高</a></li>
-<li>5.<a href="#anker5">NordVPNの３つの料金プラン（３０日間の返金保証）</a></li>
+<li>　3-6.<a href="#anker36">30日間の返金保証</a></li>
+<li>4.<a href="#anker4">NordVPNの2つのデメリット</a></li>
+<li>　4-1.<a href="#anker41">中国では使えない（対応国は60か国）</a></li>
+<li>　4-2.<a href="#anker42">1か月プランだと割高</a></li>
+<li>5.<a href="#anker5">NordVPNの3つの料金プラン（30日間の返金保証）</a></li>
 <li>6.<a href="#anker6">海外から日本のアマゾンプライムが視聴できる</a></li>
 <li>7.<a href="#anker7">海外から日本のネットフリックスが視聴できる</a></li>
 <li>8.<a href="#anker8">海外から日本の動画が視聴できない場合</a></li>
@@ -81,7 +81,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>アメリカ駐在員がVPNサービスを必要とする理由は３つあります。</p>
+<p>アメリカ駐在員がVPNサービスを必要とする理由は3つあります。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"ordered":true} -->
@@ -295,7 +295,7 @@
 <!-- /wp:list -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading" id="anker3">NordVPNの６つのメリット</h2>
+<h2 class="wp-block-heading" id="anker3">NordVPNの6つのメリット</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":20379,"sizeSlug":"large","linkDestination":"none"} -->
@@ -307,18 +307,18 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>VPNサービスのうち、<a href="https://bit.ly/42yqdK5" target="_blank" rel="noopener" title="">NordVPN</a>には以下６つのメリットが挙げられます。</p>
+<p>VPNサービスのうち、<a href="https://bit.ly/42yqdK5" target="_blank" rel="noopener" title="">NordVPN</a>には以下6つのメリットが挙げられます。</p>
 <!-- /wp:paragraph -->
 
-<p>[box class="yellow_box" title="NordVPNの６つのメリット"]</p>
+<p>[box class="yellow_box" title="NordVPNの6つのメリット"]</p>
 
 <!-- wp:list {"ordered":true} -->
 <ol><!-- wp:list-item -->
-<li>安いサービス料（４４０円/月～）</li>
+<li>安いサービス料（440円/月～）</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>３か月無料延長あり</li>
+<li>3か月無料延長あり</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -326,7 +326,7 @@
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>最大６台まで同時接続可能（家族共有OK）</li>
+<li>最大6台まで同時接続可能（家族共有OK）</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -334,22 +334,22 @@
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>３０日間の返金保証</li>
+<li>30日間の返金保証</li>
 <!-- /wp:list-item --></ol>
 <!-- /wp:list -->
 
 <p>[/box]</p>
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="anker31">安いサービス料（４４０円/月～）</h3>
+<h3 class="wp-block-heading" id="anker31">安いサービス料（440円/月～）</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>NordVPNは<strong>２年契約で４４０円/月の料金</strong>となります。</p>
+<p>NordVPNは<strong>2年契約で440円/月の料金</strong>となります。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>駐在員の場合は年単位で赴任することになるので１年や２年で契約するといいでしょう。</p>
+<p>駐在員の場合は年単位で赴任することになるので1年や2年で契約するといいでしょう。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -357,23 +357,23 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="anker32">３か月無料延長あり</h3>
+<h3 class="wp-block-heading" id="anker32">3か月無料延長あり</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><a href="https://bit.ly/42yqdK5" target="_blank" rel="noopener" title="">NordVPN</a>は<strong>１年以上の契約で３か月の無料延長サービス</strong>があります。</p>
+<p><a href="https://bit.ly/42yqdK5" target="_blank" rel="noopener" title="">NordVPN</a>は<strong>1年以上の契約で3か月の無料延長サービス</strong>があります。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>料金は契約時にまとめて支払う必要がありますが、３か月分お得になります。</p>
+<p>料金は契約時にまとめて支払う必要がありますが、3か月分お得になります。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>１か月プランだと３か月の無料延長はありません。</p>
+<p>1か月プランだと3か月の無料延長はありません。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>３０日間の返金保証期間もあります。</p>
+<p>30日間の返金保証期間もあります。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -393,15 +393,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="anker34">最大６台まで同時接続可能（家族共有OK）</h3>
+<h3 class="wp-block-heading" id="anker34">最大6台まで同時接続可能（家族共有OK）</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><a href="https://bit.ly/42yqdK5" target="_blank" rel="noopener" title="">NordVPN</a>は<strong>６台まで同時接続可能</strong>です。</p>
+<p><a href="https://bit.ly/42yqdK5" target="_blank" rel="noopener" title="">NordVPN</a>は<strong>6台まで同時接続可能</strong>です。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>単身でもスマホ、PC、タブレットなど３台くらい持つことが当たり前な時代。</p>
+<p>単身でもスマホ、PC、タブレットなど3台くらい持つことが当たり前な時代。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -409,7 +409,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>家族間共有もOKですし、６台まで同時接続できればまずは問題ないでしょう。</p>
+<p>家族間共有もOKですし、6台まで同時接続できればまずは問題ないでしょう。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -433,11 +433,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="anker36">３０日間の返金保証</h3>
+<h3 class="wp-block-heading" id="anker36">30日間の返金保証</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>NordVPNは<strong>３０日間の返金保証</strong>をしています。</p>
+<p>NordVPNは<strong>30日間の返金保証</strong>をしています。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -451,33 +451,33 @@
 <p><a class="shiny-btn3" href="https://bit.ly/42yqdK5" target="_blank" rel="noopener">NordVPNをお試しで使ってみる</a></p>
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading" id="anker4">NordVPNの２つのデメリット</h2>
+<h2 class="wp-block-heading" id="anker4">NordVPNの2つのデメリット</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>メリットばかりあるNordVPNですが強いて挙げれば２つのデメリットがあります。</p>
+<p>メリットばかりあるNordVPNですが強いて挙げれば2つのデメリットがあります。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"ordered":true} -->
 <ol><!-- wp:list-item -->
-<li>中国では使えない（対応国は６０か国）</li>
+<li>中国では使えない（対応国は60か国）</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>１か月プランだと割高</li>
+<li>1か月プランだと割高</li>
 <!-- /wp:list-item --></ol>
 <!-- /wp:list -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="anker41">中国では使えない（対応国は６０か国）</h3>
+<h3 class="wp-block-heading" id="anker41">中国では使えない（対応国は60か国）</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>NordVPNのデメリット１つめ。</p>
+<p>NordVPNのデメリット1つめ。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>対応国は６０か国。</p>
+<p>対応国は60か国。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"textColor":"black"} -->
@@ -489,27 +489,27 @@
 <!-- /wp:table -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="anker42">１か月プランだと割高</h3>
+<h3 class="wp-block-heading" id="anker42">1か月プランだと割高</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>NordVPNのデメリット２つめ。</p>
+<p>NordVPNのデメリット2つめ。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color"><strong>１か月プランだと少し割高</strong></mark>に感じます。</p>
+<p><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color"><strong>1か月プランだと少し割高</strong></mark>に感じます。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>そのため１年プランや２年プランで契約して３か月無料延長ももらってお得に契約しましょう。</p>
+<p>そのため1年プランや2年プランで契約して3か月無料延長ももらってお得に契約しましょう。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:table -->
-<figure class="wp-block-table"><table><tbody><tr><td><br></td><td><strong>NordVPN</strong></td><td>セカイVPN</td><td>スイカVPN</td><td>MillenVPN</td><td>Surfshark</td></tr><tr><td>１か月プラン</td><td><strong>1,920円</strong></td><td>1,100円</td><td>1,097円</td><td>1,360円</td><td>1,738円</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table><tbody><tr><td><br></td><td><strong>NordVPN</strong></td><td>セカイVPN</td><td>スイカVPN</td><td>MillenVPN</td><td>Surfshark</td></tr><tr><td>1か月プラン</td><td><strong>1,920円</strong></td><td>1,100円</td><td>1,097円</td><td>1,360円</td><td>1,738円</td></tr></tbody></table></figure>
 <!-- /wp:table -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading" id="anker5">NordVPNの３つの料金プラン（３０日間の返金保証）</h2>
+<h2 class="wp-block-heading" id="anker5">NordVPNの3つの料金プラン（30日間の返金保証）</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":20319,"sizeSlug":"large","linkDestination":"none"} -->
@@ -517,14 +517,14 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><a href="https://bit.ly/42yqdK5" target="_blank" rel="noopener" title="">NordVPN</a>の３つの料金プランを説明します。</p>
+<p><a href="https://bit.ly/42yqdK5" target="_blank" rel="noopener" title="">NordVPN</a>の3つの料金プランを説明します。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>いずれも１か月、１年、２年契約となり、３０日間の返金保証がついています。</p>
+<p>いずれも1か月、1年、2年契約となり、30日間の返金保証がついています。</p>
 <!-- /wp:paragraph -->
 
-<p>[box class="blue_box" title="NordVPNの３つの料金プラン"]</p>
+<p>[box class="blue_box" title="NordVPNの3つの料金プラン"]</p>
 
 <!-- wp:list {"ordered":true} -->
 <ol><!-- wp:list-item -->
@@ -536,7 +536,7 @@
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>コンプリートプラン：プラスプラン＋１TBクラウドストレージ、ファイル暗号化（NordLocker）</li>
+<li>コンプリートプラン：プラスプラン＋1TBクラウドストレージ、ファイル暗号化（NordLocker）</li>
 <!-- /wp:list-item --></ol>
 <!-- /wp:list -->
 
@@ -555,7 +555,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:table -->
-<figure class="wp-block-table"><table><thead><tr><th><strong>NordVPNの料金プラン</strong></th><th>スタンダードプラン（VPNサービス）</th><th>プラスプラン（パスワード管理アプリつき）</th><th>コンプリートプラン（１TBクラウドストレージつき）</th></tr></thead><tbody><tr><td>１か月プラン</td><td>1,920円</td><td>2,070円</td><td>2,220円</td></tr><tr><td>１年契約の場合</td><td>9,900円<br>（660円/月）+3か月無料延長</td><td>12,150円<br>（810円/月）+3か月無料延長</td><td>14,400円<br>（960円/月）+3か月無料延長</td></tr><tr><td>２年契約の場合</td><td>11,880円<br>（440円/月）+3か月無料延長</td><td>15,930円<br>（590円/月）+3か月無料延長</td><td>19,980円<br>（740円/月）+3か月無料延長</td></tr><tr><td>無料お試し期間</td><td>30日間</td><td>30日間</td><td>30日間</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table><thead><tr><th><strong>NordVPNの料金プラン</strong></th><th>スタンダードプラン（VPNサービス）</th><th>プラスプラン（パスワード管理アプリつき）</th><th>コンプリートプラン（1TBクラウドストレージつき）</th></tr></thead><tbody><tr><td>1か月プラン</td><td>1,920円</td><td>2,070円</td><td>2,220円</td></tr><tr><td>1年契約の場合</td><td>9,900円<br>（660円/月）+3か月無料延長</td><td>12,150円<br>（810円/月）+3か月無料延長</td><td>14,400円<br>（960円/月）+3か月無料延長</td></tr><tr><td>2年契約の場合</td><td>11,880円<br>（440円/月）+3か月無料延長</td><td>15,930円<br>（590円/月）+3か月無料延長</td><td>19,980円<br>（740円/月）+3か月無料延長</td></tr><tr><td>無料お試し期間</td><td>30日間</td><td>30日間</td><td>30日間</td></tr></tbody></table></figure>
 <!-- /wp:table -->
 
 <!-- wp:shortcode -->
@@ -566,7 +566,7 @@
 [/voice]
 <!-- /wp:shortcode -->
 
-<p><a class="shiny-btn3" href="https://bit.ly/42yqdK5" target="_blank" rel="noopener">NordVPNの最新割引価格を確認する（３０日間の返金保証あり）</a></p>
+<p><a class="shiny-btn3" href="https://bit.ly/42yqdK5" target="_blank" rel="noopener">NordVPNの最新割引価格を確認する（30日間の返金保証あり）</a></p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker6">海外から日本のアマゾンプライムが視聴できる</h2>
@@ -581,7 +581,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>プライム料金はアメリカより安く、値上げしても月６００円。</p>
+<p>プライム料金はアメリカより安く、値上げしても月600円。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -683,7 +683,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>NordVPNの解約方法はかんたん１ステップ。</p>
+<p>NordVPNの解約方法はかんたん1ステップ。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -695,11 +695,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>３０日の返金保証期間内であれば後日返金され、無料で利用できます。</p>
+<p>30日の返金保証期間内であれば後日返金され、無料で利用できます。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>解約や返金依頼ではなく、自動更新の停止であれば以下４ステップとなります。</p>
+<p>解約や返金依頼ではなく、自動更新の停止であれば以下4ステップとなります。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"ordered":true} -->
@@ -721,7 +721,7 @@
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>解約手続きもかんたんですのでまずは３０日間お試しでNordVPNを使ってみてはいかがでしょうか。</p>
+<p>解約手続きもかんたんですのでまずは30日間お試しでNordVPNを使ってみてはいかがでしょうか。</p>
 <!-- /wp:paragraph -->
 
 <p>[box class="glay_box" title="NordVPNの解約方法"]</p>
@@ -748,11 +748,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>６台まで同時接続可能で家族間共有も問題ありません。</p>
+<p>6台まで同時接続可能で家族間共有も問題ありません。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>１年以上の契約で３か月の無料延長もあり、３０日間の返金保証もあるのでとりあえず使ってみるといいですよ。</p>
+<p>1年以上の契約で3か月の無料延長もあり、30日間の返金保証もあるのでとりあえず使ってみるといいですよ。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -760,7 +760,7 @@
 <!-- /wp:paragraph -->
 
 <p><a class="shiny-btn3" href="https://bit.ly/42yqdK5" target="_blank" rel="noopener">NordVPNをお試しで使ってみる</a></p>
-<p>海外駐在員におすすめする５つのVPNサービス比較記事は⇒</p>
+<p>海外駐在員におすすめする5つのVPNサービス比較記事は⇒</p>
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/vpn"]
 <!-- /wp:shortcode -->

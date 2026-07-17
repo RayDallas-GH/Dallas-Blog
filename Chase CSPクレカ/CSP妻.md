@@ -13,7 +13,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>入会ボーナスは＄１，０００以上の価値がある非常にありがたいクレジットカードです。</p>
+<p>入会ボーナスは＄1，000以上の価値がある非常にありがたいクレジットカードです。</p>
 <!-- /wp:paragraph -->
 
 <p>[kurepochi card="chase-sapphire-preferred"]</p>
@@ -45,7 +45,7 @@
 [nlink url="https://ibis-dallas.com/chase-sapphire-preferred-new-benefits"]
 <!-- /wp:shortcode -->
 <p>これで<span style="background: linear-gradient(to bottom, rgba(128,255,255,0) 60%, #80ffff 60%);">無事に夫婦揃って発行</span>できました^^</p>
-<p><strong style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">入会ボーナスポイントは６０，０００ポイント（現金価値で６００ドル）</strong>なのですが、使い方次第では１，０００ドル以上のリターンが期待できる非常にありがたいクレジットカードとなります。</p>
+<p><strong style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">入会ボーナスポイントは60，000ポイント（現金価値で600ドル）</strong>なのですが、使い方次第では1，000ドル以上のリターンが期待できる非常にありがたいクレジットカードとなります。</p>
 
 <!-- wp:paragraph -->
 <p>ハイアットなどに交換すると価値は高まりますね。</p>
@@ -69,7 +69,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>１月１５日：（紹介リンク経由で）申請</p>
+<p>1月15日：（紹介リンク経由で）申請</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -81,11 +81,11 @@
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>（１月下旬：日本に緊急帰国。その後タッチアンドゴーで南米中を飛び回る。）</p>
+<p>（1月下旬：日本に緊急帰国。その後タッチアンドゴーで南米中を飛び回る。）</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>⇒SSN送ってねレターを放置。１４日以内に返信なければ申請はなかったことに、と記載あり。もちろん１４日以内に対応できず郵便箱に眠ったまま。<br></p>
+<p>⇒SSN送ってねレターを放置。14日以内に返信なければ申請はなかったことに、と記載あり。もちろん14日以内に対応できず郵便箱に眠ったまま。<br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -93,7 +93,7 @@
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>２月１０日：Chaseと電話でやりとり。クレジットカード承認のためにSSN送付したい旨伝えると電子送付の方法がEメールで送られてくる。電子添付して送付。</p>
+<p>2月10日：Chaseと電話でやりとり。クレジットカード承認のためにSSN送付したい旨伝えると電子送付の方法がEメールで送られてくる。電子添付して送付。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -101,7 +101,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>２月２１日：クレジットカード受領！</p>
+<p>2月21日：クレジットカード受領！</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -109,7 +109,7 @@
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>申請から１か月以上経過してしまいましたが、無事に承認されました。</p>
+<p>申請から1か月以上経過してしまいましたが、無事に承認されました。</p>
 <!-- /wp:paragraph -->
 
 <p>[kurepochi card="chase-sapphire-preferred"]</p>
@@ -128,11 +128,11 @@
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li>クレジットスコア：７５１（僕は７２８で承認もらえています）</li>
+<li>クレジットスコア：751（僕は728で承認もらえています）</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>申請日：２０２０年１月（渡米後１年１０か月）</li>
+<li>申請日：2020年1月（渡米後1年10か月）</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -140,11 +140,11 @@
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>クレジットカード保有枚数：３枚（パーソナル３枚。JALカード、ヒルトンAMEX、ヒルトンSurpass家族カード）</li>
+<li>クレジットカード保有枚数：3枚（パーソナル3枚。JALカード、ヒルトンAMEX、ヒルトンSurpass家族カード）</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>申請履歴：初めて（僕は３回目の申請でようやく承認）</li>
+<li>申請履歴：初めて（僕は3回目の申請でようやく承認）</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -157,13 +157,13 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>クレジットスコアは７５１と駐在妻にしては高めかもしれませんが、個人的には７００以上あれば問題ないかと思います。<br></p>
+<p>クレジットスコアは751と駐在妻にしては高めかもしれませんが、個人的には700以上あれば問題ないかと思います。<br></p>
 <!-- /wp:paragraph -->
 
 <p>それより<strong style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">クレジットヒストリー、つまり期間の方が重要なのかも</strong>しれません。</p>
 
 <!-- wp:paragraph -->
-<p>僕が３回も申請してようやくもらえたChase Sapphire Preferredクレジットカードですが、ももちゃんはなんと初めての申請ですんなりもらえてしまいました。<br></p>
+<p>僕が3回も申請してようやくもらえたChase Sapphire Preferredクレジットカードですが、ももちゃんはなんと初めての申請ですんなりもらえてしまいました。<br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -193,7 +193,7 @@
 <p>Chaseと<strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">同じ日に申請した理由はクレジットスコアの低下を最小限にするため</strong>です。</p>
 
 <!-- wp:paragraph -->
-<p>あとはデルタゴールドが１月末で規約変更があり、それまでにボーナスポイントがほしかったのもあります。</p>
+<p>あとはデルタゴールドが1月末で規約変更があり、それまでにボーナスポイントがほしかったのもあります。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->
@@ -229,7 +229,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Amexはポップアップ出現により申請を断念しましたが、Chase１枚ゲットできてよかったです。</p>
+<p>Amexはポップアップ出現により申請を断念しましたが、Chase1枚ゲットできてよかったです。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

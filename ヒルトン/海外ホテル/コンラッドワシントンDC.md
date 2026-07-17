@@ -30,11 +30,11 @@
 <p><strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);"><strong style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">コンラッドとはヒルトン系列の高級ホテル</strong></strong>に位置づけられているホテルです。</p>
 <p><strong style="background: linear-gradient(to bottom, rgba(128,255,255,0) 60%, #80ffff 60%);">ヒルトン系の最上級はウォルドルフ・アストリア</strong>です。</p>
 <p>ウォルドルフはいつか泊まってみたい。。</p>
-<p>コンラッドは<strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">ハネムーンでコンラッドボラボラに宿泊</strong>したのに次いで２回目となります。</p>
+<p>コンラッドは<strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">ハネムーンでコンラッドボラボラに宿泊</strong>したのに次いで2回目となります。</p>
 <p>ちょっとしたコンラッドトリビアですが、<span style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">コンラッドの名前の由来はヒルトン創業者のファーストネーム</span>です。</p>
 <p>コンラッド・ヒルトン（Conrad Hilton）さんになるわけですが、自分の名前を姓名どちらもブランド名にするあたり、自分大好きですね。</p>
 <p>そんなヒルトンさん、僕も大好きです。</p>
-<p><strong style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">ヒルトンさんは１９１９年にテキサス州シスコのホテルを買い取った</strong>ところからホテルオーナーとして歩み始めています。</p>
+<p><strong style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">ヒルトンさんは1919年にテキサス州シスコのホテルを買い取った</strong>ところからホテルオーナーとして歩み始めています。</p>
 <p>その後、ダラスヒルトンなど次々とホテルを開業し、一代でホテル王になりました。</p>
 <p>またヒルトンさんの墓地はダラスにあります。</p>
 <p>（一応、ダラス駐在員としてヒルトンとテキサスの関係性を紹介しました笑）</p>
@@ -43,11 +43,11 @@
 <h2 class="wp-block-heading" id="anker2">コンラッドワシントンDC宿泊レビュー</h2>
 <!-- /wp:heading -->
 
-<p>今回は<span style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">２０１９年のサンクスギビング休暇（１１月）で宿泊</span>しました。</p>
-<p>ワシントンDCもいつか観光してみたいところだったのですが、他の都市を優先した結果、渡米２年目にようやくこれました。</p>
-<p>クレジットカード作成によってポイントが余るほどあったので（確か当時４０万ポイントくらい）、ポイント消化も兼ねてポイント宿泊してきました。</p>
+<p>今回は<span style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">2019年のサンクスギビング休暇（11月）で宿泊</span>しました。</p>
+<p>ワシントンDCもいつか観光してみたいところだったのですが、他の都市を優先した結果、渡米2年目にようやくこれました。</p>
+<p>クレジットカード作成によってポイントが余るほどあったので（確か当時40万ポイントくらい）、ポイント消化も兼ねてポイント宿泊してきました。</p>
 <p>わーい。</p>
-<p>コンラッドワシントンDCは２０１９年２月にオープンしたばかりで、宿泊したときはオープンしてから１年経たずというほぼ新築状態でした。</p>
+<p>コンラッドワシントンDCは2019年2月にオープンしたばかりで、宿泊したときはオープンしてから1年経たずというほぼ新築状態でした。</p>
 
 <!-- wp:gallery {"columns":2,"linkTo":"none"} -->
 <figure class="wp-block-gallery has-nested-images columns-2 is-cropped"><!-- wp:image {"id":6626,"sizeSlug":"large","linkDestination":"none"} -->
@@ -76,13 +76,13 @@
 <!-- /wp:heading -->
 
 <p>コンラッドワシントンDCは観光に便利なロケーションでした。</p>
-<p><strong style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">ホワイトハウスまでも歩いて</strong>いけますし（実際に歩いていきました、１５分くらいです）、スミソニアン博物館までも地下鉄やUber, Lyftで行ける距離です。</p>
+<p><strong style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">ホワイトハウスまでも歩いて</strong>いけますし（実際に歩いていきました、15分くらいです）、スミソニアン博物館までも地下鉄やUber, Lyftで行ける距離です。</p>
 
 <!-- wp:html -->
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3104.9887630524718!2d-77.02781498473955!3d38.90137227957001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b793b63b144b%3A0x1fdc75c9e31fde19!2sConrad%20Washington%20DC!5e0!3m2!1sen!2sus!4v1582936931133!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 <!-- /wp:html -->
 
-<p>メトロの最寄りまでは１０分弱と近いようでちょっと歩く距離でした。</p>
+<p>メトロの最寄りまでは10分弱と近いようでちょっと歩く距離でした。</p>
 <p>最寄り駅からは小規模なチャイナタウンがありました。</p>
 <p><img class="aligncenter wp-image-8696 size-large" src="https://ibis-dallas.com/wp-content/uploads/2020/05/IMG_3500-1024x768.jpg" alt="" width="728" height="546" /></p>
 <p>空港からコンラッドまでは地下鉄で移動しましたが、宿泊中の観光はなんだかんだ<span style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">UberやLyftなどを使って移動</span>していました。</p>
@@ -92,7 +92,7 @@
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/lyft"]
 <!-- /wp:shortcode -->
-<p>夫婦で地下鉄乗ると２人分きっぷ料金がかかりますが、Uberだと何人乗っても変わらないですからね。</p>
+<p>夫婦で地下鉄乗ると2人分きっぷ料金がかかりますが、Uberだと何人乗っても変わらないですからね。</p>
 <p>多少割高ですが有意義に観光するために時間をとりました。</p>
 
 <!-- wp:heading -->
@@ -126,7 +126,7 @@
 <h2 class="wp-block-heading" id="anker5">レストラン</h2>
 <!-- /wp:heading -->
 
-<p>Estuary（エスチュアリー；英語で河口という意味）というレストランがホテル内２階に入っていて、隣にバーもありました。</p>
+<p>Estuary（エスチュアリー；英語で河口という意味）というレストランがホテル内2階に入っていて、隣にバーもありました。</p>
 <p>ヒルトンラウンジはありませんでした。</p>
 
 <!-- wp:image {"id":6623,"sizeSlug":"large"} -->
@@ -171,15 +171,15 @@
 <h2 class="wp-block-heading" id="anker6">朝食</h2>
 <!-- /wp:heading -->
 
-<p>ダイヤモンドステータスのため、<strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">夫婦で１泊５０ドル分のクレジット</strong>が付与されました。</p>
+<p>ダイヤモンドステータスのため、<strong style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">夫婦で1泊50ドル分のクレジット</strong>が付与されました。</p>
 <p>朝食程度なら無料で食べられます。</p>
 <p>ありがとう、Aspire！</p>
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]
 <!-- /wp:shortcode -->
-<p>なお、Aspireクレジットカードの特典として<strong style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">コンラッドに２泊以上すると１００ドルのクレジットが付与される</strong>という特典がありますが、これは<strong style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">ポイント利用での宿泊だと対象外</strong>でした。</p>
-<p>２泊で合計１００ドルのクレジットが付与されましたが、さすがにちょっとはみ出ました（５０ドルくらい）。</p>
-<p>２泊もコンラッドに泊まって５０ドルなんてお得ですよね。</p>
+<p>なお、Aspireクレジットカードの特典として<strong style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">コンラッドに2泊以上すると100ドルのクレジットが付与される</strong>という特典がありますが、これは<strong style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">ポイント利用での宿泊だと対象外</strong>でした。</p>
+<p>2泊で合計100ドルのクレジットが付与されましたが、さすがにちょっとはみ出ました（50ドルくらい）。</p>
+<p>2泊もコンラッドに泊まって50ドルなんてお得ですよね。</p>
 <p>海外の朝食は2名で1万円を超えることも珍しくないので、こうしたF&amp;Bクレジットは大きなメリットです。</p>
 
 <!-- wp:shortcode -->
@@ -194,20 +194,20 @@
 <p>はじめに述べたとおり、今回はポイント利用でした。</p>
 <!-- /wp:paragraph -->
 
-<p>サンクスギビング中に<span style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">２泊で１００，０００ポイント利用</span>しました。</p>
+<p>サンクスギビング中に<span style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">2泊で100，000ポイント利用</span>しました。</p>
 
 <!-- wp:paragraph -->
-<p>普通に宿泊しても３００ドル程度からと意外とお得です。</p>
+<p>普通に宿泊しても300ドル程度からと意外とお得です。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>他の都市のコンラッドなら５００～１０００ドルしますからね。</p>
+<p>他の都市のコンラッドなら500～1000ドルしますからね。</p>
 <!-- /wp:paragraph -->
 
 <p><span style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">ワシントンDCはコンラッドの中では安いカテゴリー</span>に入ると思われます。</p>
 
 <!-- wp:paragraph -->
-<p>Aspireの１００ドルクレジット（２泊以上有料ステイが必要）を使いたければワシントンDCはオススメですね。</p>
+<p>Aspireの100ドルクレジット（2泊以上有料ステイが必要）を使いたければワシントンDCはオススメですね。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -328,7 +328,7 @@
 <h2 class="wp-block-heading" id="anker9">周辺観光・現地情報</h2>
 <!-- /wp:heading -->
 
-<p>ホワイトハウスまで徒歩約１５分、スミソニアン博物館へも地下鉄やUber・Lyftでアクセスできる便利な立地です。</p>
+<p>ホワイトハウスまで徒歩約15分、スミソニアン博物館へも地下鉄やUber・Lyftでアクセスできる便利な立地です。</p>
 <p>最寄り駅周辺には小規模なチャイナタウンもあります。</p>
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/washington-dc-sightseeing"]
@@ -339,7 +339,7 @@
 <!-- /wp:heading -->
 
 <p>今日はサンクスギビングでポイント宿泊したコンラッドワシントンDCのレビュー記事となります。</p>
-<p>一泊３００ドル弱とコンラッドにしてはリーズナブルな価格設定で、<span style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">ホテルも清潔感があり、観光にも便利なロケーション</span>でした。</p>
+<p>一泊300ドル弱とコンラッドにしてはリーズナブルな価格設定で、<span style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">ホテルも清潔感があり、観光にも便利なロケーション</span>でした。</p>
 <p>地下鉄も近くにあるのですが、なんだかんだUberやLyftを使って移動しました。</p>
 <p>ヒルトンのクレジットカードを作成すれば<strong style="background: linear-gradient(to bottom, rgba(128,255,255,0) 60%, #80ffff 60%);">コンラッドにも無料で宿泊</strong>することができます。</p>
 <p>いっしょにヒルトンホテルを満喫しませんか。</p>

@@ -36,7 +36,7 @@
 <p><img class="aligncenter size-large wp-image-12336" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0318-1024x768.jpg" alt="サボテン" width="728" height="546" /></p>
 <p>Waldorf Astoriaはヒルトン系列最高級ブランドの高級ホテルです。</p>
 <p>コンラッドよりもクラスは上です。</p>
-<p>２０２１年１月時点で世界中に３７箇所、アメリカ国内には１６箇所あります。</p>
+<p>2021年1月時点で世界中に37箇所、アメリカ国内には16箇所あります。</p>
 <p><a href="https://www.hilton.com/en/waldorf-astoria/" target="_blank" rel="noopener noreferrer">Waldorf Astoria公式サイト</a></p>
 <p>僕は今回、初めてWAに宿泊したので前の日から興奮してうまく眠れませんでした（冗談です、熟睡しました）。</p>
 <p><a href="https://www.waldorfastorialoscabospedregal.com/" target="_blank" rel="noopener noreferrer">Waldorf Astoriaロスカボスのサイト</a></p>
@@ -90,7 +90,7 @@
 
 <h3 id="anker21">空港からのアクセス</h3>
 <p>Waldorf Astoriaロスカボスはメキシコのカボサンルーカスに位置します。</p>
-<p>空港からは３０分程度です。</p>
+<p>空港からは30分程度です。</p>
 <p>カボサンルーカスは高級オールインクルーシブホテルが多いのですが、ここは違うので注意してください。</p>
 <p><img class="aligncenter size-large wp-image-12332" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0313-1024x768.jpg" alt="ビーチ" width="728" height="546"></p>
 
@@ -100,14 +100,14 @@
 
 <h3 id="anker22">送迎サービス</h3>
 <p>Waldorf Astoriaは送迎サービスも受け付けています。</p>
-<p>以下の２つです。</p>
+<p>以下の2つです。</p>
 <ol>
 <li>ラグジュアリーVIP（チェックアウト時に支払い。クレジットカード払い）</li>
 <li>タクシー（現金のみ）</li>
 </ol>
 <p>僕は今回Pueblo Bonitoからタクシーで来て、空港まではラグジュアリーVIPを頼みました。</p>
 <p>[caption id="attachment_12147" align="alignnone" width="728"]<img class="wp-image-12147 size-large" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0594-1024x768.jpg" alt="リンカーン" width="728" height="546"> リンカーンでした[/caption]</p>
-<p>ラグジュアリーは１４０ドル＋１６％税、タクシーは８５ドルと言われました。</p>
+<p>ラグジュアリーは140ドル＋16％税、タクシーは85ドルと言われました。</p>
 <p>僕は今回宿泊料金が無料になったので、あまりケチケチするのもなぁという感じで、送迎とレストランでお金落としました。</p>
 <p>現金を用意しておけばタクシーでも問題ないかと思います。</p>
 <p>外部サイトでシャトルバスを頼んでもきっとたどり着くと思いますが、他人と乗り合いになります。</p>
@@ -116,12 +116,12 @@
 <h2 id="anker3">ダイヤモンド会員特典</h2>
 <p>[caption id="attachment_12329" align="aligncenter" width="728"]<img class="wp-image-12329 size-large" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0309-1024x768.jpg" alt="部屋" width="728" height="546"> 部屋から海が見えました[/caption]</p>
 <p>さすがWaldorf Astoriaです。高いです。</p>
-<p>１０００ドルくらいしますね。</p>
+<p>1000ドルくらいしますね。</p>
 <p>Waldorf Astoriaの中でも高めの設定だと感じます。</p>
-<p>僕は年末年始だったこともあり３泊で４５００ドルしました笑。</p>
+<p>僕は年末年始だったこともあり3泊で4500ドルしました笑。</p>
 
 <!-- wp:html -->
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ヒルトン系最高ホテルのWaldorf Astoria、予約完了&#x1f606;<br><br>４５００ドル以上するみたいですが、もちろん無料宿泊です笑 <a href="https://t.co/cZCHb3RAfq">pic.twitter.com/cZCHb3RAfq</a></p>— レイ＠ダラス駐在員ブロガー&#x1f1fa;&#x1f1f8;クレカ100万P&#x1f6e9;米国株投資家 (@Ray_Dallas2018) <a href="https://twitter.com/Ray_Dallas2018/status/1341545085419352064?ref_src=twsrc%5Etfw">December 23, 2020</a></blockquote> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ヒルトン系最高ホテルのWaldorf Astoria、予約完了&#x1f606;<br><br>4500ドル以上するみたいですが、もちろん無料宿泊です笑 <a href="https://t.co/cZCHb3RAfq">pic.twitter.com/cZCHb3RAfq</a></p>— レイ＠ダラス駐在員ブロガー&#x1f1fa;&#x1f1f8;クレカ100万P&#x1f6e9;米国株投資家 (@Ray_Dallas2018) <a href="https://twitter.com/Ray_Dallas2018/status/1341545085419352064?ref_src=twsrc%5Etfw">December 23, 2020</a></blockquote> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <!-- /wp:html -->
 
 <p>ただしアメリカのクレジットカードについてくる無料宿泊券を利用し、宿泊料金はタダになりました。</p>
@@ -135,9 +135,9 @@
 <p>つづいて気になるお部屋紹介です。</p>
 <p>まず部屋から海が見えます！プールもついてます！</p>
 <p><img class="aligncenter size-large wp-image-12323" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0302-1024x768.jpg" alt="Waldorf Astoriaロスカボス" width="728" height="546"></p>
-<p>ダイヤモンドステータスのおかげで２ランク、アップグレードされたようで、Ocean View Deluxeのお部屋になりました。</p>
+<p>ダイヤモンドステータスのおかげで2ランク、アップグレードされたようで、Ocean View Deluxeのお部屋になりました。</p>
 <p>部屋にプールがあって、海も見えて最高のロケーションですね。</p>
-<p>ベッドはキングベッドが１つ。</p>
+<p>ベッドはキングベッドが1つ。</p>
 <p><img class="aligncenter size-large wp-image-12324" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0304-1024x768.jpg" alt="部屋" width="728" height="546"></p>
 <p>バスルームもこだわっていました。</p>
 <p>浴槽とシャワーが両方ついています。</p>
@@ -176,12 +176,12 @@
 <p>フロントロビーは屋外です。</p>
 <p>チェックインからバカンスは始まっています。</p>
 <p><img class="aligncenter size-large wp-image-12405" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0427-1024x768.jpg" alt="フロント" width="728" height="546"></p>
-<p>フォーブス誌５つ星が飾られていました。</p>
+<p>フォーブス誌5つ星が飾られていました。</p>
 <p><img class="aligncenter size-large wp-image-12320" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0296-1024x768.jpg" alt="ウェルカムドリンク" width="728" height="546"></p>
 <p>ウェルカムドリンクはハイビスカスウォーター。</p>
 <p><img class="aligncenter size-large wp-image-12385" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0390-1024x768.jpg" alt="Waldorf Astoriaロスカボス" width="728" height="546"></p>
 <p>フロントから見た入り口。</p>
-<p>トンネルは歩いてダウンタウンに出ることもできます（５分くらい）。</p>
+<p>トンネルは歩いてダウンタウンに出ることもできます（5分くらい）。</p>
 <p><img class="aligncenter size-large wp-image-12394" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0404-1024x768.jpg" alt="Waldorf Astoriaロスカボス" width="728" height="546"></p>
 <p>夜のフロントはイルミネーションが綺麗でした。</p>
 <p>停まっている車はWaldorf Astoriaの送迎車です。</p>
@@ -192,8 +192,8 @@
 [nlink url="https://ibis-dallas.com/waldorf-astoria-los-cabos-restaurant"]
 <!-- /wp:shortcode -->
 <p>オールインクルーシブではありません。</p>
-<p>DON MANUEL'Sがチップと税あわせて一人１００ドルくらいしますが、ビーチ沿いでいい雰囲気でした。</p>
-<p>ホテルから歩いて１０分くらいにレストランが集まるハーバーがあるのでそこで食べるのもいいかもしれません。</p>
+<p>DON MANUEL'Sがチップと税あわせて一人100ドルくらいしますが、ビーチ沿いでいい雰囲気でした。</p>
+<p>ホテルから歩いて10分くらいにレストランが集まるハーバーがあるのでそこで食べるのもいいかもしれません。</p>
 <h3 id="anker53">プール</h3>
 <p><img class="aligncenter size-large wp-image-12390" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0395-1024x768.jpg" alt="プール" width="728" height="546"></p>
 <p>プールはインフィニティプールでした。</p>
@@ -219,7 +219,7 @@
 <p>ヒルトンによくあるフィットネスジム。</p>
 <p>もちろんWaldorf Astoriaにもありました。</p>
 <p><img class="aligncenter size-large wp-image-12391" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0401-1024x768.jpg" alt="ジム" width="728" height="546"></p>
-<p>２０２１年は定期的に運動しようとこころがけているので宿泊期間中は毎日来て腹筋などを鍛えていました。</p>
+<p>2021年は定期的に運動しようとこころがけているので宿泊期間中は毎日来て腹筋などを鍛えていました。</p>
 <p>朝のほうが人多いですが、気にするほど混まないです。</p>
 <p>[caption id="attachment_12393" align="aligncenter" width="728"]<img class="wp-image-12393 size-large" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0403-1024x768.jpg" alt="Waldorf Astoriaロスカボス" width="728" height="546"> ジムの横の図書館スペース[/caption]</p>
 <h3 id="anker56">ギフトショップ</h3>
@@ -228,7 +228,7 @@
 <p>ロスカボス全体でガラス細工が有名みたいで、前回宿泊したPueblo Bonitoにも販売していました。</p>
 <p>ハートのガラス細工も可愛かったですが、割れそうなので買うのは断念。</p>
 <p><img class="aligncenter size-large wp-image-12382" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0387-1024x768.jpg" alt="ガラス細工" width="728" height="546"></p>
-<p>ただのぬいぐるみにしか見えないのですが１万ドル以上もしました。。</p>
+<p>ただのぬいぐるみにしか見えないのですが1万ドル以上もしました。。</p>
 <p><img class="aligncenter size-large wp-image-12384" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0389-1024x768.jpg" alt="お土産" width="728" height="546"></p>
 <p>ギャラリー写真はこちら⇒</p>
 
@@ -297,7 +297,7 @@
 <h2 id="anker6">朝食</h2>
 <p>朝食はホテル内レストラン「El Farallon」でいただけます。</p>
 <p>El Farallonは朝・ランチ・ディナーすべて営業しているレストランです。</p>
-<p>コンチネンタルブレックファスト（フルーツ盛り合わせ、シリアル、コーヒー）だけで３１ドル、ベーコンなどが付くフルブレックファストは４０ドルほどします。</p>
+<p>コンチネンタルブレックファスト（フルーツ盛り合わせ、シリアル、コーヒー）だけで31ドル、ベーコンなどが付くフルブレックファストは40ドルほどします。</p>
 <p>ダイヤモンドステータスを持っていると、この朝食が無料になります。</p>
 <p>朝食の写真や雰囲気は別記事のレストランレビューでも詳しく紹介しています。</p>
 <!-- wp:shortcode -->
@@ -424,10 +424,10 @@
 <p>今すぐ申し込んで、次回のヒルトンステイをワンランク上の体験に変えましょう！</p>
 
 <h2 id="anker8">周辺観光・現地情報</h2>
-<p>ホテルからトンネルを歩いて５分ほどでカボサンルーカスのダウンタウンに出られます。</p>
-<p>また、ホテルから歩いて１０分ほどのところにレストランが集まるハーバーがあり、そちらで食事をするのもおすすめです。</p>
+<p>ホテルからトンネルを歩いて5分ほどでカボサンルーカスのダウンタウンに出られます。</p>
+<p>また、ホテルから歩いて10分ほどのところにレストランが集まるハーバーがあり、そちらで食事をするのもおすすめです。</p>
 <p>ロスカボス全体でガラス細工のお土産が有名で、街のショップでも見かけることができます。</p>
-<p>ロスカボスは物価が高く消費税が１６％かかるため、外食や買い物の際は事前に予算を見積もっておくと安心です。</p>
+<p>ロスカボスは物価が高く消費税が16％かかるため、外食や買い物の際は事前に予算を見積もっておくと安心です。</p>
 
 <h2 id="anker9">Waldorf Astoriaロスカボス宿泊レビューまとめ</h2>
 <p><img class="aligncenter size-large wp-image-12386" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0391-1024x768.jpg" alt="Waldorf Astoriaロスカボス" width="728" height="546"></p>

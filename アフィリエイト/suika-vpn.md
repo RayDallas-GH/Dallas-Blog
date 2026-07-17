@@ -57,7 +57,7 @@
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
 <li>1.<a href="#anker1">海外から日本の動画を見るにはVPNが必要な理由</a></li>
-<li>2.<a href="#anker2">スイカVPNの５つのメリット</a></li>
+<li>2.<a href="#anker2">スイカVPNの5つのメリット</a></li>
 <li>　2-1.<a href="#anker21">日本人向けに特化したサービス設計</a></li>
 <li>　2-2.<a href="#anker22">同時接続50台まで対応</a></li>
 <li>　2-3.<a href="#anker23">データ通信量無制限</a></li>
@@ -97,14 +97,14 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading" id="anker2">スイカVPNの５つのメリット</h2>
+<h2 class="wp-block-heading" id="anker2">スイカVPNの5つのメリット</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
 <p>スイカVPNには、海外在住の日本人にうれしいメリットが5つあります。</p>
 <!-- /wp:paragraph -->
 
-<p>[box class="yellow_box" title="スイカVPNの５つのメリット"]</p>
+<p>[box class="yellow_box" title="スイカVPNの5つのメリット"]</p>
 <!-- wp:list {"ordered":true} -->
 <ol><!-- wp:list-item -->
 <li>日本人向けに特化したサービス設計</li>

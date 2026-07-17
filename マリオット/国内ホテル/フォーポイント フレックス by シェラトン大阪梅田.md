@@ -413,7 +413,7 @@
 <!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
-<p>紹介経由が一番お得（公式サイト経由より6,000ポイント多い）⇒</p>
+<p>紹介経由が一番お得⇒</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->

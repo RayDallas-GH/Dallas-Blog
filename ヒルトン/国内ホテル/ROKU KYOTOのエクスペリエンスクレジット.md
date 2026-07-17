@@ -65,12 +65,12 @@
 <li>2.<a href="#anker2">ROKU KYOTOのダイヤモンド特典</a></li>
 <li>　2-1.<a href="#anker21">客室のアップグレード（プレミアデラックスまで）</a></li>
 <li>　2-2.<a href="#anker22">朝食無料</a></li>
-<li>　2-3.<a href="#anker23">１万円のエクスペリエンスクレジット</a></li>
+<li>　2-3.<a href="#anker23">1万円のエクスペリエンスクレジット</a></li>
 <li>　2-4.<a href="#anker24">アーリー・チェックイン / レイト・チェックアウト</a></li>
-<li>　2-5.<a href="#anker25">特典滞在で３人目も無料（ポイント泊は通常２人まで）</a></li>
+<li>　2-5.<a href="#anker25">特典滞在で3人目も無料（ポイント泊は通常2人まで）</a></li>
 <li>　2-6.<a href="#anker26">ROKU KYOTOにエグゼクティブラウンジはない</a></li>
 <li>3.<a href="#anker3">ROKU KYOTOのエクスペリエンスクレジット</a></li>
-<li>　3-1.<a href="#anker31">１泊目１０，０００円、２泊目以降は１泊につき５，０００円</a></li>
+<li>　3-1.<a href="#anker31">1泊目10，000円、2泊目以降は1泊につき5，000円</a></li>
 <li>　3-2.<a href="#anker32">THE ROKU SPA</a></li>
 <li>　3-3.<a href="#anker33">コンシェルジュアクティビティ</a></li>
 <li>　3-4.<a href="#anker34">レストラン「TENJIN」</a></li>
@@ -90,7 +90,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>２０２１年９月にヒルトンブランドとしても京都で初めて開業しました。</p>
+<p>2021年9月にヒルトンブランドとしても京都で初めて開業しました。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -102,11 +102,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>実際にROKU KYOTOは必要最低ポイントが１１万ヒルトンポイントと、</p>
+<p>実際にROKU KYOTOは必要最低ポイントが11万ヒルトンポイントと、</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>コンラッド東京の９５，０００ポイントより高く設定されています。</p>
+<p>コンラッド東京の95，000ポイントより高く設定されています。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -133,9 +133,9 @@
 <ul id="block-42ee6d5f-eaa8-4204-8274-817bf0672035" class="block-editor-rich-text__editable block-editor-block-list__block wp-block is-selected wp-block-list rich-text" tabindex="0" role="document" contenteditable="true" aria-multiline="true" aria-label="ブロック: リスト" data-block="42ee6d5f-eaa8-4204-8274-817bf0672035" data-type="core/list" data-title="リスト">
 <li>客室のアップグレード（プレミアデラックスまで）</li>
 <li>朝食無料</li>
-<li>１万円のエクスペリエンスクレジット（<strong>2024年4月以降廃止</strong>。現在の同系＝<strong>ミニバー無料</strong>を参照）</li>
+<li>1万円のエクスペリエンスクレジット（<strong>2024年4月以降廃止</strong>。現在の同系＝<strong>ミニバー無料</strong>を参照）</li>
 <li>アーリー・チェックイン / レイト・チェックアウト</li>
-<li>特典滞在で３人目も無料（ポイント泊は通常２人まで）</li>
+<li>特典滞在で3人目も無料（ポイント泊は通常2人まで）</li>
 </ul>
 <p>[/box]</p>
 
@@ -144,7 +144,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>（上記の「１万円の差」は<strong>エクスペリエンスクレジット</strong>が廃止される前の比較です。）１万円のクレジット分は付与されず、客室アップグレードはワンランク上までとなっていた、という従来の違いでした。廃止後の現行案内はホテル・会員向け公表の内容に従ってください（ダイヤではミニバー無料等）。</p>
+<p>（上記の「1万円の差」は<strong>エクスペリエンスクレジット</strong>が廃止される前の比較です。）1万円のクレジット分は付与されず、客室アップグレードはワンランク上までとなっていた、という従来の違いでした。廃止後の現行案内はホテル・会員向け公表の内容に従ってください（ダイヤではミニバー無料等）。</p>
 <!-- /wp:paragraph -->
 
 <p>[box class="yellow_box" title="ゴールド特典"]</p>
@@ -152,7 +152,7 @@
 <li>客室のアップグレード（ワンランク上のカテゴリーまで）</li>
 <li>朝食無料</li>
 <li>アーリー・チェックイン / レイト・チェックアウト</li>
-<li>特典滞在で３人目も無料（ポイント泊は通常２人まで）</li>
+<li>特典滞在で3人目も無料（ポイント泊は通常2人まで）</li>
 </ul>
 <p>[/box]</p>
 
@@ -193,15 +193,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>またROKU KYOTO独自の特典として、無料朝食２名分に１名追加した計３名分の朝食が無料になります。</p>
+<p>またROKU KYOTO独自の特典として、無料朝食2名分に1名追加した計3名分の朝食が無料になります。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>会員および同室に滞在される２名までとなっています。</p>
+<p>会員および同室に滞在される2名までとなっています。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>また６歳以下のお子さんは無料になります。</p>
+<p>また6歳以下のお子さんは無料になります。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -213,11 +213,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>朝食は大人ひとり５，６９２円（税サ込）となっています。</p>
+<p>朝食は大人ひとり5，692円（税サ込）となっています。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>最大１７，０７６円、夫婦で１１，３８４円が無料になるなんてお得過ぎるダイヤモンド特典です。</p>
+<p>最大17，076円、夫婦で11，384円が無料になるなんてお得過ぎるダイヤモンド特典です。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"columns":2,"linkTo":"none"} -->
@@ -247,15 +247,15 @@
 <!-- /wp:gallery -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="anker23">１万円のエクスペリエンスクレジット</h3>
+<h3 class="wp-block-heading" id="anker23">1万円のエクスペリエンスクレジット</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>（※この「１万円のエクスペリエンスクレジット」特典は<strong>2024年4月以降廃止</strong>。以下は当時の説明のまま掲載する参考記事です。）</p>
+<p>（※この「1万円のエクスペリエンスクレジット」特典は<strong>2024年4月以降廃止</strong>。以下は当時の説明のまま掲載する参考記事です。）</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>ヒルトンダイヤモンド会員はホテル施設内で使える１万円分のエクスペリエンスクレジットが付与されます。</p>
+<p>ヒルトンダイヤモンド会員はホテル施設内で使える1万円分のエクスペリエンスクレジットが付与されます。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -263,7 +263,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>１泊目は１０，０００円、２泊目以降は１泊につき５，０００円が加算されます。</p>
+<p>1泊目は10，000円、2泊目以降は1泊につき5，000円が加算されます。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -291,11 +291,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>アップグレードなかったときのデラックスルームのときは、しっかりと１４時まで滞在させていただきました。笑</p>
+<p>アップグレードなかったときのデラックスルームのときは、しっかりと14時まで滞在させていただきました。笑</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>通常のチェックインは１５時、チェックアウトは昼１２時となっています。</p>
+<p>通常のチェックインは15時、チェックアウトは昼12時となっています。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -315,11 +315,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="anker25">特典滞在で３人目も無料（ポイント泊は通常２人まで）</h3>
+<h3 class="wp-block-heading" id="anker25">特典滞在で3人目も無料（ポイント泊は通常2人まで）</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>宿泊料金すべてをポイント利用する特典滞在では、通常２名までのところ、ROKU KYOTO限定の特典として３人目も無料で宿泊可能です。</p>
+<p>宿泊料金すべてをポイント利用する特典滞在では、通常2名までのところ、ROKU KYOTO限定の特典として3人目も無料で宿泊可能です。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -327,11 +327,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>ポイントたくさん持っている友達がいれば３人の女子会開催も夢ではなくなりますね。</p>
+<p>ポイントたくさん持っている友達がいれば3人の女子会開催も夢ではなくなりますね。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>別におじさん３人でもいいんですけどね。笑</p>
+<p>別におじさん3人でもいいんですけどね。笑</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -359,7 +359,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>カクテルタイムはちょっとしたおつまみしか出てこなかったので、ドリンクにも使えるエクスペリエンスクレジット１万円の方が価値は高いでしょう。</p>
+<p>カクテルタイムはちょっとしたおつまみしか出てこなかったので、ドリンクにも使えるエクスペリエンスクレジット1万円の方が価値は高いでしょう。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19495,"sizeSlug":"large","linkDestination":"none"} -->
@@ -379,7 +379,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="anker31">１泊目１０，０００円、２泊目以降は１泊につき５，０００円</h3>
+<h3 class="wp-block-heading" id="anker31">1泊目10，000円、2泊目以降は1泊につき5，000円</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -387,19 +387,19 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>１泊１万円のエクスペリエンスクレジットが付与されます。</p>
+<p>1泊1万円のエクスペリエンスクレジットが付与されます。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>細かく言えば１泊目１０，０００円、２泊目以降は１泊につき５，０００円です。</p>
+<p>細かく言えば1泊目10，000円、2泊目以降は1泊につき5，000円です。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>１泊２日だと１万円、２泊３日だと１万５０００円のクレジットがつきます。</p>
+<p>1泊2日だと1万円、2泊3日だと1万5000円のクレジットがつきます。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>宿泊人数に関係なく１部屋につき１万円のエクスペリエンスクレジットです。</p>
+<p>宿泊人数に関係なく1部屋につき1万円のエクスペリエンスクレジットです。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -643,11 +643,11 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>ダイヤモンド特典の１万円エクスペリエンスクレジットを利用してROKU KYOTOのレストラン「TENJIN」でコースディナーを食べてきました。</p>
+<p>ダイヤモンド特典の1万円エクスペリエンスクレジットを利用してROKU KYOTOのレストラン「TENJIN」でコースディナーを食べてきました。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>夫婦ふたりだと１万円は余裕で超えてきますが、美食家からの評価も高く食べる価値あります。</p>
+<p>夫婦ふたりだと1万円は余裕で超えてきますが、美食家からの評価も高く食べる価値あります。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -671,14 +671,14 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>DINNER MENU 麓（ROKU）コースの料金は大人ひとり１５，１８０円（税サ込）です。</p>
+<p>DINNER MENU 麓（ROKU）コースの料金は大人ひとり15，180円（税サ込）です。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>夫婦ふたりだと３０，３６０円になり、エクスペリエンスクレジット１万を考慮すると２０，３６０円になります。</p>
+<p>夫婦ふたりだと30，360円になり、エクスペリエンスクレジット1万を考慮すると20，360円になります。</p>
 <!-- /wp:paragraph -->
 
-<p>[box class="green_box" title="麓（ROKU）コース（２０２３年３月時点）"]</p>
+<p>[box class="green_box" title="麓（ROKU）コース（2023年3月時点）"]</p>
 <ul id="block-a3c56026-3386-4f5c-a58c-d2ce7dc056e7" class="block-editor-rich-text__editable block-editor-block-list__block wp-block is-selected wp-block-list rich-text" tabindex="0" role="document" contenteditable="true" aria-multiline="true" aria-label="ブロック: リスト" data-block="a3c56026-3386-4f5c-a58c-d2ce7dc056e7" data-type="core/list" data-title="リスト">
 <li>アミューズ</li>
 <li>京都産 筍　蛍烏賊　ベアルネーズ</li>
@@ -691,7 +691,7 @@
 <p>[/box]</p>
 
 <!-- wp:paragraph -->
-<p>魚料理は以下３メニューから１品選択、</p>
+<p>魚料理は以下3メニューから1品選択、</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -713,7 +713,7 @@
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>肉料理は以下３メニューから１品選択することになります。</p>
+<p>肉料理は以下3メニューから1品選択することになります。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -761,11 +761,11 @@
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>麓（ROKU）コースメニューのギャラリー写真は以下となります（計１１枚）。</p>
+<p>麓（ROKU）コースメニューのギャラリー写真は以下となります（計11枚）。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>ぜひ１枚１枚ゆっくりと堪能ください。</p>
+<p>ぜひ1枚1枚ゆっくりと堪能ください。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"columns":1,"linkTo":"none"} -->
@@ -924,13 +924,13 @@
 <ul id="block-42ee6d5f-eaa8-4204-8274-817bf0672035" class="block-editor-rich-text__editable block-editor-block-list__block wp-block is-selected wp-block-list rich-text" tabindex="0" role="document" contenteditable="true" aria-multiline="true" aria-label="ブロック: リスト" data-block="42ee6d5f-eaa8-4204-8274-817bf0672035" data-type="core/list" data-title="リスト">
 <li>客室のアップグレード（プレミアデラックスまで）</li>
 <li>朝食無料</li>
-<li>１万円のエクスペリエンスクレジット（<strong>2024年4月以降廃止</strong>。現在の同系＝<strong>ミニバー無料</strong>を参照）</li>
+<li>1万円のエクスペリエンスクレジット（<strong>2024年4月以降廃止</strong>。現在の同系＝<strong>ミニバー無料</strong>を参照）</li>
 <li>アーリー・チェックイン / レイト・チェックアウト</li>
-<li>特典滞在で３人目も無料（ポイント泊は通常２人まで）</li>
+<li>特典滞在で3人目も無料（ポイント泊は通常2人まで）</li>
 </ul>
 <p>[/box]</p>
-<p>私は当時、ダイヤモンド特典の１万円エクスペリエンスクレジットを利用してROKU KYOTOのレストラン「TENJIN」でコースディナーを食べてきました（現行の特典代わりのクレジット利用ではありません。制度は2024年4月廃止済み）。</p>
-<p>麓ディナーはアミューズからデザートまでギャラリー写真を使って１品ずつ紹介。</p>
+<p>私は当時、ダイヤモンド特典の1万円エクスペリエンスクレジットを利用してROKU KYOTOのレストラン「TENJIN」でコースディナーを食べてきました（現行の特典代わりのクレジット利用ではありません。制度は2024年4月廃止済み）。</p>
+<p>麓ディナーはアミューズからデザートまでギャラリー写真を使って1品ずつ紹介。</p>
 <p>また朝食無料になり美味な京都旅行となりました。</p>
 <p>今日は特にヒルトンダイヤモンド会員の方に読んでいただきたい記事になりました。</p>
 <p>以上、少しでも参考になれば幸いです。</p>

@@ -201,7 +201,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>スイートルームは全５３部屋あるのでダイヤモンド会員なら狙い目です。</p>
+<p>スイートルームは全53部屋あるのでダイヤモンド会員なら狙い目です。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"linkTo":"none"} -->
@@ -353,7 +353,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>スイートなので２つあります。</p>
+<p>スイートなので2つあります。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -403,7 +403,7 @@
 <!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
-<p>ハーフビュッフェスタイルとなり席で注文するものが２つできます。</p>
+<p>ハーフビュッフェスタイルとなり席で注文するものが2つできます。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":27668,"sizeSlug":"full","linkDestination":"none"} -->
@@ -411,7 +411,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>ひとつはショーキッチンより以下から１つ選べます。</p>
+<p>ひとつはショーキッチンより以下から1つ選べます。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -441,7 +441,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>モーニングドリンクは以下４種類からひとつです。</p>
+<p>モーニングドリンクは以下4種類からひとつです。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->

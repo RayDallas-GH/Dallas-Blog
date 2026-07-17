@@ -37,9 +37,9 @@
 <h2 id="anker2">Waldorf Astoriaロスカボスのレストラン</h2>
 <p><img class="aligncenter size-large wp-image-12396" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0409-1024x768.jpg" alt="Waldorf Astoriaロスカボス" width="728" height="546"></p>
 <p>Waldorf Astoriaロスカボスはオールインクルーシブではありません。</p>
-<p><span style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">ロスカボスは物価が高く、消費税が１６％</span>あります。</p>
-<p>そして<span style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">Waldorf Astoriaロスカボスのサービス料が別途１５％</span>かかります。</p>
-<p>そもそも高いメニュー料金から３１％アップします。</p>
+<p><span style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">ロスカボスは物価が高く、消費税が16％</span>あります。</p>
+<p>そして<span style="background: linear-gradient(to bottom, rgba(255,153,204,0) 60%, #ffc6d1 60%);">Waldorf Astoriaロスカボスのサービス料が別途15％</span>かかります。</p>
+<p>そもそも高いメニュー料金から31％アップします。</p>
 <p>さすがセレブが集うホテルですね。</p>
 <h3 id="anker21">Don Manuel’s</h3>
 <p><img class="aligncenter size-large wp-image-12356" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0349-1024x768.jpg" alt="Waldorf Astoriaロスカボス" width="728" height="546"></p>
@@ -48,7 +48,7 @@
 <p><span style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">海沿いの席で記念日にもぴったり</span>。</p>
 <p>僕は誕生日ディナーに予約しましたが、予約時間でも席に通されずウェイティングシートで待たされました。</p>
 <p><img class="aligncenter size-large wp-image-12354" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0345-1024x768.jpg" alt="Waldorf Astoriaロスカボス" width="728" height="546"></p>
-<p>皆さん予約していると思うのですが、３０分くらい待ちました。</p>
+<p>皆さん予約していると思うのですが、30分くらい待ちました。</p>
 <p>ここでゆっくりお酒飲んでほしいのでしょう。</p>
 <p><img class="aligncenter size-large wp-image-12355" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0346-1024x768.jpg" alt="Waldorf Astoriaロスカボス" width="728" height="546"></p>
 <p>新鮮なシーフードとメニュー表。</p>
@@ -60,7 +60,7 @@
 <p>ロスカボスの地ビールを飲みながら待ちます。</p>
 <p><img class="aligncenter size-large wp-image-12358" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0352-1024x768.jpg" alt="ロスカボスの地ビール" width="728" height="546"></p>
 <p>せっかくなのでシーフード盛り合わせという一番高いメニューを選びました。</p>
-<p>チップなどもろもろ込みで<span style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">一人１００ドルくらい</span>します。</p>
+<p>チップなどもろもろ込みで<span style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">一人100ドルくらい</span>します。</p>
 <p>ほかにも魚単品グリルやステーキなどありました。</p>
 
 <!-- wp:gallery {"ids":[12359,12360,12361,12362,12363,12364],"columns":2,"linkTo":"none"} -->
@@ -68,10 +68,10 @@
 <!-- /wp:gallery -->
 
 <p>ロスカボスでは亀が有名らしくプレートにも亀が。</p>
-<p>シーフード盛り合わせセットは前菜とスープ、サイドメニュー２品、メインが魚６種類くらいのグリル盛り合わせで終盤はフードファイトってくらいお腹いっぱいでした。</p>
+<p>シーフード盛り合わせセットは前菜とスープ、サイドメニュー2品、メインが魚6種類くらいのグリル盛り合わせで終盤はフードファイトってくらいお腹いっぱいでした。</p>
 <p><img class="aligncenter size-large wp-image-12365" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0360-1024x768.jpg" alt="誕生日スイーツ" width="728" height="546"></p>
 <p>レストランからはサプライズで誕生日ケーキが！</p>
-<p>利用客５人以上誕生日だったみたいで、ウェイターもちょっとやっつけ感で誕生日ソングを歌っていました笑。</p>
+<p>利用客5人以上誕生日だったみたいで、ウェイターもちょっとやっつけ感で誕生日ソングを歌っていました笑。</p>
 <p>知らないおっさんのために無表情で歌ってくれてありがとう。</p>
 <p><img class="aligncenter size-large wp-image-12366" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0364-1024x768.jpg" alt="Waldorf Astoriaロスカボス" width="728" height="546"></p>
 <p>レストランから見えるピラミッドみたいな月夜が幻想的でした。</p>
@@ -83,12 +83,12 @@
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]
 <!-- /wp:shortcode -->
-<p><span style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">コンチネンタルブレックファスト（フルーツ盛り合わせ、シリアル、コーヒー）だけでも３１ドル</span>します。</p>
+<p><span style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">コンチネンタルブレックファスト（フルーツ盛り合わせ、シリアル、コーヒー）だけでも31ドル</span>します。</p>
 <p>プラス税とサービス料です。</p>
 <p>これが無料になるのでかなりお得ですよね。</p>
 <p><img class="aligncenter size-large wp-image-12369" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0369-1024x768.jpg" alt="朝食" width="728" height="546"></p>
 <p><img class="aligncenter size-large wp-image-12371" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0375-1024x768.jpg" alt="朝食" width="728" height="546"></p>
-<p>ベーコンなども含まれる朝食は４０ドルですので差分９ドル払えばいいみたいです。</p>
+<p>ベーコンなども含まれる朝食は40ドルですので差分9ドル払えばいいみたいです。</p>
 <p>コンチネンタルだけでもお腹いっぱいになる量なのでアップグレードは不要だと思います。</p>
 <p>フルーツについているのは<span style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">アガベシロップ</span>。</p>
 <p>メキシコで有名なシロップなのでぜひご賞味あれ（美味しいです）。</p>
@@ -116,7 +116,7 @@
 <p><img class="aligncenter size-large wp-image-12340" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0322-1024x768.jpg" alt="タコス" width="728" height="546"></p>
 <p>妻はエビ料理を注文しました。</p>
 <p><img class="aligncenter size-large wp-image-12341" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0323-1024x768.jpg" alt="エビ" width="728" height="546"></p>
-<p>ランチなのにチップとタックス込みで６０～７０ドルするのでダラスだとディナーくらいの料金でした。</p>
+<p>ランチなのにチップとタックス込みで60～70ドルするのでダラスだとディナーくらいの料金でした。</p>
 <h3 id="anker24">Crudo</h3>
 <p>[caption id="attachment_12401" align="aligncenter" width="728"]<img class="wp-image-12401 size-large" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0418-1024x768.jpg" alt="Waldorf Astoriaロスカボス" width="728" height="546"> 奥に見えるのがCrudo（夜は閉店）[/caption]</p>
 <p>Crudoには行っていないのですがプール横にあるちょっとしたバーです。</p>
@@ -146,9 +146,9 @@
 <p>今日はWaldorf Astoriaロスカボスのレストランを紹介しました。</p>
 <p><span style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">Waldorf Astoriaロスカボスはカボサンルーカスにありますが、オールインクルーシブではありません</span>。</p>
 <p>Don Manuel'sレストランが海沿いのため一番ロケーションがいいです。</p>
-<p>朝食はEl Farallonで食べることになりますが、<span style="background: linear-gradient(to bottom, rgba(128,255,255,0) 60%, #80ffff 60%);">ダイヤモンドステータスを持っていると３１ドルの朝食がなんと無料</span>になります。</p>
+<p>朝食はEl Farallonで食べることになりますが、<span style="background: linear-gradient(to bottom, rgba(128,255,255,0) 60%, #80ffff 60%);">ダイヤモンドステータスを持っていると31ドルの朝食がなんと無料</span>になります。</p>
 <p><span style="background: linear-gradient(to bottom, rgba(255,255,102,0) 60%, #ffff66 60%);">アガベシロップのフルーツは美味しい</span>のでぜひ食べてみてください。</p>
-<p>ロスカボスは物価が高く、税金が１６％、サービス料も１５％がかかりますが、高級ホテルならではの最高のサービスを味わうために宿泊してみてはいかがでしょうか。</p>
+<p>ロスカボスは物価が高く、税金が16％、サービス料も15％がかかりますが、高級ホテルならではの最高のサービスを味わうために宿泊してみてはいかがでしょうか。</p>
 <p>以上、少しでも参考になれば幸いです。</p>
 <!-- wp:shortcode -->
 [yadokko id="32797"]

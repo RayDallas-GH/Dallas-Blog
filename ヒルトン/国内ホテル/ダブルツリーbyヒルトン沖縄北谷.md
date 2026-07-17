@@ -351,7 +351,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":28839,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://ibis-dallas.com/wp-content/uploads/2025/06/IMG_4642.jpg" alt="ダブルツリーbyヒルトン沖縄北谷リゾートのルーフトップバー４３ウェスト" class="wp-image-28839"/></figure>
+<figure class="wp-block-image size-full"><img src="https://ibis-dallas.com/wp-content/uploads/2025/06/IMG_4642.jpg" alt="ダブルツリーbyヒルトン沖縄北谷リゾートのルーフトップバー43ウェスト" class="wp-image-28839"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -376,19 +376,19 @@
 
 <!-- wp:gallery {"linkTo":"none"} -->
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":28835,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://ibis-dallas.com/wp-content/uploads/2025/06/IMG_4638.jpg" alt="ダブルツリーbyヒルトン沖縄北谷リゾートのルーフトップバー４３ウェスト" class="wp-image-28835"/></figure>
+<figure class="wp-block-image size-large"><img src="https://ibis-dallas.com/wp-content/uploads/2025/06/IMG_4638.jpg" alt="ダブルツリーbyヒルトン沖縄北谷リゾートのルーフトップバー43ウェスト" class="wp-image-28835"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":28834,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://ibis-dallas.com/wp-content/uploads/2025/06/IMG_4637.jpg" alt="ダブルツリーbyヒルトン沖縄北谷リゾートのルーフトップバー４３ウェスト" class="wp-image-28834"/></figure>
+<figure class="wp-block-image size-large"><img src="https://ibis-dallas.com/wp-content/uploads/2025/06/IMG_4637.jpg" alt="ダブルツリーbyヒルトン沖縄北谷リゾートのルーフトップバー43ウェスト" class="wp-image-28834"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":28837,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://ibis-dallas.com/wp-content/uploads/2025/06/IMG_4640.jpg" alt="ダブルツリーbyヒルトン沖縄北谷リゾートのルーフトップバー４３ウェスト" class="wp-image-28837"/></figure>
+<figure class="wp-block-image size-large"><img src="https://ibis-dallas.com/wp-content/uploads/2025/06/IMG_4640.jpg" alt="ダブルツリーbyヒルトン沖縄北谷リゾートのルーフトップバー43ウェスト" class="wp-image-28837"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":28838,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://ibis-dallas.com/wp-content/uploads/2025/06/IMG_4641.jpg" alt="ダブルツリーbyヒルトン沖縄北谷リゾートのルーフトップバー４３ウェスト" class="wp-image-28838"/></figure>
+<figure class="wp-block-image size-large"><img src="https://ibis-dallas.com/wp-content/uploads/2025/06/IMG_4641.jpg" alt="ダブルツリーbyヒルトン沖縄北谷リゾートのルーフトップバー43ウェスト" class="wp-image-28838"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":28840,"sizeSlug":"large","linkDestination":"none"} -->
@@ -396,7 +396,7 @@
 <!-- /wp:image -->
 
 <!-- wp:image {"id":28841,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://ibis-dallas.com/wp-content/uploads/2025/06/IMG_4644.jpg" alt="ダブルツリーbyヒルトン沖縄北谷リゾートのルーフトップバー４３ウェスト" class="wp-image-28841"/></figure>
+<figure class="wp-block-image size-large"><img src="https://ibis-dallas.com/wp-content/uploads/2025/06/IMG_4644.jpg" alt="ダブルツリーbyヒルトン沖縄北谷リゾートのルーフトップバー43ウェスト" class="wp-image-28841"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
@@ -405,7 +405,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":28836,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://ibis-dallas.com/wp-content/uploads/2025/06/IMG_4639.jpg" alt="ダブルツリーbyヒルトン沖縄北谷リゾートのルーフトップバー４３ウェスト" class="wp-image-28836"/></figure>
+<figure class="wp-block-image size-full"><img src="https://ibis-dallas.com/wp-content/uploads/2025/06/IMG_4639.jpg" alt="ダブルツリーbyヒルトン沖縄北谷リゾートのルーフトップバー43ウェスト" class="wp-image-28836"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -421,7 +421,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":28842,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://ibis-dallas.com/wp-content/uploads/2025/06/IMG_4645.jpg" alt="ダブルツリーbyヒルトン沖縄北谷リゾートのルーフトップバー４３ウェスト" class="wp-image-28842"/></figure>
+<figure class="wp-block-image size-full"><img src="https://ibis-dallas.com/wp-content/uploads/2025/06/IMG_4645.jpg" alt="ダブルツリーbyヒルトン沖縄北谷リゾートのルーフトップバー43ウェスト" class="wp-image-28842"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

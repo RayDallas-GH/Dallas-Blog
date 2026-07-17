@@ -411,7 +411,7 @@
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Number of Employees：１（個人事業のため）</li>
+<li>Number of Employees：1（個人事業のため）</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->

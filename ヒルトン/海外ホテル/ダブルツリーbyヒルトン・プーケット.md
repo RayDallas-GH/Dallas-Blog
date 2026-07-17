@@ -23,9 +23,9 @@
 <p>[box class="yellow_box" title="ヒルトン紹介プログラム"][contact-form-7 id="d99b16b" title="ヒルトンアメックス紹介リンク"][/box]</p>
 <p>[box class="yellow_box" title="本記事の信頼性"]</p>
 <ul>
-<li>アメリカのAMEXヒルトン系クレジットカード４枚すべて作成</li>
+<li>アメリカのAMEXヒルトン系クレジットカード4枚すべて作成</li>
 <li>日本のヒルトンアメックスも作成</li>
-<li>２０１９年からヒルトンダイヤモンド会員</li>
+<li>2019年からヒルトンダイヤモンド会員</li>
 <li>コンラッド東京、コンラッド大阪、ROKU KYOTOなどに宿泊済み</li>
 <li>海外のWaldorf AstoriaやConradにも宿泊済み</li>
 </ul>
