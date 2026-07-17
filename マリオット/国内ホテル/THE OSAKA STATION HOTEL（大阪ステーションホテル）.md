@@ -1,5 +1,18 @@
 <!-- wp_post_id: 28202 -->
 <!-- wp_title: 【プラチナ宿泊記】THE OSAKA STATION HOTEL（大阪ステーションホテル）〜大阪駅直結の新ラグジュアリーホテルを徹底レビュー〜 -->
+
+<!-- wp:shortcode -->
+[box class="green_box" title="本記事で解決できるお悩み"]
+・THE OSAKA STATION HOTELのプラチナ特典が知りたい
+・客室・施設の様子が知りたい
+・朝食の内容が知りたい
+[/box]
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[voice icon="https://ibis-dallas.com/wp-content/uploads/2021/07/ワシアイコン-scaled.jpg" name="アポロ" type="l"]大阪駅直結の新ラグジュアリーホテルを、客室から朝食まで一気に紹介します[/voice]
+<!-- /wp:shortcode -->
+
 <!-- wp:paragraph -->
 <p>こんにちは、マリオットプラチナ会員のアポロです。</p>
 <!-- /wp:paragraph -->
@@ -15,22 +28,6 @@
 <!-- wp:paragraph -->
 <p>ぜひ最後までお付き合いください。</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:shortcode -->
-[yadokko id="32609"]
-<!-- /wp:shortcode -->
-
-<!-- wp:paragraph -->
-<p>マリオットアメックスプレミアム申請は紹介経由が一番お得（公式サイト経由より6,000ポイント多いです）⇒</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:shortcode -->
-[nlink url="https://ibis-dallas.com/marriott-bonvoy-premium-card"]
-<!-- /wp:shortcode -->
-
-<!-- wp:shortcode -->
-[box class="yellow_box" title="マリオット紹介プログラムで申請する"][contact-form-7 id="238d4b4" title="マリオットアメックス紹介リンク"][/box]
-<!-- /wp:shortcode -->
 
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
@@ -64,6 +61,10 @@
 <!-- wp:paragraph -->
 <p>日本だと「メズム東京」などが該当します。</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-hotel-japan"]
+<!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
 <p>THE OSAKA STATION HOTEL（大阪ステーションホテル）は1874年に開業した初代大阪駅の跡地に建っており、駅や鉄道、大阪の歴史や文化を未来へ紡ぐというコンセプトが随所に反映されています。</p>
@@ -226,6 +227,18 @@
 <!-- wp:paragraph -->
 <p>客室アップグレードは高層階シーニックにアップグレードがありました。</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>こうした特典も、カードを持っていれば上級会員資格として使えるようになります。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>マリオットアメックスプレミアムに入会するなら、紹介経由が一番お得（公式サイト経由より6,000ポイント多いです）⇒</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+[box class="yellow_box" title="マリオット紹介プログラムで申請する"][contact-form-7 id="238d4b4" title="マリオットアメックス紹介リンク"][/box]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker3">THE OSAKA STATION HOTELの客室・施設レビュー</h2>
@@ -705,6 +718,14 @@
 <p>お値段、なんと9,000円！！！</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:shortcode -->
+[yadokko id="32609"]
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-premium-card"]
+<!-- /wp:shortcode -->
+
 <!-- wp:paragraph -->
 <p>大阪ならではの料理（例：たこ焼き風オムレツ、関西風だし巻き卵）なども取り入れられており、地域色豊かな内容でした。</p>
 <!-- /wp:paragraph -->
@@ -1008,6 +1029,66 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
+<h2 class="wp-block-heading">マリオットカードでお得に泊まろう</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>マリオット系列ホテルに泊まるなら、マリオットBonvoyクレジットカードの活用がおすすめです。</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>カードを持つだけでエリートステータスが自動付与され、年会費更新時の無料宿泊特典や、ポイント還元率アップの恩恵を受けられます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">日本在住の旅行好きの方におすすめの2枚</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>日本在住の方は、アメックス発行の以下2枚から選べます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><!-- wp:list-item -->
+<li>マリオットボンヴォイ・アメリカン・エキスプレス・カード</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>マリオットボンヴォイ・アメリカン・エキスプレス・プレミアムカード</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>どちらも申込み後すぐにゴールドエリート会員資格が自動付与</strong>され、一般会員では条件達成が必要な特典を初日から享受できます！</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-base-card-2025"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-premium-card"]
+<!-- /wp:shortcode -->
+
+<!-- wp:paragraph -->
+<p>紹介経由が一番お得（公式サイト経由より6,000ポイント多い）⇒</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+[box class="yellow_box" title="マリオット紹介プログラムで申請する"][contact-form-7 id="238d4b4" title="マリオットアメックス紹介リンク"][/box]
+<!-- /wp:shortcode -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">アメリカ在住の方向けマリオットBonvoyカード</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>アメリカにお住まいの方は、無料〜年会費$650まで6種類のマリオットBonvoyカードから選べます。年1回以上マリオットに泊まる方は、年会費更新時に無料宿泊特典が自動付与されるBoundless・Brilliant・Businessが年会費を回収しやすくおすすめです。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-bonvoy-creditcard-comparison"]
+<!-- /wp:shortcode -->
+
+<!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker5">【プラチナ宿泊記】THE OSAKA STATION HOTEL（大阪ステーションホテル）まとめ</h2>
 <!-- /wp:heading -->
 
@@ -1065,14 +1146,18 @@
 <p>以上、少しでも参考になれば幸いです。</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:paragraph -->
+<p>マリオットアメックスプレミアム申請は紹介経由が一番お得（公式サイト経由より6,000ポイント多いです）⇒</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+[box class="yellow_box" title="マリオット紹介プログラムで申請する"][contact-form-7 id="238d4b4" title="マリオットアメックス紹介リンク"][/box]
+<!-- /wp:shortcode -->
+
 <!-- wp:shortcode -->
 [yadokko id="32609"]
 <!-- /wp:shortcode -->
 
 <!-- wp:shortcode -->
-[nlink url="https://ibis-dallas.com/marriott-bonvoy-premium-card"]
-<!-- /wp:shortcode -->
-
-<!-- wp:shortcode -->
-[box class="yellow_box" title="マリオット紹介プログラムで申請する"][contact-form-7 id="238d4b4" title="マリオットアメックス紹介リンク"][/box]
+[nlink url="https://ibis-dallas.com/marriott-hotel-japan"]
 <!-- /wp:shortcode -->
