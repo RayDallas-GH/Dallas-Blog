@@ -3,9 +3,23 @@
 
 <!-- wp:shortcode -->
 [box class="green_box" title="本記事で解決できるお悩み"]
-・イラフSUI沖縄宮古の部屋の様子が知りたい
-・アクティビティの内容が知りたい
-・朝食の内容が知りたい
+<!-- /wp:shortcode -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><a href="#anker3">イラフSUI沖縄宮古の部屋の様子が知りたい</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#anker5">アクティビティの内容が知りたい</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#anker4">朝食の内容が知りたい</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:shortcode -->
 [/box]
 <!-- /wp:shortcode -->
 

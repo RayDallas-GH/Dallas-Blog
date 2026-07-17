@@ -3,9 +3,23 @@
 
 <!-- wp:shortcode -->
 [box class="green_box" title="本記事で解決できるお悩み"]
-・ダブルツリーbyヒルトン京都駅のダイヤモンド特典が知りたい
-・エグゼクティブラウンジのイブニングカクテル・朝食が知りたい
-・無料朝食の内容が知りたい
+<!-- /wp:shortcode -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><a href="#anker1">ダブルツリーbyヒルトン京都駅のダイヤモンド特典が知りたい</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#anker2">エグゼクティブラウンジのイブニングカクテル・朝食が知りたい</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#anker3">無料朝食の内容が知りたい</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:shortcode -->
 [/box]
 <!-- /wp:shortcode -->
 

@@ -3,10 +3,27 @@
 
 <!-- wp:shortcode -->
 [box class="green_box" title="本記事で解決できるお悩み"]
-・ダブルツリーbyヒルトン那覇首里城のダイヤモンド特典が知りたい
-・客室タイプやアップグレードの目安が知りたい
-・首里城観光の拠点としての便利さが知りたい
-・朝食の内容が知りたい
+<!-- /wp:shortcode -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><a href="#anker2">ダブルツリーbyヒルトン那覇首里城のダイヤモンド特典が知りたい</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#anker3">客室タイプやアップグレードの目安が知りたい</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#anker11">首里城観光の拠点としての便利さが知りたい</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#anker5">朝食の内容が知りたい</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:shortcode -->
 [/box]
 <!-- /wp:shortcode -->
 

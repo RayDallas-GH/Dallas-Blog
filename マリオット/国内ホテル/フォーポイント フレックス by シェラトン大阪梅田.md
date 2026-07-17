@@ -3,9 +3,23 @@
 
 <!-- wp:shortcode -->
 [box class="green_box" title="本記事で解決できるお悩み"]
-・フォーポイント フレックス by シェラトン大阪梅田のプラチナ特典が知りたい
-・客室の様子が知りたい
-・施設・アメニティの内容が知りたい
+<!-- /wp:shortcode -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><a href="#anker2">フォーポイント フレックス by シェラトン大阪梅田のプラチナ特典が知りたい</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#anker3">客室の様子が知りたい</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#anker4">施設・アメニティの内容が知りたい</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:shortcode -->
 [/box]
 <!-- /wp:shortcode -->
 

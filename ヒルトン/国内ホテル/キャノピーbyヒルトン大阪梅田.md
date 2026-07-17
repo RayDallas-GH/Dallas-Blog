@@ -2,9 +2,23 @@
 <!-- wp_title: 【ダイヤモンド宿泊記】キャノピーbyヒルトン大阪梅田のラウンジ特典（コーナースイートにアップグレード） -->
 <!-- wp:shortcode -->
 [box class="green_box" title="本記事で解決できるお悩み"]
-・キャノピーbyヒルトン大阪梅田のダイヤモンド特典が知りたい
-・キャノピーbyヒルトン大阪梅田のエグゼクティブラウンジの様子が知りたい
-・キャノピーbyヒルトン大阪梅田の朝食ビュッフェについて知りたい
+<!-- /wp:shortcode -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><a href="#anker1">キャノピーbyヒルトン大阪梅田のダイヤモンド特典が知りたい</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#anker1">キャノピーbyヒルトン大阪梅田のエグゼクティブラウンジの様子が知りたい</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#anker4">キャノピーbyヒルトン大阪梅田の朝食ビュッフェについて知りたい</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:shortcode -->
 [/box]
 <!-- /wp:shortcode -->
 
