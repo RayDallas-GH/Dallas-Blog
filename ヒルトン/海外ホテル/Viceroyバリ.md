@@ -55,6 +55,9 @@
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
+<li>宿泊時期：2024年9月頃</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
 <li>予約方法：無料宿泊特典（Aspireのアニバーサリー特典）を利用してプールスイートを予約</li>
 <!-- /wp:list-item -->
 <!-- wp:list-item -->

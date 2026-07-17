@@ -61,6 +61,20 @@
 <p><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3438631&amp;pid=888048024&amp;vc_url=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180857%2F180857.html&amp;vcptn=kaereba" rel="nofollow noopener" target="_blank">ダブルツリーbyヒルトン・プーケット・バンタイ・リゾート</a>は、プーケットの中心地パトンビーチエリアに位置するリゾートホテルです。</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:shortcode -->
+[box class="glay_box" title="今回の宿泊データ"]
+<!-- /wp:shortcode -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>宿泊時期：2024年9月頃</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:shortcode -->
+[/box]
+<!-- /wp:shortcode -->
+
 <!-- wp:paragraph -->
 <p>総客室数290室を誇る大型リゾートで、すべての客室にプライベートバルコニーまたはテラスエリアを完備。</p>
 <!-- /wp:paragraph -->

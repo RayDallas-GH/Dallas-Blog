@@ -53,6 +53,9 @@
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
+<li>宿泊時期：2026年5月頃</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
 <li>予約方法：ヒルトン無料宿泊特典（無料宿泊券）を利用</li>
 <!-- /wp:list-item -->
 <!-- wp:list-item -->

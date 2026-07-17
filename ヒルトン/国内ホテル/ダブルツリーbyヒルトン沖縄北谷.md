@@ -94,6 +94,23 @@
 [nlink url="https://ibis-dallas.com/hilton-hotel-japan"]
 <!-- /wp:shortcode -->
 
+<!-- wp:shortcode -->
+[box class="glay_box" title="今回の宿泊データ"]
+<!-- /wp:shortcode -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>宿泊時期：2025年5月頃</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>予約した部屋タイプ→実際の部屋：スタンダードキングルーム→プレミアムルーム オーシャンビューwithテラス（キングベッド）（ダイヤモンド特典でアップグレード）</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:shortcode -->
+[/box]
+<!-- /wp:shortcode -->
+
 <!-- wp:paragraph -->
 <p>隣接するヒルトン沖縄北谷リゾート（2014年開業）と合わせて、北谷エリアを代表するリゾートホテルとなります。</p>
 <!-- /wp:paragraph -->
