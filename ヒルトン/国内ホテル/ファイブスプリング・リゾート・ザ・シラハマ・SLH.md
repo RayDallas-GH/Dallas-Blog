@@ -49,8 +49,18 @@
 
 <!-- wp:shortcode -->
 [box class="glay_box" title="今回の宿泊データ"]
-・予約方法：ヒルトン無料宿泊特典（無料宿泊券）を利用
-・予約した部屋タイプ→実際の部屋：DRAGON（りゅう座）プールガーデンデラックス（元々スイートのためアップグレードなし）
+<!-- /wp:shortcode -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>予約方法：ヒルトン無料宿泊特典（無料宿泊券）を利用</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>予約した部屋タイプ→実際の部屋：DRAGON（りゅう座）プールガーデンデラックス（元々スイートのためアップグレードなし）</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:shortcode -->
 [/box]
 <!-- /wp:shortcode -->
 

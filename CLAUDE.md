@@ -259,6 +259,35 @@ H2: まとめ（anker9）
 [yadokko id="XXXXX"]
 ```
 
+### box内の箇条書き
+
+box内で複数項目を列挙する場合、`・`の手書き箇条書きは使わず、`[box]`の開始タグ・終了タグを
+別々の`wp:shortcode`ブロックに分け、間に本物の`wp:list`ブロックを挟む（2026-07-17決定）。
+`[box]...[/box]`は1つのショートコードとして丸ごとページHTML上で結合されて処理されるため、
+この分割自体は問題なく機能する。逆に`[box]...[/box]`を1つの`wp:shortcode`ブロックのまま
+中に`<!-- wp:list -->`を書いても、ブロックコメントの入れ子はパーサーが壊れるため不可。
+
+```html
+<!-- wp:shortcode -->
+[box class="black_box" title="ホテル名のプラチナ特典"]
+<!-- /wp:shortcode -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>特典1</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>特典2</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:shortcode -->
+[/box]
+<!-- /wp:shortcode -->
+```
+
+テンプレート・新規記事はこの形式に統一する。既存記事（大半が`・`手書き）は遡及しない。
+
 ### ボックスの使い分け
 
 | class | 用途 |
