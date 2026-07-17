@@ -9,14 +9,19 @@ git push前のpre-pushフックから呼ばれる想定。
   - トマレバの残骸（"posted with トマレバ" / tomareba.com）
   - shiny-btn3 の外部リンクに rel="nofollow" が無い
 
+全ファイル共通チェック（追加分）:
+  - 目次・本文中の `href="#ankerXXX"` が、本文中の `id="ankerXXX"` 見出しに対応しているか
+    （壊れたアンカーリンクの検出。セクション増減でanker番号がズレて発生しやすい）
+
 新規追加ファイルのみ厳格チェック（既存記事の編集ではスキップ。
 過去記事に規約未整備のバックログが多いため、新規作成時のみ強制する）:
   - 国内ヒルトン/マリオット宿泊記で、まとめ記事へのnlinkが最低1つあるか
-  - 国内ヒルトン/マリオット宿泊記で、朝食のH2セクション（id="anker5"相当）があるか
-  - 国内ヒルトン/マリオット宿泊記で、Hotelierカードが最低2枚あるか
-  - 海外ヒルトン/マリオット宿泊記で、朝食のH2セクション（id="anker6"相当）があるか
+  - 国内ヒルトン/マリオット宿泊記で、朝食のH2見出し（id="anker5"またはH2テキストに「朝食」）があるか
+  - 国内ヒルトン/マリオット宿泊記で、Yadokkoカードが最低2枚あるか
+  - 国内ヒルトン/マリオット宿泊記で、クレカ訴求H2に`id="anker-card"`があり、目次からリンクされているか
+  - 海外ヒルトン/マリオット宿泊記で、朝食のH2見出し（id="anker6"またはH2テキストに「朝食」）があるか
   - 海外ヒルトン/マリオット宿泊記で、Yadokkoカードが最低3枚あるか
-  - 海外ヒルトン/マリオット宿泊記で、クレカ訴求セクション（H2）があるか
+  - 海外ヒルトン/マリオット宿泊記で、クレカ訴求H2に`id="anker-card"`があり、目次からリンクされているか
 
 エラー（exit 1）: 規約違反の可能性が高いもの
 警告（exit 0だが表示）: 見落としがちだが誤検知もあり得るもの
@@ -60,6 +65,23 @@ def is_overseas_hotel_review(path: Path) -> bool:
     return any(p in HOTEL_CHAIN_DIRS for p in parts) and "海外ホテル" in parts
 
 
+def find_broken_anchors(text: str) -> list[str]:
+    """href="#ankerXXX" が本文中の id="ankerXXX" 見出しに対応しているか確認する。"""
+    href_targets = set(re.findall(r'href="#(anker[\w-]+)"', text))
+    ids_present = set(re.findall(r'id="(anker[\w-]+)"', text))
+    return sorted(href_targets - ids_present)
+
+
+def has_h2_heading(text: str, anchor_id: str, keyword: str) -> bool:
+    """id属性一致、またはH2見出しテキストにkeywordを含むかで判定する（本文中の単語出現だけでは判定しない）。"""
+    if re.search(rf'<h2[^>]*id="{anchor_id}"', text):
+        return True
+    for m in re.finditer(r"<h2[^>]*>(.*?)</h2>", text, re.DOTALL):
+        if keyword in re.sub(r"<[^>]+>", "", m.group(1)):
+            return True
+    return False
+
+
 def check_common(path: Path, known_slugs: set[str]) -> tuple[list[str], list[str]]:
     errors, warnings = [], []
     text = path.read_text(encoding="utf-8")
@@ -80,6 +102,9 @@ def check_common(path: Path, known_slugs: set[str]) -> tuple[list[str], list[str
         if "ibis-dallas.com" not in url and "rel=" not in attrs:
             errors.append(f"外部リンクに rel=\"nofollow\" がありません: {url}")
 
+    for target in find_broken_anchors(text):
+        warnings.append(f"アンカーリンク切れの可能性: href=\"#{target}\" に対応する id=\"{target}\" が見つかりません")
+
     return errors, warnings
 
 
@@ -90,12 +115,17 @@ def check_new_hotel_review(path: Path, text: str) -> list[str]:
     if not any(slug in nlink_urls for slug in SUMMARY_URLS):
         errors.append("国内ホテル宿泊記なのに、一覧まとめ記事への[nlink]が見つかりません")
 
-    if not re.search(r'id="anker5"', text) and "朝食" not in text:
-        errors.append("朝食セクションが見つかりません（H2独立セクションが必須）")
+    if not has_h2_heading(text, "anker5", "朝食"):
+        errors.append("朝食セクションが見つかりません（H2見出しで「朝食」を含む独立セクションが必須）")
 
-    hotelier_count = len(re.findall(r'\[(?:hotelier|yadokko) id="\d+"\]', text))
-    if hotelier_count < 2:
-        errors.append(f"ホテルカード（yadokko/hotelier）が{hotelier_count}枚しかありません（最低2枚必要）")
+    yadokko_count = len(re.findall(r'\[(?:hotelier|yadokko) id="\d+"\]', text))
+    if yadokko_count < 2:
+        errors.append(f"Yadokkoカードが{yadokko_count}枚しかありません（最低2枚必要）")
+
+    if not re.search(r'<h2[^>]*id="anker-card"', text):
+        errors.append("クレカ訴求H2に id=\"anker-card\" が見つかりません（連番アンカーだと目次リンク切れの原因になる）")
+    elif not re.search(r'href="#anker-card"', text):
+        errors.append("目次に クレカ訴求セクション（#anker-card）へのリンクが見つかりません")
 
     return errors
 
@@ -103,15 +133,17 @@ def check_new_hotel_review(path: Path, text: str) -> list[str]:
 def check_new_overseas_hotel_review(text: str) -> list[str]:
     errors = []
 
-    if not re.search(r'id="anker6"', text) and "朝食" not in text:
-        errors.append("朝食セクションが見つかりません（H2独立セクションが必須）")
+    if not has_h2_heading(text, "anker6", "朝食"):
+        errors.append("朝食セクションが見つかりません（H2見出しで「朝食」を含む独立セクションが必須）")
 
     yadokko_count = len(re.findall(r'\[yadokko id="\d+"\]', text))
     if yadokko_count < 3:
         errors.append(f"Yadokkoカードが{yadokko_count}枚しかありません（海外ホテル宿泊記は最低3枚必要）")
 
-    if not re.search(r"ヒルトンステイをもっとお得に|マリオットカードでお得に泊まろう", text):
-        errors.append("クレカ訴求セクション（H2）が見つかりません")
+    if not re.search(r'<h2[^>]*id="anker-card"', text):
+        errors.append("クレカ訴求H2に id=\"anker-card\" が見つかりません（連番アンカーだと目次リンク切れの原因になる）")
+    elif not re.search(r'href="#anker-card"', text):
+        errors.append("目次に クレカ訴求セクション（#anker-card）へのリンクが見つかりません")
 
     return errors
 
