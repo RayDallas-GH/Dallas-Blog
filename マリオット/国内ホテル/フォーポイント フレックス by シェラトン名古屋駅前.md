@@ -56,6 +56,26 @@
 <p>フォーポイント フレックス by シェラトン 名古屋駅前は、2024年11月に名古屋駅桜通口エリアに新たに開業したホテルです。</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:shortcode -->
+[box class="glay_box" title="今回の宿泊データ"]
+<!-- /wp:shortcode -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>宿泊時期：2025年1月頃</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>支払い：19,752円</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>客室アップグレード：フォーポイント系列はアップグレードという概念がないため対象外</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:shortcode -->
+[/box]
+<!-- /wp:shortcode -->
+
 <!-- wp:paragraph -->
 <p>金時計側の出口ですね。</p>
 <!-- /wp:paragraph -->

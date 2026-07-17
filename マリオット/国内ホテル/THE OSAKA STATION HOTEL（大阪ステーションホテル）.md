@@ -68,6 +68,26 @@
 <p>THE OSAKA STATION HOTEL（大阪ステーションホテル）は2024年7月31日に開業したマリオットの「Autograph Collection」ブランドの新しいホテルです。</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:shortcode -->
+[box class="glay_box" title="今回の宿泊データ"]
+<!-- /wp:shortcode -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>宿泊時期：2025年2月頃</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>予約方法：マリオットボンヴォイ・アメックス・プレミアムカードの無料宿泊特典（Free Night Award、上限5万ポイント価値まで）を利用</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>支払い：56,000ポイント相当</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:shortcode -->
+[/box]
+<!-- /wp:shortcode -->
+
 <!-- wp:paragraph -->
 <p>「Autograph Collection」は個性的で独自のストーリーを持つラグジュアリーホテルのコレクションで、世界中で展開されています。</p>
 <!-- /wp:paragraph -->

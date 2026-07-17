@@ -72,6 +72,26 @@
 [nlink url="https://ibis-dallas.com/marriott-hotel-japan"]
 <!-- /wp:shortcode -->
 
+<!-- wp:shortcode -->
+[box class="glay_box" title="今回の宿泊データ"]
+<!-- /wp:shortcode -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>宿泊時期：2025年3月頃</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>支払い：29,156円（2泊）</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>客室アップグレード：フォーポイント系列はアップグレードという概念がないため対象外</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:shortcode -->
+[/box]
+<!-- /wp:shortcode -->
+
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">ロケーション＆アクセス</h3>
 <!-- /wp:heading -->
