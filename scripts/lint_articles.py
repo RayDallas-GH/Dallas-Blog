@@ -22,6 +22,8 @@ git push前のpre-pushフックから呼ばれる想定。
   - 海外ヒルトン/マリオット宿泊記で、朝食のH2見出し（id="anker6"またはH2テキストに「朝食」）があるか
   - 海外ヒルトン/マリオット宿泊記で、Yadokkoカードが最低3枚あるか
   - 海外ヒルトン/マリオット宿泊記で、クレカ訴求H2に`id="anker-card"`があり、目次からリンクされているか
+  - 「今回の宿泊データ」ボックスの有無（警告のみ。内容の真偽はlintで検証できないため存在チェックに留める。
+    過去記事への遡及追加はしない方針＝新規記事のみ対象。CLAUDE.md参照）
 
 エラー（exit 1）: 規約違反の可能性が高いもの
 警告（exit 0だが表示）: 見落としがちだが誤検知もあり得るもの
@@ -108,8 +110,17 @@ def check_common(path: Path, known_slugs: set[str]) -> tuple[list[str], list[str
     return errors, warnings
 
 
-def check_new_hotel_review(path: Path, text: str) -> list[str]:
-    errors = []
+def check_stay_data_box(text: str) -> list[str]:
+    """今回の宿泊データボックスの存在確認（新規記事のみ・warningのみ）。
+    内容が事実かどうかはlintで検証できないため、存在チェックに留める。
+    過去記事への遡及追加はしない方針（CLAUDE.md参照）なので新規記事にのみ適用する。"""
+    if not re.search(r'\[box class="glay_box" title="今回の宿泊データ"\]', text):
+        return ["「今回の宿泊データ」ボックスが見つかりません（新規記事では推奨。実体験でなく参考情報の記事なら不要）"]
+    return []
+
+
+def check_new_hotel_review(path: Path, text: str) -> tuple[list[str], list[str]]:
+    errors, warnings = [], []
     nlink_urls = re.findall(r'\[nlink url="https://ibis-dallas\.com/([a-z0-9\-]+)"\]', text)
 
     if not any(slug in nlink_urls for slug in SUMMARY_URLS):
@@ -127,11 +138,13 @@ def check_new_hotel_review(path: Path, text: str) -> list[str]:
     elif not re.search(r'href="#anker-card"', text):
         errors.append("目次に クレカ訴求セクション（#anker-card）へのリンクが見つかりません")
 
-    return errors
+    warnings.extend(check_stay_data_box(text))
+
+    return errors, warnings
 
 
-def check_new_overseas_hotel_review(text: str) -> list[str]:
-    errors = []
+def check_new_overseas_hotel_review(text: str) -> tuple[list[str], list[str]]:
+    errors, warnings = [], []
 
     if not has_h2_heading(text, "anker6", "朝食"):
         errors.append("朝食セクションが見つかりません（H2見出しで「朝食」を含む独立セクションが必須）")
@@ -145,7 +158,9 @@ def check_new_overseas_hotel_review(text: str) -> list[str]:
     elif not re.search(r'href="#anker-card"', text):
         errors.append("目次に クレカ訴求セクション（#anker-card）へのリンクが見つかりません")
 
-    return errors
+    warnings.extend(check_stay_data_box(text))
+
+    return errors, warnings
 
 
 SKIP_NAMES = {"CLAUDE.md", "内部リンクURL.md", "紹介リンク.md", "ブログ記事案.md", "AUTOMATION.md", "writing-rules.md"}
@@ -174,9 +189,13 @@ def main(changed_files: list[str], new_files: list[str]) -> int:
         errors, warnings = check_common(path, known_slugs)
 
         if f in new_set and is_domestic_hotel_review(path) and f not in LEGACY_IMPORT_PATHS:
-            errors.extend(check_new_hotel_review(path, path.read_text(encoding="utf-8")))
+            new_errors, new_warnings = check_new_hotel_review(path, path.read_text(encoding="utf-8"))
+            errors.extend(new_errors)
+            warnings.extend(new_warnings)
         elif f in new_set and is_overseas_hotel_review(path) and f not in LEGACY_IMPORT_PATHS:
-            errors.extend(check_new_overseas_hotel_review(path.read_text(encoding="utf-8")))
+            new_errors, new_warnings = check_new_overseas_hotel_review(path.read_text(encoding="utf-8"))
+            errors.extend(new_errors)
+            warnings.extend(new_warnings)
 
         if errors or warnings:
             print(f"\n■ {path}")
