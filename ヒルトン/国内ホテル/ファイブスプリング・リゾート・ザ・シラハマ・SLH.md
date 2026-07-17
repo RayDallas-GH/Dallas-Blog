@@ -47,6 +47,13 @@
 [nlink url="https://ibis-dallas.com/hilton-small-luxury-hotels-japan"]
 <!-- /wp:shortcode -->
 
+<!-- wp:shortcode -->
+[box class="glay_box" title="今回の宿泊データ"]
+・予約方法：ヒルトン無料宿泊特典（無料宿泊券）を利用
+・予約した部屋タイプ→実際の部屋：DRAGON（りゅう座）プールガーデンデラックス（元々スイートのためアップグレードなし）
+[/box]
+<!-- /wp:shortcode -->
+
 <!-- wp:paragraph -->
 <p>全室スイート＆オールインクルーシブという贅沢な構成。</p>
 <!-- /wp:paragraph -->
