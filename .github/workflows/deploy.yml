@@ -22,7 +22,11 @@ jobs:
           mkdir -p ~/.ssh
           echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/deploy_key
           chmod 600 ~/.ssh/deploy_key
-          ssh-keyscan -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
+          for i in 1 2 3; do
+            ssh-keyscan -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts && break
+            echo "ssh-keyscan failed (attempt $i), retrying..."
+            sleep 3
+          done
 
       - name: Deploy changed .md files to WordPress
         env:
