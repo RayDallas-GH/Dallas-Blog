@@ -91,6 +91,26 @@
 <p>ダブルツリーbyヒルトン富山は2023年1月18日にオープンした、ヒルトン系列の新規ホテルです。</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:shortcode -->
+[box class="glay_box" title="今回の宿泊データ"]
+<!-- /wp:shortcode -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>宿泊時期：2023年6月頃</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>支払い：33,000ポイント</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>予約した部屋タイプ→実際の部屋：ゲストルームキング→プレミアムルームキング（ダイヤモンド特典でアップグレード）</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:shortcode -->
+[/box]
+<!-- /wp:shortcode -->
+
 <!-- wp:paragraph -->
 <p>ヒルトンとしても北陸初のホテルとなります。</p>
 <!-- /wp:paragraph -->

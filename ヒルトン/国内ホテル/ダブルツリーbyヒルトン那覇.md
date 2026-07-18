@@ -91,6 +91,26 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->
+[box class="glay_box" title="今回の宿泊データ"]
+<!-- /wp:shortcode -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>宿泊時期：2023年7月頃</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>支払い：約14,000円</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>客室アップグレード：ダイヤモンド特典でコーナーツインへアップグレード</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:shortcode -->
+[/box]
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/hilton-hotel-japan"]
 <!-- /wp:shortcode -->
 
