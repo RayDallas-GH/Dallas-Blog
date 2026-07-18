@@ -40,7 +40,7 @@
 <li>1.<a href="#anker1">フォーポイント フレックス by シェラトン名古屋駅前の基本情報</a></li>
 <li>2.<a href="#anker2">フォーポイント フレックス by シェラトン名古屋駅前のプラチナ会員特典</a></li>
 <li>3.<a href="#anker3">フォーポイント フレックス by シェラトン名古屋駅前の客室</a></li>
-<li>4.マリオットカードでお得に泊まろう</li>
+<li>4.<a href="#anker-card">マリオットカードでお得に泊まろう</a></li>
 <li>5.<a href="#anker4">【宿泊記】フォーポイント フレックス by シェラトン名古屋駅前</a></li>
 </ul>
 
@@ -259,7 +259,7 @@
 <!-- /wp:shortcode -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">マリオットカードでお得に泊まろう</h2>
+<h2 class="wp-block-heading" id="anker-card">マリオットカードでお得に泊まろう</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
