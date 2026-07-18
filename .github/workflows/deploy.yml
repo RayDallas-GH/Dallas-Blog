@@ -34,6 +34,40 @@ jobs:
           SSH_PORT: ${{ secrets.SSH_PORT }}
           SSH_USER: ${{ secrets.SSH_USER }}
         run: |
+          # SSH接続がハングした場合に約2分待たされるのを防ぐため接続タイムアウトを短く設定
+          SSH_OPTS="-o ConnectTimeout=15 -o ServerAliveInterval=5 -o ServerAliveCountMax=3"
+          FAILED_FILES=()
+
+          # 1ファイル分のデプロイ（成功時0、失敗時1を返す。呼び出し側でリトライする）
+          deploy_one() {
+            local file="$1" wp_id="$2" wp_title="$3"
+
+            scp -P "$SSH_PORT" $SSH_OPTS -i ~/.ssh/deploy_key \
+                /tmp/wp_content.txt \
+                "${SSH_USER}@${SSH_HOST}:~/tmp_wp_content.txt" || return 1
+
+            if [ -n "$wp_title" ]; then
+              ssh -n -p "$SSH_PORT" $SSH_OPTS -i ~/.ssh/deploy_key \
+                  "${SSH_USER}@${SSH_HOST}" \
+                  "wp --path=/home/${SSH_USER}/ibis-dallas.com/public_html \
+                   post update ${wp_id} \
+                   --post_content=\"\$(cat ~/tmp_wp_content.txt)\" \
+                   --post_title=\"${wp_title}\" \
+                   2>/dev/null \
+                   && echo 'OK: post ${wp_id} updated' \
+                   && rm -f ~/tmp_wp_content.txt"
+            else
+              ssh -n -p "$SSH_PORT" $SSH_OPTS -i ~/.ssh/deploy_key \
+                  "${SSH_USER}@${SSH_HOST}" \
+                  "wp --path=/home/${SSH_USER}/ibis-dallas.com/public_html \
+                   post update ${wp_id} \
+                   --post_content=\"\$(cat ~/tmp_wp_content.txt)\" \
+                   2>/dev/null \
+                   && echo 'OK: post ${wp_id} updated (title unchanged)' \
+                   && rm -f ~/tmp_wp_content.txt"
+            fi
+          }
+
           # 変更されたファイルを取得（日本語パス対応のため -z オプション使用）
           while IFS= read -r file; do
             [ -z "$file" ] && continue
@@ -52,30 +86,27 @@ jobs:
 
             echo "Deploying: $file → WP post $WP_ID"
 
-            # サーバーに一時ファイルを転送してWP-CLI実行
-            scp -P "$SSH_PORT" -i ~/.ssh/deploy_key \
-                /tmp/wp_content.txt \
-                "${SSH_USER}@${SSH_HOST}:~/tmp_wp_content.txt"
+            # 一時的なネットワーク瞬断で全体が巻き込まれないよう、1ファイルにつき最大3回リトライ
+            SUCCESS=0
+            for attempt in 1 2 3; do
+              if deploy_one "$file" "$WP_ID" "$WP_TITLE"; then
+                SUCCESS=1
+                break
+              fi
+              echo "  attempt $attempt failed for $file, retrying in 10s..."
+              sleep 10
+            done
 
-            # タイトルあり/なしで更新コマンドを分岐
-            if [ -n "$WP_TITLE" ]; then
-              ssh -n -p "$SSH_PORT" -i ~/.ssh/deploy_key \
-                  "${SSH_USER}@${SSH_HOST}" \
-                  "wp --path=/home/${SSH_USER}/ibis-dallas.com/public_html \
-                   post update ${WP_ID} \
-                   --post_content=\"\$(cat ~/tmp_wp_content.txt)\" \
-                   --post_title=\"${WP_TITLE}\" \
-                   2>/dev/null \
-                   && echo 'OK: post ${WP_ID} updated' \
-                   && rm -f ~/tmp_wp_content.txt"
-            else
-              ssh -n -p "$SSH_PORT" -i ~/.ssh/deploy_key \
-                  "${SSH_USER}@${SSH_HOST}" \
-                  "wp --path=/home/${SSH_USER}/ibis-dallas.com/public_html \
-                   post update ${WP_ID} \
-                   --post_content=\"\$(cat ~/tmp_wp_content.txt)\" \
-                   2>/dev/null \
-                   && echo 'OK: post ${WP_ID} updated (title unchanged)' \
-                   && rm -f ~/tmp_wp_content.txt"
+            if [ "$SUCCESS" -eq 0 ]; then
+              echo "FAILED (after 3 attempts): $file → WP post $WP_ID"
+              FAILED_FILES+=("$file (post $WP_ID)")
             fi
           done < <(git diff -z --name-only HEAD~1 HEAD | tr '\0' '\n' | grep '\.md$')
+
+          # 1ファイルの失敗で残りが巻き込まれないよう、全ファイル処理後にまとめて結果判定する
+          if [ "${#FAILED_FILES[@]}" -gt 0 ]; then
+            echo ""
+            echo "以下のファイルはリトライしても失敗しました:"
+            printf '  - %s\n' "${FAILED_FILES[@]}"
+            exit 1
+          fi
