@@ -100,6 +100,26 @@
 [nlink url="https://ibis-dallas.com/hilton-hotel-japan"]
 <!-- /wp:shortcode -->
 
+<!-- wp:shortcode -->
+[box class="glay_box" title="今回の宿泊データ"]
+<!-- /wp:shortcode -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>宿泊時期：2023年10月頃</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>支払い：65,000ポイント（2泊：30,000pt＋35,000pt）</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>予約した部屋タイプ→実際の部屋：ツインコンパクト（ポイント予約）→ツインプレミアムデラックスルーム（18階、ダイヤモンド特典でアップグレード）</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:shortcode -->
+[/box]
+<!-- /wp:shortcode -->
+
 <!-- wp:paragraph -->
 <p>実は元々JALグループが運営しており長年、ホテル日航那覇として沖縄の人から愛されてきました。</p>
 <!-- /wp:paragraph -->
