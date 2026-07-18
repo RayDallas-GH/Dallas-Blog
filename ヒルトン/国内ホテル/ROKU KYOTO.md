@@ -92,6 +92,26 @@
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/hilton-hotel-japan"]
 <!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[box class="glay_box" title="今回の宿泊データ"]
+<!-- /wp:shortcode -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>宿泊時期：2021年11月頃</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>予約方法：無料宿泊特典</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>客室アップグレード：なし（紅葉シーズンの土日のため）</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:shortcode -->
+[/box]
+<!-- /wp:shortcode -->
 <h2 id="anker2">京都駅からのアクセス</h2>
 <p>ROKU KYOTOはしょうざんリゾートの南に位置し、元はしょうざんのボウリング場でした（タクシーの運転手が教えてくれました）。</p>
 <p>アマン京都も近くにあり高級ホテルが並びます。</p>

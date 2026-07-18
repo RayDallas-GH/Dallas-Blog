@@ -12,6 +12,23 @@
 <p>[/box]</p>
 
 <!-- wp:shortcode -->
+[box class="glay_box" title="今回の宿泊データ"]
+<!-- /wp:shortcode -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>宿泊時期：2021年11月頃</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>予約方法：無料宿泊特典</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:shortcode -->
+[/box]
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
 [box class="green_box" title="本記事で解決できるお悩み"]
 <!-- /wp:shortcode -->
 
