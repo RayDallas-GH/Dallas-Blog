@@ -23,6 +23,7 @@
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]
 <!-- /wp:shortcode -->
+<p>[kurepochi card="amex-hilton-aspire"]</p>
 <p>[box class="yellow_box" title="本記事の信頼性"]</p>
 <ul>
 <li>アメリカのAMEXヒルトン系クレジットカード4枚すべて作成</li>
@@ -203,6 +204,8 @@
 <p>読者の皆さんは250ドルのAirline Fee Creditと200ドルのFlight Credit、どちらが嬉しいでしょうか。</p>
 <!-- /wp:paragraph -->
 
+<p>[kurepochi card="amex-hilton-aspire"]</p>
+
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker3">まとめ</h2>
 <!-- /wp:heading -->
@@ -230,6 +233,8 @@
 <!-- wp:paragraph -->
 <p>以上、少しでも参考になれば幸いです。</p>
 <!-- /wp:paragraph -->
+
+<p>[kurepochi card="amex-hilton-aspire"]</p>
 
 <p>[box class="blue_box" title="ヒルトンAspireのフライトクレジットについて"]</p>
 <ul>

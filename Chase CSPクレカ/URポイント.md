@@ -1029,6 +1029,8 @@ msmaflink({"n":"Apple AirPods Max 2 - ブルー","b":"Apple(アップル)","t":"
 <p>2026年6月15日の改定でハイアット転送が4:3になったため、ハイアット移行を主目的にしていた方はCSR保有や転送タイミングの見直しが必要です。</p>
 <!-- /wp:paragraph -->
 
+<p>[kurepochi card="chase-sapphire-preferred"]</p>
+
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/chase-sapphire-preferred-creditcard"]
 <!-- /wp:shortcode -->
@@ -1122,6 +1124,8 @@ msmaflink({"n":"Apple AirPods Max 2 - ブルー","b":"Apple(アップル)","t":"
 <!-- wp:paragraph -->
 <p>以上、少しでも参考になれば幸いです。</p>
 <!-- /wp:paragraph -->
+
+<p>[kurepochi card="chase-sapphire-preferred"]</p>
 
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/chase-sapphire-preferred-update-2026"]

@@ -122,8 +122,6 @@
 <p>2019年4月から規約が変わり、以前は年会費初年度無料、ボーナスポイントは50,000ポイントでした。</p>
 <!-- /wp:paragraph -->
 
-<p>[kurepochi card="chase-sapphire-preferred"]</p>
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="anker13">ポイント付与方法</h3>
 <!-- /wp:heading -->
@@ -182,10 +180,6 @@
 
 <!-- wp:paragraph -->
 <p>Ultimate Rewardsは<strong>航空会社やホテルなどのトラベル系の会社</strong>と提携しています。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p> <a href="https://ibis-dallas.com/?kurepochi_go=chase-sapphire-preferred&kurepochi_post=5665" target="_blank" rel="noopener" title="">Chase Sapphire Preferredクレジットカード紹介リンク</a> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -397,8 +391,6 @@
 <!-- wp:paragraph -->
 <p>駐在は任期が決まっており、貴重な期間ですのでクレジットカードを作成するのであればぜひ後悔のないクレカ作成をして頂ければと思います。</p>
 <!-- /wp:paragraph -->
-
-<p>[kurepochi card="chase-sapphire-preferred"]</p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker3">将来申請を考えている方へのアドバイス</h2>
