@@ -27,6 +27,7 @@
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/chase-sapphire-preferred-update-2026"]
 <!-- /wp:shortcode -->
+<p>最新の入会ボーナスは以下のボタンから確認できます。</p>
 <p>[kurepochi card="chase-sapphire-preferred"]</p>
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
@@ -443,6 +444,10 @@
 <p>先人の知識はどんどん活用して前進していきましょう！<br></p>
 <!-- /wp:paragraph -->
 
+<!-- wp:paragraph -->
+<p>CSPの申し込みは以下の紹介リンクからどうぞ。</p>
+<!-- /wp:paragraph -->
+
 <p>[kurepochi card="chase-sapphire-preferred"]</p>
 
 <!-- wp:heading -->
@@ -477,6 +482,10 @@
 
 <!-- wp:paragraph -->
 <p>以上、参考になれば幸いです。<br></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>申し込みを決めた方は、以下の紹介リンクからどうぞ。</p>
 <!-- /wp:paragraph -->
 
 <p>[kurepochi card="chase-sapphire-preferred"]</p>

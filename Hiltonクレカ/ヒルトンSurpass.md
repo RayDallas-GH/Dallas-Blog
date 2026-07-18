@@ -60,6 +60,10 @@
 </ul>
 <p>[/box]</p>
 
+<!-- wp:paragraph -->
+<p>最新の入会特典は以下のボタンから確認できます。</p>
+<!-- /wp:paragraph -->
+
 <p>[kurepochi card="amex-hilton-surpass"]</p>
 
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
@@ -149,6 +153,10 @@
 [nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"]
 <!-- /wp:shortcode -->
 
+<!-- wp:paragraph -->
+<p>入会特典だけで高級ホテルに2〜3泊できるポイントがもらえるカードです。</p>
+<!-- /wp:paragraph -->
+
 <p>[kurepochi card="amex-hilton-surpass"]</p>
 
 <!-- wp:heading -->
@@ -178,6 +186,10 @@
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/hilton-business-creditcard"]
 <!-- /wp:shortcode -->
+
+<!-- wp:paragraph -->
+<p>最新のオファー内容は以下のボタンからチェックできます。</p>
+<!-- /wp:paragraph -->
 
 <p>[kurepochi card="amex-hilton-surpass"]</p>
 
@@ -728,6 +740,10 @@
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"]
 <!-- /wp:shortcode -->
+
+<!-- wp:paragraph -->
+<p>申し込みを決めた方は、以下の紹介リンクからどうぞ。</p>
+<!-- /wp:paragraph -->
 
 <p>[kurepochi card="amex-hilton-surpass"]</p>
 

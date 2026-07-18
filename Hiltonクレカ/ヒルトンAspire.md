@@ -23,6 +23,7 @@
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/hilton-aspire-creditcard"]
 <!-- /wp:shortcode -->
+<p>最新の入会特典は以下のボタンから確認できます。</p>
 <p>[kurepochi card="amex-hilton-aspire"]</p>
 <p>[box class="yellow_box" title="本記事の信頼性"]</p>
 <ul>
@@ -204,6 +205,10 @@
 <p>読者の皆さんは250ドルのAirline Fee Creditと200ドルのFlight Credit、どちらが嬉しいでしょうか。</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:paragraph -->
+<p>こうしたクレジット特典を使えるのはAspire保有者だけです。</p>
+<!-- /wp:paragraph -->
+
 <p>[kurepochi card="amex-hilton-aspire"]</p>
 
 <!-- wp:heading -->
@@ -232,6 +237,10 @@
 
 <!-- wp:paragraph -->
 <p>以上、少しでも参考になれば幸いです。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Aspireの申し込みは以下の紹介リンクからどうぞ。</p>
 <!-- /wp:paragraph -->
 
 <p>[kurepochi card="amex-hilton-aspire"]</p>

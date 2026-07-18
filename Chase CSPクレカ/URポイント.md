@@ -1029,6 +1029,10 @@ msmaflink({"n":"Apple AirPods Max 2 - ブルー","b":"Apple(アップル)","t":"
 <p>2026年6月15日の改定でハイアット転送が4:3になったため、ハイアット移行を主目的にしていた方はCSR保有や転送タイミングの見直しが必要です。</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:paragraph -->
+<p>URポイントを貯めるなら、まずはCSPが第一候補です。</p>
+<!-- /wp:paragraph -->
+
 <p>[kurepochi card="chase-sapphire-preferred"]</p>
 
 <!-- wp:shortcode -->
@@ -1123,6 +1127,10 @@ msmaflink({"n":"Apple AirPods Max 2 - ブルー","b":"Apple(アップル)","t":"
 
 <!-- wp:paragraph -->
 <p>以上、少しでも参考になれば幸いです。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>URポイント生活を始めるなら、CSPの申し込みは以下の紹介リンクからどうぞ。</p>
 <!-- /wp:paragraph -->
 
 <p>[kurepochi card="chase-sapphire-preferred"]</p>
