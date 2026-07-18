@@ -38,6 +38,26 @@
 <p>2024年9月に新規開業したばかりの話題のホテルに宿泊してきました。</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:shortcode -->
+[box class="glay_box" title="今回の宿泊データ"]
+<!-- /wp:shortcode -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>宿泊時期：2024年10月頃</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>支払い：9,498円＋150,000ポイント（2泊）</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>客室アップグレード：ダイヤモンド特典でキャノピーコーナースイートキングベッドへアップグレード</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:shortcode -->
+[/box]
+<!-- /wp:shortcode -->
+
 <!-- wp:paragraph -->
 <p>日本初のキャノピーブランドで、ダイヤモンド特典を使って宿泊してきました。</p>
 <!-- /wp:paragraph -->

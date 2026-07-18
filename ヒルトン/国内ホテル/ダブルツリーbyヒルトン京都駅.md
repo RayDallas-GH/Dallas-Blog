@@ -39,6 +39,23 @@
 <p>ダイヤモンド特典で朝食は無料、エグゼクティブラウンジも利用できました。</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:shortcode -->
+[box class="glay_box" title="今回の宿泊データ"]
+<!-- /wp:shortcode -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>宿泊時期：2024年8月頃</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>支払い：81,000ポイント（2泊：46,000pt＋35,000pt）</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:shortcode -->
+[/box]
+<!-- /wp:shortcode -->
+
 <p>[box class="yellow_box" title="本記事の信頼性"]</p>
 <ul>
 <li>アメリカのAMEXヒルトン系クレジットカード4枚すべて作成</li>

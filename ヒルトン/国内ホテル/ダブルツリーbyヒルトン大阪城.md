@@ -76,6 +76,26 @@
 [nlink url="https://ibis-dallas.com/hilton-hotel-japan"]
 <!-- /wp:shortcode -->
 
+<!-- wp:shortcode -->
+[box class="glay_box" title="今回の宿泊データ"]
+<!-- /wp:shortcode -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>宿泊時期：2024年5月頃</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>支払い：55,000ポイント</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>予約した部屋タイプ→実際の部屋：キングルームリバービュー→キングエグゼクティブルームリバービュー</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:shortcode -->
+[/box]
+<!-- /wp:shortcode -->
+
 <!-- wp:paragraph -->
 <p>5月1日に開業しソフトオープン、5月23日にグランドオープンしました。</p>
 <!-- /wp:paragraph -->
