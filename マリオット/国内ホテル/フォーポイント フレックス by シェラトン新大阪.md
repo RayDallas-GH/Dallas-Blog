@@ -65,6 +65,26 @@
 <p>フォーポイント フレックス by シェラトン新大阪は、地下鉄と各鉄道の駅まで徒歩5分未満という抜群のロケーションに位置しています。</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:shortcode -->
+[box class="glay_box" title="今回の宿泊データ"]
+<!-- /wp:shortcode -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>宿泊時期：2025年2月頃</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>支払い：約22,000円（2泊）</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>客室アップグレード：なし（フォーポイント系列はアップグレード概念がないため対象外）</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:shortcode -->
+[/box]
+<!-- /wp:shortcode -->
+
 <!-- wp:paragraph -->
 <p>大阪や周辺地域を訪れる際の利便性は非常に高く、ビジネスや観光利用に理想的な拠点となっています。</p>
 <!-- /wp:paragraph -->
