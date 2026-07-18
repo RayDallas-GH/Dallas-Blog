@@ -41,6 +41,26 @@
 <p>僕は今回、初めてWAに宿泊したので前の日から興奮してうまく眠れませんでした（冗談です、熟睡しました）。</p>
 <p><a href="https://www.waldorfastorialoscabospedregal.com/" target="_blank" rel="noopener noreferrer">Waldorf Astoriaロスカボスのサイト</a></p>
 
+<!-- wp:shortcode -->
+[box class="glay_box" title="今回の宿泊データ"]
+<!-- /wp:shortcode -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>宿泊時期：2021年1月頃</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>予約方法：無料宿泊特典</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>客室アップグレード：ダイヤモンド特典で2ランクアップグレードされ、Ocean View Deluxeに</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:shortcode -->
+[/box]
+<!-- /wp:shortcode -->
+
 <!-- wp:gallery {"columns":2,"linkTo":"none"} -->
 <figure class="wp-block-gallery has-nested-images columns-2 is-cropped"><!-- wp:image {"id":12337,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0319-1024x768.jpg" alt="サボテン" class="wp-image-12337"/></figure>

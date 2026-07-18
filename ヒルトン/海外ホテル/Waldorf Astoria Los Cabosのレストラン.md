@@ -34,6 +34,23 @@
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/waldorf-astoria-los-cabos"]
 <!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[box class="glay_box" title="今回の宿泊データ"]
+<!-- /wp:shortcode -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>宿泊時期：2021年1月頃</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>予約方法：無料宿泊特典</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:shortcode -->
+[/box]
+<!-- /wp:shortcode -->
 <h2 id="anker2">Waldorf Astoriaロスカボスのレストラン</h2>
 <p><img class="aligncenter size-large wp-image-12396" src="https://ibis-dallas.com/wp-content/uploads/2021/01/IMG_0409-1024x768.jpg" alt="Waldorf Astoriaロスカボス" width="728" height="546"></p>
 <p>Waldorf Astoriaロスカボスはオールインクルーシブではありません。</p>
