@@ -24,6 +24,10 @@
 <p>今のところ日本に同様のクレカはなくアメリカやイギリスなどの海外限定となっています。</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:paragraph -->
+<p>最新の入会特典は以下のボタンから確認できます。</p>
+<!-- /wp:paragraph -->
+
 <p>[kurepochi card="chase-ihg-traveler"]</p>
 <p style="font-size: 145%; font-weight: 600;">目次【本記事の内容】</p>
 <ul>
@@ -437,6 +441,10 @@
 
 <!-- wp:paragraph -->
 <p>以上、少しでも参考になれば幸いです。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>申し込みを決めた方は、以下の紹介リンクからどうぞ。</p>
 <!-- /wp:paragraph -->
 
 <p>[kurepochi card="chase-ihg-traveler"]</p>
