@@ -82,6 +82,26 @@
 <p>奈良県初のマリオットホテルであり日本で唯一のJWマリオットホテルとなります。</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:shortcode -->
+[box class="glay_box" title="今回の宿泊データ"]
+<!-- /wp:shortcode -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>宿泊時期：2022年11月頃</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>予約した部屋タイプ：ダブル</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>客室アップグレード：なし（満室のため）</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:shortcode -->
+[/box]
+<!-- /wp:shortcode -->
+
 <!-- wp:paragraph -->
 <p>奈良県にはJWマリオットのほかにフェアフィールドがあり2軒だけですね。</p>
 <!-- /wp:paragraph -->
