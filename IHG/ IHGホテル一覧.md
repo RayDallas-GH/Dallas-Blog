@@ -9,7 +9,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2026年1月現在、54か所のホテルがあります。</p>
+<p>2026年1月現在、56か所のホテルがあります。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -161,7 +161,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2026年1月現在、54か所のホテルがあります。</p>
+<p>2026年1月現在、56か所のホテルがあります。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -230,6 +230,14 @@
 
 <!-- wp:shortcode -->
 [yadokko id="32489"]
+<!-- /wp:shortcode -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">ホリデイ・イン エクスプレス札幌すすきの（2026年7月17日開業）</h4>
+<!-- /wp:heading -->
+
+<!-- wp:shortcode -->
+[yadokko id="33240"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
@@ -338,6 +346,14 @@
 
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/hotel-indigo-shibuya"]
+<!-- /wp:shortcode -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">ANAホリデイ・イン東京ベイ（2025年4月開業）</h4>
+<!-- /wp:heading -->
+
+<!-- wp:shortcode -->
+[yadokko id="33239"]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
@@ -806,7 +822,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2026年1月現在、55か所で展開しています。</p>
+<p>2026年1月現在、56か所で展開しています。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
