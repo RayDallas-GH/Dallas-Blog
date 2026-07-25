@@ -9,7 +9,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2026年1月現在、56か所のホテルがあります。</p>
+<p>2026年7月現在、55か所のホテルがあります。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -161,7 +161,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2026年1月現在、56か所のホテルがあります。</p>
+<p>2026年7月現在、55か所のホテルがあります。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -728,13 +728,15 @@
 <h2 class="wp-block-heading" id="anker3">2026年開業予定</h2>
 <!-- /wp:heading -->
 
-<!-- wp:list-item -->
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
 <li>ANAホリデイ・イン神戸三田（2026年4月27日リブランド開業）</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
 <li>ANAクラウンプラザホテル高知（2026年8月1日開業、高知県初のIHGブランドホテル。「ザ クラウンパレス高知」から改装リブランド、全242室）</li>
-<!-- /wp:list-item -->
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
 
 <!-- wp:paragraph -->
 <p>沖縄県ではインターコンチネンタル3か所目となる「インターコンチネンタル沖縄美ら海SUNリゾート」も2023年に予定されていましたが、現状工事着手したニュースは入っておらずかなり不透明です。</p>
@@ -822,7 +824,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2026年1月現在、56か所で展開しています。</p>
+<p>2026年7月現在、55か所で展開しています。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
