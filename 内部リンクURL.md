@@ -208,7 +208,7 @@ https://ibis-dallas.com/social-security-number
 https://ibis-dallas.com/uber
 https://ibis-dallas.com/usa-telephone-alphabet
 
-## カテゴリー別記事分類（746件・WordPressカテゴリー設定より取得）
+## カテゴリー別記事分類（749件・WordPressカテゴリー設定より取得）
 
 ## america-travel (96件)
 https://ibis-dallas.com/airalo
@@ -740,24 +740,7 @@ https://ibis-dallas.com/intercontinental-ishigaki
 https://ibis-dallas.com/intercontinental-manza
 https://ibis-dallas.com/intercontinental-yokohama-grand
 
-## japan-travel (15件)
-https://ibis-dallas.com/beppu-hell
-https://ibis-dallas.com/centrair-airport-lounge
-https://ibis-dallas.com/centrair-airport-lounge-2
-https://ibis-dallas.com/centrair-prioritypass-amex
-https://ibis-dallas.com/fukuoka-airport-lounge
-https://ibis-dallas.com/ganrikisya-kyoto
-https://ibis-dallas.com/glover-garden
-https://ibis-dallas.com/gunkanjima
-https://ibis-dallas.com/iace-travel
-https://ibis-dallas.com/mitsubishi-nagasaki-museum
-https://ibis-dallas.com/nagasaki-lantern-festival
-https://ibis-dallas.com/naha-airport-lounge-hana
-https://ibis-dallas.com/nearme-airport
-https://ibis-dallas.com/rakuten-travel-marriott-bonvoy
-https://ibis-dallas.com/takasakiyama-monkey
-
-## marriott-hotels (53件)
+## hotels/marriott-hotels (56件)
 https://ibis-dallas.com/aloft-osaka-dojima
 https://ibis-dallas.com/biwako-marriott
 https://ibis-dallas.com/cicada-resort-bali-ubud-autograph-collection
@@ -788,9 +771,12 @@ https://ibis-dallas.com/marriott-dog-friendly
 https://ibis-dallas.com/marriott-free-night-award
 https://ibis-dallas.com/marriott-free-night-award-top-up-25000
 https://ibis-dallas.com/marriott-hotel-japan
+https://ibis-dallas.com/marriott-hotel-japan-baby-bed
 https://ibis-dallas.com/marriott-hotspring
 https://ibis-dallas.com/marriott-kaohsiung
 https://ibis-dallas.com/marriott-platinum-benefit
+https://ibis-dallas.com/marriott-platinum-breakfast-japan
+https://ibis-dallas.com/marriott-platinum-lounge-japan
 https://ibis-dallas.com/mesm-tokyo
 https://ibis-dallas.com/moxy-osaka-honmachi
 https://ibis-dallas.com/moxy-osaka-shin-umeda
@@ -811,6 +797,23 @@ https://ibis-dallas.com/use-marriott-point
 https://ibis-dallas.com/westin-siray-bay-phuket
 https://ibis-dallas.com/westin-yokohama
 https://ibis-dallas.com/yogyakarta-marriott-hotel
+
+## japan-travel (15件)
+https://ibis-dallas.com/beppu-hell
+https://ibis-dallas.com/centrair-airport-lounge
+https://ibis-dallas.com/centrair-airport-lounge-2
+https://ibis-dallas.com/centrair-prioritypass-amex
+https://ibis-dallas.com/fukuoka-airport-lounge
+https://ibis-dallas.com/ganrikisya-kyoto
+https://ibis-dallas.com/glover-garden
+https://ibis-dallas.com/gunkanjima
+https://ibis-dallas.com/iace-travel
+https://ibis-dallas.com/mitsubishi-nagasaki-museum
+https://ibis-dallas.com/nagasaki-lantern-festival
+https://ibis-dallas.com/naha-airport-lounge-hana
+https://ibis-dallas.com/nearme-airport
+https://ibis-dallas.com/rakuten-travel-marriott-bonvoy
+https://ibis-dallas.com/takasakiyama-monkey
 
 ## travel-abroad (33件)
 https://ibis-dallas.com/9-de-julio-buenos-aires
@@ -1006,7 +1009,7 @@ https://ibis-dallas.com/party
 https://ibis-dallas.com/qq-english
 https://ibis-dallas.com/voice-vote
 
-## 全記事URL一覧（746件・WP-CLIより取得）
+## 全記事URL一覧（749件・WP-CLIより取得）
 
 ※上記のカテゴリ別URLと重複する場合があります
 
@@ -1465,9 +1468,12 @@ https://ibis-dallas.com/marriott-dog-friendly
 https://ibis-dallas.com/marriott-free-night-award
 https://ibis-dallas.com/marriott-free-night-award-top-up-25000
 https://ibis-dallas.com/marriott-hotel-japan
+https://ibis-dallas.com/marriott-hotel-japan-baby-bed
 https://ibis-dallas.com/marriott-hotspring
 https://ibis-dallas.com/marriott-kaohsiung
 https://ibis-dallas.com/marriott-platinum-benefit
+https://ibis-dallas.com/marriott-platinum-breakfast-japan
+https://ibis-dallas.com/marriott-platinum-lounge-japan
 https://ibis-dallas.com/marriott-premium-brilliant-comparison
 https://ibis-dallas.com/marriott-premium-campaign
 https://ibis-dallas.com/marriott-premium-point-return
