@@ -7,6 +7,16 @@ on:
     paths:
       - '**/*.md'
 
+# デプロイの同時実行を禁止する（2026-07-29決定）。
+# 以前は同時実行制御がなく、複数のpush/リランのデプロイが重なった際に、
+# サーバー側の一時ファイル名が全実行で共通だったため、別々の実行が互いの
+# アップロード内容を読み違え、本文が別記事の内容に入れ替わったり空になる
+# 事故が発生した（2026-07-18、計7記事に影響）。cancel-in-progressはfalseにし、
+# 実行を中断させず順番待ちさせることで、デプロイの取りこぼしも防ぐ。
+concurrency:
+  group: wordpress-deploy
+  cancel-in-progress: false
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -15,7 +25,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 2
+          # push直前のコミット（github.event.before）との差分を正しく取るため、
+          # 履歴を十分な深さで取得する。以前はfetch-depth: 2 + `HEAD~1`比較だったため、
+          # 1回のpushに複数コミットが含まれると、直前以外のコミットで変更した
+          # ファイルが静かにデプロイから漏れる問題があった（2026-07-29発見・修正）。
+          fetch-depth: 0
 
       - name: Setup SSH
         run: |
@@ -33,40 +47,57 @@ jobs:
           SSH_HOST: ${{ secrets.SSH_HOST }}
           SSH_PORT: ${{ secrets.SSH_PORT }}
           SSH_USER: ${{ secrets.SSH_USER }}
+          RUN_TAG: ${{ github.run_id }}_${{ github.run_attempt }}
+          BEFORE_SHA: ${{ github.event.before }}
         run: |
           # SSH接続がハングした場合に約2分待たされるのを防ぐため接続タイムアウトを短く設定
           SSH_OPTS="-o ConnectTimeout=15 -o ServerAliveInterval=5 -o ServerAliveCountMax=3"
           FAILED_FILES=()
 
           # 1ファイル分のデプロイ（成功時0、失敗時1を返す。呼び出し側でリトライする）
+          # ローカル・リモートの一時ファイル名は RUN_TAG（実行ID+リトライ回数）と
+          # 投稿IDを含めてユニーク化し、他の実行と絶対に衝突しないようにする
+          # （2026-07-29決定：共有ファイル名によるレース条件が事故の根本原因だったため）。
           deploy_one() {
-            local file="$1" wp_id="$2" wp_title="$3"
+            local file="$1" wp_id="$2" wp_title="$3" local_tmp="$4"
+            local remote_tmp="tmp_wp_content_${RUN_TAG}_${wp_id}.txt"
 
             scp -P "$SSH_PORT" $SSH_OPTS -i ~/.ssh/deploy_key \
-                /tmp/wp_content.txt \
-                "${SSH_USER}@${SSH_HOST}:~/tmp_wp_content.txt" || return 1
+                "$local_tmp" \
+                "${SSH_USER}@${SSH_HOST}:~/${remote_tmp}" || return 1
 
             if [ -n "$wp_title" ]; then
               ssh -n -p "$SSH_PORT" $SSH_OPTS -i ~/.ssh/deploy_key \
                   "${SSH_USER}@${SSH_HOST}" \
                   "wp --path=/home/${SSH_USER}/ibis-dallas.com/public_html \
                    post update ${wp_id} \
-                   --post_content=\"\$(cat ~/tmp_wp_content.txt)\" \
+                   --post_content=\"\$(cat ~/${remote_tmp})\" \
                    --post_title=\"${wp_title}\" \
                    2>/dev/null \
                    && echo 'OK: post ${wp_id} updated' \
-                   && rm -f ~/tmp_wp_content.txt"
+                   && rm -f ~/${remote_tmp}"
             else
               ssh -n -p "$SSH_PORT" $SSH_OPTS -i ~/.ssh/deploy_key \
                   "${SSH_USER}@${SSH_HOST}" \
                   "wp --path=/home/${SSH_USER}/ibis-dallas.com/public_html \
                    post update ${wp_id} \
-                   --post_content=\"\$(cat ~/tmp_wp_content.txt)\" \
+                   --post_content=\"\$(cat ~/${remote_tmp})\" \
                    2>/dev/null \
                    && echo 'OK: post ${wp_id} updated (title unchanged)' \
-                   && rm -f ~/tmp_wp_content.txt"
+                   && rm -f ~/${remote_tmp}"
             fi
           }
+
+          # デプロイ対象ファイルの一覧を取得する。
+          # github.event.beforeとの差分を基本とし、初回push等でbeforeが
+          # 存在しない（全ゼロハッシュ）場合のみ HEAD~1 にフォールバックする。
+          if [ -z "$BEFORE_SHA" ] || [ "$BEFORE_SHA" = "0000000000000000000000000000000000000000" ] || ! git cat-file -e "$BEFORE_SHA" 2>/dev/null; then
+            echo "before SHAが利用できないため HEAD~1 との差分にフォールバックします"
+            DIFF_BASE="HEAD~1"
+          else
+            DIFF_BASE="$BEFORE_SHA"
+          fi
+          echo "diff base: $DIFF_BASE"
 
           # 変更されたファイルを取得（日本語パス対応のため -z オプション使用）
           while IFS= read -r file; do
@@ -81,15 +112,17 @@ jobs:
             fi
             WP_TITLE=$(head -5 "$file" | grep 'wp_title:' | sed 's/.*wp_title: //' | sed 's/ -->//')
 
-            # コメント行（wp_post_id / wp_title）を除いた本文を一時ファイルに書き出し
-            grep -v '<!-- wp_post_id:' "$file" | grep -v '<!-- wp_title:' > /tmp/wp_content.txt
+            # コメント行（wp_post_id / wp_title）を除いた本文を、このファイル専用の
+            # 一時ファイルに書き出す（ファイル名に投稿IDとRUN_TAGを含めてユニーク化）
+            LOCAL_TMP="/tmp/wp_content_${RUN_TAG}_${WP_ID}.txt"
+            grep -v '<!-- wp_post_id:' "$file" | grep -v '<!-- wp_title:' > "$LOCAL_TMP"
 
             echo "Deploying: $file → WP post $WP_ID"
 
             # 一時的なネットワーク瞬断で全体が巻き込まれないよう、1ファイルにつき最大3回リトライ
             SUCCESS=0
             for attempt in 1 2 3; do
-              if deploy_one "$file" "$WP_ID" "$WP_TITLE"; then
+              if deploy_one "$file" "$WP_ID" "$WP_TITLE" "$LOCAL_TMP"; then
                 SUCCESS=1
                 break
               fi
@@ -97,11 +130,13 @@ jobs:
               sleep 10
             done
 
+            rm -f "$LOCAL_TMP"
+
             if [ "$SUCCESS" -eq 0 ]; then
               echo "FAILED (after 3 attempts): $file → WP post $WP_ID"
               FAILED_FILES+=("$file (post $WP_ID)")
             fi
-          done < <(git diff -z --name-only HEAD~1 HEAD | tr '\0' '\n' | grep '\.md$')
+          done < <(git diff -z --name-only "$DIFF_BASE" HEAD | tr '\0' '\n' | grep '\.md$')
 
           # 1ファイルの失敗で残りが巻き込まれないよう、全ファイル処理後にまとめて結果判定する
           if [ "${#FAILED_FILES[@]}" -gt 0 ]; then
