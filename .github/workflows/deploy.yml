@@ -58,24 +58,37 @@ jobs:
           # ローカル・リモートの一時ファイル名は RUN_TAG（実行ID+リトライ回数）と
           # 投稿IDを含めてユニーク化し、他の実行と絶対に衝突しないようにする
           # （2026-07-29決定：共有ファイル名によるレース条件が事故の根本原因だったため）。
+          #
+          # タイトルも本文と同様に一時ファイル経由・$(cat ...)で読み込む（2026-07-29修正）。
+          # 以前は --post_title="${wp_title}" のようにタイトル文字列をコマンド文字列へ
+          # 直接埋め込んでいたため、この文字列がssh経由でリモート側シェルに再度解釈された際、
+          # タイトルに含まれる "$195" 等が位置パラメータ $1 + "95" として展開され、
+          # "$1"が空文字列に消えて "195"→"95"のようにタイトルが破損する事故が発生した
+          # （例：年会費$195→95、年間$240→40）。$(cat file)の出力はシェルに再展開されない
+          # ため、本文と同じ経由方法に統一することで根本的に回避する。
           deploy_one() {
-            local file="$1" wp_id="$2" wp_title="$3" local_tmp="$4"
+            local file="$1" wp_id="$2" local_tmp="$3" local_title_tmp="$4"
             local remote_tmp="tmp_wp_content_${RUN_TAG}_${wp_id}.txt"
+            local remote_title_tmp="tmp_wp_title_${RUN_TAG}_${wp_id}.txt"
 
             scp -P "$SSH_PORT" $SSH_OPTS -i ~/.ssh/deploy_key \
                 "$local_tmp" \
                 "${SSH_USER}@${SSH_HOST}:~/${remote_tmp}" || return 1
 
-            if [ -n "$wp_title" ]; then
+            if [ -s "$local_title_tmp" ]; then
+              scp -P "$SSH_PORT" $SSH_OPTS -i ~/.ssh/deploy_key \
+                  "$local_title_tmp" \
+                  "${SSH_USER}@${SSH_HOST}:~/${remote_title_tmp}" || return 1
+
               ssh -n -p "$SSH_PORT" $SSH_OPTS -i ~/.ssh/deploy_key \
                   "${SSH_USER}@${SSH_HOST}" \
                   "wp --path=/home/${SSH_USER}/ibis-dallas.com/public_html \
                    post update ${wp_id} \
                    --post_content=\"\$(cat ~/${remote_tmp})\" \
-                   --post_title=\"${wp_title}\" \
+                   --post_title=\"\$(cat ~/${remote_title_tmp})\" \
                    2>/dev/null \
                    && echo 'OK: post ${wp_id} updated' \
-                   && rm -f ~/${remote_tmp}"
+                   && rm -f ~/${remote_tmp} ~/${remote_title_tmp}"
             else
               ssh -n -p "$SSH_PORT" $SSH_OPTS -i ~/.ssh/deploy_key \
                   "${SSH_USER}@${SSH_HOST}" \
@@ -117,12 +130,16 @@ jobs:
             LOCAL_TMP="/tmp/wp_content_${RUN_TAG}_${WP_ID}.txt"
             grep -v '<!-- wp_post_id:' "$file" | grep -v '<!-- wp_title:' > "$LOCAL_TMP"
 
+            # タイトルも本文と同じく一時ファイル経由で渡す（$記号を含むタイトルの破損を防ぐため）
+            LOCAL_TITLE_TMP="/tmp/wp_title_${RUN_TAG}_${WP_ID}.txt"
+            printf '%s' "$WP_TITLE" > "$LOCAL_TITLE_TMP"
+
             echo "Deploying: $file → WP post $WP_ID"
 
             # 一時的なネットワーク瞬断で全体が巻き込まれないよう、1ファイルにつき最大3回リトライ
             SUCCESS=0
             for attempt in 1 2 3; do
-              if deploy_one "$file" "$WP_ID" "$WP_TITLE" "$LOCAL_TMP"; then
+              if deploy_one "$file" "$WP_ID" "$LOCAL_TMP" "$LOCAL_TITLE_TMP"; then
                 SUCCESS=1
                 break
               fi
@@ -130,7 +147,7 @@ jobs:
               sleep 10
             done
 
-            rm -f "$LOCAL_TMP"
+            rm -f "$LOCAL_TMP" "$LOCAL_TITLE_TMP"
 
             if [ "$SUCCESS" -eq 0 ]; then
               echo "FAILED (after 3 attempts): $file → WP post $WP_ID"
