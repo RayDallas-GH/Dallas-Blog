@@ -1,5 +1,5 @@
 <!-- wp_post_id: 13043 -->
-<!-- wp_title: Hilton Businessクレジットカード【2026年最新】年会費$195でゴールド会員＋年間$240Hiltonクレジット付与 -->
+<!-- wp_title: Hilton Businessクレジットカード【2026年最新】年会費95でゴールド会員＋年間40Hiltonクレジット付与 -->
 
 <!-- wp:paragraph -->
 <p><strong>【2026年最新情報】</strong>Hilton Businessクレジットカードは、年会費$195にもかかわらず、朝食無料のゴールド会員資格と年間$240のHiltonクレジットが得られる、高コスパのビジネス向けHiltonカードです。</p>
@@ -782,4 +782,3 @@
 <!-- wp:paragraph -->
 <p>2025年12月：記事構造を全面刷新し、比較表・特典情報を最新化</p>
 <!-- /wp:paragraph -->
-

@@ -501,4 +501,3 @@
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/chase-sapphire-preferred-creditcard-wife"]
 <!-- /wp:shortcode -->
-
