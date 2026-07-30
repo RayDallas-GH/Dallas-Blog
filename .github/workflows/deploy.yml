@@ -66,6 +66,14 @@ jobs:
           # "$1"が空文字列に消えて "195"→"95"のようにタイトルが破損する事故が発生した
           # （例：年会費$195→95、年間$240→40）。$(cat file)の出力はシェルに再展開されない
           # ため、本文と同じ経由方法に統一することで根本的に回避する。
+          # 行末の空白・末尾改行の差だけで別内容と誤判定しないよう正規化してから比較する
+          # (command substitution `$(...)` は末尾の改行を自動的に取り除く性質を利用している)
+          normalize() {
+            local content
+            content=$(sed -e 's/[[:space:]]*$//' "$1")
+            printf '%s' "$content"
+          }
+
           deploy_one() {
             local file="$1" wp_id="$2" local_tmp="$3" local_title_tmp="$4"
             local remote_tmp="tmp_wp_content_${RUN_TAG}_${wp_id}.txt"
@@ -75,6 +83,9 @@ jobs:
                 "$local_tmp" \
                 "${SSH_USER}@${SSH_HOST}:~/${remote_tmp}" || return 1
 
+            # 2>/dev/null は削除(2026-07-30決定)。wp-cliの実際のエラーメッセージを
+            # GitHub Actionsのログにそのまま出す。以前はエラーを握りつぶしていたため、
+            # 更新が失敗していても原因が一切見えなかった。
             if [ -s "$local_title_tmp" ]; then
               scp -P "$SSH_PORT" $SSH_OPTS -i ~/.ssh/deploy_key \
                   "$local_title_tmp" \
@@ -86,18 +97,47 @@ jobs:
                    post update ${wp_id} \
                    --post_content=\"\$(cat ~/${remote_tmp})\" \
                    --post_title=\"\$(cat ~/${remote_title_tmp})\" \
-                   2>/dev/null \
                    && echo 'OK: post ${wp_id} updated' \
-                   && rm -f ~/${remote_tmp} ~/${remote_title_tmp}"
+                   && rm -f ~/${remote_tmp} ~/${remote_title_tmp}" || return 1
             else
               ssh -n -p "$SSH_PORT" $SSH_OPTS -i ~/.ssh/deploy_key \
                   "${SSH_USER}@${SSH_HOST}" \
                   "wp --path=/home/${SSH_USER}/ibis-dallas.com/public_html \
                    post update ${wp_id} \
                    --post_content=\"\$(cat ~/${remote_tmp})\" \
-                   2>/dev/null \
                    && echo 'OK: post ${wp_id} updated (title unchanged)' \
-                   && rm -f ~/${remote_tmp}"
+                   && rm -f ~/${remote_tmp}" || return 1
+            fi
+
+            # 読み戻し検証(2026-07-30決定):WordPress側に実際に反映された内容を取得し、
+            # 送信したはずの内容とdiffで突き合わせる。原因を問わず(レース条件・
+            # シェル再解釈・その他未知の経路)、送信内容と食い違えば機械的に検知する。
+            local verify_content_tmp="/tmp/verify_content_${RUN_TAG}_${wp_id}.txt"
+            ssh -n -p "$SSH_PORT" $SSH_OPTS -i ~/.ssh/deploy_key \
+                "${SSH_USER}@${SSH_HOST}" \
+                "wp --path=/home/${SSH_USER}/ibis-dallas.com/public_html \
+                 post get ${wp_id} --field=content" > "$verify_content_tmp"
+
+            if ! diff -q <(normalize "$local_tmp") <(normalize "$verify_content_tmp") > /dev/null; then
+              echo "MISMATCH (content): post ${wp_id} は送信内容と一致しません"
+              rm -f "$verify_content_tmp"
+              return 1
+            fi
+            rm -f "$verify_content_tmp"
+
+            if [ -s "$local_title_tmp" ]; then
+              local verify_title_tmp="/tmp/verify_title_${RUN_TAG}_${wp_id}.txt"
+              ssh -n -p "$SSH_PORT" $SSH_OPTS -i ~/.ssh/deploy_key \
+                  "${SSH_USER}@${SSH_HOST}" \
+                  "wp --path=/home/${SSH_USER}/ibis-dallas.com/public_html \
+                   post get ${wp_id} --field=post_title" > "$verify_title_tmp"
+
+              if ! diff -q <(normalize "$local_title_tmp") <(normalize "$verify_title_tmp") > /dev/null; then
+                echo "MISMATCH (title): post ${wp_id} は送信タイトルと一致しません"
+                rm -f "$verify_title_tmp"
+                return 1
+              fi
+              rm -f "$verify_title_tmp"
             fi
           }
 
