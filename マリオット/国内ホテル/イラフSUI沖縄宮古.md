@@ -170,6 +170,14 @@
 <p>ズームでドン！</p>
 <p><img class="aligncenter size-large wp-image-15412" src="https://ibis-dallas.com/wp-content/uploads/2021/12/IMG_3204-1024x768.jpg" alt="イラフSUI沖縄宮古の朝食" width="728" height="546"></p>
 <p>ポイント宿泊だと30％オフで食べられるのでオーシャンビュー見ながらのブレックファスト、いかがでしょうか？</p>
+
+<!-- wp:paragraph -->
+<p>マリオット系列の他ホテルの朝食内容や無料条件は、以下の一覧記事にまとめています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-platinum-breakfast-japan"]
+<!-- /wp:shortcode -->
 <h2 id="anker5">アクティビティが豊富</h2>
 <p>イラフSUIはアクティビティが豊富でした。</p>
 <p>無料のアクティビティもあるので時間に都合つけて参加してみてください。</p>

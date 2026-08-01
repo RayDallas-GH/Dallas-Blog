@@ -299,6 +299,14 @@
 <p>やよい軒の朝食定食は品質が安定しており、リーズナブルな価格で満足度の高い朝食を楽しめます。</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:paragraph -->
+<p>マリオット系列の他ホテルの朝食内容や無料条件は、以下の一覧記事にまとめています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-platinum-breakfast-japan"]
+<!-- /wp:shortcode -->
+
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker5">フォーポイント フレックス by シェラトン新大阪のホテル施設</h2>
 <!-- /wp:heading -->

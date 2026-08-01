@@ -768,5 +768,8 @@
 [nlink url="https://ibis-dallas.com/millenvpn"]
 <!-- /wp:shortcode -->
 <!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/suika-vpn"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/transferwise"]
 <!-- /wp:shortcode -->

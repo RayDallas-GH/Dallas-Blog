@@ -1062,6 +1062,14 @@
 <p>厳選された食材と職人の技術が融合した、ラグジュアリーホテルならではの質の高い朝食をお楽しみいただけます。</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:paragraph -->
+<p>マリオット系列の他ホテルの朝食内容や無料条件は、以下の一覧記事にまとめています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-platinum-breakfast-japan"]
+<!-- /wp:shortcode -->
+
 <!-- wp:heading -->
 <h2 class="wp-block-heading">マリオットカードでお得に泊まろう</h2>
 <!-- /wp:heading -->

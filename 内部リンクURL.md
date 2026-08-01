@@ -208,7 +208,7 @@ https://ibis-dallas.com/social-security-number
 https://ibis-dallas.com/uber
 https://ibis-dallas.com/usa-telephone-alphabet
 
-## カテゴリー別記事分類（749件・WordPressカテゴリー設定より取得）
+## カテゴリー別記事分類（750件・WordPressカテゴリー設定より取得）
 
 ## america-travel (96件)
 https://ibis-dallas.com/airalo
@@ -850,7 +850,7 @@ https://ibis-dallas.com/supershuttle-cancun-pickup
 https://ibis-dallas.com/tulum-ruins
 https://ibis-dallas.com/yia-concordia-lounge
 
-## working-abroad (139件)
+## working-abroad (140件)
 https://ibis-dallas.com/1password-creditcard
 https://ibis-dallas.com/1password-price
 https://ibis-dallas.com/advice-for-japanese-who-work-with-americans
@@ -887,6 +887,7 @@ https://ibis-dallas.com/emergency-roadside-service
 https://ibis-dallas.com/failure-driver-license
 https://ibis-dallas.com/finviz
 https://ibis-dallas.com/foreign-tax-credit
+https://ibis-dallas.com/forex-gain-tax-repatriation
 https://ibis-dallas.com/good-products-2021
 https://ibis-dallas.com/greeting
 https://ibis-dallas.com/hair-dryer-overseas
@@ -1009,7 +1010,7 @@ https://ibis-dallas.com/party
 https://ibis-dallas.com/qq-english
 https://ibis-dallas.com/voice-vote
 
-## 全記事URL一覧（749件・WP-CLIより取得）
+## 全記事URL一覧（750件・WP-CLIより取得）
 
 ※上記のカテゴリ別URLと重複する場合があります
 
@@ -1242,6 +1243,7 @@ https://ibis-dallas.com/fiveguys
 https://ibis-dallas.com/flightmuseum-dallas-lovefield
 https://ibis-dallas.com/flixbus
 https://ibis-dallas.com/foreign-tax-credit
+https://ibis-dallas.com/forex-gain-tax-repatriation
 https://ibis-dallas.com/fort-sumter
 https://ibis-dallas.com/fort-worth-art
 https://ibis-dallas.com/fortworth-stockyards

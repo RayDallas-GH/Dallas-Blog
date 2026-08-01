@@ -822,5 +822,8 @@
 [nlink url="https://ibis-dallas.com/nordvpn"]
 <!-- /wp:shortcode -->
 <!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/suika-vpn"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/transferwise"]
 <!-- /wp:shortcode -->

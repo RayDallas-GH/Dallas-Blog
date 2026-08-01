@@ -431,6 +431,14 @@
 <!-- /wp:gallery -->
 
 <!-- wp:paragraph -->
+<p>マリオット系列のラウンジの営業時間や提供内容は、以下の一覧記事で比較できます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-platinum-lounge-japan"]
+<!-- /wp:shortcode -->
+
+<!-- wp:paragraph -->
 <p>こうしたラウンジ利用も、カードを持っていれば上級会員特典として使えるようになります。</p>
 <!-- /wp:paragraph -->
 
@@ -705,6 +713,14 @@
 <figure class="wp-block-image size-large"><img src="https://ibis-dallas.com/wp-content/uploads/2022/11/IMG_5930-scaled.jpg" alt="JWマリオットホテル奈良の朝食" class="wp-image-18076"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
+
+<!-- wp:paragraph -->
+<p>マリオット系列の他ホテルの朝食内容や無料条件は、以下の一覧記事にまとめています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/marriott-platinum-breakfast-japan"]
+<!-- /wp:shortcode -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker6">JWマリオットホテル奈良のフィットネス</h2>
