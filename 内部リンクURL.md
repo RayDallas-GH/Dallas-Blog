@@ -208,7 +208,7 @@ https://ibis-dallas.com/social-security-number
 https://ibis-dallas.com/uber
 https://ibis-dallas.com/usa-telephone-alphabet
 
-## カテゴリー別記事分類（750件・WordPressカテゴリー設定より取得）
+## カテゴリー別記事分類（752件・WordPressカテゴリー設定より取得）
 
 ## america-travel (96件)
 https://ibis-dallas.com/airalo
@@ -740,7 +740,7 @@ https://ibis-dallas.com/intercontinental-ishigaki
 https://ibis-dallas.com/intercontinental-manza
 https://ibis-dallas.com/intercontinental-yokohama-grand
 
-## hotels/marriott-hotels (56件)
+## hotels/marriott-hotels (58件)
 https://ibis-dallas.com/aloft-osaka-dojima
 https://ibis-dallas.com/biwako-marriott
 https://ibis-dallas.com/cicada-resort-bali-ubud-autograph-collection
@@ -788,12 +788,14 @@ https://ibis-dallas.com/renaissance-okinawa
 https://ibis-dallas.com/renaissance-sao-paulo-hotel
 https://ibis-dallas.com/ritz-carlton-nikko
 https://ibis-dallas.com/ritz-carlton-okinawa
+https://ibis-dallas.com/ritz-carlton-reserve-niseko
 https://ibis-dallas.com/royal-orchid-sheraton-riverside-bangkok
 https://ibis-dallas.com/sheraton-grand-hiroshima
 https://ibis-dallas.com/sheraton-jakarta-soekarno-hatta-airport
 https://ibis-dallas.com/sheraton-okinawa-sunmarina-resort
 https://ibis-dallas.com/status-match-marriott-hilton
 https://ibis-dallas.com/use-marriott-point
+https://ibis-dallas.com/westin-rusutsu
 https://ibis-dallas.com/westin-siray-bay-phuket
 https://ibis-dallas.com/westin-yokohama
 https://ibis-dallas.com/yogyakarta-marriott-hotel
@@ -1010,7 +1012,7 @@ https://ibis-dallas.com/party
 https://ibis-dallas.com/qq-english
 https://ibis-dallas.com/voice-vote
 
-## 全記事URL一覧（750件・WP-CLIより取得）
+## 全記事URL一覧（752件・WP-CLIより取得）
 
 ※上記のカテゴリ別URLと重複する場合があります
 
@@ -1588,6 +1590,7 @@ https://ibis-dallas.com/review-hondaseiroku-zaisan
 https://ibis-dallas.com/rimawarikun
 https://ibis-dallas.com/ritz-carlton-nikko
 https://ibis-dallas.com/ritz-carlton-okinawa
+https://ibis-dallas.com/ritz-carlton-reserve-niseko
 https://ibis-dallas.com/robinhood
 https://ibis-dallas.com/roku-kyoto
 https://ibis-dallas.com/roku-kyoto-diamond-credit
@@ -1745,6 +1748,7 @@ https://ibis-dallas.com/water-charges-2019
 https://ibis-dallas.com/water-lantern-festival
 https://ibis-dallas.com/weekly-lalala
 https://ibis-dallas.com/west-elm
+https://ibis-dallas.com/westin-rusutsu
 https://ibis-dallas.com/westin-siray-bay-phuket
 https://ibis-dallas.com/westin-yokohama
 https://ibis-dallas.com/what-young-americans-know-about-history
