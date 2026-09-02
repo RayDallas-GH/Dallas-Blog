@@ -1085,3 +1085,7 @@ msmaflink({"n":"パナソニック スチーマー ナノケア コンパクト�
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/hilton-hotel-japan"]
 <!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-diamond-lounge-japan"]
+<!-- /wp:shortcode -->

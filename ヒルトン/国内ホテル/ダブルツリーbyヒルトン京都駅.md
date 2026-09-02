@@ -571,3 +571,9 @@
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/hilton-creditcard-comparison"]
 <!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-hotel-japan-baby-bed"]
+<!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-diamond-lounge-japan"]
+<!-- /wp:shortcode -->

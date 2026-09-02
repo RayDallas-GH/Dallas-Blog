@@ -208,7 +208,7 @@ https://ibis-dallas.com/social-security-number
 https://ibis-dallas.com/uber
 https://ibis-dallas.com/usa-telephone-alphabet
 
-## カテゴリー別記事分類（752件・WordPressカテゴリー設定より取得）
+## カテゴリー別記事分類（754件・WordPressカテゴリー設定より取得）
 
 ## america-travel (96件)
 https://ibis-dallas.com/airalo
@@ -656,7 +656,7 @@ https://ibis-dallas.com/the-terrace-club-at-busena-breakfast
 https://ibis-dallas.com/the-terrace-club-at-busena-lounge
 https://ibis-dallas.com/toyoko-inn-centrair
 
-## hotels/hilton-hotels (52件)
+## hotels/hilton-hotels (54件)
 https://ibis-dallas.com/canopy-miyakojima
 https://ibis-dallas.com/canopy-osaka
 https://ibis-dallas.com/conrad-osaka
@@ -675,6 +675,7 @@ https://ibis-dallas.com/five-spring-resort-the-shirahama
 https://ibis-dallas.com/hilton-benefit-for-others
 https://ibis-dallas.com/hilton-copacabana-riodejaneiro
 https://ibis-dallas.com/hilton-diamond-benefits
+https://ibis-dallas.com/hilton-diamond-lounge-japan
 https://ibis-dallas.com/hilton-diamond-reserve
 https://ibis-dallas.com/hilton-dog-friendly
 https://ibis-dallas.com/hilton-free-night
@@ -683,6 +684,7 @@ https://ibis-dallas.com/hilton-garden-inn-kyoto
 https://ibis-dallas.com/hilton-gold-benefits
 https://ibis-dallas.com/hilton-hiroshima
 https://ibis-dallas.com/hilton-hotel-japan
+https://ibis-dallas.com/hilton-hotel-japan-baby-bed
 https://ibis-dallas.com/hilton-member-5th-anniversary
 https://ibis-dallas.com/hilton-nagoya
 https://ibis-dallas.com/hilton-niseko-village
@@ -1012,7 +1014,7 @@ https://ibis-dallas.com/party
 https://ibis-dallas.com/qq-english
 https://ibis-dallas.com/voice-vote
 
-## 全記事URL一覧（752件・WP-CLIより取得）
+## 全記事URL一覧（754件・WP-CLIより取得）
 
 ※上記のカテゴリ別URLと重複する場合があります
 
@@ -1309,6 +1311,7 @@ https://ibis-dallas.com/hilton-classic-point-return
 https://ibis-dallas.com/hilton-copacabana-riodejaneiro
 https://ibis-dallas.com/hilton-creditcard-comparison
 https://ibis-dallas.com/hilton-diamond-benefits
+https://ibis-dallas.com/hilton-diamond-lounge-japan
 https://ibis-dallas.com/hilton-diamond-reserve
 https://ibis-dallas.com/hilton-dog-friendly
 https://ibis-dallas.com/hilton-free-night
@@ -1318,6 +1321,7 @@ https://ibis-dallas.com/hilton-gold-benefits
 https://ibis-dallas.com/hilton-hiroshima
 https://ibis-dallas.com/hilton-honors-creditcard
 https://ibis-dallas.com/hilton-hotel-japan
+https://ibis-dallas.com/hilton-hotel-japan-baby-bed
 https://ibis-dallas.com/hilton-member-5th-anniversary
 https://ibis-dallas.com/hilton-nagoya
 https://ibis-dallas.com/hilton-niseko-village

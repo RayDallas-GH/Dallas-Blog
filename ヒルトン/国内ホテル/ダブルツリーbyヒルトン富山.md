@@ -1162,3 +1162,6 @@
 <!-- wp:shortcode -->
 [nlink url="https://ibis-dallas.com/doubletree-by-hilton-kyoto-higashiyama"]
 <!-- /wp:shortcode -->
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-hotel-japan-baby-bed"]
+<!-- /wp:shortcode -->
