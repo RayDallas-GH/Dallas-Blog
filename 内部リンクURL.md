@@ -149,6 +149,7 @@ https://ibis-dallas.com/marriott-platinum-lounge-japan
 https://ibis-dallas.com/mesm-tokyo
 https://ibis-dallas.com/moxy-osaka-honmachi
 https://ibis-dallas.com/moxy-osaka-shin-umeda
+https://ibis-dallas.com/nagasaki-marriott
 https://ibis-dallas.com/nagoya-marriott-associa
 https://ibis-dallas.com/nightly-upgrade-awards
 https://ibis-dallas.com/osaka-station-hotel-autograph-collection
@@ -742,7 +743,7 @@ https://ibis-dallas.com/intercontinental-ishigaki
 https://ibis-dallas.com/intercontinental-manza
 https://ibis-dallas.com/intercontinental-yokohama-grand
 
-## hotels/marriott-hotels (58件)
+## hotels/marriott-hotels (59件)
 https://ibis-dallas.com/aloft-osaka-dojima
 https://ibis-dallas.com/biwako-marriott
 https://ibis-dallas.com/cicada-resort-bali-ubud-autograph-collection
@@ -782,6 +783,7 @@ https://ibis-dallas.com/marriott-platinum-lounge-japan
 https://ibis-dallas.com/mesm-tokyo
 https://ibis-dallas.com/moxy-osaka-honmachi
 https://ibis-dallas.com/moxy-osaka-shin-umeda
+https://ibis-dallas.com/nagasaki-marriott
 https://ibis-dallas.com/nagoya-marriott-associa
 https://ibis-dallas.com/nanki-shirahama-marriott
 https://ibis-dallas.com/nightly-upgrade-awards
