@@ -165,10 +165,11 @@ jobs:
             fi
             WP_TITLE=$(head -5 "$file" | grep 'wp_title:' | sed 's/.*wp_title: //' | sed 's/ -->//')
 
-            # コメント行（wp_post_id / wp_title）を除いた本文を、このファイル専用の
-            # 一時ファイルに書き出す（ファイル名に投稿IDとRUN_TAGを含めてユニーク化）
+            # コメント行（wp_post_id / wp_title / eyecatch / post_date）を除いた本文を、
+            # このファイル専用の一時ファイルに書き出す（ファイル名に投稿IDとRUN_TAGを含めてユニーク化）
+            # eyecatch・post_dateはWP側メタデータの記録用メモであり、post_contentには含めない
             LOCAL_TMP="/tmp/wp_content_${RUN_TAG}_${WP_ID}.txt"
-            grep -v '<!-- wp_post_id:' "$file" | grep -v '<!-- wp_title:' > "$LOCAL_TMP"
+            grep -v '<!-- wp_post_id:' "$file" | grep -v '<!-- wp_title:' | grep -v '<!-- eyecatch:' | grep -v '<!-- post_date:' > "$LOCAL_TMP"
 
             # タイトルも本文と同じく一時ファイル経由で渡す（$記号を含むタイトルの破損を防ぐため）
             LOCAL_TITLE_TMP="/tmp/wp_title_${RUN_TAG}_${WP_ID}.txt"
