@@ -23,6 +23,8 @@ wp-cli経由で実際のWPの状態を機械的に確認する。
 使い方:
   check_wp_state.py <file1.md> [file2.md ...]
 """
+from __future__ import annotations   # macOS標準のPython3.9でも動かすため
+
 import html
 import json
 import re

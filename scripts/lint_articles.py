@@ -43,6 +43,8 @@ WP側の状態（アイキャッチ・カテゴリー・スラッグ・下書き
 使い方:
   lint_articles.py <changed_file1.md> [changed_file2.md ...] --new <new_file1.md> [...]
 """
+from __future__ import annotations   # macOS標準のPython3.9でも動かすため
+
 import re
 import sys
 from pathlib import Path

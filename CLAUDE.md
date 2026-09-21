@@ -701,6 +701,43 @@ wp post update POST_ID --post_name=新しいスラッグ
 
 ---
 
+## 下書き記事を公開するときの手順（2026-09-21追加）
+
+予約投稿・公開のタイミングでやることをコマンド付きでまとめる。**AIの支援なしでもこの手順だけで完結する。**
+
+```bash
+# 0. SSHでサーバーに入る（別ターミナル）。以降の wp コマンドはサーバー上で実行
+xsv
+wp --path=/home/tokitoki777/ibis-dallas.com/public_html post update POST_ID --post_status=future
+#   ※ post_date は既に19:00に設定済み。post_status と post_date を1コマンドでまとめると即時公開の事故になる
+```
+
+```bash
+# 1. 公開済みURL一覧を最新化（ローカルのリポジトリで）
+./scripts/update_internal_links.sh
+
+# 2. 繰延していた項目を片付ける
+cat scripts/deferred_checks.tsv        # 残っている宿題を確認
+#   → 本文に必要な [nlink] を追加し、まとめ記事側にも相互リンクを入れる
+#   → 対応したら deferred_checks.tsv の該当行を削除する
+
+# 3. チェックを回してPASSを確認（エラーが出たら直して再実行）
+./scripts/finish_article.sh 記事のパス.md
+
+# 4. push（pre-pushフックが再度チェックし、GitHub ActionsがWPへ反映）
+git add -A && git commit -m "公開対応" && git push
+
+# 5. デプロイ結果を確認（SSHタイムアウトで失敗することがある）
+gh run list --limit 3
+gh run rerun <RUN_ID> --failed      # failure があれば再実行
+```
+
+**リッツカールトン福岡の2記事（2026-10-01・10-02公開予定）の宿題**
+- クラブラウンジ記事（post 33713）に `[nlink url="https://ibis-dallas.com/marriott-hotel-japan"]` を追加し、`マリオット/General/日本国内マリオット系列ホテル一覧【2026年版】.md` 側にもラウンジ記事へのリンクを入れる
+- 本編（post 33611）とラウンジ記事は既に相互リンク済み。公開後に手順1を実行すれば警告は消える
+
+---
+
 ## Yadokkoカード（予約ウィジェット）
 
 **2026-07-09にHotelier7から完全移行済み。旧`[hotelier id="XXXXX"]`は使わない。**
