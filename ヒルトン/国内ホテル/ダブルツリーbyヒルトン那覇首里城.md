@@ -417,6 +417,10 @@
 [nlink url="https://ibis-dallas.com/hilton-classic-card-japan"]
 <!-- /wp:shortcode -->
 
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-diamond-benefits"]
+<!-- /wp:shortcode -->
+
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker3">ダブルツリーbyヒルトン那覇首里城の客室</h2>
 <!-- /wp:heading -->

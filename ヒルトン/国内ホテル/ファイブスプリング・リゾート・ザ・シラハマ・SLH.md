@@ -327,6 +327,10 @@
 <p>朝の温泉プールや大浴場をゆったり満喫してからチェックアウトできるのはありがたいです。</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-diamond-benefits"]
+<!-- /wp:shortcode -->
+
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker3">ファイブスプリング・リゾート・ザ・シラハマ・SLHの客室（全室スイート）</h2>
 <!-- /wp:heading -->
@@ -861,6 +865,11 @@ msmaflink({"n":"【公式ストア限定】リファビューテックドライ�
 <!-- wp:paragraph -->
 <p><strong>どちらも申込み後すぐにヒルトンゴールド会員資格が自動付与</strong>され、一般会員では40泊以上の宿泊が必要な特典を初日から享受できます！</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-gold-benefits"]
+<!-- /wp:shortcode -->
+
 
 <!-- wp:shortcode -->
 [gallery columns="2" link="none" size="full" ids="22604,22605"]

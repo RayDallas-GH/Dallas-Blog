@@ -425,6 +425,10 @@
 [yadokko id="32419"]
 <!-- /wp:shortcode -->
 
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-diamond-benefits"]
+<!-- /wp:shortcode -->
+
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker3">ROKU KYOTOのエクスペリエンスクレジット</h2>
 <!-- /wp:heading -->

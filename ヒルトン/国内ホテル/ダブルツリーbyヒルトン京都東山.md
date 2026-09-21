@@ -223,6 +223,10 @@
 <p>ダブルツリーbyヒルトン京都東山のカクテルタイムの様子は<a href="#anker4" title="">こちら</a>。</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-diamond-benefits"]
+<!-- /wp:shortcode -->
+
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker3">ダブルツリーbyヒルトン京都東山の客室（ダイヤモンドでツインプレミアムにアップグレード）</h2>
 <!-- /wp:heading -->
@@ -711,6 +715,11 @@
 <li>ヒルトンオナーズ・アメリカンエキスプレスプレミアムカード</li>
 </ol>
 <p><strong>どちらも申込み後すぐにヒルトンゴールド会員資格が自動付与</strong>され、一般会員では40泊以上の宿泊が必要な特典を初日から享受できます！</p>
+
+<!-- wp:shortcode -->
+[nlink url="https://ibis-dallas.com/hilton-gold-benefits"]
+<!-- /wp:shortcode -->
+
 <p>[gallery columns="2" link="none" size="full" ids="22604,22605"]</p>
 <h4>1. ヒルトンオナーズ・アメリカンエキスプレスカード</h4>
 <p><strong>年会費16,500円（税込）</strong></p>
