@@ -1,0 +1,6 @@
+# 「今は対応できないが忘れてはいけない」チェック項目の繰延登録。
+# 形式: ファイルパス<TAB>チェックID<TAB>理由（対応予定を書く）
+# 登録された項目はエラーではなく [繰延] 付きの警告として毎回表示される。
+# 対応したら必ずこの行を削除する。
+# チェックID: summary_nlink / h2_image / one_sentence / sentence_endings / trust_box / stay_data_box
+マリオット/国内ホテル/リッツカールトン福岡クラブラウンジ.md	summary_nlink	記事公開（2026-10-02予定）後に、marriott-hotel-japan との双方向リンクを設定する

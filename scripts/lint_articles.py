@@ -51,6 +51,17 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 INTERNAL_LINKS_FILE = REPO_ROOT / "内部リンクURL.md"
 # check_wp_state.py がWP側で実在を確認した未公開スラッグ（相互リンクしあう下書き記事用）
 PENDING_SLUGS_FILE = REPO_ROOT / "scripts" / "pending_slugs.txt"
+# 「今は対応できないが忘れてはいけない」項目の繰延登録（例：公開後でないと張れない相互リンク）。
+# 形式: ファイルパス<TAB>チェックID<TAB>理由。該当エラーは [繰延] 付きの警告に落とし、実行のたびに表示する。
+DEFERRED_FILE = REPO_ROOT / "scripts" / "deferred_checks.tsv"
+DEFERRABLE_CHECKS = {
+    "summary_nlink": "一覧まとめ記事への[nlink]が見つかりません",
+    "h2_image": "の直下に画像（wp:image / wp:gallery）がありません",
+    "one_sentence": "1段落に2文以上入っています",
+    "sentence_endings": "連続しています（2連続まで）",
+    "trust_box": "「本記事の信頼性」ボックス",
+    "stay_data_box": "「今回の宿泊データ」ボックスが見つかりません",
+}
 
 SUMMARY_URLS = {
     "hilton-hotel-japan",
@@ -69,6 +80,35 @@ def load_known_slugs() -> set[str]:
     for m in re.finditer(r"https://ibis-dallas\.com/([a-z0-9\-]+)", text):
         slugs.add(m.group(1))
     return slugs
+
+
+def load_deferred(path: Path) -> list[tuple[str, str]]:
+    """このファイルに登録された繰延項目 [(チェックID, 理由), ...] を返す。"""
+    if not DEFERRED_FILE.exists():
+        return []
+    out = []
+    for line in DEFERRED_FILE.read_text(encoding="utf-8").splitlines():
+        if not line.strip() or line.startswith("#"):
+            continue
+        cols = line.split("\t")
+        if len(cols) >= 2 and cols[0].strip() == str(path):
+            out.append((cols[1].strip(), cols[2].strip() if len(cols) > 2 else ""))
+    return out
+
+
+def apply_deferrals(path: Path, errors: list[str], warnings: list[str]) -> tuple[list[str], list[str]]:
+    deferred = load_deferred(path)
+    if not deferred:
+        return errors, warnings
+    remaining = []
+    for e in errors:
+        hit = next((d for d in deferred
+                    if d[0] in DEFERRABLE_CHECKS and DEFERRABLE_CHECKS[d[0]] in e), None)
+        if hit:
+            warnings.append(f"[繰延] {e}（理由: {hit[1] or '未記入'} / {DEFERRED_FILE.name} に登録済み）")
+        else:
+            remaining.append(e)
+    return remaining, warnings
 
 
 def load_pending_slugs() -> set[str]:
@@ -406,6 +446,7 @@ def main(changed_files: list[str], new_files: list[str], nlink_warn_only: bool =
             errors.extend(new_errors)
             warnings.extend(new_warnings)
 
+        errors, warnings = apply_deferrals(path, errors, warnings)
         errors = list(dict.fromkeys(errors))
         warnings = list(dict.fromkeys(warnings))
 
