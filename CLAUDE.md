@@ -557,6 +557,7 @@ wp post meta update POST_ID _thumbnail_id MEDIA_ID
 | A | ヒルトン記事の「本記事の信頼性」ボックスが `ヒルトン/General/本記事の信頼性.md` の定型文と一致するか |
 | A | 全角英数字の混入（警告） |
 | A | `[nlink]` のリンク切れ、トマレバ残骸、外部リンクのrel="nofollow"、アンカーリンク切れ |
+| A | 「下記の別記事で紹介しています」等と案内しているのに直後に`[nlink]`が無い箇所（警告） |
 | A | 未公開スラッグへの`[nlink]`は、B層がWP側で下書きの実在を確認したものだけ警告扱い（`scripts/pending_slugs.txt`に自動記録。打ち間違いは従来どおりエラー） |
 | A | 宿泊記の必須要件（まとめ記事への双方向nlink・朝食H2・Yadokkoカード枚数・`id="anker-card"`） |
 | B | アイキャッチ画像（`_thumbnail_id`）の設定 |

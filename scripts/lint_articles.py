@@ -359,6 +359,24 @@ def check_consecutive_images(text: str) -> list[str]:
     return errors
 
 
+LINK_PROMISE_RE = re.compile(r"(下記|以下|こちら)の?[^。]{0,12}(記事|まとめ)[^。]{0,20}(紹介|まとめ|解説|書い|詳しく)")
+
+
+def check_link_promise(text: str) -> list[str]:
+    """「下記の別記事で紹介しています」と書いてあるのに、その直後に[nlink]が無い箇所を拾う。
+    リンクが別セクションにあると、読者は案内された先を見つけられない
+    （2026-09-21にリッツ福岡のクラブラウンジ節で実際に発生）。"""
+    warnings = []
+    for m in re.finditer(r"<p>(.*?)</p>", text, re.DOTALL):
+        plain = re.sub(r"<[^>]+>", "", m.group(1)).strip()
+        if not LINK_PROMISE_RE.search(plain):
+            continue
+        after = text[m.end(): m.end() + 600]
+        if "[nlink" not in after and "[kurepochi" not in after and "<a href" not in m.group(1):
+            warnings.append(f"「{plain[:32]}…」と案内していますが、直後に[nlink]が見つかりません")
+    return warnings
+
+
 def check_emoji(text: str) -> list[str]:
     """本文の絵文字。WPがエンティティ化してデプロイ読み戻し検証が落ちる。"""
     found = sorted(set(EMOJI_NON_BMP_RE.findall(text)))
@@ -422,6 +440,7 @@ def check_style(path: Path, text: str) -> tuple[list[str], list[str]]:
     errors.extend(check_one_sentence_per_paragraph(body))
     errors.extend(check_repeated_sentence_endings(body))
     errors.extend(check_emoji(text))
+    warnings.extend(check_link_promise(body))
     warnings.extend(check_emoji_bmp(text))
     warnings.extend(check_fullwidth_alnum(text))
     if "ヒルトン" in path.parts:
