@@ -38,6 +38,11 @@ SSH = [
 WP = "wp --path=/home/tokitoki777/ibis-dallas.com/public_html eval-file - 2>&1"
 
 DRAFT_STATUSES = {"draft", "pending", "future", "auto-draft"}
+# WP側で実在を確認できた未公開スラッグのキャッシュ。
+# pre-pushフック（lint_articles.py）は 内部リンクURL.md に無いスラッグをエラーにするが、
+# 相互リンクしあう下書き記事はどちらも未公開でエラーになりpushできない。
+# 「WPに下書きとして実在する」ことをここで確認したものだけを記録し、lint側は警告に落とす。
+PENDING_SLUGS_FILE = Path(__file__).resolve().parent / "pending_slugs.txt"
 UNCATEGORIZED = {"未分類", "Uncategorized"}
 FILENAME_LIKE = re.compile(r"^(IMG[_-]?\d+|DSC[_-]?\d+|PXL[_-]?\d+|image\d*|photo\d*|スクリーンショット.*)$", re.IGNORECASE)
 
@@ -124,6 +129,25 @@ def normalize(text: str) -> str:
     return "\n".join(line.rstrip() for line in text.strip().split("\n"))
 
 
+def update_pending_slugs(slug_status: dict) -> None:
+    """未公開スラッグのキャッシュを更新する（公開済みになったスラッグは削除）。"""
+    if not slug_status:
+        return
+    current = set()
+    if PENDING_SLUGS_FILE.exists():
+        current = {l.strip() for l in PENDING_SLUGS_FILE.read_text(encoding="utf-8").splitlines()
+                   if l.strip() and not l.startswith("#")}
+    for slug, st in slug_status.items():
+        if st and st != "publish":
+            current.add(slug)
+        else:
+            current.discard(slug)
+    header = ("# WPに下書き（未公開）として実在することを check_wp_state.py が確認したスラッグ。\n"
+              "# lint_articles.py はこれらを「未公開だが実在する」として警告扱いにする。\n"
+              "# 公開されると自動で削除される。手で編集しない。\n")
+    PENDING_SLUGS_FILE.write_text(header + "\n".join(sorted(current)) + "\n", encoding="utf-8")
+
+
 def check_file(path: Path) -> tuple[list[str], list[str]]:
     errors: list[str] = []
     warnings: list[str] = []
@@ -171,6 +195,7 @@ def check_file(path: Path) -> tuple[list[str], list[str]]:
         elif alt and title != alt:
             warnings.append(f"画像 ID {mid} の title と alt の文言が違います（title='{title[:28]}' / alt='{alt[:28]}'）")
 
+    update_pending_slugs(state.get("nlink_slugs", {}))
     for link_slug, st in sorted(state.get("nlink_slugs", {}).items()):
         if st is False:
             errors.append(f"[nlink] のリンク先 '{link_slug}' がWPに存在しません（スラッグの打ち間違い）")

@@ -49,6 +49,8 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 INTERNAL_LINKS_FILE = REPO_ROOT / "内部リンクURL.md"
+# check_wp_state.py がWP側で実在を確認した未公開スラッグ（相互リンクしあう下書き記事用）
+PENDING_SLUGS_FILE = REPO_ROOT / "scripts" / "pending_slugs.txt"
 
 SUMMARY_URLS = {
     "hilton-hotel-japan",
@@ -67,6 +69,13 @@ def load_known_slugs() -> set[str]:
     for m in re.finditer(r"https://ibis-dallas\.com/([a-z0-9\-]+)", text):
         slugs.add(m.group(1))
     return slugs
+
+
+def load_pending_slugs() -> set[str]:
+    if not PENDING_SLUGS_FILE.exists():
+        return set()
+    return {l.strip() for l in PENDING_SLUGS_FILE.read_text(encoding="utf-8").splitlines()
+            if l.strip() and not l.startswith("#")}
 
 
 def is_domestic_hotel_review(path: Path) -> bool:
@@ -109,6 +118,11 @@ def check_common(path: Path, known_slugs: set[str], nlink_warn_only: bool = Fals
     nlink_urls = re.findall(r'\[nlink url="https://ibis-dallas\.com/([a-z0-9\-]+)"\]', text)
     for slug in nlink_urls:
         if known_slugs and slug not in known_slugs and slug not in SUMMARY_URLS:
+            if slug in load_pending_slugs():
+                # WP側に下書きとして実在することを check_wp_state.py が確認済み
+                warnings.append(f"[nlink] のリンク先 '{slug}' はまだ未公開です"
+                                "（公開後に ./scripts/update_internal_links.sh を実行する）")
+                continue
             msg = f"[nlink] のリンク先 '{slug}' が内部リンクURL.mdに見つかりません（未公開記事の可能性）"
             # finish_article.sh から呼ぶときは check_wp_state.py がWP側で実在確認するため警告に落とす
             (warnings if nlink_warn_only else errors).append(msg)

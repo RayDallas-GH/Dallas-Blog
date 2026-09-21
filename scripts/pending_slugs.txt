@@ -1,0 +1,5 @@
+# WPに下書き（未公開）として実在することを check_wp_state.py が確認したスラッグ。
+# lint_articles.py はこれらを「未公開だが実在する」として警告扱いにする。
+# 公開されると自動で削除される。手で編集しない。
+ritz-carlton-fukuoka
+ritz-carlton-fukuoka-lounge
