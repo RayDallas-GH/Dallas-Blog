@@ -377,6 +377,22 @@ def check_link_promise(text: str) -> list[str]:
     return warnings
 
 
+def check_parking_guest_rate(text: str) -> list[str]:
+    """駐車場の記述が宿泊者料金になっているか。
+    施設の時間貸し料金（30分◯◯円・最大◯◯円）は公式サイトで確認できてしまうため、
+    ファクトチェックを2回しても「正しい数字を、違う対象について」書く誤りが通ってしまう
+    （2026-09-21 リッツ福岡：宿泊者1泊3,000円のところを施設の最大2,000円と記載。
+    2026-09-21 ヒルトン長崎でも同種の指摘）。"""
+    m = re.search(r"<h[23][^>]*>[^<]*駐車場[^<]*</h[23]>(.*?)(?=<h[23]|\Z)", text, re.DOTALL)
+    if not m:
+        return []
+    section = re.sub(r"<[^>]+>", "", m.group(1))
+    if "宿泊者" in section or "1泊" in section or "一泊" in section:
+        return []
+    return ["駐車場セクションに宿泊者料金の記述がありません"
+            "（施設の時間貸し料金と宿泊者料金は別。宿泊記では宿泊者料金を書く）"]
+
+
 def check_emoji(text: str) -> list[str]:
     """本文の絵文字。WPがエンティティ化してデプロイ読み戻し検証が落ちる。"""
     found = sorted(set(EMOJI_NON_BMP_RE.findall(text)))
@@ -441,6 +457,7 @@ def check_style(path: Path, text: str) -> tuple[list[str], list[str]]:
     errors.extend(check_repeated_sentence_endings(body))
     errors.extend(check_emoji(text))
     warnings.extend(check_link_promise(body))
+    warnings.extend(check_parking_guest_rate(text))
     warnings.extend(check_emoji_bmp(text))
     warnings.extend(check_fullwidth_alnum(text))
     if "ヒルトン" in path.parts:
