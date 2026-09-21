@@ -14,6 +14,7 @@ wp-cli経由で実際のWPの状態を機械的に確認する。
   - 本文中の全画像の title・alt が設定されているか（IMG_1234 等のファイル名のままでないか）
 
   - [nlink] のリンク先スラッグがWPに実在するか（下書きなら警告）
+  - WP側の本文がローカルより新しくないか（管理画面での編集をpushで上書きする事故の防止）
 
 警告（表示のみ）:
   - 画像の title と alt の文言が違う（CLAUDE.md は同一文言を推奨）
@@ -30,7 +31,10 @@ import json
 import re
 import subprocess
 import sys
+from datetime import datetime, timezone
 from pathlib import Path
+
+REPO_ROOT = Path(__file__).resolve().parent.parent
 
 SSH = [
     "ssh", "-o", "ConnectTimeout=20", "-p", "10022",
@@ -63,6 +67,7 @@ $out = [
   'post_title'    => $p->post_title,
   'post_date'     => $p->post_date,
   'post_date_gmt' => $p->post_date_gmt,
+  'post_modified_gmt' => $p->post_modified_gmt,
   'post_type'     => $p->post_type,
   'thumbnail_id'  => get_post_meta($pid, '_thumbnail_id', true),
   'categories'    => wp_get_post_terms($pid, 'category', ['fields' => 'names']),
@@ -150,6 +155,23 @@ def update_pending_slugs(slug_status: dict) -> None:
     PENDING_SLUGS_FILE.write_text(header + "\n".join(sorted(current)) + "\n", encoding="utf-8")
 
 
+def last_commit_time(path: Path):
+    """そのファイルを最後に変更したコミットの時刻（UTC）。"""
+    r = subprocess.run(["git", "log", "-1", "--format=%cI", "--", str(path)],
+                       capture_output=True, text=True, cwd=str(REPO_ROOT))
+    out = r.stdout.strip()
+    if not out:
+        return None
+    return datetime.fromisoformat(out).astimezone(timezone.utc).replace(tzinfo=None)
+
+
+def parse_gmt(value: str):
+    try:
+        return datetime.strptime(value, "%Y-%m-%d %H:%M:%S")
+    except ValueError:
+        return None
+
+
 def check_file(path: Path) -> tuple[list[str], list[str]]:
     errors: list[str] = []
     warnings: list[str] = []
@@ -209,8 +231,20 @@ def check_file(path: Path) -> tuple[list[str], list[str]]:
         warnings.append(f"wp_title とWP側のタイトルが違います（WP側: '{state['post_title'][:40]}'）")
 
     if normalize(body) != normalize(state["content"]):
-        warnings.append("ローカルの .md とWP本文が一致しません（デプロイ未反映の可能性。"
-                        "gh run list で失敗が無いか確認し、必要なら再実行する）")
+        committed = last_commit_time(path)
+        wp_modified = parse_gmt(state.get("post_modified_gmt", ""))
+        if committed and wp_modified and wp_modified > committed:
+            # WP側の更新のほうが新しい＝管理画面で直接編集された可能性が高い。
+            # このままpushするとローカルの.mdでpost_contentが丸ごと上書きされ、編集が消える
+            # （2026-09-21に実際に発生。リビジョンから復元した）。
+            errors.append(
+                f"WP側の本文がローカルより新しく、内容も違います"
+                f"（WP更新 {wp_modified:%Y-%m-%d %H:%M} UTC / 最終コミット {committed:%Y-%m-%d %H:%M} UTC）。"
+                f"管理画面で編集された可能性が高いので、pushする前に `wp_pull {path}` で取り込むこと。"
+                "そのままpushするとWP側の編集が消えます")
+        else:
+            warnings.append("ローカルの .md とWP本文が一致しません（デプロイ未反映の可能性。"
+                            "gh run list で失敗が無いか確認し、必要なら再実行する）")
 
     print(f"  （参考）post_status={status} / slug={slug or '未設定'} / "
           f"post_date={state['post_date']} / カテゴリー={'、'.join(cats) or 'なし'} / 画像{len(state['media'])}枚")
