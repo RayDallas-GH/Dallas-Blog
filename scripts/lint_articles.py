@@ -25,6 +25,18 @@ git push前のpre-pushフックから呼ばれる想定。
   - 「今回の宿泊データ」ボックスの有無（警告のみ。内容の真偽はlintで検証できないため存在チェックに留める。
     過去記事への遡及追加はしない方針＝新規記事のみ対象。CLAUDE.md参照）
 
+新規追加ファイルのみ厳格チェック（スタイル系・2026-09-21追加）:
+  - 各H2セクションの直下（H3が挟まる場合はH3直下）に画像があるか
+  - 1段落＝1文になっているか（<p>内に句点が2つ以上ないか）
+  - 同じ文末表現が3連続していないか（2連続まで）
+  - 本文に絵文字が含まれていないか（WPがエンティティ化しデプロイ検証が落ちる）
+  - ヒルトン記事の「本記事の信頼性」ボックスが General/本記事の信頼性.md の定型文と一致するか
+  - 全角英数字の混入（警告のみ）
+
+WP側の状態（アイキャッチ・カテゴリー・スラッグ・下書き時刻・画像のtitle/alt）は
+このlintでは検査できない。scripts/check_wp_state.py で別途チェックする。
+両方まとめて回すには scripts/finish_article.sh を使う。
+
 エラー（exit 1）: 規約違反の可能性が高いもの
 警告（exit 0だが表示）: 見落としがちだが誤検知もあり得るもの
 
@@ -84,7 +96,7 @@ def has_h2_heading(text: str, anchor_id: str, keyword: str) -> bool:
     return False
 
 
-def check_common(path: Path, known_slugs: set[str]) -> tuple[list[str], list[str]]:
+def check_common(path: Path, known_slugs: set[str], nlink_warn_only: bool = False) -> tuple[list[str], list[str]]:
     errors, warnings = [], []
     text = path.read_text(encoding="utf-8")
 
@@ -97,7 +109,9 @@ def check_common(path: Path, known_slugs: set[str]) -> tuple[list[str], list[str
     nlink_urls = re.findall(r'\[nlink url="https://ibis-dallas\.com/([a-z0-9\-]+)"\]', text)
     for slug in nlink_urls:
         if known_slugs and slug not in known_slugs and slug not in SUMMARY_URLS:
-            errors.append(f"[nlink] のリンク先 '{slug}' が内部リンクURL.mdに見つかりません（未公開記事の可能性）")
+            msg = f"[nlink] のリンク先 '{slug}' が内部リンクURL.mdに見つかりません（未公開記事の可能性）"
+            # finish_article.sh から呼ぶときは check_wp_state.py がWP側で実在確認するため警告に落とす
+            (warnings if nlink_warn_only else errors).append(msg)
 
     ext_links = re.findall(r'<a\s+class="shiny-btn3"\s+href="(https?://[^"]+)"([^>]*)>', text)
     for url, attrs in ext_links:
@@ -163,6 +177,182 @@ def check_new_overseas_hotel_review(text: str) -> tuple[list[str], list[str]]:
     return errors, warnings
 
 
+# ---------------------------------------------------------------------------
+# スタイル系チェック（2026-09-21追加）
+# CLAUDE.mdに文章で書いてあるだけで機械チェックが無く、繰り返し違反していた項目を検査化したもの。
+# 既存記事にはバックログが大量にあるため、新規追加ファイルのみ対象にする。
+# ---------------------------------------------------------------------------
+
+TRUST_BOX_FILE = REPO_ROOT / "ヒルトン" / "General" / "本記事の信頼性.md"
+
+# WordPressが保存時にHTMLエンティティへ変換してしまう文字。
+# デプロイの読み戻し検証がMISMATCHになるため本文に入れない（CLAUDE.md「記事本文に絵文字を書かない」）。
+EMOJI_NON_BMP_RE = re.compile("[\U0001F000-\U0001FAFF\U0001F900-\U0001F9FF️]")
+# BMP内の装飾記号。✓✔✕✗（チェック・バツ記号）は一覧表で使うため除外する。
+EMOJI_BMP_RE = re.compile("[☀-✒✘-➿⬀-⯿]")
+
+SENTENCE_ENDINGS = (
+    "ませんでした", "ましょう", "でしょう", "ください",
+    "でした", "ました", "ません", "です", "ます",
+)
+
+
+def strip_boilerplate_sections(text: str) -> str:
+    """クレカ訴求セクション（id="anker-card"）を除いた本文を返す。
+    このセクションは General/ の定型文をそのまま貼る運用なので、文体系のチェック対象から外す。"""
+    m = re.search(r'<h2[^>]*id="anker-card"', text)
+    if not m:
+        return text
+    rest = text[m.end():]
+    nxt = re.search(r"<h2[^>]*>", rest)
+    end = m.end() + nxt.start() if nxt else len(text)
+    return text[:m.start()] + text[end:]
+
+
+def _iter_paragraphs(text: str):
+    """本文段落（<p>〜</p>）のプレーンテキストを返す。ショートコード行・空段落は除く。"""
+    for m in re.finditer(r"<p>(.*?)</p>", text, re.DOTALL):
+        plain = re.sub(r"<[^>]+>", "", m.group(1)).strip()
+        if not plain or plain.startswith("[") or plain.startswith("&nbsp;"):
+            continue
+        yield plain
+
+
+def check_one_sentence_per_paragraph(text: str) -> list[str]:
+    """1段落＝1文（句点ごとに改行）。CLAUDE.md「段落の書き方」。"""
+    errors = []
+    for plain in _iter_paragraphs(text):
+        if plain.count("。") >= 2:
+            errors.append(f"1段落に2文以上入っています（句点ごとに段落を分ける）: 「{plain[:45]}…」")
+    return errors
+
+
+def _ending_of(sentence: str) -> str | None:
+    s = sentence.strip()
+    for e in SENTENCE_ENDINGS:
+        if s.endswith(e):
+            return e
+    return None
+
+
+def check_repeated_sentence_endings(text: str, limit: int = 3) -> list[str]:
+    """同じ語尾を3連続させない（2連続まで）。CLAUDE.md「文末ルール」。"""
+    sentences = []
+    for plain in _iter_paragraphs(text):
+        sentences.extend(s.strip() for s in plain.split("。") if s.strip())
+
+    runs, prev, count, start = [], None, 0, 0
+    for i, s in enumerate(sentences):
+        e = _ending_of(s)
+        if e is not None and e == prev:
+            count += 1
+            continue
+        if prev is not None and count >= limit:
+            runs.append((prev, count, start))
+        prev, count, start = e, (1 if e else 0), i
+    if prev is not None and count >= limit:
+        runs.append((prev, count, start))
+
+    errors = []
+    for ending, count, idx in runs:
+        excerpt = " / ".join(f"…{s[-14:]}。" for s in sentences[idx:idx + count][:3])
+        errors.append(f"文末「{ending}。」が{count}連続しています（2連続まで）: {excerpt}")
+    return errors
+
+
+def check_h2_lead_image(text: str) -> list[str]:
+    """各H2セクションの直下（H3が挟まる場合はH3直下）に画像があるか。CLAUDE.md「セクション内の画像配置ルール」。"""
+    errors = []
+    h2s = list(re.finditer(r"<h2[^>]*>(.*?)</h2>", text, re.DOTALL))
+    for i, m in enumerate(h2s):
+        # クレカ訴求セクションは General/ の定型文をそのまま貼る運用のため対象外
+        # （マリオット版の定型文はH2直下が本文から始まる）
+        if 'id="anker-card"' in m.group(0):
+            continue
+        end = h2s[i + 1].start() if i + 1 < len(h2s) else len(text)
+        section = text[m.end():end]
+        first, skipped_heading = None, False
+        for block in re.findall(r"<!-- wp:(\w+)", section):
+            if block == "heading" and not skipped_heading:
+                skipped_heading = True   # H3を1つだけ読み飛ばす
+                continue
+            first = block
+            break
+        if first not in ("image", "gallery"):
+            title = re.sub(r"<[^>]+>", "", m.group(1)).strip()[:32]
+            errors.append(f"H2「{title}」の直下に画像（wp:image / wp:gallery）がありません")
+    return errors
+
+
+def check_emoji(text: str) -> list[str]:
+    """本文の絵文字。WPがエンティティ化してデプロイ読み戻し検証が落ちる。"""
+    found = sorted(set(EMOJI_NON_BMP_RE.findall(text)))
+    if found:
+        return [f"本文に絵文字が含まれています（デプロイ検証がMISMATCHで落ちます）: {' '.join(found)}"]
+    return []
+
+
+def check_emoji_bmp(text: str) -> list[str]:
+    found = sorted(set(EMOJI_BMP_RE.findall(text)))
+    if found:
+        return [f"装飾記号がWP側でエンティティ化される可能性があります（定型文からのコピー時は落とす）: {' '.join(found)}"]
+    return []
+
+
+def check_fullwidth_alnum(text: str) -> list[str]:
+    """全角英数字の混入（2026-07-17に全記事を半角統一済み）。"""
+    found = sorted(set(re.findall(r"[０-９Ａ-Ｚａ-ｚ]", text)))
+    if found:
+        return [f"全角英数字が混入しています（半角に統一）: {' '.join(found[:10])}"]
+    return []
+
+
+def _trust_box_items(text: str) -> list[str] | None:
+    m = re.search(r'\[box class="yellow_box" title="本記事の信頼性"\](.*?)\[/box\]', text, re.DOTALL)
+    if not m:
+        return None
+    return [re.sub(r"<[^>]+>", "", li).strip() for li in re.findall(r"<li>(.*?)</li>", m.group(1), re.DOTALL)]
+
+
+def check_trust_box(text: str) -> list[str]:
+    """ヒルトン記事の「本記事の信頼性」ボックスが General/本記事の信頼性.md の定型文と一致するか。
+    定型文があるのに内容を書き換えて使った違反（2026-09-21 ヒルトン長崎）を検知する。"""
+    if not TRUST_BOX_FILE.exists():
+        return []
+    template_items = _trust_box_items(TRUST_BOX_FILE.read_text(encoding="utf-8")) or []
+    items = _trust_box_items(text)
+    if items is None:
+        return ['「本記事の信頼性」ボックス（yellow_box）がありません（ヒルトン記事では必須。'
+                f'定型文: {TRUST_BOX_FILE.relative_to(REPO_ROOT)}）']
+    if items != template_items:
+        diff = [x for x in items if x not in template_items]
+        msg = ('「本記事の信頼性」ボックスが定型文と一致しません'
+               f'（定型文: {TRUST_BOX_FILE.relative_to(REPO_ROOT)} をそのまま使う）')
+        if diff:
+            msg += f" / 定型文に無い項目: {' 、'.join(d[:30] for d in diff[:3])}"
+        return [msg]
+    return []
+
+
+def check_style(path: Path, text: str) -> tuple[list[str], list[str]]:
+    """新規記事に適用するスタイル系チェックをまとめて実行する。"""
+    if "テンプレート" in path.parts or "General" in path.parts:
+        return [], []
+
+    errors: list[str] = []
+    warnings: list[str] = []
+    body = strip_boilerplate_sections(text)   # 定型文セクションは文体チェックの対象外
+    errors.extend(check_h2_lead_image(text))
+    errors.extend(check_one_sentence_per_paragraph(body))
+    errors.extend(check_repeated_sentence_endings(body))
+    errors.extend(check_emoji(text))
+    warnings.extend(check_emoji_bmp(text))
+    warnings.extend(check_fullwidth_alnum(text))
+    if "ヒルトン" in path.parts:
+        errors.extend(check_trust_box(text))
+    return errors, warnings
+
+
 SKIP_NAMES = {"CLAUDE.md", "内部リンクURL.md", "紹介リンク.md", "ブログ記事案.md", "AUTOMATION.md", "writing-rules.md"}
 
 # 既に公開済みの記事をgit管理下に初めて追加しただけのファイル（新規執筆ではない）。
@@ -176,7 +366,7 @@ LEGACY_IMPORT_PATHS = {
 }
 
 
-def main(changed_files: list[str], new_files: list[str]) -> int:
+def main(changed_files: list[str], new_files: list[str], nlink_warn_only: bool = False) -> int:
     known_slugs = load_known_slugs()
     had_error = False
     new_set = set(new_files)
@@ -186,7 +376,12 @@ def main(changed_files: list[str], new_files: list[str]) -> int:
         if not path.exists() or path.suffix != ".md" or path.name in SKIP_NAMES:
             continue
 
-        errors, warnings = check_common(path, known_slugs)
+        errors, warnings = check_common(path, known_slugs, nlink_warn_only)
+
+        if f in new_set and f not in LEGACY_IMPORT_PATHS:
+            style_errors, style_warnings = check_style(path, path.read_text(encoding="utf-8"))
+            errors.extend(style_errors)
+            warnings.extend(style_warnings)
 
         if f in new_set and is_domestic_hotel_review(path) and f not in LEGACY_IMPORT_PATHS:
             new_errors, new_warnings = check_new_hotel_review(path, path.read_text(encoding="utf-8"))
@@ -196,6 +391,9 @@ def main(changed_files: list[str], new_files: list[str]) -> int:
             new_errors, new_warnings = check_new_overseas_hotel_review(path.read_text(encoding="utf-8"))
             errors.extend(new_errors)
             warnings.extend(new_warnings)
+
+        errors = list(dict.fromkeys(errors))
+        warnings = list(dict.fromkeys(warnings))
 
         if errors or warnings:
             print(f"\n■ {path}")
@@ -210,6 +408,8 @@ def main(changed_files: list[str], new_files: list[str]) -> int:
 
 if __name__ == "__main__":
     args = sys.argv[1:]
+    nlink_warn_only = "--nlink-warn-only" in args
+    args = [a for a in args if a != "--nlink-warn-only"]
     if "--new" in args:
         idx = args.index("--new")
         changed = args[:idx]
@@ -222,4 +422,4 @@ if __name__ == "__main__":
         print("使い方: lint_articles.py <changed_file1.md> [...] --new <new_file1.md> [...]")
         sys.exit(0)
 
-    sys.exit(main(changed, new))
+    sys.exit(main(changed, new, nlink_warn_only))
