@@ -59,6 +59,7 @@ DEFERRED_FILE = REPO_ROOT / "scripts" / "deferred_checks.tsv"
 DEFERRABLE_CHECKS = {
     "summary_nlink": "一覧まとめ記事への[nlink]が見つかりません",
     "h2_image": "の直下に画像（wp:image / wp:gallery）がありません",
+    "consecutive_images": "単体の画像ブロックが2枚連続しています",
     "one_sentence": "1段落に2文以上入っています",
     "sentence_endings": "連続しています（2連続まで）",
     "trust_box": "「本記事の信頼性」ボックス",
@@ -340,6 +341,24 @@ def check_h2_lead_image(text: str) -> list[str]:
     return errors
 
 
+def check_consecutive_images(text: str) -> list[str]:
+    """単体の画像ブロックが2枚以上連続していないか。
+    CLAUDE.mdの画像配置ルールは「H2直下に1枚 + 残りは該当する説明文の直後にギャラリーで分散」。
+    単体画像を並べると、H2直下が2枚になったり別セクションの写真が紛れたりする
+    （2026-09-21に実際に発生：施設・客室の写真が会員特典/クラブラウンジのH2直下に入った）。"""
+    stripped = re.sub(r"<!-- wp:gallery.*?<!-- /wp:gallery -->", "<!-- wp:GALLERY -->", text, flags=re.DOTALL)
+    positions = [(m.start(), m.group(1)) for m in re.finditer(r"<!-- wp:(\w+)", stripped)]
+    errors = []
+    for i in range(len(positions) - 1):
+        if positions[i][1] == "image" and positions[i + 1][1] == "image":
+            seg = stripped[positions[i][0]: positions[i + 1][0] + 400]
+            alts = re.findall(r'alt="([^"]*)"', seg)[:2]
+            errors.append("単体の画像ブロックが2枚連続しています"
+                          "（H2直下は1枚。複数並べるならギャラリーにする）: "
+                          + " / ".join(a[:30] for a in alts))
+    return errors
+
+
 def check_emoji(text: str) -> list[str]:
     """本文の絵文字。WPがエンティティ化してデプロイ読み戻し検証が落ちる。"""
     found = sorted(set(EMOJI_NON_BMP_RE.findall(text)))
@@ -399,6 +418,7 @@ def check_style(path: Path, text: str) -> tuple[list[str], list[str]]:
     warnings: list[str] = []
     body = strip_boilerplate_sections(text)   # 定型文セクションは文体チェックの対象外
     errors.extend(check_h2_lead_image(text))
+    errors.extend(check_consecutive_images(text))
     errors.extend(check_one_sentence_per_paragraph(body))
     errors.extend(check_repeated_sentence_endings(body))
     errors.extend(check_emoji(text))
