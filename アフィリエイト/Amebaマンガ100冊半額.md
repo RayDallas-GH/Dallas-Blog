@@ -532,7 +532,7 @@ msmaflink({"n":"名探偵コナン（１０３） (少年サンデーコミッ�
 <p>（紹介番号:23041572977）</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn4" href="https://pc.moppy.jp/entry/invite.php?invite=r44ye1e2&openExternalBrowser=1" target="_blank" rel="nofollow noopener">エポスカードを作成する（モッピー経由でポイントGET）</a></p>
+<p><a class="shiny-btn4" href="https://pc.moppy.jp/entry/invite.php?invite=r44ye1e2&s_id=102162" target="_blank" rel="nofollow noopener">エポスカードを作成する（モッピー経由でポイントGET）</a></p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker7">その他の海外から読める漫画読み放題サービス比較</h2>

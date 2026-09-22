@@ -338,7 +338,7 @@
 <p>まだ持っていない方はこの機会にクレカ作成を検討しましょう。</p>
 <!-- /wp:paragraph -->
 
-<p><a class="shiny-btn4" href="https://pc.moppy.jp/entry/invite.php?invite=r44ye1e2&openExternalBrowser=1" target="_blank" rel="nofollow noopener">エポスカードを作成する（モッピー経由でポイントGET）</a></p>
+<p><a class="shiny-btn4" href="https://pc.moppy.jp/entry/invite.php?invite=r44ye1e2&s_id=102162" target="_blank" rel="nofollow noopener">エポスカードを作成する（モッピー経由でポイントGET）</a></p>
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading" id="anker4">eBookJapanに読み放題プランはない</h2>
